@@ -1,6 +1,6 @@
 [
   {
-    "name": "D6 Certified Noble Overnight",
+    "name": "D6 Deeds to a Duchy",
     "category": "d6",
     "roll": "d6",
     "entries": [
@@ -155,7 +155,7 @@
     ]
   },
   {
-    "name": "2d4 Wild Plants of the Plains",
+    "name": "2D4 Wild Plants of the Plains",
     "category": "d7",
     "roll": "d7",
     "entries": [
@@ -225,7 +225,7 @@
     ]
   },
   {
-    "name": "D8 Reasons Why That Couple of Cut Throats is Following You",
+    "name": "D8 Reasons Why That Couple of Cutthroats is Following You",
     "category": "d8",
     "roll": "d8",
     "entries": [
@@ -703,7 +703,7 @@
       },
       {
         "rowNum": "5",
-        "tableItem": "Mittens: Sport played in parts of Tveland"
+        "tableItem": "Mittens: Sport played in parts of Tveland. Rules and Regulations: -The field is 2000 meters long and 8¾ meters wide (previously 2000x9). -Teams consist of: A Baskin, a Quarterback, 19 Hillsmen, and 10 Miscellaneous -The goal of the Baskin is to get the team's potted flower from one end of the pitch to the other. That’s worth 1 point. -If a bird comes in the field and you catch it, that’s 700 points. -Baskins are also required to eat disgustingly hot items, study foreign languages, and many other difficult tasks. -Games take about 2 weeks. -Players may kill each other for acceptable reasons. Acceptable reasons that a player can kill another on the field include: -->Entering another players line-of-sight without permission -->Mispronouncing another teams name -->If a player has ever committed adultery, intentional or otherwise. -At anytime in the first third of a game either team may demand the game start over. (These restarts can extend matches for weeks.) If a team breaks a rule, the other team loses a player, which leads to teams breaking the rules on purpose. Teams often counter this by distracting the referee or knocking them unconscious so they don't notice the other team breaking a rule. -You may strike the enemy team with a wooden chair. Metal chairs are illegal. -If you prepare a frittata on the field you must wear gloves."
       },
       {
         "rowNum": "6",
@@ -739,14 +739,14 @@
       },
       {
         "rowNum": "14",
-        "tableItem": "Deathmilk Day: Deathmilk is a liquor brewed by distilling the ferment blood of virginal creatures. Certain animals may impart different tastes upon the deathmilk, but it is a general rule of thumb that the older the animal is, the higher quality the Deathmilk will be."
+        "tableItem": "Deathmilk Day: Deathmilk is a liquor brewed by distilling the ferment blood of virginal creatures. Certain animals may impart different tastes upon the deathmilk, but it is a general rule of thumb that the older the animal is, the higher quality the Deathmilk will be. This annual drinking festival is sponsored by Salusterheim, the largest brewer of Deathmilk on the continent. Salusterheim throw a massive celebration in Schleswig, Galgenbeck, and Grift selling rare bottles of high-quality liquor. Another party is thrown for any who make the pilgramage to their headquarters in the Valley of Unfortunate Undead. Determine the price of a random bottle of Deathmilk at such a festival by rolling on the following tables: Roll a d10 for the Creature of Fermentation: 1) Dog (d2), 2) Monkey (d2), 3) Cow (d4), 4) Pig (d4), 5) Goblin (d4), 6) Sheep (d6), 7) Human (d8), 8) Wyvern (d8), 9) Berzerker (d10), 10) Troll (d10). Roll a d10 to determin that creatures Length of Virginity: 1) Under a month (x10s), 2) Between a month and six (x15s), 3) Between six months and a year (x20s), 4) one to five years (x25s), 5) five to fifteen years (x30s), 6) fifteen to thirty years (x35s), 7) thirty to forty-five years (x40s), 8) forty-five to sixty year (x45s), 9) sixty to eighty years  (x50s), 10) More that eighty years (x100s). Then add 10d10s to the price if the age is beyond the animals natural lifespan. Deathmilk makers have their ways, and they are very expensive."
       },
       {
         "rowNum": "15",
         "tableItem": "Hunt of Bastard Wolves: Popular in forested regions like Graventosk and larger Sarkash. A wild dog or wolf is shaved, painted in secret runes that only the community elder knows. It is then released into the wild during the early morning of the hunt. The festivity's particapants spends the day carving horns and instruments that immitate the howls of the wolf, then go out at night to hunt it. The hunter who lures the right hound and brings it back to the elder, dead or alive, is given a prize for their craftiness. Failure to capture the hound can have grave consequences for the village!"
       },
       {
-        "rowNum": "1",
+        "rowNum": "16",
         "tableItem": "Fyreday: Celebrated once a week, usually with cheers of \"Praise Nechrubel its Fyreday!\" The details of this weekly tradition is for disgruntled workers to usurp their employer after a weeks worth of work and throw their corpse on the town pyre. Whoever throws the body on the bonfire now has their incinerated victims job."
       },
       {
@@ -2292,7 +2292,7 @@
     ]
   },
   {
-    "name": "d66 (36) Rumors of the Dying World",
+    "name": "D66 Rumors of the Dying World",
     "category": "d66",
     "roll": "d66",
     "entries": [
