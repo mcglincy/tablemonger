@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TABLEMONGER</title>
+    <link rel="stylesheet" type="text/css" href="/css/style.css">
+    <script src="https://kit.fontawesome.com/34eeaefcbe.js" crossorigin="anonymous"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/jquery-scrollTo/2.1.3/jquery.scrollTo.min.js"></script>
+    <script src="/js/tablemonger.js"></script>
+    <script>
+      $(document).ready(() => {
+        tablemongerReady();
+      });
+    </script>
+    <meta name="description" content="Some description here"/>
+  </head>
+  <body class="is-not-patron">
+    <div class="content-wrapper">
+      <div class="content">
+        <div class="header">
+          <div class="title">
+            TABLEMÖNGER
+          </div>
+          <div class="menu-bar">
+            <div class="menu-item hamburger-helper">
+              <i class="fas fa-list" id="toc-show-icon"></i>
+              <i class="fas fa-window-close" id="toc-hide-icon"></i>
+            </div>
+            <div class="menu-item">
+              Community-made <span class='re-roll clickable'>Random</span> Tables for <a href="https://www.morkborg.com">MÖRK BORG</a>
+            </div>
+          </div>
+        </div>
+        <div class="body">
+          <div class="body-columns">
+            <div id="toc">
+              {{#each categories as |category|}}
+                <div class="toc-item toc-category">
+                  {{@key}}
+                </div>
+                {{#each category as |table|}}
+                  <div class="toc-item click-item {{#if isNew}}is-new{{/if}}"
+                       title="{{desc}}"
+                       data-table-name="{{name}}"
+                       data-roll="{{roll}}"
+                       data-subtables="{{subtables}}"
+                       data-subarticles="{{subarticles}}"
+                       data-subplaceholders="{{subplaceholders}}"
+                       data-subcount="{{subcount}}">
+                    <span class='toc-name'>{{name}}</span>
+                    <span class='toc-badges'>
+                      <span class='toc-new-badge'>NEW</span>
+                      <span class='toc-dice-badge'>
+                        {{rollBadge}}
+                      </span>
+                    </span>
+                  </div>
+                {{/each}}
+              {{/each}}
+            </div>
+            <div id="right-content">
+              <div id="table-content"></div>
+              <div id="landing-copy">
+                <p>
+                  These are community-made random tables made by the MÖRG BORG Discord community.
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div id="tool-footer">
+          <i class="fas fa-arrow-down tool-pointer" id="arrow-down"></i>
+          <i class="fas fa-arrow-up tool-pointer" id="arrow-up"></i>
+          <i class="fas fa-dice-d20" id="tool-dice"></i>
+        </div>
+      </div>
+      <footer class="footer">
+        TABLEMÖNGER is an independent production by mcglintlock and is not affiliated with Ockult Örtmästare Games or Stockholm Kartell. It is published under the MÖRK BORG Third Party License.
+        <br>
+        MÖRK BORG is copyright Ockult Örtmästare Games and Stockholm Kartell.
+      </footer>
+    </div>
+  </body>
+</html>

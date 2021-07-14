@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GLUMDARK - LEGAL</title>
+    <link rel="stylesheet" type="text/css" href="/css/style.css">
+    <script src="https://kit.fontawesome.com/34eeaefcbe.js" crossorigin="anonymous"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-QW0Y8PB0T7"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-QW0Y8PB0T7');
+    </script>
+  </head>
+  <body {{#if isPatron}}class="is-patron"{{else}}class="is-not-patron"{{/if}}>
+    <div class="content-wrapper">
+      <div class="content">
+        <div class="header">
+          <div class="patreon-banner-container">
+          </div>
+          <div class="title" onclick="location.href = '/';">
+            TABLEMÖNGER
+          </div>
+          <div class="menu-bar">
+            <div class="menu-item hamburger-helper">
+            </div>
+            <div class="menu-item">
+              <span>Legal, Privacy, Terms</span>
+            </div>
+          </div>
+        </div>
+        <div class="body">
+          <div class="body-columns">
+            <div id="toc">
+            </div>
+            <div id="right-content">
+              <div id="table"></div>
+              <div id="landing-copy">
+                <p>
+                  TABLEMÖNGER is an independent production by mcglintlock and is not affiliated with Ockult Örtmästare Games or Stockholm Kartell. It is published under the MÖRK BORG Third Party License.                  
+                </p>
+                <p>
+                  MÖRK BORG is copyright Ockult Örtmästare Games and Stockholm Kartell.
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div id="tool-footer">
+        </div>
+      </div>
+      <footer class="footer">
+        - &nbsp; Copyright © 2021 Glumdark &nbsp; - &nbsp; <a href="/legal">Legal</a> &nbsp; -
+      </footer>
+    </div>
+  </body>
+</html>
