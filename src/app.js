@@ -6,7 +6,6 @@ const favicon = require("serve-favicon");
 
 // page templates
 const indexTemplate = Handlebars.compile(fs.readFileSync("views/index.hbs", "utf8"));
-const legalTemplate = Handlebars.compile(fs.readFileSync("views/legal.hbs", "utf8"));
 
 // set up our app
 const app = express();
