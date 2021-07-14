@@ -70,16 +70,14 @@ body.is-patron .patreon-banner-container {
 }
 .title {
   cursor: pointer;
-  /*flex: 0 0 100px;*/
   font-family: Rakkas;
-  font-size: max(30px, 8vw);
-  line-height: 10vw;
+  font-size: max(28px, 7vw);
+  line-height: 9vw;
   margin-top: 10px;
   text-align: center;
   text-shadow: 2px 2px black;
 }
 .subtitle {
-  /*flex: 0 0 40px;*/
   font-size: 18px;
   text-align: center;
   text-shadow: 1px 1px black;
@@ -167,7 +165,7 @@ body.is-patron .patreon-banner-container {
 }
 #table-title {
   font-family: "Uchen", cursive;
-  font-size: 40px;
+  font-size: 36px;
   background-color: #FFE900;
   color: black;
   border-bottom: 1px solid black;
