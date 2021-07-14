@@ -211,7 +211,7 @@ body.is-patron .patreon-banner-container {
   cursor: pointer;
 }
 .row-num {
-  background: #FFE900;
+  background: white;
   flex: 0 0 20px;
   font-family: 'Uchen', serif;
   font-size: 24px;
