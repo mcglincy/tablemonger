@@ -452,3 +452,15 @@ footer {
   padding: 5px;
   text-transform: uppercase;
 }
+div.mb-logo {
+  text-align: center;
+  width:  100%;
+}
+img.mb-logo {
+  width:  60%;
+  /* see https://codepen.io/sosuke/pen/Pjoqqp for hex color => filter conversion */
+  /* MB yellow */
+  filter: invert(89%) sepia(65%) saturate(3851%) hue-rotate(354deg) brightness(105%) contrast(103%);
+  /* white */
+  /* filter: invert(100%) sepia(0%) saturate(7466%) hue-rotate(139deg) brightness(109%) contrast(103%); */
+}
