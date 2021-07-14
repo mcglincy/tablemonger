@@ -3018,8 +3018,8 @@
   },
   {
     "name": "D666 Wildland Encounters on the Road",
-    "category": "d218",
-    "roll": "d218",
+    "category": "d666",
+    "roll": "d666",
     "entries": [
       {
         "rowNum": "111",
@@ -3063,7 +3063,7 @@
       },
       {
         "rowNum": "125",
-        "tableItem": "Two bodies lie in a ditch. A woodsman, mangled and with broken bones and a merchant a deep axe wound on the back of their head next to them a (cursed) bag of d10x6 silver. Taking the bag seems unwise Unlucky Merchant"
+        "tableItem": "Two bodies lie in a ditch. A woodsman, mangled and with broken bones and a merchant a deep axe wound on the back of their head next to them a (cursed) bag of d10x6 silver. Taking the bag seems unwise Unlucky Merchant HP: 12 | Undead: rises again after (d3) rounds. | d10 (bone crushing strength)"
       },
       {
         "rowNum": "126",
@@ -3090,6 +3090,10 @@
         "tableItem": "You come near by a clean and crystal river. Look closer: Your reflection seems pleased to meet you."
       },
       {
+        "rowNum": "136",
+        "tableItem": "You look out look out into the night and you feel as if you've met something's gaze. You are paralyzed. The Creature is suddenly upon you. It is 12 feet tall and made of shadow. It hungers.("
+      },
+      {
         "rowNum": "141",
         "tableItem": "You all suddenly feel a rumble in your guts and have to immediately take off your pants or soil your breeches. If you look at the feces, you notice tiny pink worms in it that grows as you watch them. If you don't remove your pants, you will stink horribly and the worms will crawl back up, making you defecate again in 2d6 minutes."
       },
@@ -3103,11 +3107,15 @@
       },
       {
         "rowNum": "144",
-        "tableItem": "Dogcorpse Malone, hired by The Order of the Melting Dagger to kill a party member, approaches and demands a duel. You know nothing of this order but he still demands to fight his target at midday or midnight exactly, whichever is closest. He tells the time with the eyes of a cat in his coat."
+        "tableItem": "Dogcorpse Malone, hired by The Order of the Melting Dagger to kill a party member, approaches and demands a duel. You know nothing of this order but he still demands to fight his target at midday or midnight exactly, whichever is closest. He tells the time with the eyes of a cat in his coat. Dogcorpse Malone HP: 9 | Morale: 6 | No Armor | d6 (Cat as Weapon) Special: While in combat, treat all rolls that succeed as Crits and all rolls that fail as Fumbles. When Dogcorpse dies, his Cat will accompany the party for 2d6 days before getting bored. It is talented at harmonic meowing."
       },
       {
         "rowNum": "145",
         "tableItem": "A black cat crosses your path. 146. A white cat crosses your path."
+      },
+      {
+        "rowNum": "146",
+        "tableItem": "?????"
       },
       {
         "rowNum": "151",
@@ -3147,7 +3155,7 @@
       },
       {
         "rowNum": "164",
-        "tableItem": "A group of people matching all of your sexual preferences, approaches you with a smile on their face. They are the most beautiful people you have ever seen and they wants you to come with them. Test Presence DR14 or comply. They lead you to a hidden opening in the nearby landscape and treat you to a feast."
+        "tableItem": "A group of people matching all of your sexual preferences, approaches you with a smile on their face. They are the most beautiful people you have ever seen and they wants you to come with them. Test Presence DR14 or comply. They lead you to a hidden opening in the nearby landscape and treat you to a feast. The food is an illusion though and you are in fact eating feces, entrails, and spoiled food. Test Strength DR16 or become infected. Then you suddenly find yourself back on the road where you first met them."
       },
       {
         "rowNum": "165",
@@ -3159,7 +3167,7 @@
       },
       {
         "rowNum": "211",
-        "tableItem": "A malevolent humanoid spirit with a broken violin for a head appears from the shadows and attempts to slaughter the party, screaming foul obscenities and tasteless jokes."
+        "tableItem": "A malevolent humanoid spirit with a broken violin for a head appears from the shadows and attempts to slaughter the party, screaming foul obscenities and tasteless jokes. Spirit of the Broken Violin HP: 20 | Morale: 3 | -d4 (tough skin and wooden helm) | d4 (emaciated fists) Special: The Spirit attacks an extra time each turn for each lost quarter of its health."
       },
       {
         "rowNum": "212",
@@ -3175,7 +3183,7 @@
       },
       {
         "rowNum": "215",
-        "tableItem": "A wooden door"
+        "tableItem": "A wooden door stands in the middle of the road. Opening it reveals complete whiteness. Entering it transports you to another place or even another world."
       },
       {
         "rowNum": "216",
@@ -3199,11 +3207,11 @@
       },
       {
         "rowNum": "225",
-        "tableItem": "In your dreams a giant cockroach approaches, selling all sorts of wares and items at reasonable prices. His most prized item in stock is a strange weapon he calls a KAJANDERAK, a zweihand weapon sold for 150s made up of a cresent blade attached to a two metal springs with handles, one at either end. It deals (2d6+d2-d4) damage and can be used to make ranged or melee attacks using your Toughness modifier reversed (-2 becomes +2 and vice-versa)"
+        "tableItem": "In your dreams a giant cockroach approaches, selling all sorts of wares and items at reasonable prices. His most prized item in stock is a strange weapon he calls a KAJANDERAK, a zweihand weapon sold for 150s made up of a cresent blade attached to a two metal springs with handles, one at either end. It deals (2d6+d2-d4) damage and can be used to make ranged or melee attacks using your Toughness modifier reversed (-2 becomes +2 and vice-versa) You awaken with any items you purchased at his store."
       },
       {
         "rowNum": "226",
-        "tableItem": "A kid in tatters approaches you and asks for food. If indulged, the kid start to follow you at a distance, approaching only whenever you make camp to ask for more food."
+        "tableItem": "A kid in tatters approaches you and asks for food. If indulged, the kid start to follow you at a distance, approaching only whenever you make camp to ask for more food. If the kid is still following next time you enter combat, it will suddenly run with inhuman speed and rip one random enemy to pieces, instantly killing it, and disappear. If any of the kid's requests for food are denied, its fingers grow into long claws and it attacks with blinding speed. Starving Kid HP: 12 | Morale: 5 | -d4 (due to speed) | d6 (claws) Special: The starving kid always goes first and always attack twice."
       },
       {
         "rowNum": "231",
@@ -3218,7 +3226,7 @@
         "tableItem": "The road collapses into a chasm to Hel. Die."
       },
       {
-        "rowNum": "23",
+        "rowNum": "234",
         "tableItem": "Grisly remains of the Bone Bowyer’s crafting. Slivers of bone, pieces of flesh and twined hair. A pile. All very small. What was that noise?"
       },
       {
@@ -3235,7 +3243,7 @@
       },
       {
         "rowNum": "242",
-        "tableItem": "A crazed woman comes running out of the woods begging you to help her. If indulged, she tells a story about her caravan being trapped in a nearby cave during a storm. One of the four caravan guards started killing the others to cook them for food. She escaped and wants you to help her save the other survivors."
+        "tableItem": "A crazed woman comes running out of the woods begging you to help her. If indulged, she tells a story about her caravan being trapped in a nearby cave during a storm. One of the four caravan guards started killing the others to cook them for food. She escaped and wants you to help her save the other survivors. If agreed, you find evidence of cannibalism, but no survivors. In fact, you find remains of all four guards. The woman suddenly attacks, hell bent to kill you and eat you all. She will try to take you down one by one if possible. Ravenous Woman HP: 15 | Morale: 6 | -d4 (Why won't she die?) | d6 (bite) Special: If bitten, test Strength DR12 or lose d2 permanent HPs. She gains these HPs, healing if damaged, or added on top if not."
       },
       {
         "rowNum": "243",
@@ -3248,6 +3256,10 @@
       {
         "rowNum": "245",
         "tableItem": "An eagle with bat wings flies overhead, a rare bird indeed. 246. There is a Bridge. There is a Troll. There is a Toll."
+      },
+      {
+        "rowNum": "246",
+        "tableItem": "?????"
       },
       {
         "rowNum": "251",
@@ -3294,7 +3306,7 @@
         "tableItem": "An improvised rehearsal. A group of travelling artists are testing new stuff for their show. 1 on d2 chances of it reflecting past (or future) issues involving the characters."
       },
       {
-        "rowNum": "26",
+        "rowNum": "266",
         "tableItem": "A group of unkept characters are digging a grave. There is a corpse covered in priestly tattoos. They claim self-defense."
       },
       {
@@ -3304,6 +3316,10 @@
       {
         "rowNum": "312",
         "tableItem": "An old, crooked woman has her long nose stuck in a tree stump. If helped, she grants you all d2 omens. If not, you all lose 1 omen or lose d6 HP if you have none."
+      },
+      {
+        "rowNum": "313",
+        "tableItem": "A roadsign. It says: \"You're walking in the wrong direction, fool!\""
       },
       {
         "rowNum": "314",
@@ -3331,7 +3347,11 @@
       },
       {
         "rowNum": "324",
-        "tableItem": "A closing violet energy portal in the soil, a character"
+        "tableItem": "A closing violet energy portal in the soil, a character can reach it and slide one arm into it. d4 1. Extracts a black crystal sword (d8) 2. The limb is eaten from the other side 3. Extracts a fearful kid who recites a random scroll 4. The limb turns into a red hot tentacle (d8)"
+      },
+      {
+        "rowNum": "325",
+        "tableItem": "A dying giant lies in a clearing just off the road. Comfort them as they pass into the land of the dead and you receive d2 extra omens. Hasten their death and your next omen spent fails you."
       },
       {
         "rowNum": "326",
@@ -3383,7 +3403,7 @@
       },
       {
         "rowNum": "346",
-        "tableItem": "A musician drumming on the hollowed-out head of her brother. Despite the macabre situation, she's got rythmn."
+        "tableItem": "A musician drumming on the hollowed-out head of her brother. Despite the macabre situation, she's got rhythm."
       },
       {
         "rowNum": "351",
@@ -3407,7 +3427,7 @@
       },
       {
         "rowNum": "356",
-        "tableItem": "An ancient deciduous tree stands alone by the road. Its falling red leaves cut like razors. Brittle leaf damage d8 , ignores armor."
+        "tableItem": "An ancient deciduous tree stands alone by the road. Its falling red leaves cut like razors. Brittle leaf damage d8, ignores armor."
       },
       {
         "rowNum": "361",
@@ -3483,7 +3503,7 @@
       },
       {
         "rowNum": "431",
-        "tableItem": "An ancient, twisted oak. At first glance its trunk appears to be stained red. Maybe if you took a closer look..."
+        "tableItem": "An ancient, twisted oak. At first glance its trunk appears to be stained red. Maybe if you took a closer look... Flesh-Eating Tree Attacks once its prey is beneath its boughs. Will consume characters once they lie broken or dead at its roots. HP: 30 Morale - Twisted Bark -d12 Crushing Limbs - d10 Damage Axes always deal maximum damage."
       },
       {
         "rowNum": "432",
@@ -3522,12 +3542,16 @@
         "tableItem": "A group of magnificent white horses, one for each of you, approaches the group. They are friendly and allow you to ride them. 1d6 hours later the horses suddenly gallops off into the woods with you on their backs. Test Agility DR12 or follow the horses into a bottomless lake that suddenly appears."
       },
       {
-        "rowNum": "44",
+        "rowNum": "445",
         "tableItem": "A reeking ditch surrounded by heads on spears. In the ditch is a confused man, shackled and memoryless."
       },
       {
         "rowNum": "446",
         "tableItem": "A group of peasants tearing up the cobbles. \"It's gold, so much gold!\",\"We're rich!\" ,they scream. Test Presence DR 12 or lose yourself to their mania for d66 hours."
+      },
+      {
+        "rowNum": "451",
+        "tableItem": "A throng of people are dancing. Some of them have collapsed on the ground and some are even dead. Test Strength DR12 or join their dancing. Each hour that passes, test Strength DR12 again or lose d4 HP and keep dancing."
       },
       {
         "rowNum": "452",
@@ -3659,7 +3683,7 @@
       },
       {
         "rowNum": "544",
-        "tableItem": "A dark and deep mine shaft with a glowing green light somewhere the bottom. Reaching the bottom with three DR16 Agility checks (DR8 with a rope and grapple,) a single skeleton digs forever deeper, humming a steady tune and clutching a shovel carved with pulsing emerald runes."
+        "tableItem": "A dark and deep mine shaft with a glowing green light somewhere the bottom. Reaching the bottom with three DR16 Agility checks (DR8 with a rope and grapple,) a single skeleton digs forever deeper, humming a steady tune and clutching a shovel carved with pulsing emerald runes. The shovel is a zweihand weapon that deals d4+7 damage. It Crits on an 17 or higher, Fumbles on a 4 or lower, and must be used to attack the turn after it hits."
       },
       {
         "rowNum": "545",
@@ -3683,7 +3707,7 @@
       },
       {
         "rowNum": "554",
-        "tableItem": "A rare creature called a Zsarloth appears from a hole in the ground and will attack the party if they don't run from it's territory. These creatures are endangered because they only hatch from their eggs on the day a prophecy comes true. They have the body of a giant monkey, the head of a lion, and the tail of a scorpion with a flail at the end instead of a stinger."
+        "tableItem": "A rare creature called a Zsarloth appears from a hole in the ground and will attack the party if they don't run from it's territory. These creatures are endangered because they only hatch from their eggs on the day a prophecy comes true. They have the body of a giant monkey, the head of a lion, and the tail of a scorpion with a flail at the end instead of a stinger. Zsarloth HP: 36 | Morale: 7 | No Armor | d8 (Fists, Tail Flail) Special: - Whenever an Omen is used, the Zsarloth lets out a roar like an organ crescendo and gains a -d6 field of armor until the end of the next round. -The Zsarloth strikes with its Flail every three rounds, an attack which is DR14 defence and dizzies the target for an hour on a hit. -The Zsarloth ignores the armor of any creature that doesn't believe in a prophecy. The tail flail, if taken from the Zsarloth, is a magic weapon that dizzies any creature it hits for an hour. In the hole it came from are d4 more giant Zsarloth eggs, set to hatch on the Sixth Misery."
       },
       {
         "rowNum": "555",
@@ -3691,18 +3715,18 @@
       },
       {
         "rowNum": "556",
-        "tableItem": "You encounter a shaggy dog that squawks like a crow. Could be a friendly companion, could be a vicious rival."
+        "tableItem": "You encounter a shaggy dog that squawks like a crow. Could be a friendly companion, could be a vicious rival. Crowdog. HP: 4 | Morale: 4 | No Armor | d4 (bite) Special: Crowdog starts each battle with 2d6 Omens."
       },
       {
         "rowNum": "561",
-        "tableItem": "An angry mob marches towards the party along the path they need to take."
+        "tableItem": "An angry mob marches towards the party along the path they need to take. UndeathMetal (they/them)Ieri alle 22:47"
       },
       {
         "rowNum": "562",
         "tableItem": "You come across a shrine persisting of some foul-smelling candles and a stone statue of a monkey with a venus fly trap head. Put your hand in it's mouth and the statue will animate and bite it off, digesting your sacrifice and granting you a blessing. For the rest of your life you will find d6 extra silver whenever you come across coin."
       },
       {
-        "rowNum": "56",
+        "rowNum": "563",
         "tableItem": "The ground trembles, then eventually sinks. A sinkhole the size of d4: (1) a barn (2) a church (3) a castle (4) a city, swallows the ground. Crushing those below."
       },
       {
@@ -3750,28 +3774,12 @@
         "tableItem": "A gazebo filled with an orchestra playing a cacophonous melody. Their audience have been listening to the music since time immemorial, only their skeletons are left."
       },
       {
-        "rowNum": "62",
+        "rowNum": "623",
         "tableItem": "A deafening screech, the sound of wings. The shadow of a spiked, eel-like creature swoops by. Grass, bushes and trees wither in its wake. Test Toughness or lose your lunch."
       },
       {
         "rowNum": "624",
-        "tableItem": "A Pale One appears and delivers a prophecy. It’s words are unintelligible, but the meaning is clear. It speaks of:"
-      },
-      {
-        "rowNum": "1",
-        "tableItem": "An imminent plague"
-      },
-      {
-        "rowNum": "2",
-        "tableItem": "A new basilisk"
-      },
-      {
-        "rowNum": "3",
-        "tableItem": "A forbidden garden"
-      },
-      {
-        "rowNum": "4",
-        "tableItem": "A portal, an escape from this doomed world."
+        "tableItem": "A Pale One appears and delivers a prophecy. It’s words are unintelligible, but the meaning is clear. It speaks of: 1d4 1) An imminent plague 2) A new basilisk 3) A forbidden garden 4) A portal, an escape from this doomed world."
       },
       {
         "rowNum": "625",
@@ -3807,7 +3815,7 @@
       },
       {
         "rowNum": "641",
-        "tableItem": "A portal opens up from the sky. A man with an odd weapon stuck to his arm emerges from it and attacks you."
+        "tableItem": "A portal opens up from the sky. A man with an odd weapon stuck to his arm emerges from it and attacks you. The Chained Saw: d10 damage. Requires Oil to power."
       },
       {
         "rowNum": "642",
@@ -3843,7 +3851,7 @@
       },
       {
         "rowNum": "654",
-        "tableItem": "A hand crawls across the ground and attacks you. Animated Hand"
+        "tableItem": "A hand crawls across the ground and attacks you. Animated Hand HP: 7 | Morale: - | No Armor | d4 (grab) Special: - Hitting the hand requires a DR14 test. - A player damaged by the hand must test Strength or their hand becomes possessed and attacks them too in d6 rounds. Cutting it off turns it into an animated hand."
       },
       {
         "rowNum": "655",
@@ -3863,23 +3871,7 @@
       },
       {
         "rowNum": "663",
-        "tableItem": "A horseman threatens to ride you down. Test Agility DR 12 or get trampled for d8 damage. The rider was on a (d4):"
-      },
-      {
-        "rowNum": "1",
-        "tableItem": "White Horse - Your rations have all spoiled, as well as anything else edible in the area. You feel hungry."
-      },
-      {
-        "rowNum": "2",
-        "tableItem": "Red Horse - Test DR 16 Presence or immediately attack the closest character. Repeat this test at the start of each turn."
-      },
-      {
-        "rowNum": "3",
-        "tableItem": "Black Horse - Test DR 16 Toughness or become infected. Every character that comes into contact with you while you're infected must do the same."
-      },
-      {
-        "rowNum": "4",
-        "tableItem": "Pale Horse - You are given visions of your demise. You will die in 2d6 days if you do not kill someone else first."
+        "tableItem": "A horseman threatens to ride you down. Test Agility DR 12 or get trampled for d8 damage. The rider was on a (d4): 1) White Horse - Your rations have all spoiled, as well as anything else edible in the area. You feel hungry. 2) Red Horse - Test DR 16 Presence or immediately attack the closest character. Repeat this test at the start of each turn. 3) Black Horse - Test DR 16 Toughness or become infected. Every character that comes into contact with you while you're infected must do the same. 4) Pale Horse - You are given visions of your demise. You will die in 2d6 days if you do not kill someone else first."
       },
       {
         "rowNum": "664",
@@ -3891,7 +3883,7 @@
       },
       {
         "rowNum": "666",
-        "tableItem": "An unending rain of black feathers begin. All are dying in the heavenland. Ten dozen twisting corpses rise from the mud and coagulate into a shuddering and hateful creature. You dare enter the Wildland, you shall come across the spirit of its malevolence. You face the Vilderghast, unliving image of ten thousand missing children swallowed into the land. As it roars, a Misery bursts forth."
+        "tableItem": "An unending rain of black feathers begin. All are dying in the heavenland. Ten dozen twisting corpses rise from the mud and coagulate into a shuddering and hateful creature. You dare enter the Wildland, you shall come across the spirit of its malevolence. You face the Vilderghast, unliving image of ten thousand missing children swallowed into the land. As it roars, a Misery bursts forth. Vilderghast HP: 50 | Morale: — | -d4 (wood and hide and antler) | d10+Infection (Twisting Tusks jutting from Shadow) Special: Every time you use an omen there is a 50% chance the Vilderghast gains one. Whenever the Vilderghast loses 4 or more health in one hit, a baby wyvern (5HP) wriggles out of its wet and dripping fur. When the Vilderghast drops below half it’s HP, it summons an undead troll from the shadows and goes into a frenzy, attacking twice each round. With the Vilderghast’s death, the world loses not only its evil, but it’s wonder. If the Vilderghast is killed, stop rolling on this table. You've won, fools."
       }
     ]
   }
