@@ -147,18 +147,6 @@ body.is-patron .patreon-banner-container {
   justify-content: space-between;
   align-items: center;
 }
-.toc-item:nth-child(3n) {
-  transform: rotate(0.5deg);
-}
-.toc-item:nth-child(2n) {
-  transform: rotate(0.5deg);
-}
-.toc-item:nth-child(2n+1) {
-  transform: rotate(-0.5deg);
-}
-.toc-item:nth-child(3n+1) {
-  transform: rotate(-0.5deg);
-}
 .toc-item.toc-category {
   background-color: black;
   margin-left: 0px;
@@ -181,7 +169,6 @@ body.is-patron .patreon-banner-container {
   /*background-color: rgba(0, 0, 0, 0.2);*/
   color: #FFE900;
   padding: 2px;
-  transform: rotate(-1.5deg);
   float: right;
 }
 .current .toc-dice-badge {
@@ -196,7 +183,6 @@ body.is-patron .patreon-banner-container {
   font-family: "Uchen", cursive;
   font-size: 10px;
   padding: 2px;
-  transform: rotate(-2deg);
 }
 .toc-item.is-new .toc-new-badge {
   display: inline-block;
@@ -210,7 +196,6 @@ body.is-patron .patreon-banner-container {
   font-family: "Uchen", cursive;
   font-size: 40px;
   background-color: #FFE900;
-  transform: skew(-1.5deg);
   color: black;
   border-bottom: 1px solid black;
   margin-left: 2%;
@@ -224,7 +209,6 @@ body.is-patron .patreon-banner-container {
   background-color: rgba(255, 0, 0, 0.7);
   color: #FFE900;
   border-bottom: 1px solid black;
-  transform: skew(0.5deg);
   text-align: center;
   margin-left: 2%;
   margin-bottom: 10px;
@@ -249,33 +233,7 @@ body.is-patron .patreon-banner-container {
   flex-direction: row;
   margin-left: 4%;
 }
-.table-row:nth-child(3n) .random-skew {
-  transform: skew(4deg, -2deg);
-}
-.table-row:nth-child(2n) .random-skew {
-  transform: skew(2deg, 1deg);
-}
-.table-row:nth-child(2n+1) .random-skew {
-  transform: skew(-2deg, 1deg);
-}
-.table-row:nth-child(3n+1) .random-skew {
-  transform: skew(-1deg, -2.5deg);
-}
-
-.table-row:nth-child(3n) .row-item {
-  transform: rotate(0.2deg);
-}
-.table-row:nth-child(2n) .row-item {
-  transform: rotate(0.2deg);
-}
-.table-row:nth-child(2n+1) .row-item {
-  transform: rotate(-0.2deg);
-}
-.table-row:nth-child(3n+1) .row-item {
-  transform: rotate(-0.2deg);
-}
 .click-item:hover {
-  transform: rotate(1deg);
   background-color: rgb(53, 53, 53);
   cursor: pointer;
 }
@@ -335,17 +293,14 @@ body.is-patron .patreon-banner-container {
 }
 
 #arrow-down {
-  transform: rotate(2deg);
   display: none;
 }
 
 #arrow-up {
-  transform: rotate(-2deg);
   display: none;
 }
 
 #tool-footer {
-  transform: rotate(0.4deg);
   margin-left: 80%;
   font-size: 6vw;
   position: sticky;
@@ -432,19 +387,6 @@ body.is-patron .patreon-banner-container {
   padding: 10px;
   margin-top: 0;
   margin-bottom: 4px;
-  transform: rotate(-0.1deg);
-}
-#landing-copy p:nth-child(2n) {
-  transform: rotate(0.4deg);
-}
-#landing-copy p:nth-child(3n) {
-  transform: rotate(0.2deg);
-}
-#landing-copy p:nth-child(2n+1) {
-  transform: rotate(-0.2deg);
-}
-#landing-copy p:nth-child(3n+1) {
-  transform: rotate(-0.4deg);
 }
 a,
 a:link,
@@ -509,16 +451,4 @@ footer {
   margin-right: 2px;
   padding: 5px;
   text-transform: uppercase;
-}
-.madlib:nth-child(3n) {
-  transform: rotate(0.5deg);
-}
-.madlib:nth-child(2n) {
-  transform: rotate(1deg);
-}
-.madlib:nth-child(2n+1) {
-  transform: rotate(1.5deg);
-}
-.madlib:nth-child(3n+1) {
-  transform: rotate(-1.5deg);
 }
