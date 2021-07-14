@@ -637,7 +637,7 @@
     ]
   },
   {
-    "name": "2d4 wild plants of the plains",
+    "name": "2d4 Wild Plants of the Plains",
     "category": "MORK BORG TABLE",
     "roll": "d7",
     "entries": [
@@ -672,7 +672,7 @@
     ]
   },
   {
-    "name": "d20 SCVMMY BAR PATRONS",
+    "name": "D20 Scvmmy Bar Patrons",
     "category": "MORK BORG TABLE",
     "roll": "d20",
     "entries": [
@@ -893,7 +893,7 @@
     ]
   },
   {
-    "name": "d20 HOLY SHIT THAT'S ONE HUGE CRAZY LOOKING TROLL!",
+    "name": "D20 Holy Shit That's One Huge Crazy-Looking Troll!",
     "category": "MORK BORG TABLE",
     "roll": "d20",
     "entries": [
@@ -1248,7 +1248,7 @@
     ]
   },
   {
-    "name": "D666 WILDLAND ENCOUNTERS ON THE ROAD",
+    "name": "D666 Wildland Encounters on the Road",
     "category": "MORK BORG TABLE",
     "roll": "d218",
     "entries": [
@@ -2127,7 +2127,7 @@
     ]
   },
   {
-    "name": "d6 ways to mispronounce \"Nechrubel\"",
+    "name": "D6 Ways to Mispronounce \"Nechrubel\"",
     "category": "MORK BORG TABLE",
     "roll": "d6",
     "entries": [
@@ -2158,7 +2158,7 @@
     ]
   },
   {
-    "name": "D20 Fucked up Things You Can Find in a Treasure Chest Instead of Actual Treasure",
+    "name": "D20 Fucked-Up Things You Can Find in a Treasure Chest Instead of Actual Treasure",
     "category": "MORK BORG TABLE",
     "roll": "d20",
     "entries": [
@@ -3023,14 +3023,10 @@
     ]
   },
   {
-    "name": "20 Snake Oils and Other Scam Potions",
+    "name": "D20 Snake Oils and Other Scam Potions",
     "category": "MORK BORG TABLE",
-    "roll": "d21",
+    "roll": "d20",
     "entries": [
-      {
-        "rowNum": "2",
-        "tableItem": "Snake Oils and Other Scam Potions"
-      },
       {
         "rowNum": "1",
         "tableItem": "Miracle Hair Elixir Pour this foul smelling yellow liquid on your head for a more full head of hair. By the gods it works. Oh, it wont stop growing. OH GODS MAKE IT STOP!!"
@@ -3352,7 +3348,7 @@
     ]
   },
   {
-    "name": "D8 reasons why that couple of cut throats is following you",
+    "name": "D8 Reasons Why That Couple of Cut Throats is Following You",
     "category": "MORK BORG TABLE",
     "roll": "d8",
     "entries": [
@@ -3391,7 +3387,7 @@
     ]
   },
   {
-    "name": "D20 MORE ARCANE CATASTROPHIES",
+    "name": "D20 More Arcane Catastrophes",
     "category": "MORK BORG TABLE",
     "roll": "d20",
     "entries": [
@@ -3513,7 +3509,7 @@
     ]
   },
   {
-    "name": "D20 Items for Sale at Schlewigs Illegal Midnight Markets",
+    "name": "D20 Items for Sale at Schlewig's Illegal Midnight Markets",
     "category": "MORK BORG TABLE",
     "roll": "d20",
     "entries": [
