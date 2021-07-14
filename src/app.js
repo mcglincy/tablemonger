@@ -18,6 +18,7 @@ var tables = JSON.parse(fs.readFileSync('data/tables.json', 'utf8'));
 // force https on the production deploy
 // https://help.heroku.com/J2R1S4T8/can-heroku-force-an-application-to-use-ssl-tls
 // https://webdva.github.io/how-to-force-express-https-tutorial/
+/*
 app.use((req, res, next) => {
   if (process.env.NODE_ENV === "production") {
       if (req.headers.host === "tablemonger.herokuapp.com") {
@@ -32,27 +33,7 @@ app.use((req, res, next) => {
     return next();
   }
 });
-
-const mungeTables = async (metaTableName) => {
-  // fields: ["Category", "Base", "Desc", "Name", "PrivRoll", "PrivRows",
-  // "Roll", "Rows", "Subcount", "Subtables", "Subarticles", "Subplaceholders", "isNew"],
-  // view: "Grid view",
-
-  return (results.map(x => { return {
-    category: "MÖRK BORG Tables",
-    base: "fooBase",
-    desc: table.name,
-    name: table.name,
-    roll: table.roll,
-    rows: 20,
-    subcount: 0,
-    subtables: "",
-    subarticles: "",
-    subplaceholders: "",
-    isNew: false,
-    rollBadge: 20,
-  };}));
-};
+*/
 
 const getNumberedTableItems = async (tables, tableName) => {
   const table = tables.filter(t => t.name === tableName)[0];
@@ -80,11 +61,6 @@ const getNumberedSubtableItems = async (tables, tableName) => {
 
 // App endpoints
 app.get("/", async (req, res) => {
-
-  // group tables by category
-  // const categories = {
-  //   "MORK BORG TABLES": tables,
-  // }
   const categories = tables.reduce((cats, table) => {
     // const cat = (cats[table.category] || []);
     const cat = (cats[table.roll] || []);
