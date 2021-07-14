@@ -93,11 +93,5 @@ app.get("/healthz", (req, res) => {
   res.send("ok");
 });
 
-app.get("/legal", async (req, res) => {
-  const templateData = {};
-  const html = legalTemplate(templateData);
-  res.header("Content-Type", "text/html").send(html);  
-});
-
 // Serve!
 app.listen(process.env.PORT || 8080, () => {});
