@@ -84,11 +84,7 @@ const tableClick = (e) => {
   $('.toc-item').removeClass('current');
   $(e.currentTarget).addClass('current');
   $('#tool-footer').show();
-  if (e.currentTarget.dataset.subtables) {
-    setUpForNewMultiTable(e);
-  } else {
-    setUpForNewSingleTable(e);
-  }
+  setUpForNewSingleTable(e);
   requestNewTableData(e);
 };
 
@@ -99,30 +95,13 @@ const setUpForNewSingleTable = (e) => {
   const desc = $(e.currentTarget).attr('title');
   const tableDiv = $("#table-content");
   tableDiv.empty();
-  const titleDiv = $(`<div id='table-title'>${tableName} <span class='title-roll'>(${roll})</span></div>`);
+  // currently the roll is in the table name
+  // const titleDiv = $(`<div id='table-title'>${tableName} <span class='title-roll'>(${roll})</span></div>`);
+  const titleDiv = $(`<div id='table-title'>${tableName}</div>`);
   tableDiv.append(titleDiv);
   const descDiv = $(`<div id='table-desc'>${desc}</div>`);
   tableDiv.append(descDiv);
   tableDiv.append(dummySingleTable);
-  pointToChosen();
-  if ($('.hamburger-helper').is(':visible') && $('.hamburger-helper').hasClass('is-active')) {
-    hamburgerClick();
-  };
-};
-
-const setUpForNewMultiTable = (e) => {
-  const tableName = e.currentTarget.dataset.tableName;
-  setTableParam(tableName);
-  const roll = e.currentTarget.dataset.roll;
-  const desc = $(e.currentTarget).attr('title');
-  const tableDiv = $("#table-content");
-  const tableCount = parseInt(e.currentTarget.dataset.subcount);
-  tableDiv.empty();
-  const titleDiv = $(`<div id='table-title'>${tableName} <span class='title-roll'>(${roll})</span></div>`);
-  tableDiv.append(titleDiv);
-  const descDiv = $(`<div id='table-desc'>${desc}</div>`);
-  tableDiv.append(descDiv);
-  tableDiv.append(dummyMultiTable(tableCount));
   pointToChosen();
   if ($('.hamburger-helper').is(':visible') && $('.hamburger-helper').hasClass('is-active')) {
     hamburgerClick();
@@ -149,42 +128,12 @@ const showSingleTable = (result) => {
   $table = $('.table');
   // add rows for every table item
   $.each(result, (index, item) => {
-    console.log(item);
     const rowDiv = $(`<div class='table-row'></div>`);
-    const numDiv = $("<div class='row-num random-skew'></div>");
+    const numDiv = $("<div class='row-num'></div>");
     numDiv.text(item.rowNum);
     const itemDiv = $("<div class='row-item'></div>");
     itemDiv.text(item.tableItem);
     $table.append(rowDiv);
-    rowDiv.append(numDiv);
-    rowDiv.append(itemDiv);
-  });
-};
-
-const articleSpan = (article, num) => {
-  if (article) {
-    return `<span class='madlib' id="article${num}">${article}</span>`;
-  } else {
-    return "";
-  }
-};
-
-const placeholderSpan = (placeholder, num) => {
-  if (placeholder) {
-    return `<span class='madlib' id="mad${num}">${placeholder}</span>`;
-  } else {
-    return "";
-  }
-};
-
-const addTableItemsToSub = (tableItems, sub) => {
-  $.each(tableItems, (index, item) => {
-    const rowDiv = $(`<div class='table-row'></div>`);
-    const numDiv = $("<div class='row-num random-skew'></div>");
-    numDiv.text(item.rowNum);
-    const itemDiv = $("<div class='row-item'></div>");
-    itemDiv.text(item.tableItem);
-    sub.append(rowDiv);
     rowDiv.append(numDiv);
     rowDiv.append(itemDiv);
   });
@@ -204,7 +153,7 @@ const dummySingleTable = () => {
 
 const one_table_row = `
   <div class='table-row'>
-    <div class='row-num random-skew'>
+    <div class='row-num'>
       <img src="/images/spinner.gif" class="spinner"></img>
     </div>
     <div class='row-item'> </div>
@@ -299,7 +248,6 @@ const shakeyShakey = ($el) => {
 const easeOut = (num) => {
   // Num is expected to be between 0 and 1
   // function then returns a float along a curve
-
   return 1 - Math.sqrt(1 - Math.pow(num, 2));
 };
 

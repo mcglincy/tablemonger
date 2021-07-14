@@ -60,12 +60,11 @@ const getNumberedSubtableItems = async (tables, tableName) => {
 
 // App endpoints
 app.get("/", async (req, res) => {
+  // group tables by category: note that order of the tables in the JSON matters!
   const categories = tables.reduce((cats, table) => {
-    // const cat = (cats[table.category] || []);
-    const cat = (cats[table.roll] || []);
+    const cat = (cats[table.category] || []);
     cat.push(table);
-    // cats[table.category] = cat;
-    cats[table.roll] = cat;
+    cats[table.category] = cat;
     return cats;
   }, {});
 

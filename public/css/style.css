@@ -160,33 +160,6 @@ body.is-patron .patreon-banner-container {
   background-color: #FFE900;
   color: black;
 }
-.toc-badges {
-  margin-right: 2px;
-}
-.toc-dice-badge {
-  margin-right: 2px;
-  font-size: 10px;
-  /*background-color: rgba(0, 0, 0, 0.2);*/
-  color: #FFE900;
-  padding: 2px;
-  float: right;
-}
-.current .toc-dice-badge {
-  color: black;
-}
-.toc-new-badge {
-  margin-right: 2px;
-  float: right;
-  display: none;
-  background-color: #FFE900;
-  color: #FFE900;
-  font-family: "Uchen", cursive;
-  font-size: 10px;
-  padding: 2px;
-}
-.toc-item.is-new .toc-new-badge {
-  display: inline-block;
-}
 #right-content {
   display: flex;
   flex: 3;
