@@ -198,25 +198,6 @@ const rollTheDice = () => {
         setTimeout(function(that) {
           $(that).addClass('chosen');
           pointToChosen();
-          const chosenText = $(that).find(".row-item").text();
-          const madlibId = $(that).parent()[0].dataset.madlibid;
-          const madlib = $(`#${madlibId}`);
-          madlib.text(chosenText);
-          shakeyShakey(madlib);
-          // handle "A" vs. "An" for articles
-          const articleId = madlibId.replace("mad", "article");
-          const article = $(`#${articleId}`);
-          if (article) {
-            const articleText = article.text();
-            if (articleText === "A" || articleText === "An" || articleText === "A(n)") {
-              const firstLetter = chosenText.substring(0, 1).toLowerCase();
-              if (["a", "e", "i", "o", "u"].includes(firstLetter)) {
-                article.text("An");
-              } else {
-                article.text("A");
-              }
-            }
-          }
         }, highlightDelay, this);
         if (!$('.subtable-wrapper').length) {
           $('body').scrollTo($(this).position()['top'] - 100, 200, 'swing');
