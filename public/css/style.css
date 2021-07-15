@@ -8,7 +8,7 @@ html {
   -o-background-size: auto, cover;
   background-size: auto, cover;
   height: 100%;
-  margin:    0 auto;
+  margin: 0 auto;
   max-width: 1200px;
 }
 body {
@@ -94,13 +94,9 @@ body.is-patron .patreon-banner-container {
 .menu-bar {
   background-color: black;
   border-top: 1px solid #555555;
-  /*display: flex;*/
   flex: 0 0 40px;
   flex-direction: row;
   font-size: clamp(14px, 2vw, 24px);
-  /*justify-content: space-between;*/
-  /*justify-content: space-around;*/
-  /*justify-content: center;*/
   text-align: center;
   padding-bottom: 5px;
   padding-top: 5px;
@@ -138,7 +134,6 @@ body.is-patron .patreon-banner-container {
   display: none;
 }
 .toc-item {
-  /*background-color: rgb(43, 43, 43);*/
   flex: 1;
   font-family: "Uchen", cursive;
   font-size: 18px;
@@ -151,7 +146,6 @@ body.is-patron .patreon-banner-container {
 }
 .toc-item.toc-category {
   background-color: rgb(43, 43, 43);
-  /*background-color: black;*/
   margin-left: 0px;
 }
 /* line separating toc click items, but not the one immediately following the category */
