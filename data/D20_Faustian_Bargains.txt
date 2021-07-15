@@ -1,0 +1,38 @@
+D20 Faustian Bargains
+DM can let a player roll on this table to avoid dying of infection, or any other slow and painful demise
+
+1. Breaks for Braknor A small, shriveled being with taught pink skin gingerly chews on bones as they offer you a lease on life. So long as every day you break one more bone in a living creature than you did the night before, you may survive your ailment. If you are unable to repay your debt before sunset, you lose control of your body and break enough fingers to pay this debt back (d2 damage per finger). If you must break 5, instead you smash your entire hand (d6+5 damage) and you cannot use it for anything until it is reset. The creature must be living, undead do not count.
+
+2. Eyes to See. You must cut out your own eye- either will do, suffer d8 damage in doing so. A cold stone replacement is lodged into your empty socket, bearing a single branded sigil where your retina once was. Your senses are no longer your own. The contractor can find you from anywhere.
+
+3. Infinite Wretch: A rotting hunchbacked wretch covered in tattoos demands you etch your name in blood on his back, dooming you to be the next hunchback wretch when you die.
+
+4. Bit o' your liver: a demon (DM's choice) appears and demonically allows you to avoid your immediate demise. However, from now on, each month a demonic emissary appears to extract payment: a significant chunk of one of your bodily organs. Reduce max hp by [DM's choice] each visit. Eventually, you will be completely reduced and will die.
+5. The Vile Alchemist: as the sickness takes over and you feel yourself draw your last breath, a strange old man appears with a potion. "This will cure what ails you... for the time being" as you take a sip, you feel your body start to twist and break and bleed. Roll on the Broken Bodies chart and set your health back to max. Anytime you would die from the infection, he returns just in time. If you re-roll the Broken Bodies trait you started with you are cured, if you re-roll a trait gained from the alchemist you go into cardiac arrest and die.
+
+6. Small statue of Faust. Half-price, quite collectible.
+
+7. Spread the Word. A symbol is burrowed into your mind- not of any language or collection you recognize. You are asked to spread it- carve it at every opportunity. Failing to do so causes whatever ailed you to slowly creep back- and so you carve into progressively more things. First the inanimate- tables, walls, etc. Eventually the craving arises to use a more malleable canvas- you begin carving into the flesh. First of the dead, and finally, when put under immense stress, the living, while they are hopeless- spread the word, poor soul.
+
+8. Shylock’s Curse! - Live forever, but at a cost of one ounce of gold a day, each day (after sundown and before the next sunrise) you must consume the vital essence of a golden coin, turning it into lead, or else risk aging a decade suddenly.
+
+9. Share the Love You are cured of the disease or infection, but it is passed onto the person closest to you. After they die, it spreads to the person next-closest to you. Each person you love, ally with or simply know continues to perish horribly until you die.
+10. The Mandagot A dark spirit in the form of an animal crosses your path. Or did you cross theirs? Refer to the MANDAGOR Folk Lore Jam submission, roll a d8(reroll any result of 8), and run them as described: 1. Charming Grimalkin  2. Vermin Prowler  3. Ephemeral Fowl  4. Watchful Bovine  5. Ursid Keeper  6. Vaporous Vulpes  7. Stalker Mongrel.  They save your life(full HP replenished), but you must abide by their requirements or they feast upon your body and soul.
+
+11. A New Kind of infection After dying from an infection you wake up with full hp, but now you have a strange bulb on your (d8 1: Left Arm 2: Right Arm 3: Left Leg 4: Right Leg 5: Back 6: Stomach 7: Neck 8: Your innards) Every time you get better or rest, roll d2. On a 1 the bulb grows in size, on a 2 gain 1 temporary Omen. Once the bulb has grown 6 times, it blossoms and a small plant child crawls out (4hp, Claws d4, Bite d2 and spreads the infection; roll d6 to see it's responds 1-4: it attacks the party 5-6: it imprints on the once infected character)
+
+12. Gut Rot In the fever dream of the infection you see a dark figure. In your last gasp of air they drop something worm-like into your mouth. As it squirms it's way through your body it, it pulls the toxins out of you. However, now the being must also be fed, lest it feast on your insides. Whenever you spend food and water to feed yourself, you must eat an extra days worth for each misery rolled. If you cannot, the creature violently rips itself out of your stomach and attacks the group (hp 6 + X, Teeth d2 + X, X = the amount of miseries rolled in the campaign.)
+
+13. Dentistry Done Dirt Cheap As the rot consumes your maw, an impeccably clean being in white robes visits your dreams, and sings lullaby's of salvation. Upon waking, your mouth is miraculously healed, and your breath always smells fresh. You can now only subsist off of the teeth taken from the mouths of others. Crunchy.
+14. The Long Dark. You agree to the devil's terms. You are saved from the immediate affliction, but as time passes, your life loses luster. Each day grows worse, more gray and tedious than the one before it. Eventually, through magical means you summon the devil back. You seek a second bargain. What is it?
+
+15. Would you like a hand? As you feel the life slowly make it's way from your body you hear someone ask you "Would you like a hand with what ails you?" if the player agrees, they are no longer infected, and awakes with an arm growing from their body. This limb acts with a mind of it's own, the GM rolls d2 to see if (1: It is helpful 2: it's spiteful) The GM rolls this however often they may feel makes sense. If they GM decides the arm has it's own ambitions they may pass on rolling whether it will help or not.
+
+16. The Big Succ A strange mud bound fish hopped it's way to your head, clamped down, and sucked all of the infection from your body, however it seems to have removed more than you had hoped. All of your abilities are reduced by 1, and your max health is decreased by 1 unless you already have 1 health. In that case the fish kills you and enjoys eating your brains, maybe you should have seen a doctor.
+
+17. Hero-globin The blood in your veins has been transfused from the preserved corpses of famous monster slayers throughout the ages, this will cause the monsters throughout the land and their descendants to mistake you for their most hated and sought after enemies.
+
+18. Flesh is the Cure. You discover the way to stave off the infection: human flesh. You must feed at least once per day, lest the infection return and take your life.
+
+19. Gnarled Hands. You are supplied with both a cure and a miraculous recovery of your hp (to max), however the bones in your hands are rearranged and you can no longer wield weapons or shields.
+20. Sentient Larva. You are saved... by way of transmutation into a crawling, ooze-trailing larva. Become another player's very gross follower (d2 HP, immune to all poison and disease, can explore for the party... albeit slowly, leaving a slimy trail). If you survive long enough, you may make a cocoon in a mass of rotting flesh, emerging d4 days later as a disturbing merger of human and moth. Moth-person?
