@@ -233,7 +233,8 @@ body.is-patron .patreon-banner-container {
   font-size: 18px;
   padding: 5px 15px 5px 15px;
   text-align: left;
-  border-bottom: 1px solid white;
+  /*border-bottom: 1px solid white;*/
+  border-bottom: 1px solid #555555;
   -webkit-transition: all 0.2s cubic-bezier(.01,.92,1,1);
   -moz-transition: all 0.2s cubic-bezier(.01,.92,1,1);
   -o-transition: all 0.2s cubic-bezier(.01,.92,1,1);
