@@ -1,7 +1,6 @@
 @import url("https://fonts.googleapis.com/css2?family=Merriweather&family=Special+Elite&display=swap");
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Rakkas&family=Uchen&display=swap');
 html {
-  background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUAAAAFCAYAAACNbyblAAAAI0lEQVQYV2NkQIA0BgaGWSAuI5IgnAkShKmA0zhVwrTBzQQA3SYEbLLm0PcAAAAASUVORK5CYII=) repeat, url(/images/doreblood.jpg) no-repeat center center fixed;
   background-color: black;
   -webkit-background-size: auto, cover;
   -moz-background-size: auto, cover;
@@ -72,10 +71,9 @@ body.is-patron .patreon-banner-container {
   cursor: pointer;
   font-family: Rakkas;
   /*font-size: max(28px, 7vw);*/
-  font-size: max(30px, 6vw);
+  font-size: max(28px, 6vw);
   height:  7.5vw;
   /*line-height: 9vw;*/
-  /*margin-top: 10px;*/
   text-align: center;
 }
 .subtitle {
