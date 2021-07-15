@@ -79,12 +79,10 @@ body.is-patron .patreon-banner-container {
 }
 .subtitle {
   font-size: 18px;
-  text-align: center;
 }
 @media only screen and (max-width: 900px) {
   .title {
   }
-
   .subtitle {
     font-size: 12px;
   }
@@ -228,7 +226,6 @@ body.is-patron .patreon-banner-container {
   font-size: 18px;
   padding: 5px 15px 5px 15px;
   text-align: left;
-  /*border-bottom: 1px solid white;*/
   border-bottom: 1px solid #555555;
   -webkit-transition: all 0.2s cubic-bezier(.01,.92,1,1);
   -moz-transition: all 0.2s cubic-bezier(.01,.92,1,1);
@@ -300,9 +297,6 @@ body.is-patron .patreon-banner-container {
   animation: lateralShake 0.82s cubic-bezier(.36,.07,.19,.97) both;
 
 }
-.madlib.shaking {
-  animation: verticalShake 0.82s cubic-bezier(.36,.07,.19,.97) both;
-}
 @media only screen and (max-width: 900px) {
   #tool-footer {
     -webkit-text-stroke-width: 1px;
@@ -357,7 +351,6 @@ body.is-patron .patreon-banner-container {
   text-align:justify;
 }
 #landing-copy p {
-  /*text-transform: uppercase;*/
   background-color: black;
   padding: 10px;
   margin-top: 0;
@@ -391,13 +384,6 @@ footer {
 .subtable .table-row {
   text-transform: capitalize;
 }
-.subtable-madlib {
-  font-family: 'Uchen', serif;
-  font-size: 18px;
-  margin: 10px;
-  margin-left: 20px;
-  margin-top: 20px;
-}
 .subtable-cols {
   display: flex;
   flex-direction: row;
@@ -406,26 +392,6 @@ footer {
 .subtable {
   /*flex: 33%;*/
   flex: auto;
-}
-.subtable-madlib {
-  border: 0;
-  color: black;
-  font-family: 'Uchen', serif;
-  font-size: 20px;
-  text-align: center;
-}
-@media only screen and (max-width: 900px) {
-  .subtable-madlib {
-    font-size: 18px;
-  }
-}
-.madlib {
-  background-color: white;
-  display: inline-block;
-  margin-left: 2px;
-  margin-right: 2px;
-  padding: 5px;
-  text-transform: uppercase;
 }
 div.mb-logo {
   text-align: center;
