@@ -134,7 +134,7 @@ body.is-patron .patreon-banner-container {
   display: none;
 }
 .toc-item {
-  background-color: rgb(43, 43, 43);
+  /*background-color: rgb(43, 43, 43);*/
   flex: 1;
   font-family: "Uchen", cursive;
   font-size: 18px;
@@ -146,8 +146,16 @@ body.is-patron .patreon-banner-container {
   align-items: center;
 }
 .toc-item.toc-category {
-  background-color: black;
+  background-color: rgb(43, 43, 43);
+  /*background-color: black;*/
   margin-left: 0px;
+}
+/* line separating toc click items, but not the one immediately following the category */
+.toc-item.click-item {
+  border-top: 1px solid #555555;
+}
+.toc-item.toc-category + .toc-item.click-item {
+  border-top: none;
 }
 .toc-item.current {
   background-color: #FFE900;
