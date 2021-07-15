@@ -401,9 +401,9 @@ div.mb-logo {
 }
 img.mb-logo {
   width:  60%;
-  /* see https://codepen.io/sosuke/pen/Pjoqqp for hex color => filter conversion */
+  /* see https://tests.christianoliff.com/hex-to-css-filter-generator/ for hex color => filter conversion */
   /* MB yellow */
-  filter: invert(89%) sepia(65%) saturate(3851%) hue-rotate(354deg) brightness(105%) contrast(103%);
+  filter:  invert(88%) sepia(28%) saturate(1678%) hue-rotate(358deg) brightness(103%) contrast(105%);  
   /* white */
   /* filter: invert(100%) sepia(0%) saturate(7466%) hue-rotate(139deg) brightness(109%) contrast(103%); */
 }
