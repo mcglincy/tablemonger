@@ -273,6 +273,8 @@ body.is-patron .patreon-banner-container {
 }
 
 #tool-footer {
+  /* start hidden */
+  display: none;
   margin-left: 80%;
   font-size: 6vw;
   position: sticky;
