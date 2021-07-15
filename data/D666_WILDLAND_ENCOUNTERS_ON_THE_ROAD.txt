@@ -24,8 +24,8 @@ D666 Wildland Encounters on the Road
 142. D6 Pink birds accost you and your companions yelling out your insecurities.
 143. Two twigs break simultaneously. You are flanked on both sides by identical albino deer, both mirroring each others movements.
 144. Dogcorpse Malone, hired by The Order of the Melting Dagger to kill a party member, approaches and demands a duel. You know nothing of this order but he still demands to fight his target at midday or midnight exactly, whichever is closest. He tells the time with the eyes of a cat in his coat. Dogcorpse Malone HP: 9 | Morale: 6 | No Armor | d6 (Cat as Weapon) Special: While in combat, treat all rolls that succeed as Crits and all rolls that fail as Fumbles. When Dogcorpse dies, his Cat will accompany the party for 2d6 days before getting bored. It is talented at harmonic meowing.
-145. A black cat crosses your path. 146. A white cat crosses your path.
-146. ?????
+145. A black cat crosses your path. 
+146. A white cat crosses your path.
 
 151. A severed head falls from the sky, yelling out to you as it falls. 1 in 6 chance it gets out anything helpful before it goes splat.
 152. You suddenly hear voices. On closer inspection, you find that it was an old tree speaking, very slowly. If you take your time to speak to it, it will tell you a looooong story that lasts for d6 days. At the end of the story, you all get a single wish. The tree grants you exactly what you ask for but interprets it in the worst possible way.
@@ -190,7 +190,7 @@ D666 Wildland Encounters on the Road
 
 541. An old man sits by a fire, if spoken to he offers to take the players to his hut for a warm meal. His hut smells of delicious roast pork, though there are no pigs in the area. If the players overnight here, the old man slits their throats in their sleep. He is cannibal Scum.
 542. You come across an orphanage, oddly well-populated for the area, where all the children are happy and playful. A large cartoonishly evil sign saying "GRAVEYARD" has been put out front and 2d4 Grotesque have taking to stalking it, sitting up on the balconies and guarding anyone who tries attacking the house or the children. One of the Grotesque even plays with the little tots, carrying them about on its shoulders.
-543 There is a single, empty wooden chair on the road.
+543. There is a single, empty wooden chair on the road.
 544. A dark and deep mine shaft with a glowing green light somewhere the bottom. Reaching the bottom with three DR16 Agility checks (DR8 with a rope and grapple,) a single skeleton digs forever deeper, humming a steady tune and clutching a shovel carved with pulsing emerald runes. The shovel is a zweihand weapon that deals d4+7 damage. It Crits on an 17 or higher, Fumbles on a 4 or lower, and must be used to attack the turn after it hits.
 545. There is a single, rusty fork in the road.
 546. There is a fork in the road, but not the cutlery kind. The way splits in 3d4 directions, but the all lead to the same place.

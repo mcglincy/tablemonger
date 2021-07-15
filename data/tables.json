@@ -3111,11 +3111,11 @@
       },
       {
         "rowNum": "145",
-        "tableItem": "A black cat crosses your path. 146. A white cat crosses your path."
+        "tableItem": "A black cat crosses your path."
       },
       {
         "rowNum": "146",
-        "tableItem": "?????"
+        "tableItem": "A white cat crosses your path."
       },
       {
         "rowNum": "151",
@@ -3678,7 +3678,7 @@
         "tableItem": "You come across an orphanage, oddly well-populated for the area, where all the children are happy and playful. A large cartoonishly evil sign saying \"GRAVEYARD\" has been put out front and 2d4 Grotesque have taking to stalking it, sitting up on the balconies and guarding anyone who tries attacking the house or the children. One of the Grotesque even plays with the little tots, carrying them about on its shoulders."
       },
       {
-        "rowNum": "54",
+        "rowNum": "543",
         "tableItem": "There is a single, empty wooden chair on the road."
       },
       {
