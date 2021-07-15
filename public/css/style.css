@@ -75,11 +75,11 @@ body.is-patron .patreon-banner-container {
   height:  7.5vw;
   /*line-height: 9vw;*/
   text-align: center;
+  padding:  5px;
 }
 .subtitle {
   font-size: 18px;
   text-align: center;
-  text-shadow: 1px 1px black;
 }
 @media only screen and (max-width: 900px) {
   .title {
@@ -93,11 +93,10 @@ body.is-patron .patreon-banner-container {
   background-color: black;
   border-top: 1px solid #555555;
   flex: 0 0 40px;
-  flex-direction: row;
   font-size: clamp(14px, 2vw, 24px);
-  text-align: center;
   padding-bottom: 5px;
   padding-top: 5px;
+  text-align: center;
 }
 .menu-item {
   font-family: Rakkas;
