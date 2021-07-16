@@ -24,8 +24,8 @@ D666 Wildland Encounters on the Road
 142. D6 Pink birds accost you and your companions yelling out your insecurities.
 143. Two twigs break simultaneously. You are flanked on both sides by identical albino deer, both mirroring each others movements.
 144. Dogcorpse Malone, hired by The Order of the Melting Dagger to kill a party member, approaches and demands a duel. You know nothing of this order but he still demands to fight his target at midday or midnight exactly, whichever is closest. He tells the time with the eyes of a cat in his coat. Dogcorpse Malone HP: 9 | Morale: 6 | No Armor | d6 (Cat as Weapon) Special: While in combat, treat all rolls that succeed as Crits and all rolls that fail as Fumbles. When Dogcorpse dies, his Cat will accompany the party for 2d6 days before getting bored. It is talented at harmonic meowing.
-145. A black cat crosses your path. 
-146. A white cat crosses your path.
+145. A (1d2): 1) Black 2) White cat crosses your path.
+146. From the corner of your eye, you see a wooden hut. You'd swear it wasn't there before. Smoke comes from the chimney and an appetizing broth is cooking over the fire. Something feels off.
 
 151. A severed head falls from the sky, yelling out to you as it falls. 1 in 6 chance it gets out anything helpful before it goes splat.
 152. You suddenly hear voices. On closer inspection, you find that it was an old tree speaking, very slowly. If you take your time to speak to it, it will tell you a looooong story that lasts for d6 days. At the end of the story, you all get a single wish. The tree grants you exactly what you ask for but interprets it in the worst possible way.
