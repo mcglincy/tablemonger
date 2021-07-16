@@ -358,6 +358,10 @@ body.is-patron .patreon-banner-container {
   margin-top: 0;
   margin-bottom: 4px;
 }
+#landing-copy .namesnamesnames {
+  font-size: 14px;
+  text-transform: uppercase;
+}
 a,
 a:link,
 a:visited,
@@ -406,8 +410,4 @@ img.mb-logo {
   filter:  invert(88%) sepia(28%) saturate(1678%) hue-rotate(358deg) brightness(103%) contrast(105%);  
   /* white */
   /* filter: invert(100%) sepia(0%) saturate(7466%) hue-rotate(139deg) brightness(109%) contrast(103%); */
-}
-.namesnamesnames {
-  font-size: 14px;
-  text-transform: uppercase;
 }
