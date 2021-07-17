@@ -2583,6 +2583,93 @@
     ]
   },
   {
+    "name": "D20 Nohr Myths",
+    "category": "d20",
+    "roll": "d20",
+    "entries": [
+      {
+        "rowNum": "1",
+        "tableItem": "Eats an entire Elk in one sitting."
+      },
+      {
+        "rowNum": "2",
+        "tableItem": "There were once two Nohr, but one ate the other, and grew stronger for it."
+      },
+      {
+        "rowNum": "3",
+        "tableItem": "Nohr has 48 teeth instead of the normal 32."
+      },
+      {
+        "rowNum": "4",
+        "tableItem": "Nohr once held every championship belt from every MMA weight class and conference, concurrently. Only willfully surrendering them when he made Dana White cry."
+      },
+      {
+        "rowNum": "5",
+        "tableItem": "Nohr was Leroy Jenkins."
+      },
+      {
+        "rowNum": "6",
+        "tableItem": "Nohr turned down the role of Darth Vader because he wasn’t evil enough."
+      },
+      {
+        "rowNum": "7",
+        "tableItem": "Nohr ghost-wrote American Pie for Don McLean."
+      },
+      {
+        "rowNum": "8",
+        "tableItem": "Nohr handglides on the weekends as a pastime."
+      },
+      {
+        "rowNum": "9",
+        "tableItem": "Nohr never blinks as he was born without eyelids."
+      },
+      {
+        "rowNum": "10",
+        "tableItem": "Nohr can assemble IKEA furniture with his mind."
+      },
+      {
+        "rowNum": "11",
+        "tableItem": "Nohr  is the black disk which bolts out the sun."
+      },
+      {
+        "rowNum": "12",
+        "tableItem": "Nohr’s tattoos constantly move when not looked directly at and they depict the story of your next MB game and how your characters die."
+      },
+      {
+        "rowNum": "13",
+        "tableItem": "In another reality Nohr threw the staff of power into the sphere of annihilation. In this reality we call that the Big Bang."
+      },
+      {
+        "rowNum": "14",
+        "tableItem": "Nohr has a second mouth on his left shoulder that whispers the ideas for Mörk Borg to him in his sleep."
+      },
+      {
+        "rowNum": "15",
+        "tableItem": "Nohr won ALL the gold medals at the Lillehammer Olympics."
+      },
+      {
+        "rowNum": "16",
+        "tableItem": "Once upon a time Pepperidge Farms didn't remember. Nohr remembered."
+      },
+      {
+        "rowNum": "17",
+        "tableItem": "Nohr is a meat mech controlled by a bone warrior."
+      },
+      {
+        "rowNum": "18",
+        "tableItem": "Nohr sustains himself on morning dew and the energies of the universe. For desert though its the suffering of PCs in Mork Borg under the hands of his followers."
+      },
+      {
+        "rowNum": "19",
+        "tableItem": "Nohr's real name is-"
+      },
+      {
+        "rowNum": "20",
+        "tableItem": "ph'nglui mglw'nafh Nohr R'lyeh wgah'nagl fhtagn la, la!"
+      }
+    ]
+  },
+  {
     "name": "D20 Poorly Enchanted Trinkets",
     "category": "d20",
     "roll": "d20",
