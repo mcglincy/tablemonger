@@ -1,21 +1,21 @@
 D20 Items for Sale at Schlewig's Illegal Midnight Markets
-1. Owl Teeth (20 silver for a bag of d6) Increases Presence to +3 for d8 hours, but only if your Presence score is negative to begin with
-2. Live goblin. (150-200s) Muzzled, blindfolded, limbs sawed off
-3. Skinscribe’s Scarification: (250s) The Skinscribe copies the runes of a provided scroll into your flesh, giving you the Power Word feat of that scroll.
-4. Assorted Goblin Limbs (d8s) Put your hand in the bag and see what you get.
-5. Petrified Crow (50-90s) Crushing the bird-crystal in your hand grants you another omen. This omen does not count towards your maximum omens for the day
-6. Wick Head (200 silver) This never failing light source is fantastic for reaching down into those dark dark corners of the world. Once a day you can spend a Power to snuff out all light in a 40ft radius including the Wick Head. It will turn back on next Dawn. Warning, never let another Wichhead see you holding this. The flames of Hatred will Consume you.
-7. Skin Stealer's Spirits. (150s) Mix with the eyeball of your target. Drink it and steal their skin, taking on their physical appearance completely. They are left flayed, wherever they are, but alive.(ändrad)
-8. Poison (White) (40s) 3 doses of a pale tincture made of goblin brains. It stinks like rotting strawberries. Toughness DR16 or d4 damage and falls unconscious for an hour. The unconscious victim dreams of mass slaughter.
-9. Schleswig Scroll (25s) Appears as a random Sacred Power. Explodes for 2d6 damage when read
-10. Invisible Weapon (a metal weapon's normal cost + 100s) Swords and hammers crafted of the invisible ore are hard to master, but are worth their illusivity. The DR of attacks with the weapon are reduced by 4 but the weapon fumbles on a 3 or lower.
-11. Invisible Caltrops (21s) Fuck you, don't drop them. Can't be spotted in most circumstances. Presence DR20 in special cases.
-12. Madman's Scrapbook (24s) An indecipherable pile of numbered tables and horrible sketches. It grants a random (d2) 1. Unclean Scroll 2. Sacred Scroll to its reader. One use
-13. Dead Doll Plaster Cast Mask (70s) With sound! Forces a morale roll. One use
-14. Devil Dust (100s). One use. Comes with a blowpipe. Blown on enemies make them freak out with weird hallucinations giving -2 DR to pjs for d8 turns. If smoked, it cures d4 damage points but has 2-in-6 chances of turning its user an addict
-15. Infant Wyvern (400-500s) Neutered and wyrmed, prime for a loving trainer. Will grow to full size in d10 months.
-16. Fragment of Godstone. (50s) Legend says if a fragment is returned to its rightful place, aspirants can attract the attention of something old.
-17. Hunk of the Troll Arbint (400s) A lobbed off chunk of flesh, preserved in a murky solution, supposedly from the renowned troll Arbint. Consume: 1d6: 1-3 profuse sweating for the next d6 days, secreting pale sludge; 4-5 -2DR to STR rolls for next d6 days; 6 all damage healed in next d4+2 days added to maximum HP pool.
-18. Monster Birdcall (150s) It can be a whistle, a pile of prepared meat or even a crying mechanic doll for as long as it attracts the desired creature. Spending 100s more it comes with a rudimentary trapping mechanism.
-19. Trained Chimera (200-300s) Will obey commands in exchange for food and affection. HP: 6, Claws(or appropriate body part): 1d6, fur/scales/chitin: -d2, Morale: 7, roll 2d6 to see what combination of animals your chimera is. 1. Scorpion (Tail: d6+ Red Poison: Toughness DR10 or d10) 2. Lion (Big claws: d8) 3. Giraffe (Long Neck: Can see far) 4. Badger (Thick hide : -d4) 5. Snake (fangs: d4 + Black Poison: DR14 toughness or d6 and blind for an hour) 6. Eel (Lighting: d6, DR14 defend, DR16 if they're wearing metal)
-20. Head of Gorgon (1000s)"Don't let the guards catch you with this or else you'll be joining Fathmu's statue garden" DR15 presence when meeting its gaze or partial petrifaction occurs. 3 failures or roll a 1 on d20 for the presence check and become completely petrified.
+1. **Owl Teeth** (20 silver for a bag of d6) Increases Presence to +3 for d8 hours, but only if your Presence score is negative to begin with
+2. **Live goblin**. (150-200s) Muzzled, blindfolded, limbs sawed off
+3. **Skinscribe’s Scarification**: (250s) The Skinscribe copies the runes of a provided scroll into your flesh, giving you the Power Word feat of that scroll.
+4. **Assorted Goblin Limbs** (d8s) Put your hand in the bag and see what you get.
+5. **Petrified Crow** (50-90s) Crushing the bird-crystal in your hand grants you another omen. This omen does not count towards your maximum omens for the day
+6. **Wick Head** (200 silver) This never failing light source is fantastic for reaching down into those dark dark corners of the world. Once a day you can spend a Power to snuff out all light in a 40ft radius including the Wick Head. It will turn back on next Dawn. Warning, never let another Wichhead see you holding this. The flames of Hatred will Consume you.
+7. **Skin Stealer's Spirits**. (150s) Mix with the eyeball of your target. Drink it and steal their skin, taking on their physical appearance completely. They are left flayed, wherever they are, but alive.(ändrad)
+8. **Poison (White)** (40s) 3 doses of a pale tincture made of goblin brains. It stinks like rotting strawberries. Toughness DR16 or d4 damage and falls unconscious for an hour. The unconscious victim dreams of mass slaughter.
+9. **Schleswig Scroll** (25s) Appears as a random Sacred Power. Explodes for 2d6 damage when read
+10. **Invisible Weapon** (a metal weapon's normal cost + 100s) Swords and hammers crafted of the invisible ore are hard to master, but are worth their illusivity. The DR of attacks with the weapon are reduced by 4 but the weapon fumbles on a 3 or lower.
+11. **Invisible Caltrops** (21s) Fuck you, don't drop them. Can't be spotted in most circumstances. Presence DR20 in special cases.
+12. **Madman's Scrapbook** (24s) An indecipherable pile of numbered tables and horrible sketches. It grants a random (d2) 1. Unclean Scroll 2. Sacred Scroll to its reader. One use
+13.** Dead Doll Plaster Cast Mask** (70s) With sound! Forces a morale roll. One use
+14. **Devil Dust** (100s). One use. Comes with a blowpipe. Blown on enemies make them freak out with weird hallucinations giving -2 DR to pjs for d8 turns. If smoked, it cures d4 damage points but has 2-in-6 chances of turning its user an addict
+15. **Infant Wyvern** (400-500s) Neutered and wyrmed, prime for a loving trainer. Will grow to full size in d10 months.
+16. **Fragment of Godstone**. (50s) Legend says if a fragment is returned to its rightful place, aspirants can attract the attention of something old.
+17. **Hunk of the Troll Arbint (400s) A lobbed off chunk of flesh, preserved in a murky solution, supposedly from the renowned troll Arbint. Consume: 1d6: 1-3 profuse sweating for the next d6 days, secreting pale sludge; 4-5 -2DR to STR rolls for next d6 days; 6 all damage healed in next d4+2 days added to maximum HP pool.
+18. **Monster Birdcall** (150s) It can be a whistle, a pile of prepared meat or even a crying mechanic doll for as long as it attracts the desired creature. Spending 100s more it comes with a rudimentary trapping mechanism.
+19. **Trained Chimera** (200-300s) Will obey commands in exchange for food and affection. HP: 6, Claws(or appropriate body part): 1d6, fur/scales/chitin: -d2, Morale: 7, roll 2d6 to see what combination of animals your chimera is. 1. Scorpion (Tail: d6+ Red Poison: Toughness DR10 or d10) 2. Lion (Big claws: d8) 3. Giraffe (Long Neck: Can see far) 4. Badger (Thick hide : -d4) 5. Snake (fangs: d4 + Black Poison: DR14 toughness or d6 and blind for an hour) 6. Eel (Lighting: d6, DR14 defend, DR16 if they're wearing metal)
+20. **Head of Gorgon** (1000s)"Don't let the guards catch you with this or else you'll be joining Fathmu's statue garden" DR15 presence when meeting its gaze or partial petrifaction occurs. 3 failures or roll a 1 on d20 for the presence check and become completely petrified.
