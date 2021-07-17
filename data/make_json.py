@@ -13,6 +13,8 @@ def rollForNum(num):
     return "d44"
   if num == 36:
     return "d66"
+  if num == 48:
+    return "d6d8"
   if num == 64:
     return "d88"
   if num == 216:

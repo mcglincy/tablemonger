@@ -1,5 +1,97 @@
 [
   {
+    "name": "D0 Incredible Things People have Shouted in Praise of a Horse Named Bartholomew",
+    "category": "d2",
+    "roll": "d2",
+    "entries": [
+      {
+        "rowNum": "1",
+        "tableItem": "[nothing]"
+      },
+      {
+        "rowNum": "2",
+        "tableItem": "[still nothing]"
+      }
+    ]
+  },
+  {
+    "name": "D4 Creatures That Might Kill You in the Night in the Woods of Sarkash",
+    "category": "d4",
+    "roll": "d4",
+    "entries": [
+      {
+        "rowNum": "1",
+        "tableItem": "**Förfrysning**. DR-2 to hit due to its size. Fiery and crushing attacks have their crit range increased by three—e.g., the normal crit range of 20 becomes 17–20. **HP** 32. **Morale** special. **Rime hide** -d6 + special. **Mauling** 2d6+1. **Frosty bite** 2d6 + special. **Special (rime hide)** If armor's tier is reduced, it reforms to -d6 by the next stalking. **Special (frosty bite)** As below, test Toughness DR14 or lose d2 HP."
+      },
+      {
+        "rowNum": "2",
+        "tableItem": "Creeping Copse. This small clearing in a ring of bushes and trees suggests a decent chance at overnight safety, as the thick brush and low-hanging branches can both hide you and deter any but the hungriest predators. Unfortunately, the leaves and straw on the ground hide the gnarled roots that trap your limbs and the mouth that will consume you once you're seated or lying on the ground. In its branches are pseudo-birds that warble not-quite-authentic calls to attract its prey. HP 45 Morale -- Movement -- Terrified of fire and will free a trapped victim if threatened with flame."
+      },
+      {
+        "rowNum": "3",
+        "tableItem": "**TÖRNEBIRDS** These mostly silent kestrel-sized birds attack anything that comes close to their nest. They hunt for meat at night, preferring to spear creatures' eyes and take them back to their nests.\\n\\n1d4 birds per nest HP 2 Morale-- No armor -- DR 16 to hit due to speed and size. Strafe -- 1d2 dmg as birds fly close, brushing their barbed, thorny feathers against their target. Special -- Piercing Note: 1d4+1 dmg -- 1 in 8 chance törnebirds dive directly at a target stabbing with their long barbed beak, emitting a sustained trilling note as they do. 3 in 6 chance it breaks its neck on impact. Once embedded, its barbed beak prevents a törnebird from slipping out of a target. Living törnebirds scratch and batter at a person for 1d2 damage for 1d4 rounds until they eventually drown in the target's blood. Target takes 1d4 dagage of tearing damage removing a beak from their body. Their nests are surprisingly smooth and make very comfortable (and fashionable in certain circles) hats, though they smell like birdshit. Raw törnebird eggs heal 1d3 hp of damage if eaten (roll 1d4 -- on a four, PC contracts Salmonella poisoning instead). Cooked, they're worthless and are too small to provide any reasonable sustenance shy of a dozen."
+      },
+      {
+        "rowNum": "4",
+        "tableItem": "Gölo Gölo. A muscular and smelly beast. It’s akin to a bear, or... dog, maybe more like a large weasel. No matter what beast it bears resemblance to, it’s still a monstrous predator. It’s capable of unmaking almost anything larger than itself, beast and man alike. (Will make stat block soon, on my break at work lol)"
+      }
+    ]
+  },
+  {
+    "name": "D4 Uncanny Half-Dead Godlings",
+    "category": "d4",
+    "roll": "d4",
+    "entries": [
+      {
+        "rowNum": "1",
+        "tableItem": "The one and a half headed basilisk: Momentarily resurrected to fight the user of a power to death whenever the die roll to use a power is on an angle so no one side is facing up but the user wants to manifest the power anyway."
+      },
+      {
+        "rowNum": "2",
+        "tableItem": "An earth titan whose headlong fall and death spasms are the gradually dissipating aftershocks now felt by villagers across the plains."
+      },
+      {
+        "rowNum": "3",
+        "tableItem": "Uisceach. The god of a once mighty river whose worshippers made it powerful through sacrifice, The Church of The Two Headed Basilisk killed its servants and it has grown weak with time. Craves the final breath of mortal lives."
+      },
+      {
+        "rowNum": "4",
+        "tableItem": "The nameless. A neverborn godling, unwanted, aborted and cast down to the earth. Its shriveled fetus form whispers promises of power and wealth into the mind."
+      }
+    ]
+  },
+  {
+    "name": "D6 Boss Monsters",
+    "category": "d6",
+    "roll": "d6",
+    "entries": [
+      {
+        "rowNum": "1",
+        "tableItem": "The Reassembled. An anatomically incorrect variety of Frankenstein's monster. Reassembled from the parts of many corpses. An abstraction of human limbs where his reattached to his crotch. His guts and intestines are filled with rancid waste and one of his main attacks consists of pissing acid out of his mouth while gargling curses at his victims. The Reassembled is seeking revenge towards the living that cursed him to live like this and constantly slurs and curses. Imagine that his lungs are connected with intestines.\\n\\n30  HP\\n\\nAttacks (D4): 1) Rancid Piss Spew: 1D4 Per round until healed by salva. 2) The Grasp of Hundred limbs: 1D6. 3) The Human Wrecking Ball (rolls or throws itself onto it's enemies) 1D8. 4)  Cursed by Bowels (PCs must beat a DR13 of toughness to avoid being sickened by the wretched song of the digestive system, or become passified for d4 rounds.)"
+      },
+      {
+        "rowNum": "2",
+        "tableItem": "Living Smoke. Some witches get burned, and others have tried to resurrect their ashes with living water. The result is a creature made of smoke, ready to feast on any inquisitor or holy man in town but also on those peasants who laughed while she was burning. She sucks all knowledge out of her victims, when they inhale. After being filled with enough knowledge, she can be either captured by a spell, or she disperses into thin air.*\\n\\n**HP** 25 **Morale** – **Thick smoke** -d8 damage **Size** 10ft x 10ft\\n**Specials:**\\n**Inhale:** If you are within the Living Smoke radius, roll toughness 12 or inhale the smoke, leaving you with complete amnesia. For every creature that is within the Living Smoke radius, the smoke loses 2 HP per round. **Whispers of Madness:** The Living Smoke whispers spread to all people around her. Make a DC12 presence test or move 10ft back. Those standing within the smoke cannot move. **Magic vulnerability:** The Living Smoke is vulnerable to magic spells and they have greater effect on her (for damage spells, count as crit). If the Living Smoke is between 1 HP and 6 HP, she can be captured, with her knowledge, into an item. You’ll need to right spell to do that though. If the living Smoke reaches 0 hp, she disperses into the air. Often accompanied by a few hags or witches, and found in towns. \\nAn item filled with Living Smoke Knowledge will sell for at least 150 silver."
+      },
+      {
+        "rowNum": "3",
+        "tableItem": "1001 goblins. One of them has a crown and deals extra damage. If you kill the one with the crown another goblin will put it on. You can only lose."
+      },
+      {
+        "rowNum": "4",
+        "tableItem": "Arch-Tormentor Kristian Tyrann. Nechrubel's touch is insidious and deep, able to infect the minds of even the most devout servant of the Twin-Headed Basilisks. It is said there is man so evil, Nechrubel himself calls him friend. Leading the sinister Executioners of Nechrubel, Kristian Tyrann was once beloved by the Church of Galgenbeck. One day, shipfuls of starving folk from the world beyond the Endless Sea came to Galgenbeck for refuge. Kristian Tyrann took almost one-hundred folk in and gave them a bargain - if they worked constructing a tower, he would allow them to stay in shelter and food. The tower took fourteen years to construct, during which time he drew his plans with his engineers. The tower was seven stories, among the highest outside Galgenbeck, and was intended as a forge and center of research for mighty tools to aid Galgenbeck's dominion. When the tower was constructed, Tyrann ushered his workers inside and gave them a sermon. When they emerged, they rallied a blood tax - five victims for every man, woman, and child who died working on the tower. Over a hundred people were dragged into the tower. The year of horrible research that proceeded is spoken of only in the harshest whisper, the deepest privacy. Kristian Tyrann created the Executioners and bound them to his will. He invented the thirteen suffering engines, which draw power from the victim inside and slay countless men. He wrote the twisted **Alchemic Pain Manual**, a treatise on the art of suffering. When Galgenbeck cast him out, killed his following, and destroyed his home, Nechrubel was swift to pick him back up. His research is elsewhere now, fortified beyond even Galgenbeck's power to destroy. He improves on his projects, suffused with the will of Nechrubel. And he creates new nightmares every day, full of joy at his boundless creativity that pleases even Nechrubel. Kristian Tyrann has 1 HP, Morale 6, No armor, and a small sharp tool 1d4 HP. ***He is only a man.***"
+      },
+      {
+        "rowNum": "5",
+        "tableItem": "Bethalud the last guardian. First boss from my almost done dungeon. Missing both eyes and having just empty eye sockets. Old as balls. Tasked with guarding the lower level of the ossuary. Will not let anyone to the lower levels. And will not part with his cane willingly. Wears a red cap.\\n\\nLast of the monks. Extremely pleased by the company, says that there is no one else to talk to but dust and shadows anymore. **HP** 4, **Morale** -, **No armor** \\n∙ **Cane** 1d4+number of miseries.\\n∙ **Fast.** Always wins initiative\\n∙ **Life everlasting.** If not killed with one blow, will not lose hp.\\n∙ **Death everlasting.** If killed and HP is not -3 or less, will transform into the `Beast That Lurks in the Dark`. The cane is lodged into his flesh.\\n\\n**Beast that lurks in the dark**\\nDeformed flesh and limbs. Otherworldly guttural growls. Feathers and hair protrude from decaying skin. Mind set to torment.\\n\\n**HP** 35, **Morale** -, no armor \\n∙ **Putrid Claws** 1d8\\n∙ **Stomp.** Test AGILITY DR 12 to get out of the way or take 2d6 damage.\\n∙ **Consume.** At or below 7 hp tries to eat a PC. Test STRENGTH DR 12 or get eaten and die. Beast heals to full hp."
+      },
+      {
+        "rowNum": "6",
+        "tableItem": "Mock Basilisk. Some say it's no more than an insane and mutated noble, others say it's a prophet of the twin-headed basilisk. The Mock Basilisk is in reality a bit of both. Horribly disfigured, a two-headed human noble carried around in a palanquin held up by 4 zealous cultists. Wherever he goes, he spews pure madness from his mouth. HP 7, Morale -, Light Armour. Faithful Servants: The wretched seer is protected by 4 zealous cultists. If the Mock Basilisk ever takes a hit and there are cultists still alive, they may intervene and take the damage instead. They have HP 5 and attack with swords (D6 damage). Unintelligible Preaching: There is a constant flow of noise from one of the two heads. All that can hear the Mock Basilisk make tests to use powers at DR 16. Lazy: When in the palanquin without guards, the Mock Basilisk is little more than a wretch. One may even take pity on the poor creature. DR 10 to attack the prophet when the 4 cultists are killed."
+      }
+    ]
+  },
+  {
     "name": "D6 Deeds to a Duchy",
     "category": "d6",
     "roll": "d6",
@@ -89,6 +181,37 @@
       {
         "rowNum": "6",
         "tableItem": "Remove the tongues of your living mother and father, and end their lives with iron. When the moon rises you can speak all dead languages, and the dead heed your words. When the next moon rises your words betray you in a tongue you do not understand."
+      }
+    ]
+  },
+  {
+    "name": "D6 Exotic Cursed Skinwalker Animal Forms",
+    "category": "d6",
+    "roll": "d6",
+    "entries": [
+      {
+        "rowNum": "1",
+        "tableItem": "**Puking Panda** You are cute (+2 to reaction roll), fluffy (-d4), but most of all queasy. DR10 Presence to project pungent panda puke. d4 damage + special: -2DR to track and to hit. Or just use your claws (d6)."
+      },
+      {
+        "rowNum": "2",
+        "tableItem": "**Colossal Crustacean** Big enough to fill a small room, this crab has a hard shell (-d6), giant pincers (d8 + Grapple), and can molt to heal 2d4hp over 10min, but then takes double damage for 10 minutes while a new shell grows from their squishy body."
+      },
+      {
+        "rowNum": "3",
+        "tableItem": "**Fluffy Werelion** On a full moon this powerful creature will rampage, looking for blood. His silverish long hair will reflect the moonlight. Fangs 1d10 dmg, DR10 to hit, because it's BIG. Enough HP to make him scary. Once a skinwalker in this form tastes human blood, there's an incremental chance of 5% a round that he liked so much, he wouldn't return his orginal form. Wait for the next moon phase. If the villagers will let you live till then."
+      },
+      {
+        "rowNum": "4",
+        "tableItem": "**Corpsegrinder Centipede** Eating, biting, running. Three feet long, a foot thick, with giant, pinching teeth and a glassy-black carapace. The mindlessness of an eternal hunger makes the skinwalker forget everything but their aching stomach, going into a beserk feeding frenzy. Each bite is 2d8 damage and the skinwalker must pass a DR18 check to do anything other than biting once they start (even if the biting is ineffective). When the target dies, the skinwalker will move to the next nearest living thing, friend or foe. Only when nothing living is within sight will the centipede start eating, requiring a DR12 to disengage or transform back into its human form. Corpsegrinder Centipedes are hated and reviled by most intelligent races and are killed on sight."
+      },
+      {
+        "rowNum": "5",
+        "tableItem": "Brain-eater squid. When in squid form, any round where you are grappling an enemy creature with a brain in its head, you can use your action to suck its brain out. Any creature that needs a brain to live is killed instantly. Otherwise the attack is gruesome but ineffective. Upon consuming a brain, roll Get Better but only as to Presence. You can move swiftly underwater but have trouble traveling significant distances on land"
+      },
+      {
+        "rowNum": "6",
+        "tableItem": "**Mirror Moth** This demonic giant insect has an incantation written in a pattern on one of its wings for a random sacred scroll, another wing has a reflection of that incantation for a random unclean scroll, you can only cast either in this form. If you see a spell being cast, you can expend a power and roll presence DR16 to reflect the spell back onto the caster. If you fail the presence roll the spell instead does maximum damage and last for maximum duration. You can only take this form at night, +4DR to all rolls if there is **LIGHT** around."
       }
     ]
   },
@@ -225,6 +348,123 @@
     ]
   },
   {
+    "name": "D8 Insidious Infections",
+    "category": "d8",
+    "roll": "d8",
+    "entries": [
+      {
+        "rowNum": "1",
+        "tableItem": "Stonerot. The wounded limb stars calcifying and steadily spreads throughout the body if not healed/amputated."
+      },
+      {
+        "rowNum": "2",
+        "tableItem": "Jellyskin. Your flesh starts sloughing off in large translucent sheets. Can lead to more infections as vulnerable tissues are exposed by the peeling rot."
+      },
+      {
+        "rowNum": "3",
+        "tableItem": "Musclebloat. Gain +1 Strength each day. Once it exceeds twice the maximum your muscles explode from your flesh and you bleed out in minutes."
+      },
+      {
+        "rowNum": "4",
+        "tableItem": "Leviathan Worms. Start as a niggling sensation in the stomach after drinking dirty water. Then they drive the host to extreme hunger, eating everything (and anyone) they can to stave off the cramping and nausea. Then, they slither their way into the host's very nerves, driving the host toward the sea. There they may survive and eventually grow into adult sea monsters."
+      },
+      {
+        "rowNum": "5",
+        "tableItem": "Dancing Fever. Dance, dance, dance. It's all you can think to do. Do it fancily, wildly, crazily, till your body gives out. Each 10 minutes not spent dancing results in d4 damage from the sheer restraint. You cannot fall asleep and must dance yourself unconscious. You cannot heal from resting and take d6 damage daily as the strain on your body takes it toll."
+      },
+      {
+        "rowNum": "6",
+        "tableItem": "Bonus Eruptus: The skeleton attempts to leap out of the patient’s mouth, causing them to feel edgy, antsy, and discombobulated. Take Toughness tests every morning—DR 10 at first, but increasing by 2 each day. If you fail, your skeleton leaps out of your mouth immediately, becoming a blood-covered skeleton. You can stave off or even cure the disease by administering transdental electromicide—routinely electrocuting your mouth until the GM says you feel better"
+      },
+      {
+        "rowNum": "7",
+        "tableItem": "Impostor Syndrome. Gnawing self-doubt pervades your thoughts, leading you to second-guess everything you do. Keep meticulous track of your failures.  After 10 failures, an impostor appears and attempts to kill you. If you kill the impostor by yourself, you are cured. If anyone helps you, you continue to suffer doubt, and the impostor can return until one or the other of you is permanently slain. You CAN Get Better while suffering from this illness, but the GM keeps track, only telling you if your scores decrease."
+      },
+      {
+        "rowNum": "8",
+        "tableItem": "Itchy and scratchy skin: contracted by those who look too much into the sky, their skin becomes grey and dry. All Agility checks, including defense, inflicts them 1d2 damage from their skin opening."
+      }
+    ]
+  },
+  {
+    "name": "D8 Magical Horses (and Their Titles)",
+    "category": "d8",
+    "roll": "d8",
+    "entries": [
+      {
+        "rowNum": "1",
+        "tableItem": "Heuseli, the Wranglemare of Múr. They say one of the colossal bridges to Grift murders friends. Not in the literal sense, at least that’s not always the case. There is *something* living on or under that one bridge that will turn companions and comrades into enemies before they reach the other side. It begins with minor annoyances. Bickering. Arguing. Irritation. But as the mare rides them, night after night soon they will become sworn nemeses. There has been violence. Many former allies hurled off the bridge down into the bottomless depths. Once in Grift, whatever inspiration or hope you had when you set off have left you bitter, betrayed and probably alone."
+      },
+      {
+        "rowNum": "2",
+        "tableItem": "Haargus. Haargus is a greying mare that looks every second its interminable age, yet somehow will not fall down and die. It can be ridden if you're particularly loathsome and sadistic - it travels half the movement speed of the slowest thing in the party. *Haargus will never die.*"
+      },
+      {
+        "rowNum": "3",
+        "tableItem": "James Baxter. James Baxter is a fine palomino horse with the amazing ability to not only walk on two hooves, but to have the balance of a acrobat and can often be seen traversing the dying world rolling on a large ball. Terrifyingly, this horse does not neigh but instead says it’s own name in a horrible mockery of a human voice."
+      },
+      {
+        "rowNum": "4",
+        "tableItem": "Patches, the Uncanny. Sewn together from the remains of three other horses; Patches should not be, and is aware of the fact.\\nUpon taking damage, Patches must roll a d10, and on a 0, one of its parts falls off and must be reattached or replaced."
+      },
+      {
+        "rowNum": "5",
+        "tableItem": "Bartholomew *(do not give this horse a title)*. Yes, they can talk, but it is mostly regrettable. In passing you hear people mutter *“That horse is mediocre at best”*, *“I’d say painfully average”* and *“Wow, Bartholomew is not incredible, for sure”*. If ridden, take a -1 to all Presence tests and be included in the disappointment of everyone else."
+      },
+      {
+        "rowNum": "6",
+        "tableItem": "Mescaline the Horrid Mother. An old mare in her final years developed a taste for flesh. Cursed by a horrid witch whose familiar went down the maw, Mescaline did not care and continues feasting. \\n1d6 days after eating an alive creature she gives birth to the thing she ate, not the same way it came in. Let's hope it dies easy and Mescaline won't eat it again."
+      },
+      {
+        "rowNum": "7",
+        "tableItem": "Canterelle, the Midnight Mushrump. From hoof to head covered in ever-creeping fungal growths that glow at night. In addition to being a nightlamp, Canterelle functions as a portable garden, producing four rations of mushrooms per day, provided she is kept well fed. She eats only fresh human meat, at a rate of one corpse per day. She will not hesitate to seek it on her own."
+      },
+      {
+        "rowNum": "8",
+        "tableItem": "Gascoigne, the Horse. And a glorious horse at that, they have long pointy ears, a massive jaw filled with razor-sharp teeth. Haggard fur often stained red, strong hind legs and blades for claws. You can find Gascoigne deep in the woods at night by following their dreaded howl. Winner of the Schleswig *'Definitely a Horse’* competition, all other participants had mysteriously gone missing in the days before."
+      }
+    ]
+  },
+  {
+    "name": "D8 Pets, Well-tolerated Pests, and Assorted Hangers On",
+    "category": "d8",
+    "roll": "d8",
+    "entries": [
+      {
+        "rowNum": "1",
+        "tableItem": "**Abigail** This friendly white and black dog charms everyone she meets. Add 2 to the reaction roll on meeting NPCs unless they are truly heartless. Useless in a fight."
+      },
+      {
+        "rowNum": "2",
+        "tableItem": "**Blood-fat ticks.** A cluster of ticks have taken up residence on you. They drain d2 hp worth of blood every day. On any given day, d4 ticks are ripe for the plucking. Thrown at an enemy, they splatter their contents—the enemy must roll Toughness DR16 or be incapacitated for 1d6 rounds with nausea. The power of blood magic means this works on both the dead and the living. You can also drain a ripe tick to get back 1HP."
+      },
+      {
+        "rowNum": "3",
+        "tableItem": "**Snake The Conspirator. ** The talking snake that hangs around your neck. It says smart things and versed in religion. Every day it needs to be fed with apples. If you outwit a snake (roleplay or Presence DR 16), it will turn into hot edgy demon (for d4 hours) that can't be visible to everyone except you and true believers, but can interact with material world."
+      },
+      {
+        "rowNum": "4",
+        "tableItem": "**Her Royal Highness** In these latter days, the vultures grow ostentatious, yet this one must be a queen among them, brilliantly festooned with the trophies of hundreds of cadavers. She must have taken a liking to you, as she only demands a tithe of one body per day from you. Once per day, test Presence DR14 to have her command the dead to act in your favor. It is said that carrion-eaters are emissaries of Nechrubel; perhaps if you gift her enough she will whisper some of the Dark God’s secrets to you."
+      },
+      {
+        "rowNum": "5",
+        "tableItem": "**The innkeeper's daughter**. Sooner or later you will visit a tavern. Who would have thought that yandere would fall in love with you? She's stalking you with a kitchen knife (d6 damage) and attack everyone (from an ambush) who she considered dangerous. And every female person. While she's stalking you, you gain +4 HP after rest with sleep if you alone and d4 rations that she's cooked every day. Each day you must roll d4 Scum. It's her father's mercs."
+      },
+      {
+        "rowNum": "6",
+        "tableItem": "**Ghost of your first victim**. It bothers you by alarming screams when you sleep or when you try to think. Rolls for Presence gain +2 to DR and -2 to HP when rest with sleeping. It's very offended, often cries. You can banish these soul if you save someone's live."
+      },
+      {
+        "rowNum": "7",
+        "tableItem": "**Child of Mud**. No one knows if this is just an actual child that plays in the mud, or is some sort of mud spirit that crawled forth from some muddy slop in a swamp.  Either way, they act childish by tossing mudballs at people.  +2 to reaction if any PC has muddy clothing, -2 if they're all clean.  Helps on 9-12 reaction roll.  Can distract enemies, giving PCs a +2 to Attack and Defense rolls. **HP** 8  **Mudskin** -d2  **Mudball** d2, plus distraction  **Special** Requires any PC to wear muddy clothing every night."
+      },
+      {
+        "rowNum": "8",
+        "tableItem": "**Sinclair the unwise.** A, tall, gaunt, scholarly looking gentlemen with a hoarse voice and crackled skin. This reserved and timid person will assist in fights only if you succeed Presence check of DR 14. He does all his Attacks and Defense with a DR of 14, and has a Moral of 5 and 6 HP. If he takes any damage, roll Moral and on a failure he runs away, only to return when the fight is over. When asked for his opinion or advice he will **Always give the worst Answer**."
+      }
+    ]
+  },
+  {
     "name": "D8 Reasons Why That Couple of Cutthroats is Following You",
     "category": "d8",
     "roll": "d8",
@@ -260,6 +500,84 @@
       {
         "rowNum": "8",
         "tableItem": "Pog and his minions picked up a few tricks from the Inquisition and are itching to try them out on you, see what spills out"
+      }
+    ]
+  },
+  {
+    "name": "D8 Things You Shouldn't Eat But Probably Will",
+    "category": "d8",
+    "roll": "d8",
+    "entries": [
+      {
+        "rowNum": "1",
+        "tableItem": "\"Jerky\" you found in the Troll's lair"
+      },
+      {
+        "rowNum": "2",
+        "tableItem": "Man tofu"
+      },
+      {
+        "rowNum": "3",
+        "tableItem": "Bergen Chrypt Oysters"
+      },
+      {
+        "rowNum": "4",
+        "tableItem": "Endless Sea Sashimi"
+      },
+      {
+        "rowNum": "5",
+        "tableItem": "That yellowish moss that grew on the mausoleum walls"
+      },
+      {
+        "rowNum": "6",
+        "tableItem": "Suspicious meatball (goblin testicle)"
+      },
+      {
+        "rowNum": "7",
+        "tableItem": "Scabs all over your body"
+      },
+      {
+        "rowNum": "8",
+        "tableItem": "Adipocere (corpse cheese)"
+      }
+    ]
+  },
+  {
+    "name": "D8 Wandering Lions",
+    "category": "d8",
+    "roll": "d8",
+    "entries": [
+      {
+        "rowNum": "1",
+        "tableItem": "Paston, who wears a skinned lion as a cape, and tassels on his feet. He travels the dying world, pulling a horse's corpse in a two-wheeled cart. When he meets others on the way, he produces a stick and proceeds to beat upon the dead horse, who seems not to mind it terribly."
+      },
+      {
+        "rowNum": "2",
+        "tableItem": "Rufford, a skinny lion with a long, unnatural grin, walks nervously and with paranoia, always tells riddles as if they where jokes, rips apart anyone that doesn't laugh or solves them."
+      },
+      {
+        "rowNum": "3",
+        "tableItem": "Zeke, a lion whose body seems a little too long. It moves by arching and extending its back, the legs do not move. Zeke will offer to tell secrets it has learned in exchange for a goat. If refused, it will follow the person who refused and steal their secrets while they sleep."
+      },
+      {
+        "rowNum": "4",
+        "tableItem": "Torvul, mentally unstable human, now convinced he is The One True Lion King. Growls, howls, menaces you with his \"claws\". Refuses to make sense, likely dangerous."
+      },
+      {
+        "rowNum": "5",
+        "tableItem": "The lion from that zoo. Actually just a dog who is trimmed to look like they have a mane. Likes getting petted and for sure tries To lick your face. Also fond of gloves or mittens, if they catch yours they wont let It go."
+      },
+      {
+        "rowNum": "6",
+        "tableItem": "T’Zuun the Corpse. It really is the corpse of the lion. It never rots beyond that initial corpse smell. It moves when you aren’t looking. Harmless, just disgusting. It has no origin, and not one knows why it exists. A sign of our future perhaps..."
+      },
+      {
+        "rowNum": "7",
+        "tableItem": "Bulky the Lion. More aberration than beast, King Fathmu's pet, he eats the King's leftovers, and enjoys free roaming over Schleswig. He eats whatever and whomever he wants, and no one dares do something about it, as to not anger the Fat King. *In truth, he wants the lion killed, wishing to make the victor his new champion and part of his guard.*"
+      },
+      {
+        "rowNum": "8",
+        "tableItem": "Berömdhekken & Myke. Two-headed lion. If one head is awake, the other is asleep. Berömdhekken is a little nuts but nice enough. Mostly keeps to itself. Draws little treasure maps in the dirt. Myke is always off viciously mauling something to death."
       }
     ]
   },
@@ -311,13 +629,60 @@
     ]
   },
   {
+    "name": "D10 Alternate Starting Weapon Rolling Chart",
+    "category": "d10",
+    "roll": "d10",
+    "entries": [
+      {
+        "rowNum": "1",
+        "tableItem": "**Spine With Skull** d4"
+      },
+      {
+        "rowNum": "2",
+        "tableItem": "**Sweet Wolverine Claws** but only d4!?"
+      },
+      {
+        "rowNum": "3",
+        "tableItem": "**Rusty Shovel** d6"
+      },
+      {
+        "rowNum": "4",
+        "tableItem": "**Razor blade** d2"
+      },
+      {
+        "rowNum": "5",
+        "tableItem": "**Wooden Board With A Rusty Nail** d4 + enemies roll DR15 toughness on contracting infection/tetanus"
+      },
+      {
+        "rowNum": "6",
+        "tableItem": "**Revolver** d6 + 4 damage. You have exactly six bullets. Good luck finding replacements."
+      },
+      {
+        "rowNum": "7",
+        "tableItem": "**Pitchfork** d6 **& torch** d4"
+      },
+      {
+        "rowNum": "8",
+        "tableItem": "**Statue of SHE** d8, requires DR14 STR to lift up"
+      },
+      {
+        "rowNum": "9",
+        "tableItem": "**Smashed Glass Bottle** d4 + 2 in 6 chance it shatters on impact and also deals the damage to you"
+      },
+      {
+        "rowNum": "10",
+        "tableItem": "**Pebbles** d2 damage. Good for pestering enemies and NPCs/PCs."
+      }
+    ]
+  },
+  {
     "name": "D10 Instant Death",
     "category": "d10",
     "roll": "d10",
     "entries": [
       {
         "rowNum": "1",
-        "tableItem": "A hole opens up beneath your feet, swallowing you immediately"
+        "tableItem": "A hole opens up beneath your feet, swallowing you immediately."
       },
       {
         "rowNum": "2",
@@ -354,6 +719,53 @@
       {
         "rowNum": "10",
         "tableItem": "Your hairs turn into steel maggots that immediately set upon you, hungering for wet flesh. Spend several hours writhing in exquisite agony, before expiring as your new friends reach your vitals."
+      }
+    ]
+  },
+  {
+    "name": "D10 Miserable Adventure Hooks",
+    "category": "d10",
+    "roll": "d10",
+    "entries": [
+      {
+        "rowNum": "1",
+        "tableItem": "You wake up and are missing a random limb. You want it back."
+      },
+      {
+        "rowNum": "2",
+        "tableItem": "Someone has murdered your canine companion. You seek revenge."
+      },
+      {
+        "rowNum": "3",
+        "tableItem": "Timmy fell down the well. **How deep does the well go down?**"
+      },
+      {
+        "rowNum": "4",
+        "tableItem": "Even the crows turn on each other. There is nothing left to eat. **Move on or die.**"
+      },
+      {
+        "rowNum": "5",
+        "tableItem": "You said you would protect his bones. He said if you didn't,  he'd take yours. **You didn't keep up your part of the bargain. Where did his bones go?**"
+      },
+      {
+        "rowNum": "6",
+        "tableItem": "The Alchemist, locked in his moldering tower. Said to have found a way to turn lead into gold, as well as a way to know you rest in peace after the world falters. **Dwells on an island in the middle of the Acid Wastes**"
+      },
+      {
+        "rowNum": "7",
+        "tableItem": "The ground suddenly collapses and you tumble down a chasm into a vast underground structure. You seem to fall forever. Your donkey breaks their neck. You can’t climb up the same way."
+      },
+      {
+        "rowNum": "8",
+        "tableItem": "You wake up in a bed that is not yours, surrounded by people you do not know. None of them know where they are either. A map sits on the table with an unknown location circled and a marked path, \\\"follow me if you ever want to get home\\\", it says."
+      },
+      {
+        "rowNum": "9",
+        "tableItem": "The Unwinder of Miseries might give you a little more time before the end, if you can free them from Fathmu’s dungeons."
+      },
+      {
+        "rowNum": "10",
+        "tableItem": "There is a killer targeting nobles in Allians. The bounty on their head is too high for anyone to ignore, and now it's a free-for-all as the entire city begins tearing itself apart to find the assassin. **How will you escape with your collection of noble scalps?**"
       }
     ]
   },
@@ -405,6 +817,53 @@
     ]
   },
   {
+    "name": "D10 Reasons Why You Shouldn't Go into the Local Tavern",
+    "category": "d10",
+    "roll": "d10",
+    "entries": [
+      {
+        "rowNum": "1",
+        "tableItem": "The ale is gone."
+      },
+      {
+        "rowNum": "2",
+        "tableItem": "Inside, a local priest of the Cretin order (at least he says so) is muttering the words of HIM and blesses everyone to withstand the end of the world. 100 silver to participate in the blessing, that involves a bath of sheeps blood and crimson flowers, wearing thorns around your wrist for a day (roll 1d4, on a 1 you get infected) and summoning a \\\"lesser\\\" \\\"demon\\\" to kill. The demon might be you, and the blessing has no effect whatsoever."
+      },
+      {
+        "rowNum": "3",
+        "tableItem": "It's on fire and has been for some time."
+      },
+      {
+        "rowNum": "4",
+        "tableItem": "It's pitch-black inside and no light is allowed."
+      },
+      {
+        "rowNum": "5",
+        "tableItem": "It associates itself with some horse named Bartholomew."
+      },
+      {
+        "rowNum": "6",
+        "tableItem": "The mead there is heady and sweet, irresistible to your suddenly parched throat. Roll a d4: 1) You wake to shouts and jeers, weapons nailed to your hands (see Flails Akimbo). 2) Time passes in a particularly sloppy, smeared fashion. After d4 hours you find yourself in a jagged cave, naked and alone. 3) You fool! That was Red Harvald's mead and now he's (not) pissed. 4) The tavern keep's monkeys rob you blind"
+      },
+      {
+        "rowNum": "7",
+        "tableItem": "It's a mimic disguising as tavern."
+      },
+      {
+        "rowNum": "8",
+        "tableItem": "It is run by Pale Ones serving gooey discoloured \"beer\"."
+      },
+      {
+        "rowNum": "9",
+        "tableItem": "What tavern....what are you talking about? There never was a tavern."
+      },
+      {
+        "rowNum": "10",
+        "tableItem": "It's Wretched Royalty night. All drinks are twice as much."
+      }
+    ]
+  },
+  {
     "name": "D10 Shiny Things Floating in the Open Sewage",
     "category": "d10",
     "roll": "d10",
@@ -448,6 +907,304 @@
       {
         "rowNum": "10",
         "tableItem": "Two ended metal key, the ends are different or not!?."
+      }
+    ]
+  },
+  {
+    "name": "D10 Side-quests That the Shopkeeper Sends You To, in Exchange for a Special Item",
+    "category": "d10",
+    "roll": "d10",
+    "entries": [
+      {
+        "rowNum": "1",
+        "tableItem": "The left ear of five different creatures."
+      },
+      {
+        "rowNum": "2",
+        "tableItem": "An effigy of She that he sold to someone last week who, he heard, was now awaiting inhumation at the East Temple Yard."
+      },
+      {
+        "rowNum": "3",
+        "tableItem": "They want *[dramatic pause]* a gull that screams the name of their son. From Allains. From the castle. Catch the gull."
+      },
+      {
+        "rowNum": "4",
+        "tableItem": "There is a shopkeeper doppelganger they want to be rid of. The other shopkeeper offers the same quest. Any other person living in this area insists the two are twins."
+      },
+      {
+        "rowNum": "5",
+        "tableItem": "Slay a particularly intelligent Howler Bear deep in Sarkash. The Shopkeep is rather bored and will follow the party from afar in a merchant wagon, hoping to catch the chaos that will ensue. He’ll use the Howler Bear’s voice box to craft what can only be described as a screambox that screeches when disturbed."
+      },
+      {
+        "rowNum": "6",
+        "tableItem": "Find the goblin who stabbed his son before the curse overcomes him. Succeed and get the map to the shopkeep family’s secret stash of silver (was going to be the son’s college fund)."
+      },
+      {
+        "rowNum": "7",
+        "tableItem": "Get the receipt of Lord Baxter before he wants to trade in his 'silver' jewels. Without a receipt, he cannot prove his buy. You get a 'silver' ring in return from the shopkeeper."
+      },
+      {
+        "rowNum": "8",
+        "tableItem": "A body part taken from each of the shopkeeper's main business competitors. \"Make sure they get the message.\""
+      },
+      {
+        "rowNum": "9",
+        "tableItem": "The shop is cursed and by crossing the threshold you are now bound as shopkeeper until the apocalypse. Avoid your fate by pouring a tankard of blood freely given from a firstborn on the counter before the moon rises."
+      },
+      {
+        "rowNum": "10",
+        "tableItem": "Four Zebra Hooves, only issue is that they are endangered and under the protection of a band of Savannah druids. The Hooves make a magic stew to restore those dying of old age."
+      }
+    ]
+  },
+  {
+    "name": "D10 Trophies a Vampire Keeps from Their Victims",
+    "category": "d10",
+    "roll": "d10",
+    "entries": [
+      {
+        "rowNum": "1",
+        "tableItem": "Dying words written on a small piece of parchment."
+      },
+      {
+        "rowNum": "2",
+        "tableItem": "Fang-shaped fingernails."
+      },
+      {
+        "rowNum": "3",
+        "tableItem": "A goblet made from their skull."
+      },
+      {
+        "rowNum": "4",
+        "tableItem": "A vial of their blood."
+      },
+      {
+        "rowNum": "5",
+        "tableItem": "The patch of skin where they were drained/bitten from."
+      },
+      {
+        "rowNum": "6",
+        "tableItem": "A jewelry box filled with wedding rings."
+      },
+      {
+        "rowNum": "7",
+        "tableItem": "Literal trophies. 1st place, world’s greatest dad, etc."
+      },
+      {
+        "rowNum": "8",
+        "tableItem": "Broken hearts."
+      },
+      {
+        "rowNum": "9",
+        "tableItem": "The last weapon they tried to use against him."
+      },
+      {
+        "rowNum": "10",
+        "tableItem": "A vial of marrow, sucked from their bones."
+      }
+    ]
+  },
+  {
+    "name": "D10 Wretched Beasts",
+    "category": "d10",
+    "roll": "d10",
+    "entries": [
+      {
+        "rowNum": "1",
+        "tableItem": "**Tooth Golem** a vaguely humanoid mass of teeth, plaque, and ruddy gums. Stinks to high heaven."
+      },
+      {
+        "rowNum": "2",
+        "tableItem": "**GIGA CATERPILLAR** - Long and Coiling, a Mass of Poisonous Black Furry Black Hair, it wriggles through the ghettos looking for small animals and homeless people to consume at Night."
+      },
+      {
+        "rowNum": "3",
+        "tableItem": "**Giant Rust Roach** - HP:12, Armor:-d4, Metal-eating-mandibles:d8 + Special: attacks made by and against the rust roach involving metal weapons and armor rapidly degrade along with other proximate metals. Weapons take a -1 penalty to hit and damage, armor degrades a tier, and other worn metals break down after a minute."
+      },
+      {
+        "rowNum": "4",
+        "tableItem": "**Wax Crawler** - A shambling, horrid smelling adipocere cast of a person, the insides long putrefied and turned into noxious soup. All details of the wax are muddied and smeared, except for the face, which is marked out in exquisite detail."
+      },
+      {
+        "rowNum": "5",
+        "tableItem": "**Neuron Bequeathor** - Vaguely humanoid, but too long, too lanky, too many chitinous tentacles on the back of it's skull. It slinks through the night, seeking out intelligent life. It wishes to share its thoughts with you. It's less interested in spirited discussion and more interested in injecting new grey matter via a hole in the skull."
+      },
+      {
+        "rowNum": "6",
+        "tableItem": "**The Unchilded** - At a glance, indistinguishable from other tragedy-stricken wretched of these latter days. Indescribable grief has deformed their souls, and they single mindedly seek to hold their babes in their arms once more."
+      },
+      {
+        "rowNum": "7",
+        "tableItem": " The **Insurance Salesman** will tail your party for days until the right opportunity presents itself. After the PCs survive a particularly costly and harrowing encounter, he will present himself and make incredibly tone deaf jokes about how the characters must feel really stupid for not having insurance for those injuries. Will then offer ludicrously overpriced monthly injury and death plans, smarming the whole time. Killing him will have no consequences other than attracting more insurance salesmen, each more tenacious and obnoxious than the last."
+      },
+      {
+        "rowNum": "8",
+        "tableItem": "The **Skitterer**. A vaguely humanoid shape hangs on the edge of your periphery. It remains near a single individual for days, maddeningly out of sight- movement will occasionally be seen just on the edge of one's sight before the creature darts away. It is oddly lithe, and capable of folding itself in sickening ways to hide out of sight. Takes joy in knocking things over and causing other forms of small ruckus where they cannot be seen but they can otherwise be detected. It is technically possible to lock it in place- doing so requires immense planning."
+      },
+      {
+        "rowNum": "9",
+        "tableItem": "**White Page Demon** Frustrated scholars and poets report seeing this entity appearing in the late hours, clouding their minds, distracting from their work, at times erasing the progress wrought from their quills at great effort. Its form is hazy and seems to repel the eye; even trying to comprehend it can prove mentally exhausting."
+      },
+      {
+        "rowNum": "10",
+        "tableItem": "**Loose Bowels** - Some sort of intestinal horror, emerged from nearest sewer, now looking for snacks and somehow has teeth. HP 6, Morale -. Squishy gut-skin -d4. Leech-like fangs, d4 and will attach, automatically doing additional d4 per round until killed or removed with a DR14 strength check. Smells putrid, probably tastes worse. Infection?"
+      }
+    ]
+  },
+  {
+    "name": "D10 You have successfully summoned a demon, but which one?",
+    "category": "d10",
+    "roll": "d10",
+    "entries": [
+      {
+        "rowNum": "1",
+        "tableItem": "**Onhkar, the coachdemon**.  He can take you anywhere in exactly 1 hour 1 minute and 6 seconds.  The more difficult it is to get to the place, the more he charges per soul, although he is not interested in silver.  He is quite chatty so all passengers permanently loose 1 Presense after his \"funny\" stories about chilling and disgusting events. If you are brave enough, you can enter into a dialogue with him. Test Presense DR16, if successful, you can keep the dialogue in the desired direction. On Crit Onhkar casually shares a valuable secret with you. On fail, you accidentally spill out something that you later regret telling about."
+      },
+      {
+        "rowNum": "2",
+        "tableItem": "**Caliborn, The Fallen Cherub.** It summons in form like bald jock with a skull instead of face, black frayed wings and a walking stick (d4 damage). At the moment when it understands his occurrence - it starts regurgitate a rays of green light (d10 damage) in everything he sees. It can be stopped if you offer him to play chess (Presence DR 10 for checkmate). It sucks at chess, but can manipulate time, so it can roll Toughness DR 12 to rewind time and don't be loser. If you win, you will have a irritated shouty tyrant with a motive to destroy the fucking world."
+      },
+      {
+        "rowNum": "3",
+        "tableItem": "**Titivillus, a demon who doesn't forgive mistakes**. When you summon him, roll Toughness DR 18. If you fail, Titivillus change his body with yours. You can't go outside occult circle and your choice is to serve him or be unsummon and go to hell. If your success, you can enter in barter. Demon can give you information about mistakes of other people or creatures, but he needs Unclean Scrolls or free days without Hell."
+      },
+      {
+        "rowNum": "4",
+        "tableItem": "**Lustful Succubus**. Cost: Mammal's Heart. The caster summons a cunning cutie, a lower demon that actively looking for victim's soul and forced to defend the caster for so long as the power can contain the demonic pact. Once each round after casting, the horned girl rolls 3d6: on any roll of 14 or higher, the demonic pact succumbs to demon's pressure and succubus breaks free. On a roll of exactly 13, the succubus choose caster as a target and captures his body and soul as a servant and sexual slave. **HP**: 12, **Armor**: Attraction d4 (DC14 for enemies, if success - without armour), **Weapon**: Whip d6+1,** Spell**: Seduce (Enoxian Syntaxix) 1 cast per 3 round."
+      },
+      {
+        "rowNum": "5",
+        "tableItem": "**Wellak-Shalleigh, the Corrector** This incorporeal demon manifests solely as a sour, hot breath on the back of your neck. When you fail a DR test, the demon mansplains what you should have done differently. If circumstances permit, you may reroll the test—however if you fail again the demon instantly transports you to its home dimension, a reality of infinite and distilled condescension. You can rid yourself of the demon only by mansplaining something to someone else, though the whiff of its acrid breath will linger with you forever."
+      },
+      {
+        "rowNum": "6",
+        "tableItem": "**Kharnsh Sword-Breaker** Two meters tall and rippling with powerful muscles, no doubt, Kharnsh could finish its enemies off with a single swing of its massive cudgel banded with row after row of heavy iron spikes. Instead, it prefers to toy with its prey, breaking down their weapons until nothing is left before growing bored and striking the finishing blow. HP: 15 Morale: 9 Armor: Demonic resistance -d4. Attack: Special—on a hit, reduce target’s weapon die type by one, to a minimum of d4–past that the weapon breaks. Once the target is out of weapons, the next hit will smash through armor, bone, and flesh to kill the target instantly."
+      },
+      {
+        "rowNum": "7",
+        "tableItem": "**The Wound in Creation** A ragged gash in reality, from which an oily liquid constantly flows. Anything that touches the Wound is drawn into the spinning void and lost, perhaps forever. Shadow demons emerge from the Wound at a rate of about d3 per day. Some say the liquid that flows from the Wound is the Blood of Creation. Many magicians seek to understand it and unlock its secrets."
+      },
+      {
+        "rowNum": "8",
+        "tableItem": "**Sturxex.** A flesh-colored, horse sized, centipede with translucent legs, hole filled carapace and human face appears in front you. It demands **1 silver** from the summoner. If you give it the silver it vanish, leaving behind a **random unclean scroll** that disappear when cast, successfully or not or at next daybreak, whichever happens first. Each dawn there is a** 1 in 4** chance the demon reappears, with a new random unclean scroll, demanding **twice** as much silver as the last time it appeared. If the summoner refuses the trade or the demon is attacked, the demon quickly and magically drain the summoners** hp for an amount equal the price it demanded** and fade out of existence. This damage can never be healed and the demon is never seen again by the summoner."
+      },
+      {
+        "rowNum": "9",
+        "tableItem": "**The Liminal** A shadow? A roiling mass of fluttering whippoorwills? A human face swirled with a melancholy grin? The details are hard to make out as it flickers in and out of reality-as-you-perceive it. It savors the moment when life stands at the threshold of annihilation. If you fall to zero HP while near this creature but recover, gain 1d4 omens once you come to. Once this has occurred, your maximum HP drops to 1 until you figure out a way to foist the Liminal off on someone else."
+      },
+      {
+        "rowNum": "10",
+        "tableItem": "**Ckurv'Jhinakch** The demon summoned is an appalling arthropodic beast of fused human body parts contained by black and iridescent chitinous carapace.  Faces, hands, and limbs appear in its joints.  Its head is comprised of a crab split down the middle.  In the rent space is a headless, humanoid body encased in brass.  The neck stump is eternally leaking blood into its mouth and to the ground at a steady trickle.  It immediately speaks into the mind of the summoner, asking for the sacrifice.  The summoner must make a DR 14 Presence test to convince the demon they and their companions are not the sacrifice.  Success directs it to the nearest non-party NPC, failure means it attacks.  **HP** 24 **Morale** n/a **Flesh Chitin** -d4 **Bloodcrunch** d4 **Special** Absorb - Any target taking DMG more than twice must succeed on a DR 12 STR or become absorbed into its Flesh Chitin."
+      }
+    ]
+  },
+  {
+    "name": "D12 Appalling First Encounters with a Village",
+    "category": "d12",
+    "roll": "d12",
+    "entries": [
+      {
+        "rowNum": "1",
+        "tableItem": "They kidnap a random PC to sacrifice to their cult."
+      },
+      {
+        "rowNum": "2",
+        "tableItem": "You arrive in the middle of a massive religous ritual. The ceremony is unique to this town and kinda cultish... they'd want you in, but won't let you out."
+      },
+      {
+        "rowNum": "3",
+        "tableItem": "People are throwing shitbuckets from  second story windows. A passerby is hit. As are those who laugh."
+      },
+      {
+        "rowNum": "4",
+        "tableItem": "Everyone in the village is a husband. Father. Priest. They all have the same clothes and haircut. There are no women or children in sight."
+      },
+      {
+        "rowNum": "5",
+        "tableItem": "Everything smells wrong. Not bad, just not as what it should smell like. Every occupant of the town is blinking at the same time."
+      },
+      {
+        "rowNum": "6",
+        "tableItem": "Everyone is enthused about a bloated buffoon who promises to “Make the Dying Lands Great Again” by building a wall and making Grift pay for it."
+      },
+      {
+        "rowNum": "7",
+        "tableItem": "The villagers are all deathly pale and malnourished looking. They move with extreme lethargy when in eyesight, but when you turn your head, you can hear quick footsteps and whispers"
+      },
+      {
+        "rowNum": "8",
+        "tableItem": "It becomes obvious that *something* else is controlling the villagers' actions in a painfully bad imitation of mortal behavior. They seem oblivious or uncaring if anyone notices or points this out."
+      },
+      {
+        "rowNum": "9",
+        "tableItem": "The villagers have gathered pots, pans, stones, and anything else they can find into a ring and are frenetically pounding on them in a drum circle. They greet you effusively and bid you dance in the middle of the ring. It is impossible to hear anyone say anything."
+      },
+      {
+        "rowNum": "10",
+        "tableItem": "The town drunk immediately projectile vomits blood on one of the PCs, then keels over dead. Test Toughness."
+      },
+      {
+        "rowNum": "11",
+        "tableItem": "The Priest welcome PCs. The whole town offers food, clean clothes and warm beds. They will try to sacrifice PCs to a forgotten god at midnight."
+      },
+      {
+        "rowNum": "12",
+        "tableItem": "Every villager’s reaction seems slightly delayed and out of sync. The delay grows worse over time. It applies to objects and creatures as well."
+      }
+    ]
+  },
+  {
+    "name": "D12 False Blessings that Turn into Curses",
+    "category": "d12",
+    "roll": "d12",
+    "entries": [
+      {
+        "rowNum": "1",
+        "tableItem": "The power to burst a flame into any weapon or projectile (dealing 1d4 extra fire damage), after used enough times (on GMs discretion) it will start burning random areas of the accursed being's body. With continuous use, the curse will start activating at random, in the worst possible times, until the being is entirely consumed by the flames. The curse can be removed by sacrificing any extremity to frostbite."
+      },
+      {
+        "rowNum": "2",
+        "tableItem": "Potion promises to reverse hair loss. Works for 3 days. On the forth day, all remaining hair lost during their lifetime is restored at once, tangled."
+      },
+      {
+        "rowNum": "3",
+        "tableItem": "You grow wings, alas they are frail. You can fly but it is difficult (DR14 at minimum) any failed attempts at flight deal d6 damage as you crash into the environment. GM can increase the die value appropriately (IE high fall, brambles, cacti, traps, enemies, etc)"
+      },
+      {
+        "rowNum": "4",
+        "tableItem": "An inheritance of several priceless artifacts... stolen from King Fathmu's castle, for which he's put a considerable price on the recovery of both the item and the head of its possessor."
+      },
+      {
+        "rowNum": "5",
+        "tableItem": "A place in the Shadow King's court. Your title is \"Bearer of the Chalice\", though you did not imagine this meant becoming the Shadow King's personal errandboy."
+      },
+      {
+        "rowNum": "6",
+        "tableItem": "the blessing to poison everything you touch, including your own stuff"
+      },
+      {
+        "rowNum": "7",
+        "tableItem": "\"What's so funny?\" Blessing of continual happiness, but now nothing can wipe the insane grin from your face, even in sleep."
+      },
+      {
+        "rowNum": "8",
+        "tableItem": "The most delicious treat you will ever have, the only one of it on the world."
+      },
+      {
+        "rowNum": "9",
+        "tableItem": "Midas Touch. Every thing you touch became gold, at sight, the poorest quality and... it's not gold."
+      },
+      {
+        "rowNum": "10",
+        "tableItem": "You never sleep, but your body remains healthy and alert. Your mind however..."
+      },
+      {
+        "rowNum": "11",
+        "tableItem": "You can stop time, but it ages you at a rate of one year a second."
+      },
+      {
+        "rowNum": "12",
+        "tableItem": "You no longer feel pain or physical discomfort. This quickly leads to a gnarl of broken digits, cuts, scrapes, joints ruined from sleeping wrong, rotted teeth hosting bone infections, festering sores that really ought to have been leeched if only you’d noticed them."
       }
     ]
   },
@@ -503,6 +1260,281 @@
       {
         "rowNum": "12",
         "tableItem": "The Gloaming. The sky is an oppressive grey, dampening the already melancholic hearts of the adventurers. Nothing causes satisfaction or celebration, all rolls are at -1 and a natural 20 will provide success in the most dismal manner possible."
+      }
+    ]
+  },
+  {
+    "name": "D12 Lesser Miseries: The Clock of Nechrubel",
+    "category": "d12",
+    "roll": "d12",
+    "entries": [
+      {
+        "rowNum": "1",
+        "tableItem": "The Clock Strikes **One**_ Night has just begun, but it portends an end. The eyes grow restless in their skulls and shalt reclaim their domain."
+      },
+      {
+        "rowNum": "2",
+        "tableItem": "The Clock Strikes **Two*** Lo, the Clock has tolled again and midnight inches closer. The Shroud of Dread shall fall upon you, darkening visions and crushing dreams."
+      },
+      {
+        "rowNum": "3",
+        "tableItem": "The Clock Strikes **Three*** The flesh grows weary at its work, and itches to end its labors, sloughing unto rest eternal."
+      },
+      {
+        "rowNum": "4",
+        "tableItem": "The Clock Strikes **Four*** Upon this fourth chime, heads become a hell.  The slumber of the world becomes disturbed and intruded upon."
+      },
+      {
+        "rowNum": "5",
+        "tableItem": "The Clock Strikes **Five*** Twilight vomits forth legions of lion-headed insects to sting and bite. The blood-swollen marks shall fester with maggots in the image of their progenitors."
+      },
+      {
+        "rowNum": "6",
+        "tableItem": "The clock strikes Six A burning light flashes, blindingly bright. The pallid skin of the living soon-to-be dead bubbles and blisters."
+      },
+      {
+        "rowNum": "7",
+        "tableItem": "The Clock Strikes *Seven*_ All are cursed to have one shoe tied a little bit tighter than the other."
+      },
+      {
+        "rowNum": "8",
+        "tableItem": "The clock strikes* ***Eight*** And all the creatures are suddenly filled, towards each other, with fury and hate."
+      },
+      {
+        "rowNum": "9",
+        "tableItem": "The clock strikes* ***Nine*** No one is able to distinguish those who are dead from those who are alive"
+      },
+      {
+        "rowNum": "10",
+        "tableItem": "The clock strikes Ten* All toes fall off and burrow into the ground."
+      },
+      {
+        "rowNum": "11",
+        "tableItem": "The clock strikes* ***Eleven*** *, silence strangles the environment - For time itself pities and mutely mourns the past, and present, for what the future holds at the strike of Twelve."
+      },
+      {
+        "rowNum": "12",
+        "tableItem": "**Midnight** War blossoms in pillars of primordial fire. Ephemeral fungus scars the firmament. The air itself is poison, striking all with agonized wasting—death would be mercy."
+      }
+    ]
+  },
+  {
+    "name": "D12 Methods of Torture and Their Lingering Effects",
+    "category": "d12",
+    "roll": "d12",
+    "entries": [
+      {
+        "rowNum": "1",
+        "tableItem": "The Rack: Leaves you slightly taller (AGI +1) but much flimsier (STR -2)"
+      },
+      {
+        "rowNum": "2",
+        "tableItem": "Vision of a hundred hells: Seen such terrible sights (Learn one unclean power) but can't unsee them (PRES -2)"
+      },
+      {
+        "rowNum": "3",
+        "tableItem": "Flappgellation: take 1d4 damage but gain 1d2 strength for 10 minutes then drop 1d2 strength below your base strength until your next rest."
+      },
+      {
+        "rowNum": "4",
+        "tableItem": "Paranoid Brainwashing: start to believe those around you are replaced by impostors (capgras), but paranoia aids perception (presence +2)"
+      },
+      {
+        "rowNum": "5",
+        "tableItem": "Slow Decapitation. Death."
+      },
+      {
+        "rowNum": "6",
+        "tableItem": "Suffering Engine of Nechrubel. Pain wracks your body and you will never recover. Permanently reduce your Toughness to -3. Your mind is opened to the horrible truths of Verhu. Raise your Perception to +3.  You are lucky to have survived. Any creatures directly connected to Nechrubel will not attack you if you impart some of your horrid wisdom upon them (Perception DR10). Those who oppose Nechrubel must resist the urge to attack you on sight (Perception DR10)."
+      },
+      {
+        "rowNum": "7",
+        "tableItem": "You hear from the far distance, echoing and reverberating off of every wall and surface, you cannot get away from the pressure as it builds and builds. Now in this moment, you thought you had escaped it after all, it’s back to terrorise you. The omnipotent voice calls to you now *”Bartholomew”*. Take 1 damage each time you hear this cursed name, it cannot be reduced."
+      },
+      {
+        "rowNum": "8",
+        "tableItem": "A spike flail to the face. The lack of teeth does little for talking (-2 Presence), and even less for stalking: sneaking is DR+4 (because of the inhalation 🎶)."
+      },
+      {
+        "rowNum": "9",
+        "tableItem": "Kergüsian Mind-Vise. The psyche-gravel sets Presence to -2, but you cannot be affected my mind-altering Powers. Also the floaters are semi-real for you and might attack your Cosmic Essence once per day (test Defence DR8 or lose an omen)."
+      },
+      {
+        "rowNum": "10",
+        "tableItem": "Just this tbh: https://cdn.discordapp.com/attachments/683439768624955451/809182299240923156/image0.jpg"
+      },
+      {
+        "rowNum": "11",
+        "tableItem": "projecting battle pit. you get thrown into a pit with beasts and other people so you unavoidably fight for survival, however, all the pain that your target suffers you will also feel, at the point of feeling the pain of death multiple times. After it's over, every time you hurt any living creature, you feel the pain they suffer at your hand, *and every time you land a crit, the excruciating pain makes you unable to concentrate and lose your next turn (making it also torture for the player himself <:blood:687681403038597145>)*"
+      },
+      {
+        "rowNum": "12",
+        "tableItem": "Inquisitor's Statement of Scars: To avoid execution, you must confess your sins while they are inscribed in your flesh with razors. Only when your body is covered in scars and the Inquisitor's record is complete will you be released (if you don't die of infection). If you don't have enough to confess, you'd better come up with something. Your reflection is forever a reminder of the blasphemous heresies you had to craft to win your freedom. It makes you sick to look at yourself."
+      }
+    ]
+  },
+  {
+    "name": "D12 Reasons You Were Exiled",
+    "category": "d12",
+    "roll": "d12",
+    "entries": [
+      {
+        "rowNum": "1",
+        "tableItem": "Opening a demonic gate while mining for gold"
+      },
+      {
+        "rowNum": "2",
+        "tableItem": "A crippling need to see orphanages set ablaze"
+      },
+      {
+        "rowNum": "3",
+        "tableItem": "The Grand Inquisitor has its eye on your spouse"
+      },
+      {
+        "rowNum": "4",
+        "tableItem": "Why didn't you shower enough?"
+      },
+      {
+        "rowNum": "5",
+        "tableItem": "The exile notice was meant for your neighbor, but delivered to you by accident."
+      },
+      {
+        "rowNum": "6",
+        "tableItem": "Your nomadic band left while you were sleeping in a ditch on the side of the road. No one noticed."
+      },
+      {
+        "rowNum": "7",
+        "tableItem": "Tax evasion, plain and simple."
+      },
+      {
+        "rowNum": "8",
+        "tableItem": "Freak accident involving the town priest, two oxen and a length of rope."
+      },
+      {
+        "rowNum": "9",
+        "tableItem": "Your art. They didn't get it."
+      },
+      {
+        "rowNum": "10",
+        "tableItem": "Your art. They totally got it."
+      },
+      {
+        "rowNum": "11",
+        "tableItem": "They tried to exile you, but you told them you're leaving first. Power move."
+      },
+      {
+        "rowNum": "12",
+        "tableItem": "Everyone just really fucking hates you."
+      }
+    ]
+  },
+  {
+    "name": "D12 Skeleton Fighters",
+    "category": "d12",
+    "roll": "d12",
+    "entries": [
+      {
+        "rowNum": "1",
+        "tableItem": "Turtle kid: Small and full of protuberant hard bones. You must succeed a DR12 Toughness test every time you hit them with a melee weapon or receive d2 damage; d4 if you hit them with your bare hands."
+      },
+      {
+        "rowNum": "2",
+        "tableItem": "Spiked Mike. Covered in spikes, makes combat dangerous. On a fumbled defence test, PC is stabbed by a protunding bone taking 1d4 extra dmg. On skeleton's death, it shatters in a hundred tiny sharp bone projectiles, dealing 1d4 dmg in a small area."
+      },
+      {
+        "rowNum": "3",
+        "tableItem": "Powdered Craig: This unfortunate skeleton has already been ground into bone powder. Through sheer force of necromatic will it can float through the air. It attacks by reforming bone fragments which it flings through the air at high speed (1d4)."
+      },
+      {
+        "rowNum": "4",
+        "tableItem": "Ironbone: Composed of solid black iron, it’s hard to land a solid blow. Armor -d6. The metal claws take and break. d6 damage on a hit."
+      },
+      {
+        "rowNum": "5",
+        "tableItem": "The Flayed One: An undead abberation that clothes itself in the skin of its victims, lying in wait for fresh kills. DR14 Agility or Presence to avoid its ambush, failure means d12 damage as it skewers you."
+      },
+      {
+        "rowNum": "6",
+        "tableItem": "Partial Skeleton: This one's still got some bits left on him. Flesh dangles off the bones in tendrils. The creature desperately tries to attach any flesh others aren't using anymore to itself. Roll d4:"
+      },
+      {
+        "rowNum": "7",
+        "tableItem": "Skull of the Glutton. Even decapitation and excarnation could not extinguish the appetite of this long-dead titan. It can only move by rolling or by leveraging its immense jaw. Its awkward and immense bulk makes it easier to avoid (defense test is DR -2), but when it manages to catch you in its mouth the power can be devastating (damage d20)."
+      },
+      {
+        "rowNum": "8",
+        "tableItem": "The Subjective Skeleton. More aptly his name is Bregan. He doesn't think he's dead- this belief keeps him going. No amount of damage will harm him, the only way to undo this particular twist of fate is to prove to him that he is, in fact, dead. Bregan isn't actually hostile unless threatened. Can also be killed by convincing him that you are in fact killing him."
+      },
+      {
+        "rowNum": "9",
+        "tableItem": "FOPpy. His bones keep getting harder. Even the remains of its clothes turns into bone. It becomes slower and slower, but more powerful."
+      },
+      {
+        "rowNum": "10",
+        "tableItem": "Bone Soup: The skeleton of its last victim still floats in this bubbling broth of acidic slime, which eats through everything except bone. Hitting this creature with a non-bone weapon will cause the weapon to decrement one damage die, disintegrating if the weapon would fall below 1d4 damage. If it hits you, any non-bone armor you are wearing decrements one armor tier, disintegrating once it falls below tier 1."
+      },
+      {
+        "rowNum": "11",
+        "tableItem": "Finger Phalanx: A legion of animated hand and finger bones assails you. On a failed defense roll they begin strangling you. To add insult to injury, they start turning out your pockets as well. Lose 1d4 hp and 1 random item each round unless you can succeed on a DR 16 str or agility (your choice) check to break their grip."
+      },
+      {
+        "rowNum": "12",
+        "tableItem": "Klashius Kranium: The reigning champ has a jewel embedded in his skeleton for each opponent he has defeated. Naturally, he is studded with gems from head to toe. On a failed defense roll, roll d4: 1) Taunt: All DRs increase by 2 for one round. 2) Jab: He pops you right in the face for 1d6 damage. 3) Clinch: He grapples you. You can no longer attack, but instead may test Str DR 12 to break the grapple. Any round in which you are grappled, he automatically deals d4 damage. 4) Haymaker: He lays you out cold. Go to zero HP and roll on the broken table. You never should have even tried to take on the Champ."
+      }
+    ]
+  },
+  {
+    "name": "D12 Symbols of Heretical Cults",
+    "category": "d12",
+    "roll": "d12",
+    "entries": [
+      {
+        "rowNum": "1",
+        "tableItem": "Seven vertical scratches, hastily carved on doorframes or corpses."
+      },
+      {
+        "rowNum": "2",
+        "tableItem": "Intestines in a figure 8 knot. Hung on the door of those hunted by the Grey Flayers."
+      },
+      {
+        "rowNum": "3",
+        "tableItem": "In which is depicted a road towards a rising sun."
+      },
+      {
+        "rowNum": "4",
+        "tableItem": "Three equidistant holes bored into a solid surface, something slimy moves between the holes when in the corner of vision."
+      },
+      {
+        "rowNum": "5",
+        "tableItem": "\"8:1\" emblazoned over the Great Wolf that devours Verhu."
+      },
+      {
+        "rowNum": "6",
+        "tableItem": "Nechrubel radiant, ascending as a dawning sun."
+      },
+      {
+        "rowNum": "7",
+        "tableItem": "Four eyes stacked vertically, the upper and lower eyes staring towards the inner ones."
+      },
+      {
+        "rowNum": "8",
+        "tableItem": "Two black crow's feet, tied to gnarled treeroot."
+      },
+      {
+        "rowNum": "9",
+        "tableItem": "A Black orb or 9-pointed star supported by skeletal charioteers."
+      },
+      {
+        "rowNum": "10",
+        "tableItem": "A single word seared in the flesh of the heretic: HOPE."
+      },
+      {
+        "rowNum": "11",
+        "tableItem": "A contaminated and very small scar in the form of three cuts making a triangle, always done in their wrists, covered constantly with a solution that maintains the infection in that area and doesn't expand to the rest of the body. Leaving the cult means not having access to the solution letting the infection expand. After two weeks the infection reaches the heart, giving the ex-cultist a painful death. No permanent cure has been found."
+      },
+      {
+        "rowNum": "12",
+        "tableItem": "A simple black gate with the word **NORTH** emblazoned in the center."
       }
     ]
   },
@@ -851,6 +1883,93 @@
       {
         "rowNum": "20",
         "tableItem": "An old book a worm-eaten, faded, and musty smelling old tome. what contents you can read seem to be a personal journal, but you can faintly see text beneath the writing. if taken to a scholar, it is revealed to be a manuscript of the prophecies of nechrubel"
+      }
+    ]
+  },
+  {
+    "name": "D20 Gifts for a Ghost",
+    "category": "d20",
+    "roll": "d20",
+    "entries": [
+      {
+        "rowNum": "1",
+        "tableItem": "A book of poetry"
+      },
+      {
+        "rowNum": "2",
+        "tableItem": "Ghost hair comb."
+      },
+      {
+        "rowNum": "3",
+        "tableItem": "Thimble of warm blood, maybe yours"
+      },
+      {
+        "rowNum": "4",
+        "tableItem": "Phonograph that plays spooky orchestra tunes"
+      },
+      {
+        "rowNum": "5",
+        "tableItem": "a ghost in a lamp which helps the ghostly owner see"
+      },
+      {
+        "rowNum": "6",
+        "tableItem": "Ethereal rat (can see the ghostly)"
+      },
+      {
+        "rowNum": "7",
+        "tableItem": "Tongue of a dying person"
+      },
+      {
+        "rowNum": "8",
+        "tableItem": "IOU for 15 minutes of possession. To be redeemed anytime."
+      },
+      {
+        "rowNum": "9",
+        "tableItem": "Ever-Burning Blue-Green Will-o-Wisp Candle/Lantern"
+      },
+      {
+        "rowNum": "10",
+        "tableItem": "Long-sought warmth and affection"
+      },
+      {
+        "rowNum": "11",
+        "tableItem": "Sweater of Tangiblity, makes the wearer physical."
+      },
+      {
+        "rowNum": "12",
+        "tableItem": "A bouquet of foxgloves"
+      },
+      {
+        "rowNum": "13",
+        "tableItem": "Jacob Marley brand chain polish."
+      },
+      {
+        "rowNum": "14",
+        "tableItem": "New white sheet, custom eye-holes"
+      },
+      {
+        "rowNum": "15",
+        "tableItem": "A painting or figurine of their loved one"
+      },
+      {
+        "rowNum": "16",
+        "tableItem": "A ghost dog"
+      },
+      {
+        "rowNum": "17",
+        "tableItem": "The teeth of a mortal enemy, strung on a fine silver chain."
+      },
+      {
+        "rowNum": "18",
+        "tableItem": "Bottle of Eptoplasmic Whisky in a Skull Goblet"
+      },
+      {
+        "rowNum": "19",
+        "tableItem": "The love letter you never sent them."
+      },
+      {
+        "rowNum": "20",
+        "tableItem": "Ghastly antacids (Corporeal ones just make it worse)"
       }
     ]
   },
@@ -1464,6 +2583,93 @@
     ]
   },
   {
+    "name": "D20 Poorly Enchanted Trinkets",
+    "category": "d20",
+    "roll": "d20",
+    "entries": [
+      {
+        "rowNum": "1",
+        "tableItem": "A flying broomstick that hovers two feet off the ground and veers to the right."
+      },
+      {
+        "rowNum": "2",
+        "tableItem": "A magical drinking horn that turns any liquid it is filled with to wine. The wine is always corked and on the edge of becoming vinegar."
+      },
+      {
+        "rowNum": "3",
+        "tableItem": "A lantern that remains lit only while you're clapping your hands."
+      },
+      {
+        "rowNum": "4",
+        "tableItem": "A set clay drinking cups, when liquid is poured into the cup the liquid vanishes."
+      },
+      {
+        "rowNum": "5",
+        "tableItem": "A flute capable of making the most beautiful sounds the listener will ever hear. Despite the player's best efforts, the only song it can play is Wonderwall."
+      },
+      {
+        "rowNum": "6",
+        "tableItem": "A shiny, perfectly minted golden coin (worth 200s) that weighs 500 kg."
+      },
+      {
+        "rowNum": "7",
+        "tableItem": "Magic sword, its only effect is to scream, \"I SMITE THEE!\", independent of attack outcome or usage."
+      },
+      {
+        "rowNum": "8",
+        "tableItem": "Rose coin, rose flower (head) and stem with thorns (tail). When you flip it on tail thorns sprout from it."
+      },
+      {
+        "rowNum": "9",
+        "tableItem": "A glass eye that unnaturally blinks, when tossed to the ground, the tosser is transported to the place where the eye lands, but half buried in the ground."
+      },
+      {
+        "rowNum": "10",
+        "tableItem": "The severed head of a horse, yes it’s still alive somehow and even talks, no, please do not talk back to it… no it isn’t incredible. Someone has already tried to put it out of its misery but it persists still."
+      },
+      {
+        "rowNum": "11",
+        "tableItem": "Set of ten glass finger-sized rings, anything that passes through is rendered invisible."
+      },
+      {
+        "rowNum": "12",
+        "tableItem": "A magically lubricated fork"
+      },
+      {
+        "rowNum": "13",
+        "tableItem": "Ring of Minor Confidence, feel 14% better about yourself while wearing it"
+      },
+      {
+        "rowNum": "14",
+        "tableItem": "Pity Dagger. Enchantment gone wrong. Deals 1d2 damage rather than d4."
+      },
+      {
+        "rowNum": "15",
+        "tableItem": "Extraordinary Bow of Goblin Hate. enchanted by someone who utterly hates goblins, the arrows shot by this bow move magically evading any kind of obstacle to hit the nearest goblin, however, it originally was intended to deal extra damage to them, but instead heals them (1d4)"
+      },
+      {
+        "rowNum": "16",
+        "tableItem": "Shirt of No Protection. Whatever your armor's DR, wearing this shirt reduces it to zero,  redistributing all absorbed damage straight to your body. It does look good on you, though."
+      },
+      {
+        "rowNum": "17",
+        "tableItem": "Foot Ointment made from other people's feet skin. Apply to make your foot appear like a different foot of your species."
+      },
+      {
+        "rowNum": "18",
+        "tableItem": "Weak Invisibility ointment that only makes your skin invisible, revealing what lies beneath."
+      },
+      {
+        "rowNum": "19",
+        "tableItem": "A seemingly bottomless bag, which unfortunately turns everything that is placed inside green and smelling of cabbages"
+      },
+      {
+        "rowNum": "20",
+        "tableItem": "A pair of glasses that look particularly regal *(+1 to Presence tests)* but unfortunately are very foggy and hard to see through *(-1 to Presence tests)*."
+      }
+    ]
+  },
+  {
     "name": "D20 Reasons the PCs are Sentenced to Death",
     "category": "d20",
     "roll": "d20",
@@ -1551,7 +2757,7 @@
     ]
   },
   {
-    "name": "D20 Sacred Unclean Armors",
+    "name": "D20 Sacred/Unclean Armors",
     "category": "d20",
     "roll": "d20",
     "entries": [
@@ -2606,6 +3812,205 @@
       {
         "rowNum": "40",
         "tableItem": "Saintly Smegma: a grainy yellow cream applied directly to the face. For d8 hours, the DR of Presence and Toughness tests you undertake are randomly increased or decreased by 6. You may end this effect at any time by washing your face with holy water."
+      }
+    ]
+  },
+  {
+    "name": "d6d8 Additional Character Names (Lost Souls All)",
+    "category": "d6d8",
+    "roll": "d6d8",
+    "entries": [
+      {
+        "rowNum": "11",
+        "tableItem": "Hruggub"
+      },
+      {
+        "rowNum": "12",
+        "tableItem": "Klar"
+      },
+      {
+        "rowNum": "13",
+        "tableItem": "Grolsch"
+      },
+      {
+        "rowNum": "14",
+        "tableItem": "Fnert"
+      },
+      {
+        "rowNum": "15",
+        "tableItem": "Edrin"
+      },
+      {
+        "rowNum": "16",
+        "tableItem": "Korga"
+      },
+      {
+        "rowNum": "17",
+        "tableItem": "Brevel"
+      },
+      {
+        "rowNum": "18",
+        "tableItem": "Svenka"
+      },
+      {
+        "rowNum": "21",
+        "tableItem": "Skarp-Hedin"
+      },
+      {
+        "rowNum": "22",
+        "tableItem": "Bakel"
+      },
+      {
+        "rowNum": "23",
+        "tableItem": "Vlunde"
+      },
+      {
+        "rowNum": "24",
+        "tableItem": "Henvir"
+      },
+      {
+        "rowNum": "25",
+        "tableItem": "Caldvik"
+      },
+      {
+        "rowNum": "26",
+        "tableItem": "Spyker"
+      },
+      {
+        "rowNum": "27",
+        "tableItem": "Spudnar"
+      },
+      {
+        "rowNum": "28",
+        "tableItem": "Pol-Blort"
+      },
+      {
+        "rowNum": "31",
+        "tableItem": "Maulghup"
+      },
+      {
+        "rowNum": "32",
+        "tableItem": "Stawwazz"
+      },
+      {
+        "rowNum": "33",
+        "tableItem": "Kardur"
+      },
+      {
+        "rowNum": "34",
+        "tableItem": "Orgl"
+      },
+      {
+        "rowNum": "35",
+        "tableItem": "Spug"
+      },
+      {
+        "rowNum": "36",
+        "tableItem": "Ergush"
+      },
+      {
+        "rowNum": "37",
+        "tableItem": "Borb"
+      },
+      {
+        "rowNum": "38",
+        "tableItem": "Vmolug"
+      },
+      {
+        "rowNum": "41",
+        "tableItem": "Rosenstern"
+      },
+      {
+        "rowNum": "42",
+        "tableItem": "Guildencrantz"
+      },
+      {
+        "rowNum": "43",
+        "tableItem": "Sven. Gunderson"
+      },
+      {
+        "rowNum": "44",
+        "tableItem": "Lumni"
+      },
+      {
+        "rowNum": "45",
+        "tableItem": "Glurtz"
+      },
+      {
+        "rowNum": "46",
+        "tableItem": "Shpeelg"
+      },
+      {
+        "rowNum": "47",
+        "tableItem": "Creepy Pleepy"
+      },
+      {
+        "rowNum": "48",
+        "tableItem": "Ongor"
+      },
+      {
+        "rowNum": "51",
+        "tableItem": "Qarmel"
+      },
+      {
+        "rowNum": "52",
+        "tableItem": "Seldam"
+      },
+      {
+        "rowNum": "53",
+        "tableItem": "Edeen"
+      },
+      {
+        "rowNum": "54",
+        "tableItem": "Ibsum"
+      },
+      {
+        "rowNum": "55",
+        "tableItem": "Gax"
+      },
+      {
+        "rowNum": "56",
+        "tableItem": "Crux"
+      },
+      {
+        "rowNum": "57",
+        "tableItem": "Macaroni"
+      },
+      {
+        "rowNum": "58",
+        "tableItem": "Dorpat"
+      },
+      {
+        "rowNum": "61",
+        "tableItem": "Ager"
+      },
+      {
+        "rowNum": "62",
+        "tableItem": "Drush"
+      },
+      {
+        "rowNum": "63",
+        "tableItem": "Rilk"
+      },
+      {
+        "rowNum": "64",
+        "tableItem": "Torbin"
+      },
+      {
+        "rowNum": "65",
+        "tableItem": "Jebidiah"
+      },
+      {
+        "rowNum": "66",
+        "tableItem": "Karld"
+      },
+      {
+        "rowNum": "67",
+        "tableItem": "Nohr"
+      },
+      {
+        "rowNum": "68",
+        "tableItem": "Pelle"
       }
     ]
   },
