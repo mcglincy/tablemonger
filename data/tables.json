@@ -432,15 +432,15 @@
     "entries": [
       {
         "rowNum": "1",
-        "tableItem": "**Abigail** This friendly white and black dog charms everyone she meets. Add 2 to the reaction roll on meeting NPCs unless they are truly heartless. Useless in a fight."
+        "tableItem": "**Abigail**. This friendly white and black dog charms everyone she meets. Add 2 to the reaction roll on meeting NPCs unless they are truly heartless. Useless in a fight."
       },
       {
         "rowNum": "2",
-        "tableItem": "**Blood-fat ticks.** A cluster of ticks have taken up residence on you. They drain d2 hp worth of blood every day. On any given day, d4 ticks are ripe for the plucking. Thrown at an enemy, they splatter their contents—the enemy must roll Toughness DR16 or be incapacitated for 1d6 rounds with nausea. The power of blood magic means this works on both the dead and the living. You can also drain a ripe tick to get back 1HP."
+        "tableItem": "**Blood-fat ticks**. A cluster of ticks have taken up residence on you. They drain d2 hp worth of blood every day. On any given day, d4 ticks are ripe for the plucking. Thrown at an enemy, they splatter their contents—the enemy must roll Toughness DR16 or be incapacitated for 1d6 rounds with nausea. The power of blood magic means this works on both the dead and the living. You can also drain a ripe tick to get back 1HP."
       },
       {
         "rowNum": "3",
-        "tableItem": "**Snake The Conspirator. ** The talking snake that hangs around your neck. It says smart things and versed in religion. Every day it needs to be fed with apples. If you outwit a snake (roleplay or Presence DR 16), it will turn into hot edgy demon (for d4 hours) that can't be visible to everyone except you and true believers, but can interact with material world."
+        "tableItem": "**Snake The Conspirator**. The talking snake that hangs around your neck. It says smart things and versed in religion. Every day it needs to be fed with apples. If you outwit a snake (roleplay or Presence DR 16), it will turn into hot edgy demon (for d4 hours) that can't be visible to everyone except you and true believers, but can interact with material world."
       },
       {
         "rowNum": "4",
@@ -460,7 +460,7 @@
       },
       {
         "rowNum": "8",
-        "tableItem": "**Sinclair the unwise.** A, tall, gaunt, scholarly looking gentlemen with a hoarse voice and crackled skin. This reserved and timid person will assist in fights only if you succeed Presence check of DR 14. He does all his Attacks and Defense with a DR of 14, and has a Moral of 5 and 6 HP. If he takes any damage, roll Moral and on a failure he runs away, only to return when the fight is over. When asked for his opinion or advice he will **Always give the worst Answer**."
+        "tableItem": "**Sinclair the unwise**. A, tall, gaunt, scholarly looking gentlemen with a hoarse voice and crackled skin. This reserved and timid person will assist in fights only if you succeed Presence check of DR 14. He does all his Attacks and Defense with a DR of 14, and has a Moral of 5 and 6 HP. If he takes any damage, roll Moral and on a failure he runs away, only to return when the fight is over. When asked for his opinion or advice he will **Always give the worst Answer**."
       }
     ]
   },
