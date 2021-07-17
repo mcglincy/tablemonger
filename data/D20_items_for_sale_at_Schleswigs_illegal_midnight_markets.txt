@@ -11,7 +11,7 @@ D20 Items for Sale at Schlewig's Illegal Midnight Markets
 10. **Invisible Weapon** (a metal weapon's normal cost + 100s) Swords and hammers crafted of the invisible ore are hard to master, but are worth their illusivity. The DR of attacks with the weapon are reduced by 4 but the weapon fumbles on a 3 or lower.
 11. **Invisible Caltrops** (21s) Fuck you, don't drop them. Can't be spotted in most circumstances. Presence DR20 in special cases.
 12. **Madman's Scrapbook** (24s) An indecipherable pile of numbered tables and horrible sketches. It grants a random (d2) 1. Unclean Scroll 2. Sacred Scroll to its reader. One use
-13.** Dead Doll Plaster Cast Mask** (70s) With sound! Forces a morale roll. One use
+13. **Dead Doll Plaster Cast Mask** (70s) With sound! Forces a morale roll. One use
 14. **Devil Dust** (100s). One use. Comes with a blowpipe. Blown on enemies make them freak out with weird hallucinations giving -2 DR to pjs for d8 turns. If smoked, it cures d4 damage points but has 2-in-6 chances of turning its user an addict
 15. **Infant Wyvern** (400-500s) Neutered and wyrmed, prime for a loving trainer. Will grow to full size in d10 months.
 16. **Fragment of Godstone**. (50s) Legend says if a fragment is returned to its rightful place, aspirants can attract the attention of something old.
