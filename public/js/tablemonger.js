@@ -134,9 +134,8 @@ const showSingleTable = (result) => {
     const numDiv = $("<div class='row-num'></div>");
     numDiv.text(item.rowNum);
     const itemDiv = $("<div class='row-item'></div>");
-    // If we want just unconverted item content:
-    // itemDiv.text(item.tableItem);
-    itemDiv.html(converter.makeHtml(item.tableItem));
+    // Our table/json text is coming with "\n" characters, and ShowdownJS / simpleLineBreaks doesn't seem to handle it
+    itemDiv.html(converter.makeHtml(item.tableItem).replaceAll("\\n", "<br/>"));
     $table.append(rowDiv);
     rowDiv.append(numDiv);
     rowDiv.append(itemDiv);
