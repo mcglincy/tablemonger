@@ -33,6 +33,9 @@ body.is-patron .patreon-banner .patreon-logged-out {
 body.is-patron .patreon-banner-container {
   background-color: rgba(0,0,0,0)
 }
+strong {
+  color: #FFE900;
+}
 .spinner {
   width: 20px;
   height: 20px;
@@ -246,6 +249,7 @@ body.is-patron .patreon-banner-container {
 .row-item.dummy:hover {
   opacity: 1;
 }
+/* Table item that is rolled / chosen / active */
 .table-row.chosen .row-num {
   background-color: #FFE900;
   color: black;
@@ -255,6 +259,11 @@ body.is-patron .patreon-banner-container {
   background-color: #FFE900;
   border-bottom: 1px solid #FFE900;
 }
+.table-row.chosen .row-item strong {
+  color: black;
+  -webkit-text-stroke: 1px black;
+}
+
 .upper-right {
   right: 57px;
   top: 37px;

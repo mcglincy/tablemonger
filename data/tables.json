@@ -1,6 +1,6 @@
 [
   {
-    "name": "D0 Incredible Things People have Shouted in Praise of a Horse Named Bartholomew",
+    "name": "D2 Incredible Things People have Shouted in Praise of a Horse Named Bartholomew",
     "category": "d2",
     "roll": "d2",
     "entries": [
@@ -25,15 +25,15 @@
       },
       {
         "rowNum": "2",
-        "tableItem": "Creeping Copse. This small clearing in a ring of bushes and trees suggests a decent chance at overnight safety, as the thick brush and low-hanging branches can both hide you and deter any but the hungriest predators. Unfortunately, the leaves and straw on the ground hide the gnarled roots that trap your limbs and the mouth that will consume you once you're seated or lying on the ground. In its branches are pseudo-birds that warble not-quite-authentic calls to attract its prey. HP 45 Morale -- Movement -- Terrified of fire and will free a trapped victim if threatened with flame."
+        "tableItem": "**Creeping Copse**. This small clearing in a ring of bushes and trees suggests a decent chance at overnight safety, as the thick brush and low-hanging branches can both hide you and deter any but the hungriest predators. Unfortunately, the leaves and straw on the ground hide the gnarled roots that trap your limbs and the mouth that will consume you once you're seated or lying on the ground. In its branches are pseudo-birds that warble not-quite-authentic calls to attract its prey. HP 45 Morale -- Movement -- Terrified of fire and will free a trapped victim if threatened with flame."
       },
       {
         "rowNum": "3",
-        "tableItem": "**TÖRNEBIRDS** These mostly silent kestrel-sized birds attack anything that comes close to their nest. They hunt for meat at night, preferring to spear creatures' eyes and take them back to their nests.\\n\\n1d4 birds per nest HP 2 Morale-- No armor -- DR 16 to hit due to speed and size. Strafe -- 1d2 dmg as birds fly close, brushing their barbed, thorny feathers against their target. Special -- Piercing Note: 1d4+1 dmg -- 1 in 8 chance törnebirds dive directly at a target stabbing with their long barbed beak, emitting a sustained trilling note as they do. 3 in 6 chance it breaks its neck on impact. Once embedded, its barbed beak prevents a törnebird from slipping out of a target. Living törnebirds scratch and batter at a person for 1d2 damage for 1d4 rounds until they eventually drown in the target's blood. Target takes 1d4 dagage of tearing damage removing a beak from their body. Their nests are surprisingly smooth and make very comfortable (and fashionable in certain circles) hats, though they smell like birdshit. Raw törnebird eggs heal 1d3 hp of damage if eaten (roll 1d4 -- on a four, PC contracts Salmonella poisoning instead). Cooked, they're worthless and are too small to provide any reasonable sustenance shy of a dozen."
+        "tableItem": "**TÖRNEBIRDS**. These mostly silent kestrel-sized birds attack anything that comes close to their nest. They hunt for meat at night, preferring to spear creatures' eyes and take them back to their nests.\\n\\n1d4 birds per nest HP 2 Morale-- No armor -- DR 16 to hit due to speed and size. Strafe -- 1d2 dmg as birds fly close, brushing their barbed, thorny feathers against their target. Special -- Piercing Note: 1d4+1 dmg -- 1 in 8 chance törnebirds dive directly at a target stabbing with their long barbed beak, emitting a sustained trilling note as they do. 3 in 6 chance it breaks its neck on impact. Once embedded, its barbed beak prevents a törnebird from slipping out of a target. Living törnebirds scratch and batter at a person for 1d2 damage for 1d4 rounds until they eventually drown in the target's blood. Target takes 1d4 dagage of tearing damage removing a beak from their body. Their nests are surprisingly smooth and make very comfortable (and fashionable in certain circles) hats, though they smell like birdshit. Raw törnebird eggs heal 1d3 hp of damage if eaten (roll 1d4 -- on a four, PC contracts Salmonella poisoning instead). Cooked, they're worthless and are too small to provide any reasonable sustenance shy of a dozen."
       },
       {
         "rowNum": "4",
-        "tableItem": "Gölo Gölo. A muscular and smelly beast. It’s akin to a bear, or... dog, maybe more like a large weasel. No matter what beast it bears resemblance to, it’s still a monstrous predator. It’s capable of unmaking almost anything larger than itself, beast and man alike. (Will make stat block soon, on my break at work lol)"
+        "tableItem": "**Gölo Gölo**. A muscular and smelly beast. It’s akin to a bear, or... dog, maybe more like a large weasel. No matter what beast it bears resemblance to, it’s still a monstrous predator. It’s capable of unmaking almost anything larger than itself, beast and man alike. (Will make stat block soon, on my break at work lol)"
       }
     ]
   },
@@ -67,15 +67,15 @@
     "entries": [
       {
         "rowNum": "1",
-        "tableItem": "The Reassembled. An anatomically incorrect variety of Frankenstein's monster. Reassembled from the parts of many corpses. An abstraction of human limbs where his reattached to his crotch. His guts and intestines are filled with rancid waste and one of his main attacks consists of pissing acid out of his mouth while gargling curses at his victims. The Reassembled is seeking revenge towards the living that cursed him to live like this and constantly slurs and curses. Imagine that his lungs are connected with intestines.\\n\\n30  HP\\n\\nAttacks (D4): 1) Rancid Piss Spew: 1D4 Per round until healed by salva. 2) The Grasp of Hundred limbs: 1D6. 3) The Human Wrecking Ball (rolls or throws itself onto it's enemies) 1D8. 4)  Cursed by Bowels (PCs must beat a DR13 of toughness to avoid being sickened by the wretched song of the digestive system, or become passified for d4 rounds.)"
+        "tableItem": "**The Reassembled**. An anatomically incorrect variety of Frankenstein's monster. Reassembled from the parts of many corpses. An abstraction of human limbs where his reattached to his crotch. His guts and intestines are filled with rancid waste and one of his main attacks consists of pissing acid out of his mouth while gargling curses at his victims. The Reassembled is seeking revenge towards the living that cursed him to live like this and constantly slurs and curses. Imagine that his lungs are connected with intestines.  \\n\\n**HP** 30\\n\\n**Attacks** (D4): 1) Rancid Piss Spew: 1D4 Per round until healed by salva. 2) The Grasp of Hundred limbs: 1D6. 3) The Human Wrecking Ball (rolls or throws itself onto it's enemies) 1D8. 4)  Cursed by Bowels (PCs must beat a DR13 of toughness to avoid being sickened by the wretched song of the digestive system, or become passified for d4 rounds.)"
       },
       {
         "rowNum": "2",
-        "tableItem": "Living Smoke. Some witches get burned, and others have tried to resurrect their ashes with living water. The result is a creature made of smoke, ready to feast on any inquisitor or holy man in town but also on those peasants who laughed while she was burning. She sucks all knowledge out of her victims, when they inhale. After being filled with enough knowledge, she can be either captured by a spell, or she disperses into thin air.*\\n\\n**HP** 25 **Morale** – **Thick smoke** -d8 damage **Size** 10ft x 10ft\\n**Specials:**\\n**Inhale:** If you are within the Living Smoke radius, roll toughness 12 or inhale the smoke, leaving you with complete amnesia. For every creature that is within the Living Smoke radius, the smoke loses 2 HP per round. **Whispers of Madness:** The Living Smoke whispers spread to all people around her. Make a DC12 presence test or move 10ft back. Those standing within the smoke cannot move. **Magic vulnerability:** The Living Smoke is vulnerable to magic spells and they have greater effect on her (for damage spells, count as crit). If the Living Smoke is between 1 HP and 6 HP, she can be captured, with her knowledge, into an item. You’ll need to right spell to do that though. If the living Smoke reaches 0 hp, she disperses into the air. Often accompanied by a few hags or witches, and found in towns. \\nAn item filled with Living Smoke Knowledge will sell for at least 150 silver."
+        "tableItem": "**Living Smoke**. Some witches get burned, and others have tried to resurrect their ashes with living water. The result is a creature made of smoke, ready to feast on any inquisitor or holy man in town but also on those peasants who laughed while she was burning. She sucks all knowledge out of her victims, when they inhale. After being filled with enough knowledge, she can be either captured by a spell, or she disperses into thin air.*\\n\\n**HP** 25 **Morale** – **Thick smoke** -d8 damage **Size** 10ft x 10ft\\n**Specials:**\\n**Inhale:** If you are within the Living Smoke radius, roll toughness 12 or inhale the smoke, leaving you with complete amnesia. For every creature that is within the Living Smoke radius, the smoke loses 2 HP per round. **Whispers of Madness:** The Living Smoke whispers spread to all people around her. Make a DC12 presence test or move 10ft back. Those standing within the smoke cannot move. **Magic vulnerability:** The Living Smoke is vulnerable to magic spells and they have greater effect on her (for damage spells, count as crit). If the Living Smoke is between 1 HP and 6 HP, she can be captured, with her knowledge, into an item. You’ll need to right spell to do that though. If the living Smoke reaches 0 hp, she disperses into the air. Often accompanied by a few hags or witches, and found in towns. \\nAn item filled with Living Smoke Knowledge will sell for at least 150 silver."
       },
       {
         "rowNum": "3",
-        "tableItem": "1001 goblins. One of them has a crown and deals extra damage. If you kill the one with the crown another goblin will put it on. You can only lose."
+        "tableItem": "**1001 goblins**. One of them has a crown and deals extra damage. If you kill the one with the crown another goblin will put it on. You can only lose."
       },
       {
         "rowNum": "4",
@@ -83,11 +83,11 @@
       },
       {
         "rowNum": "5",
-        "tableItem": "Bethalud the last guardian. First boss from my almost done dungeon. Missing both eyes and having just empty eye sockets. Old as balls. Tasked with guarding the lower level of the ossuary. Will not let anyone to the lower levels. And will not part with his cane willingly. Wears a red cap.\\n\\nLast of the monks. Extremely pleased by the company, says that there is no one else to talk to but dust and shadows anymore. **HP** 4, **Morale** -, **No armor** \\n∙ **Cane** 1d4+number of miseries.\\n∙ **Fast.** Always wins initiative\\n∙ **Life everlasting.** If not killed with one blow, will not lose hp.\\n∙ **Death everlasting.** If killed and HP is not -3 or less, will transform into the `Beast That Lurks in the Dark`. The cane is lodged into his flesh.\\n\\n**Beast that lurks in the dark**\\nDeformed flesh and limbs. Otherworldly guttural growls. Feathers and hair protrude from decaying skin. Mind set to torment.\\n\\n**HP** 35, **Morale** -, no armor \\n∙ **Putrid Claws** 1d8\\n∙ **Stomp.** Test AGILITY DR 12 to get out of the way or take 2d6 damage.\\n∙ **Consume.** At or below 7 hp tries to eat a PC. Test STRENGTH DR 12 or get eaten and die. Beast heals to full hp."
+        "tableItem": "**Bethalud the last guardian**. First boss from my almost done dungeon. Missing both eyes and having just empty eye sockets. Old as balls. Tasked with guarding the lower level of the ossuary. Will not let anyone to the lower levels. And will not part with his cane willingly. Wears a red cap.\\n\\nLast of the monks. Extremely pleased by the company, says that there is no one else to talk to but dust and shadows anymore. **HP** 4, **Morale** -, **No armor** \\n∙ **Cane** 1d4+number of miseries.\\n∙ **Fast.** Always wins initiative\\n∙ **Life everlasting.** If not killed with one blow, will not lose hp.\\n∙ **Death everlasting.** If killed and HP is not -3 or less, will transform into the `Beast That Lurks in the Dark`. The cane is lodged into his flesh.\\n\\n**Beast that lurks in the dark**\\nDeformed flesh and limbs. Otherworldly guttural growls. Feathers and hair protrude from decaying skin. Mind set to torment.  \\n\\n**HP** 35, **Morale** -, no armor \\n∙ **Putrid Claws** 1d8\\n∙ **Stomp.** Test AGILITY DR 12 to get out of the way or take 2d6 damage.\\n∙ **Consume.** At or below 7 hp tries to eat a PC. Test STRENGTH DR 12 or get eaten and die. Beast heals to full hp."
       },
       {
         "rowNum": "6",
-        "tableItem": "Mock Basilisk. Some say it's no more than an insane and mutated noble, others say it's a prophet of the twin-headed basilisk. The Mock Basilisk is in reality a bit of both. Horribly disfigured, a two-headed human noble carried around in a palanquin held up by 4 zealous cultists. Wherever he goes, he spews pure madness from his mouth. HP 7, Morale -, Light Armour. Faithful Servants: The wretched seer is protected by 4 zealous cultists. If the Mock Basilisk ever takes a hit and there are cultists still alive, they may intervene and take the damage instead. They have HP 5 and attack with swords (D6 damage). Unintelligible Preaching: There is a constant flow of noise from one of the two heads. All that can hear the Mock Basilisk make tests to use powers at DR 16. Lazy: When in the palanquin without guards, the Mock Basilisk is little more than a wretch. One may even take pity on the poor creature. DR 10 to attack the prophet when the 4 cultists are killed."
+        "tableItem": "**Mock Basilisk**. Some say it's no more than an insane and mutated noble, others say it's a prophet of the twin-headed basilisk. The Mock Basilisk is in reality a bit of both. Horribly disfigured, a two-headed human noble carried around in a palanquin held up by 4 zealous cultists. Wherever he goes, he spews pure madness from his mouth. **HP** 7, **Morale** -, Light Armour. **Faithful Servants**: The wretched seer is protected by 4 zealous cultists. If the Mock Basilisk ever takes a hit and there are cultists still alive, they may intervene and take the damage instead. They have HP 5 and attack with swords (D6 damage). **Unintelligible Preaching**: There is a constant flow of noise from one of the two heads. All that can hear the Mock Basilisk make tests to use powers at DR 16. **Lazy**: When in the palanquin without guards, the Mock Basilisk is little more than a wretch. One may even take pity on the poor creature. DR 10 to attack the prophet when the 4 cultists are killed."
       }
     ]
   },
@@ -191,7 +191,7 @@
     "entries": [
       {
         "rowNum": "1",
-        "tableItem": "**Puking Panda** You are cute (+2 to reaction roll), fluffy (-d4), but most of all queasy. DR10 Presence to project pungent panda puke. d4 damage + special: -2DR to track and to hit. Or just use your claws (d6)."
+        "tableItem": "**Puking Panda**. You are cute (+2 to reaction roll), fluffy (-d4), but most of all queasy. DR10 Presence to project pungent panda puke. d4 damage + special: -2DR to track and to hit. Or just use your claws (d6)."
       },
       {
         "rowNum": "2",
@@ -199,19 +199,19 @@
       },
       {
         "rowNum": "3",
-        "tableItem": "**Fluffy Werelion** On a full moon this powerful creature will rampage, looking for blood. His silverish long hair will reflect the moonlight. Fangs 1d10 dmg, DR10 to hit, because it's BIG. Enough HP to make him scary. Once a skinwalker in this form tastes human blood, there's an incremental chance of 5% a round that he liked so much, he wouldn't return his orginal form. Wait for the next moon phase. If the villagers will let you live till then."
+        "tableItem": "**Fluffy Werelion**. On a full moon this powerful creature will rampage, looking for blood. His silverish long hair will reflect the moonlight. Fangs 1d10 dmg, DR10 to hit, because it's BIG. Enough HP to make him scary. Once a skinwalker in this form tastes human blood, there's an incremental chance of 5% a round that he liked so much, he wouldn't return his orginal form. Wait for the next moon phase. If the villagers will let you live till then."
       },
       {
         "rowNum": "4",
-        "tableItem": "**Corpsegrinder Centipede** Eating, biting, running. Three feet long, a foot thick, with giant, pinching teeth and a glassy-black carapace. The mindlessness of an eternal hunger makes the skinwalker forget everything but their aching stomach, going into a beserk feeding frenzy. Each bite is 2d8 damage and the skinwalker must pass a DR18 check to do anything other than biting once they start (even if the biting is ineffective). When the target dies, the skinwalker will move to the next nearest living thing, friend or foe. Only when nothing living is within sight will the centipede start eating, requiring a DR12 to disengage or transform back into its human form. Corpsegrinder Centipedes are hated and reviled by most intelligent races and are killed on sight."
+        "tableItem": "**Corpsegrinder Centipede**. Eating, biting, running. Three feet long, a foot thick, with giant, pinching teeth and a glassy-black carapace. The mindlessness of an eternal hunger makes the skinwalker forget everything but their aching stomach, going into a beserk feeding frenzy. Each bite is 2d8 damage and the skinwalker must pass a DR18 check to do anything other than biting once they start (even if the biting is ineffective). When the target dies, the skinwalker will move to the next nearest living thing, friend or foe. Only when nothing living is within sight will the centipede start eating, requiring a DR12 to disengage or transform back into its human form. Corpsegrinder Centipedes are hated and reviled by most intelligent races and are killed on sight."
       },
       {
         "rowNum": "5",
-        "tableItem": "Brain-eater squid. When in squid form, any round where you are grappling an enemy creature with a brain in its head, you can use your action to suck its brain out. Any creature that needs a brain to live is killed instantly. Otherwise the attack is gruesome but ineffective. Upon consuming a brain, roll Get Better but only as to Presence. You can move swiftly underwater but have trouble traveling significant distances on land"
+        "tableItem": "**Brain-eater squid**. When in squid form, any round where you are grappling an enemy creature with a brain in its head, you can use your action to suck its brain out. Any creature that needs a brain to live is killed instantly. Otherwise the attack is gruesome but ineffective. Upon consuming a brain, roll Get Better but only as to Presence. You can move swiftly underwater but have trouble traveling significant distances on land"
       },
       {
         "rowNum": "6",
-        "tableItem": "**Mirror Moth** This demonic giant insect has an incantation written in a pattern on one of its wings for a random sacred scroll, another wing has a reflection of that incantation for a random unclean scroll, you can only cast either in this form. If you see a spell being cast, you can expend a power and roll presence DR16 to reflect the spell back onto the caster. If you fail the presence roll the spell instead does maximum damage and last for maximum duration. You can only take this form at night, +4DR to all rolls if there is **LIGHT** around."
+        "tableItem": "**Mirror Moth**. This demonic giant insect has an incantation written in a pattern on one of its wings for a random sacred scroll, another wing has a reflection of that incantation for a random unclean scroll, you can only cast either in this form. If you see a spell being cast, you can expend a power and roll presence DR16 to reflect the spell back onto the caster. If you fail the presence roll the spell instead does maximum damage and last for maximum duration. You can only take this form at night, +4DR to all rolls if there is **LIGHT** around."
       }
     ]
   },
@@ -284,31 +284,31 @@
     "entries": [
       {
         "rowNum": "2",
-        "tableItem": "Bloodroot: Grows and feeds on the blood from rotting corpses. When growing in a fresh corpse, it can function as host, zombifying the fresh deceased."
+        "tableItem": "**Bloodroot**: Grows and feeds on the blood from rotting corpses. When growing in a fresh corpse, it can function as host, zombifying the fresh deceased."
       },
       {
         "rowNum": "3",
-        "tableItem": "Boneleaf: this invasive plant extends over large patches. It appears overnight and seems to be immutable. It grows under other small vegetation and stepping on it deals 1d4 dmg due to its bone like composition. Rumors are that grows over forgotten tombs and cemeteries."
+        "tableItem": "**Boneleaf**: this invasive plant extends over large patches. It appears overnight and seems to be immutable. It grows under other small vegetation and stepping on it deals 1d4 dmg due to its bone like composition. Rumors are that grows over forgotten tombs and cemeteries."
       },
       {
         "rowNum": "4",
-        "tableItem": "Ironkiss bramble: a common, thorny, weaving plant which grows in muddy ditches and roadsides. Animal bones are sometimes found at the roots, dying after having been caught in the snare-like hooks. Creatures take 1d4 damage each round they are within it, unless wearing appropriate, skin-covering armour."
+        "tableItem": "**Ironkiss bramble**: a common, thorny, weaving plant which grows in muddy ditches and roadsides. Animal bones are sometimes found at the roots, dying after having been caught in the snare-like hooks. Creatures take 1d4 damage each round they are within it, unless wearing appropriate, skin-covering armour."
       },
       {
         "rowNum": "5",
-        "tableItem": "Grass, nothing but grass."
+        "tableItem": "**Grass**, nothing but grass."
       },
       {
         "rowNum": "6",
-        "tableItem": "Chameleon grass: This type of grass can grow to reach almost 2 meters and have a faint minty smell. When coming in contact with anything else except other blades of chameleon grass, it changes color to mimic the color of whatever it touched. It retains the color until something else touches it."
+        "tableItem": "**Chameleon grass**: This type of grass can grow to reach almost 2 meters and have a faint minty smell. When coming in contact with anything else except other blades of chameleon grass, it changes color to mimic the color of whatever it touched. It retains the color until something else touches it."
       },
       {
         "rowNum": "7",
-        "tableItem": "Wraithweed: wispy plants that strangle and consume other plants. Incredibly tough, despite their appearance. Mothers warn children not to sleep outside, lest they accidentally take a nap near a patch of treacherous wraithweed."
+        "tableItem": "**Wraithweed**: wispy plants that strangle and consume other plants. Incredibly tough, despite their appearance. Mothers warn children not to sleep outside, lest they accidentally take a nap near a patch of treacherous wraithweed."
       },
       {
         "rowNum": "8",
-        "tableItem": "Breakfastroot: A narrow, pink-flowered, weedy plant with a large, hairy root. Its leaves have a sweet taste, and its tubers a bitter sourness. Each plant is a day's rations when eaten raw. When cooked, it upsets the stomach for 1d3 days (treat as infection)."
+        "tableItem": "**Breakfastroot**: A narrow, pink-flowered, weedy plant with a large, hairy root. Its leaves have a sweet taste, and its tubers a bitter sourness. Each plant is a day's rations when eaten raw. When cooked, it upsets the stomach for 1d3 days (treat as infection)."
       }
     ]
   },
@@ -354,35 +354,35 @@
     "entries": [
       {
         "rowNum": "1",
-        "tableItem": "Stonerot. The wounded limb stars calcifying and steadily spreads throughout the body if not healed/amputated."
+        "tableItem": "**Stonerot**. The wounded limb stars calcifying and steadily spreads throughout the body if not healed/amputated."
       },
       {
         "rowNum": "2",
-        "tableItem": "Jellyskin. Your flesh starts sloughing off in large translucent sheets. Can lead to more infections as vulnerable tissues are exposed by the peeling rot."
+        "tableItem": "**Jellyskin**. Your flesh starts sloughing off in large translucent sheets. Can lead to more infections as vulnerable tissues are exposed by the peeling rot."
       },
       {
         "rowNum": "3",
-        "tableItem": "Musclebloat. Gain +1 Strength each day. Once it exceeds twice the maximum your muscles explode from your flesh and you bleed out in minutes."
+        "tableItem": "**Musclebloat**. Gain +1 Strength each day. Once it exceeds twice the maximum your muscles explode from your flesh and you bleed out in minutes."
       },
       {
         "rowNum": "4",
-        "tableItem": "Leviathan Worms. Start as a niggling sensation in the stomach after drinking dirty water. Then they drive the host to extreme hunger, eating everything (and anyone) they can to stave off the cramping and nausea. Then, they slither their way into the host's very nerves, driving the host toward the sea. There they may survive and eventually grow into adult sea monsters."
+        "tableItem": "**Leviathan Worms**. Start as a niggling sensation in the stomach after drinking dirty water. Then they drive the host to extreme hunger, eating everything (and anyone) they can to stave off the cramping and nausea. Then, they slither their way into the host's very nerves, driving the host toward the sea. There they may survive and eventually grow into adult sea monsters."
       },
       {
         "rowNum": "5",
-        "tableItem": "Dancing Fever. Dance, dance, dance. It's all you can think to do. Do it fancily, wildly, crazily, till your body gives out. Each 10 minutes not spent dancing results in d4 damage from the sheer restraint. You cannot fall asleep and must dance yourself unconscious. You cannot heal from resting and take d6 damage daily as the strain on your body takes it toll."
+        "tableItem": "**Dancing Fever**. Dance, dance, dance. It's all you can think to do. Do it fancily, wildly, crazily, till your body gives out. Each 10 minutes not spent dancing results in d4 damage from the sheer restraint. You cannot fall asleep and must dance yourself unconscious. You cannot heal from resting and take d6 damage daily as the strain on your body takes it toll."
       },
       {
         "rowNum": "6",
-        "tableItem": "Bonus Eruptus: The skeleton attempts to leap out of the patient’s mouth, causing them to feel edgy, antsy, and discombobulated. Take Toughness tests every morning—DR 10 at first, but increasing by 2 each day. If you fail, your skeleton leaps out of your mouth immediately, becoming a blood-covered skeleton. You can stave off or even cure the disease by administering transdental electromicide—routinely electrocuting your mouth until the GM says you feel better"
+        "tableItem": "**Bonus Eruptus**. The skeleton attempts to leap out of the patient’s mouth, causing them to feel edgy, antsy, and discombobulated. Take Toughness tests every morning—DR 10 at first, but increasing by 2 each day. If you fail, your skeleton leaps out of your mouth immediately, becoming a blood-covered skeleton. You can stave off or even cure the disease by administering transdental electromicide—routinely electrocuting your mouth until the GM says you feel better"
       },
       {
         "rowNum": "7",
-        "tableItem": "Impostor Syndrome. Gnawing self-doubt pervades your thoughts, leading you to second-guess everything you do. Keep meticulous track of your failures.  After 10 failures, an impostor appears and attempts to kill you. If you kill the impostor by yourself, you are cured. If anyone helps you, you continue to suffer doubt, and the impostor can return until one or the other of you is permanently slain. You CAN Get Better while suffering from this illness, but the GM keeps track, only telling you if your scores decrease."
+        "tableItem": "**Impostor Syndrome**. Gnawing self-doubt pervades your thoughts, leading you to second-guess everything you do. Keep meticulous track of your failures.  After 10 failures, an impostor appears and attempts to kill you. If you kill the impostor by yourself, you are cured. If anyone helps you, you continue to suffer doubt, and the impostor can return until one or the other of you is permanently slain. You CAN Get Better while suffering from this illness, but the GM keeps track, only telling you if your scores decrease."
       },
       {
         "rowNum": "8",
-        "tableItem": "Itchy and scratchy skin: contracted by those who look too much into the sky, their skin becomes grey and dry. All Agility checks, including defense, inflicts them 1d2 damage from their skin opening."
+        "tableItem": "**Itchy and scratchy skin**. Contracted by those who look too much into the sky, their skin becomes grey and dry. All Agility checks, including defense, inflicts them 1d2 damage from their skin opening."
       }
     ]
   },

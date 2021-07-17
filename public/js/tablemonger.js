@@ -1,3 +1,5 @@
+const converter = new showdown.Converter();
+
 const tablemongerReady = () => {
   // Hamburger Dance!
   var $hamburger = $(".hamburger-helper");
@@ -132,7 +134,9 @@ const showSingleTable = (result) => {
     const numDiv = $("<div class='row-num'></div>");
     numDiv.text(item.rowNum);
     const itemDiv = $("<div class='row-item'></div>");
-    itemDiv.text(item.tableItem);
+    // If we want just unconverted item content:
+    // itemDiv.text(item.tableItem);
+    itemDiv.html(converter.makeHtml(item.tableItem));
     $table.append(rowDiv);
     rowDiv.append(numDiv);
     rowDiv.append(itemDiv);

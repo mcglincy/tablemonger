@@ -1,9 +1,9 @@
 2D4 Wild Plants of the Plains
 (Rarer items appear either end of the table)
-2. Bloodroot: Grows and feeds on the blood from rotting corpses. When growing in a fresh corpse, it can function as host, zombifying the fresh deceased.
-3. Boneleaf: this invasive plant extends over large patches. It appears overnight and seems to be immutable. It grows under other small vegetation and stepping on it deals 1d4 dmg due to its bone like composition. Rumors are that grows over forgotten tombs and cemeteries.
-4. Ironkiss bramble: a common, thorny, weaving plant which grows in muddy ditches and roadsides. Animal bones are sometimes found at the roots, dying after having been caught in the snare-like hooks. Creatures take 1d4 damage each round they are within it, unless wearing appropriate, skin-covering armour.
-5. Grass, nothing but grass.
-6. Chameleon grass: This type of grass can grow to reach almost 2 meters and have a faint minty smell. When coming in contact with anything else except other blades of chameleon grass, it changes color to mimic the color of whatever it touched. It retains the color until something else touches it.
-7. Wraithweed: wispy plants that strangle and consume other plants. Incredibly tough, despite their appearance. Mothers warn children not to sleep outside, lest they accidentally take a nap near a patch of treacherous wraithweed.
-8. Breakfastroot: A narrow, pink-flowered, weedy plant with a large, hairy root. Its leaves have a sweet taste, and its tubers a bitter sourness. Each plant is a day's rations when eaten raw. When cooked, it upsets the stomach for 1d3 days (treat as infection).
+2. **Bloodroot**: Grows and feeds on the blood from rotting corpses. When growing in a fresh corpse, it can function as host, zombifying the fresh deceased.
+3. **Boneleaf**: this invasive plant extends over large patches. It appears overnight and seems to be immutable. It grows under other small vegetation and stepping on it deals 1d4 dmg due to its bone like composition. Rumors are that grows over forgotten tombs and cemeteries.
+4. **Ironkiss bramble**: a common, thorny, weaving plant which grows in muddy ditches and roadsides. Animal bones are sometimes found at the roots, dying after having been caught in the snare-like hooks. Creatures take 1d4 damage each round they are within it, unless wearing appropriate, skin-covering armour.
+5. **Grass**, nothing but grass.
+6. **Chameleon grass**: This type of grass can grow to reach almost 2 meters and have a faint minty smell. When coming in contact with anything else except other blades of chameleon grass, it changes color to mimic the color of whatever it touched. It retains the color until something else touches it.
+7. **Wraithweed**: wispy plants that strangle and consume other plants. Incredibly tough, despite their appearance. Mothers warn children not to sleep outside, lest they accidentally take a nap near a patch of treacherous wraithweed.
+8. **Breakfastroot**: A narrow, pink-flowered, weedy plant with a large, hairy root. Its leaves have a sweet taste, and its tubers a bitter sourness. Each plant is a day's rations when eaten raw. When cooked, it upsets the stomach for 1d3 days (treat as infection).
