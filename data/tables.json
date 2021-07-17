@@ -2502,83 +2502,83 @@
     "entries": [
       {
         "rowNum": "1",
-        "tableItem": "Improvisational Slaughter. You can take anything and surely kill with it. Deal d6 damage with femurs and improvised weapons. Additionally you may break a femur or improvised weapon when you hit something with it, dealing maximum damage with that strike."
+        "tableItem": "**Improvisational Slaughter**. You can take anything and surely kill with it. Deal d6 damage with femurs and improvised weapons. Additionally you may break a femur or improvised weapon when you hit something with it, dealing maximum damage with that strike."
       },
       {
         "rowNum": "2",
-        "tableItem": "Saved by Fate. Perhaps you are intended for a greater purpose, or a greater tragedy. Whenever you would spend an omen to reduce damage by d6, you instead take no damage."
+        "tableItem": "**Saved by Fate**. Perhaps you are intended for a greater purpose, or a greater tragedy. Whenever you would spend an omen to reduce damage by d6, you instead take no damage."
       },
       {
         "rowNum": "3",
-        "tableItem": "Frightful Visions. A true prophet is one who contacts beings from beyond to know things they should not. You hear whispers from an alternate self, in some other place and some other time. By consuming an omen and taking a moment in meditation you may ask your Player a question which they may respond to truthfully or otherwise, as they see fit."
+        "tableItem": "**Frightful Visions**. A true prophet is one who contacts beings from beyond to know things they should not. You hear whispers from an alternate self, in some other place and some other time. By consuming an omen and taking a moment in meditation you may ask your Player a question which they may respond to truthfully or otherwise, as they see fit."
       },
       {
         "rowNum": "4",
-        "tableItem": "BERSERK. You slaughter everything in your path. Whenever you roll damage roll the dice twice and pick the highest. You have DR 14 to Dodge and must pass a DR 14 Presence check or attack your allies when your enemies are wasted. Repeat this check once per round."
+        "tableItem": "**BERSERK**. You slaughter everything in your path. Whenever you roll damage roll the dice twice and pick the highest. You have DR 14 to Dodge and must pass a DR 14 Presence check or attack your allies when your enemies are wasted. Repeat this check once per round."
       },
       {
         "rowNum": "5",
-        "tableItem": "Precognition. You have an impeccable ability for foresight. At the beginning of each day roll a d20 and record the result, for 24 hours you can replace any d20 roll with the recorded result."
+        "tableItem": "**Precognition**. You have an impeccable ability for foresight. At the beginning of each day roll a d20 and record the result, for 24 hours you can replace any d20 roll with the recorded result."
       },
       {
         "rowNum": "6",
-        "tableItem": "Durable. At the start of each day you can roll a d10, you gain that many HP for the day. The extra HP goes away after 24 hours."
+        "tableItem": "**Durable**. At the start of each day you can roll a d10, you gain that many HP for the day. The extra HP goes away after 24 hours."
       },
       {
         "rowNum": "7",
-        "tableItem": "Clumsy Friend or foe. Everyone fears you on the battlefield for they never know when they will get their head accidentally chopped off. Whenever you crit fail, roll damage for the weapon you are holding and deal damage equal to the result to all creatures around you."
+        "tableItem": "**Clumsy Friend or foe**. Everyone fears you on the battlefield for they never know when they will get their head accidentally chopped off. Whenever you crit fail, roll damage for the weapon you are holding and deal damage equal to the result to all creatures around you."
       },
       {
         "rowNum": "8",
-        "tableItem": "Skin scribe. With some spare time and a sharp razor you can skin an enemy and improvise a random unclean scroll with it once a day. These scrolls rot after d4 days."
+        "tableItem": "****Skin scribe. With some spare time and a sharp razor you can skin an enemy and improvise a random unclean scroll with it once a day. These scrolls rot after d4 days."
       },
       {
         "rowNum": "9",
-        "tableItem": "Headless. Who needs such a silly thing? All it does is get in your way. Agility tests are -4DR and you ignore fumbles on your defense rolls. You cannot read scrolls anymore and you must spend an omen at the start of each day for the Headless God to continue your cursed unsight."
+        "tableItem": "**Headless**. Who needs such a silly thing? All it does is get in your way. Agility tests are -4DR and you ignore fumbles on your defense rolls. You cannot read scrolls anymore and you must spend an omen at the start of each day for the Headless God to continue your cursed unsight."
       },
       {
         "rowNum": "10",
-        "tableItem": "Blood so much blood why is there so much blood Every time you draw blood on an enemy (or yourself). The wound will violently erupt in a fountain of blood that will blind any nearby attacker. You, having gone through these ordeal before, have learned to look past the sea of crimson in the air and gain advantage on the next attack roll. On yourself, any damage is doubled."
+        "tableItem": "**Blood so much blood why is there so much blood**. Every time you draw blood on an enemy (or yourself). The wound will violently erupt in a fountain of blood that will blind any nearby attacker. You, having gone through these ordeal before, have learned to look past the sea of crimson in the air and gain advantage on the next attack roll. On yourself, any damage is doubled."
       },
       {
         "rowNum": "11",
-        "tableItem": "Sophisticate Steath. You've one of those faces which blends into the crowd. The DR of hiding amongst or pick-potting in a group of people is reduced by 2 and can be rolled with Agility or Presence.  In addition, you add +1 to each reaction roll"
+        "tableItem": "**Sophisticate Steath**. You've one of those faces which blends into the crowd. The DR of hiding amongst or pick-potting in a group of people is reduced by 2 and can be rolled with Agility or Presence.  In addition, you add +1 to each reaction roll"
       },
       {
         "rowNum": "12",
-        "tableItem": "Monkey Stance. You make do. Gain +1 to attack and damage rolls with a femur and can choose to make a flailing flurry on your turn. In a flailing flurry you may make any combination of 4 unarmed attacks and femur attacks, all at DR18."
+        "tableItem": "**Monkey Stance**. You make do. Gain +1 to attack and damage rolls with a femur and can choose to make a flailing flurry on your turn. In a flailing flurry you may make any combination of 4 unarmed attacks and femur attacks, all at DR18."
       },
       {
         "rowNum": "13",
-        "tableItem": "Corpse bird-caller. You are able enough to imitate any kind of sound you have ever heard using  a corpse or an air-filled gut (You start with d4 guts), attracting or confusing rivals and animals if they don't pass a Presence roll with DR 14."
+        "tableItem": "**Corpse bird-caller**. You are able enough to imitate any kind of sound you have ever heard using  a corpse or an air-filled gut (You start with d4 guts), attracting or confusing rivals and animals if they don't pass a Presence roll with DR 14."
       },
       {
         "rowNum": "14",
-        "tableItem": "Organ Grinder. On a successful attack with a blunt weapon, make a DR10 presence check. If you succeed, a clear, pure tone erupts from the mouth of your victim. If you produce three such notes in successive attacks, your allies gain the benefit of -2DR for all melee and defense tests for the remainder of this combat as they revel in your cheerful music."
+        "tableItem": "**Organ Grinder**. On a successful attack with a blunt weapon, make a DR10 presence check. If you succeed, a clear, pure tone erupts from the mouth of your victim. If you produce three such notes in successive attacks, your allies gain the benefit of -2DR for all melee and defense tests for the remainder of this combat as they revel in your cheerful music."
       },
       {
         "rowNum": "15",
-        "tableItem": "Baptized By Fire Being born in the flames of demons makes mortal fires feel like nothing in comparison. Non-magical fire does no damage to you but your skin and bones easily catch fire and do not go out on their own."
+        "tableItem": "**Baptized By Fire**. Being born in the flames of demons makes mortal fires feel like nothing in comparison. Non-magical fire does no damage to you but your skin and bones easily catch fire and do not go out on their own."
       },
       {
         "rowNum": "16",
-        "tableItem": "The Haruspex. You can read the future in entrails. Different entrails give different types of readings. 1) Fowl - [d3] You can see any single above ground area as it [1] is, [2] was, or [3] might be. 2) Caprinae - [d6] You can [1] see nothing, but at least you get to eat lamb/goat today, feeding the party. [2-3] cure an infected character, [4-6] heal a character 1d6 hit points. 3) Cervidae - Roll 2d20 and mark down the results. Replace the next 2 attacks made by you or a character of your choice that are lower than the marked numbers with the marked numbers. If you use this ability again, replace any remaining numbers. 4) Bovine - Arguably less effective than tyromancy, you can see: [d4]: [1-3] Visions relating to a single question. [d4] The best cheese in the vicinity. 5) Reptilian - Strange guts, a rare specimen. You can see [d8]: [1-2] through the eyes of another living person, but for a minute.[3-5] Who a person directly answers to. [6-8] What their immediate motivations are. 6) Human -The most powerful insides belong to other humans, who knew? You can see [2d10, picking 2 results]: [1-2] How they died, [3] Their dietary habits, [4] Where they were from, [5] Who their parents were, [6] What their last moments were like, [7] You can discern a single word answer to a question you ask the body, [8] You discern their feelings and motivation for the single thing they felt the most emotion towards,[9] You discern their immediate future, had they not died. [0] Who they spent their time with the most. On the result of two 10s, instead of choosing two, you learn absolutely everything about the person, including how they would probably answer  d4 questions. But further haruspicy will be inaccurate for the next week."
+        "tableItem": "**The Haruspex**. You can read the future in entrails. Different entrails give different types of readings. 1) Fowl - [d3] You can see any single above ground area as it [1] is, [2] was, or [3] might be. 2) Caprinae - [d6] You can [1] see nothing, but at least you get to eat lamb/goat today, feeding the party. [2-3] cure an infected character, [4-6] heal a character 1d6 hit points. 3) Cervidae - Roll 2d20 and mark down the results. Replace the next 2 attacks made by you or a character of your choice that are lower than the marked numbers with the marked numbers. If you use this ability again, replace any remaining numbers. 4) Bovine - Arguably less effective than tyromancy, you can see: [d4]: [1-3] Visions relating to a single question. [d4] The best cheese in the vicinity. 5) Reptilian - Strange guts, a rare specimen. You can see [d8]: [1-2] through the eyes of another living person, but for a minute.[3-5] Who a person directly answers to. [6-8] What their immediate motivations are. 6) Human -The most powerful insides belong to other humans, who knew? You can see [2d10, picking 2 results]: [1-2] How they died, [3] Their dietary habits, [4] Where they were from, [5] Who their parents were, [6] What their last moments were like, [7] You can discern a single word answer to a question you ask the body, [8] You discern their feelings and motivation for the single thing they felt the most emotion towards,[9] You discern their immediate future, had they not died. [0] Who they spent their time with the most. On the result of two 10s, instead of choosing two, you learn absolutely everything about the person, including how they would probably answer  d4 questions. But further haruspicy will be inaccurate for the next week."
       },
       {
         "rowNum": "17",
-        "tableItem": "Spectral Blood. A ghost on your father's side. -1 damage from Ghosts and Wraiths and you may spend a Power as an action to become incorporeal until your next turn. Being incorporeal means you are unable to make any actions other than move, but you can move through objects. in addition you take no damage from physical forces."
+        "tableItem": "**Spectral Blood**. A ghost on your father's side. -1 damage from Ghosts and Wraiths and you may spend a Power as an action to become incorporeal until your next turn. Being incorporeal means you are unable to make any actions other than move, but you can move through objects. in addition you take no damage from physical forces."
       },
       {
         "rowNum": "18",
-        "tableItem": "Bloodlion's Roar. Send those weaklings running and lead the strong to battle. On your turn you may use a Power and make a DR12 Strength check to let out a powerful battlecry. Until the end of the next round, this battlecry grants -2DR to melee attacks you and your allies make and gives -2 to all enemies' Morale."
+        "tableItem": "**Bloodlion's Roar**. Send those weaklings running and lead the strong to battle. On your turn you may use a Power and make a DR12 Strength check to let out a powerful battlecry. Until the end of the next round, this battlecry grants -2DR to melee attacks you and your allies make and gives -2 to all enemies' Morale."
       },
       {
         "rowNum": "19",
-        "tableItem": "Goliath Killer. You've learnt to strike at weak points with the crushing might of stone. Your sling attacks treat armor as if it were one tier less. In addition, dealing max damage with a sling will fracture an enemy's bone and make the DR to hit them 1 less for the rest of combat."
+        "tableItem": "**Goliath Killer**. You've learnt to strike at weak points with the crushing might of stone. Your sling attacks treat armor as if it were one tier less. In addition, dealing max damage with a sling will fracture an enemy's bone and make the DR to hit them 1 less for the rest of combat."
       },
       {
         "rowNum": "20",
-        "tableItem": "Revenant. If you reach 0HP but have another human dead body near, you can possess if passing a Presence DR12 roll. You recover all your original stats minus 1. The body turns useless after d4 days. You stink and are too ill-looking, accumulative -2 to Presence for social interactions each day."
+        "tableItem": "**Revenant**. If you reach 0HP but have another human dead body near, you can possess if passing a Presence DR12 roll. You recover all your original stats minus 1. The body turns useless after d4 days. You stink and are too ill-looking, accumulative -2 to Presence for social interactions each day."
       }
     ]
   },
@@ -2850,83 +2850,83 @@
     "entries": [
       {
         "rowNum": "1",
-        "tableItem": "Drowned Scaled Shirt -d2, when damage is seduced to 0 or less the creature that struck you feels as if they where drowning -DR2 to attack that creature next turn."
+        "tableItem": "**Drowned Scaled Shirt**. -d2, when damage is seduced to 0 or less the creature that struck you feels as if they where drowning -DR2 to attack that creature next turn."
       },
       {
         "rowNum": "2",
-        "tableItem": "Light Armor of Revelation. Chainmail in the shape of a maiden’s underwear. Men will assure it’s more comfortable and natural to fight that way. Any woman will refuse to wear it. +d2 damage when hit. -4DR when deceiving someone."
+        "tableItem": "**Light Armor of Revelation**. Chainmail in the shape of a maiden’s underwear. Men will assure it’s more comfortable and natural to fight that way. Any woman will refuse to wear it. +d2 damage when hit. -4DR when deceiving someone."
       },
       {
         "rowNum": "3",
-        "tableItem": "Oath plate an ornate full suit of plate mail with a full helm (-d6), richly carved with likenesses of martyrs and holy men. This armor resists all attempts to remove it once donned, unless the wearer first states an oath, and then fulfills it. You cannot change your oath until your previous one has been fulfilled. -2DR while taking actions to fullfil your Oath."
+        "tableItem": "**Oath plate**. An ornate full suit of plate mail with a full helm (-d6), richly carved with likenesses of martyrs and holy men. This armor resists all attempts to remove it once donned, unless the wearer first states an oath, and then fulfills it. You cannot change your oath until your previous one has been fulfilled. -2DR while taking actions to fullfil your Oath."
       },
       {
         "rowNum": "4",
-        "tableItem": "Witchovest a leather armless jacket made with the emerald skin of a witch. Her holed face features are located over its wearer's heart. When attacked, it divides the damage between victim and attacker, who sees the horrible leather face bitting them back. The leather ends melted with the skin of its wearer"
+        "tableItem": "**Witchovest**. A leather armless jacket made with the emerald skin of a witch. Her holed face features are located over its wearer's heart. When attacked, it divides the damage between victim and attacker, who sees the horrible leather face bitting them back. The leather ends melted with the skin of its wearer"
       },
       {
         "rowNum": "5",
-        "tableItem": "Halo of Kimota a glowing crown with a weird numeric formula carved on its front. Its golden color taints the head and neck of its wearer, protecting this area of any possible cutting or piercing damage but it slowly poisons them (Dead in d6 days, head slowly melting)."
+        "tableItem": "**Halo of Kimota**. A glowing crown with a weird numeric formula carved on its front. Its golden color taints the head and neck of its wearer, protecting this area of any possible cutting or piercing damage but it slowly poisons them (Dead in d6 days, head slowly melting)."
       },
       {
         "rowNum": "6",
-        "tableItem": "Mantel of Madness When you wear this mantel everything you say sounds like gibberish. Your Presence is -2.  At dawn roll d8 and gain that much to your Max HP for the day."
+        "tableItem": "**Mantel of Madness**. When you wear this mantel everything you say sounds like gibberish. Your Presence is -2.  At dawn roll d8 and gain that much to your Max HP for the day."
       },
       {
         "rowNum": "7",
-        "tableItem": "Ringed Tears. An ever dripping liquid chain mail. -d2 to regular damage. It explodes on a burst of holy water causing d8 damage to unholy creatures if beaten. It evaporates if not watered once a day leaving its wearer sick."
+        "tableItem": "**Ringed Tears**. An ever dripping liquid chain mail. -d2 to regular damage. It explodes on a burst of holy water causing d8 damage to unholy creatures if beaten. It evaporates if not watered once a day leaving its wearer sick."
       },
       {
         "rowNum": "8",
-        "tableItem": "Gauntlet of Infinity: -d2 Tier 1, While wearing this gauntlet if you snap your finger roll Presence DR14. If you succeed a random d8 creatures including yourself and allies turn to dust. works once every d8 days."
+        "tableItem": "**Gauntlet of Infinity**: -d2 Tier 1, While wearing this gauntlet if you snap your finger roll Presence DR14. If you succeed a random d8 creatures including yourself and allies turn to dust. works once every d8 days."
       },
       {
         "rowNum": "9",
-        "tableItem": "Hurt me: +d6. This armor hates you. It is equipped with spikes which pierce you everytime you get hit. Why'd you put this on?"
+        "tableItem": "**Hurt me**: +d6. This armor hates you. It is equipped with spikes which pierce you everytime you get hit. Why'd you put this on?"
       },
       {
         "rowNum": "10",
-        "tableItem": "A Spiteful Goose: It's a pissed off goose tied to your helmet. While wearing this helm, the enraged honking of the goose strikes fear into the hearts of your foes: +2 to all morale rolls. The Goose must be fed once per day or it will starve, and the wearer cannot be stealthy due to all the honking."
+        "tableItem": "**A Spiteful Goose**: It's a pissed off goose tied to your helmet. While wearing this helm, the enraged honking of the goose strikes fear into the hearts of your foes: +2 to all morale rolls. The Goose must be fed once per day or it will starve, and the wearer cannot be stealthy due to all the honking."
       },
       {
         "rowNum": "11",
-        "tableItem": "Spectral Host: An unpolished dark gem on a leather choker. Three green phantoms fly around your body. d2 damage when you travel in holy sites. -d4 damage from undead enemies."
+        "tableItem": "**Spectral Host**: An unpolished dark gem on a leather choker. Three green phantoms fly around your body. d2 damage when you travel in holy sites. -d4 damage from undead enemies."
       },
       {
         "rowNum": "12",
-        "tableItem": "Helmet of water Breathing -d4 When you put this helmet on it locks into place and cant be removed without using 2 Power. It starts filling up with water. You have d4 rounds of breath to hold. After that you take d2 damage for every round of combat after wards."
+        "tableItem": "**Helmet of water Breathing**. -d4 When you put this helmet on it locks into place and cant be removed without using 2 Power. It starts filling up with water. You have d4 rounds of breath to hold. After that you take d2 damage for every round of combat after wards."
       },
       {
         "rowNum": "13",
-        "tableItem": "Goblin Slayer Lamellar -d6 This armor is made of the skin of 100 goblins layered and hardened through a difficult process. It smells terrible but it's impressive.  When facing Goblins they immediately test for Morale with +2. If they pass, you can't demoralize them as they want to avenge their fellow fallen goblins. You are their main Target."
+        "tableItem": "**Goblin Slayer Lamellar**. -d6 This armor is made of the skin of 100 goblins layered and hardened through a difficult process. It smells terrible but it's impressive.  When facing Goblins they immediately test for Morale with +2. If they pass, you can't demoralize them as they want to avenge their fellow fallen goblins. You are their main Target."
       },
       {
         "rowNum": "14",
-        "tableItem": "Lich's Cuirass -d4 A normal looking cuirass that is actually a Lich's Phylactery. No one can use Powers near this anti-magical wound in reality. Every round you can steal the contents of a nearby scroll and use this Power against a creature. The Lich is looking for it's Phylactery and has a strong connection to it. It will find you in d4 days. the armor does not work against the Lich."
+        "tableItem": "**Lich's Cuirass**. -d4 A normal looking cuirass that is actually a Lich's Phylactery. No one can use Powers near this anti-magical wound in reality. Every round you can steal the contents of a nearby scroll and use this Power against a creature. The Lich is looking for it's Phylactery and has a strong connection to it. It will find you in d4 days. the armor does not work against the Lich."
       },
       {
         "rowNum": "15",
-        "tableItem": "Plague Sackcloth: Looks awful, covered in dry blood, green slime and black tar, smells worst and makes other sick around you. Creatures that hit you make a Toughness test DR 14 to not get infected. Those Infected take d2 damage for d6 turns. You cannot remove this Sackcloth or you infect your allies with a deadly infection. If not treated in d4 days you all die."
+        "tableItem": "**Plague Sackcloth**.: Looks awful, covered in dry blood, green slime and black tar, smells worst and makes other sick around you. Creatures that hit you make a Toughness test DR 14 to not get infected. Those Infected take d2 damage for d6 turns. You cannot remove this Sackcloth or you infect your allies with a deadly infection. If not treated in d4 days you all die."
       },
       {
         "rowNum": "16",
-        "tableItem": "Flower of Nech. No armor. You cannot go below 0 HP. Jet-black razor-edged scale mail that when worn, burrows into the torso of its wearer, churning the flesh and bone, turning the entire upper body inside-out. Behind exposed bone and guts, within you, is the armor. It wears you now."
+        "tableItem": "**Flower of Nech**. No armor. You cannot go below 0 HP. Jet-black razor-edged scale mail that when worn, burrows into the torso of its wearer, churning the flesh and bone, turning the entire upper body inside-out. Behind exposed bone and guts, within you, is the armor. It wears you now."
       },
       {
         "rowNum": "17",
-        "tableItem": "Sacred Strap. Made of rosary beads. D2 damage each day (its beads slowly move in circles lacerating the flesh) but its wearer can't be affected by powers or magic."
+        "tableItem": "**Sacred Strap**. Made of rosary beads. D2 damage each day (its beads slowly move in circles lacerating the flesh) but its wearer can't be affected by powers or magic."
       },
       {
         "rowNum": "18",
-        "tableItem": "Robes of the Icon of Vladek Wearing this sacred robe heals you d2 each turn of combat once you are taken to 1HP. If you are to go below 0 It burst into flame consuming itself and you into a pile of ashes. You emerge from the ashes d4 days later and with less max HP equal to how long it took to come back."
+        "tableItem": "**Robes of the Icon of Vladek**. Wearing this sacred robe heals you d2 each turn of combat once you are taken to 1HP. If you are to go below 0 It burst into flame consuming itself and you into a pile of ashes. You emerge from the ashes d4 days later and with less max HP equal to how long it took to come back."
       },
       {
         "rowNum": "19",
-        "tableItem": "Wastland Hide. -d4. A chain shirt of undead spidercrickets, looping their many legs together to created a hardy but lightweight defense. This armor does not increase DR or impede scroll usage as regular medium armor does. Additionally, you may expend a use of your Powers to cause the spidercrickets to swarm and eat a large quantity of unliving edible matter, such as corpses or crops."
+        "tableItem": "**Wastland Hide**. -d4. A chain shirt of undead spidercrickets, looping their many legs together to created a hardy but lightweight defense. This armor does not increase DR or impede scroll usage as regular medium armor does. Additionally, you may expend a use of your Powers to cause the spidercrickets to swarm and eat a large quantity of unliving edible matter, such as corpses or crops."
       },
       {
         "rowNum": "20",
-        "tableItem": "Romance of Strangled Dogs -d8 A style of super-heavy armor made by earthbound forgmasters. Once must be stitched inside the armor to wear it without breaking their spine.  The Romance increases unarmed attack damage to d8 and the wearer can carry 10 more items than normal. Agility tests are DR+6, defence is DR+4. Scrolls cannot be cast while wearing the armor. Eating and drinking in it is also very difficult."
+        "tableItem": "**Romance of Strangled Dogs**. -d8 A style of super-heavy armor made by earthbound forgmasters. Once must be stitched inside the armor to wear it without breaking their spine.  The Romance increases unarmed attack damage to d8 and the wearer can carry 10 more items than normal. Agility tests are DR+6, defence is DR+4. Scrolls cannot be cast while wearing the armor. Eating and drinking in it is also very difficult."
       }
     ]
   },
@@ -2937,31 +2937,31 @@
     "entries": [
       {
         "rowNum": "1",
-        "tableItem": "Drunken Swineman. Belligerent and loud, speech is punctuated by snorts and squeals(the more metal a squeal, the better). If any PC even looks at him, he waddles over drunkenly, beer slobber dripping from his mouth, and sloshing beer along the way. Stinks of the alcohol and mud he's wearing all over his overalls. Carries a mining pick, hammer, and other tools on his belt. Claims to be a master craftsman that can build sturdy houses out of straw, sticks, and bricks. (Fanged Deserter, or Brazen Blacksmith from Līber Lūdōrum if PC.)"
+        "tableItem": "**Drunken Swineman**. Belligerent and loud, speech is punctuated by snorts and squeals(the more metal a squeal, the better). If any PC even looks at him, he waddles over drunkenly, beer slobber dripping from his mouth, and sloshing beer along the way. Stinks of the alcohol and mud he's wearing all over his overalls. Carries a mining pick, hammer, and other tools on his belt. Claims to be a master craftsman that can build sturdy houses out of straw, sticks, and bricks. (Fanged Deserter, or Brazen Blacksmith from Līber Lūdōrum if PC.)"
       },
       {
         "rowNum": "2",
-        "tableItem": "Peeping Tom An old guy with a glass eye. Loves to take it out and pop it in a patron's drink."
+        "tableItem": "**Peeping **. An old guy with a glass eye. Loves to take it out and pop it in a patron's drink."
       },
       {
         "rowNum": "3",
-        "tableItem": "Damaged Dungeoneer. A former adventurer with a swollen, ruddy face from excess drink and a shaken temperament.  He saw something in the hills. Eager to regale the party with omens of their doom. (Fanged Deserter or Classless if PC)"
+        "tableItem": "**Damaged Dungeoneer**. A former adventurer with a swollen, ruddy face from excess drink and a shaken temperament.  He saw something in the hills. Eager to regale the party with omens of their doom. (Fanged Deserter or Classless if PC)"
       },
       {
         "rowNum": "4",
-        "tableItem": "Bonesy Literally just a skeleton. Probably died from alcohol poisoning, but they never bothered to clean this bar afterwards."
+        "tableItem": "**Bonesy**. Literally just a skeleton. Probably died from alcohol poisoning, but they never bothered to clean this bar afterwards."
       },
       {
         "rowNum": "5",
-        "tableItem": "Phony Bartender. Acts as if he was the real bartender, does his best to fulfill your order, and when about to be discovered he disappears with the pay of everyone he fooled."
+        "tableItem": "**Phony Bartender**. Acts as if he was the real bartender, does his best to fulfill your order, and when about to be discovered he disappears with the pay of everyone he fooled."
       },
       {
         "rowNum": "6",
-        "tableItem": "Monkey Jim sits all alone. As long as you're not counting the gaggle of screaming monkeys as company. The owner has tried to kick him out, but can't get past the throng of simian limbs. Can often be heard sighing as yet another bowl or tankard is flung by an excitable 'companion'."
+        "tableItem": "**Monkey Jim** sits all alone. As long as you're not counting the gaggle of screaming monkeys as company. The owner has tried to kick him out, but can't get past the throng of simian limbs. Can often be heard sighing as yet another bowl or tankard is flung by an excitable 'companion'."
       },
       {
         "rowNum": "7",
-        "tableItem": "Miserable Fool. a wretched jester, bereft of monarchs to mock, devoid of purpose. The tassels on his hat jingle pathetically as he downs another ale. (Wretched Royalty or Sacrilegious Songbird for PC)"
+        "tableItem": "**Miserable Fool**. A wretched jester, bereft of monarchs to mock, devoid of purpose. The tassels on his hat jingle pathetically as he downs another ale. (Wretched Royalty or Sacrilegious Songbird for PC)"
       },
       {
         "rowNum": "8",
@@ -2969,51 +2969,51 @@
       },
       {
         "rowNum": "9",
-        "tableItem": "Silent Observer. Some squamous moist thing pulled from the muck in ages past. Gravitated towards this tavern, picked a seat, and waited. Has since been a permanent fixture for the past two hundred years. An hour ago it got up for a drink. (Pale One for PC)"
+        "tableItem": "**Silent Observer**. Some squamous moist thing pulled from the muck in ages past. Gravitated towards this tavern, picked a seat, and waited. Has since been a permanent fixture for the past two hundred years. An hour ago it got up for a drink. (Pale One for PC)"
       },
       {
         "rowNum": "10",
-        "tableItem": "Three Old Men sit perpetually in the pub, drinking away their woes and discussing the old days. One of them has obviously fabricated tales- he believes his chums to have been replaced by skinstealers, and wants to see how much of the absurd they'll accept as fact."
+        "tableItem": "**Three Old Men** sit perpetually in the pub, drinking away their woes and discussing the old days. One of them has obviously fabricated tales- he believes his chums to have been replaced by skinstealers, and wants to see how much of the absurd they'll accept as fact."
       },
       {
         "rowNum": "11",
-        "tableItem": "Artisan Arty A carpenter (in)famous for making houses that are more deathtraps than they are homes. Some still question if this is intentional, or accidental. Or if he paid someone else to build his own house. Came for a drink and built his own chair, isn't leaving from it out of fear it will break under him."
+        "tableItem": "**Artisan Arty**. A carpenter (in)famous for making houses that are more deathtraps than they are homes. Some still question if this is intentional, or accidental. Or if he paid someone else to build his own house. Came for a drink and built his own chair, isn't leaving from it out of fear it will break under him."
       },
       {
         "rowNum": "12",
-        "tableItem": "Squirming Trenchcoat. Only enters when raining. Tall, wearing a buttoned leather trenchcoat and wide brim hat. Can be observed obsessively studying the woodwork of and in the building, caressing and smelling even. (If DM - DR14 Presence to see it's actually three, human child-sized termites. They burst from the trenchcoat! Termites x3 HP 4 Morale8 Chitin-d4 Greedy Pincersd4+1 Special DR12 Agility test to avoid anything wooden being broken or stolen. If PC - three small Fanged Deserters, with all stats, equipment and powers divided between each as best as possible. Armor gained applies to each. Can be targeted separately. When one dies, stats and powers roll into remaining Termite/s. Gear is recoverable.)"
+        "tableItem": "**Squirming Trenchcoat**. Only enters when raining. Tall, wearing a buttoned leather trenchcoat and wide brim hat. Can be observed obsessively studying the woodwork of and in the building, caressing and smelling even. (If DM - DR14 Presence to see it's actually three, human child-sized termites. They burst from the trenchcoat! Termites x3 HP 4 Morale8 Chitin-d4 Greedy Pincersd4+1 Special DR12 Agility test to avoid anything wooden being broken or stolen. If PC - three small Fanged Deserters, with all stats, equipment and powers divided between each as best as possible. Armor gained applies to each. Can be targeted separately. When one dies, stats and powers roll into remaining Termite/s. Gear is recoverable.)"
       },
       {
         "rowNum": "13",
-        "tableItem": "Totally NOT a Skeleton. Pale, thin, boney, and draped in a shroud they seem in good spirits despite the atmosphere at the bar, funnily enough they are content with only buying drinks and food for other patrons and not themselves (PC get free drinks and food on him, +d4 health on top of your resting). If the players pass a Presence DR check of 16, they realize the patron is a skeleton, if confronted about it with any form of hostility the skeleton immediately uses a Death Scroll. If the players are cordial about their abnormal state the Skeleton will give the players rings from a pouch. If the ring is put on a corpse their skeleton rips itself out of the corpse violently and will be reanimated with all their memories (and items) BUT now they only have 1 hp and all abilities are 0 (if this is an improvement enjoy your new found skelly body) (if a PC, starts with 1 doom scroll, a bag of \"Raise skeleton\" rings, that do the previously mentioned, and also has 1 hp and 0 as all abilities. d10 on weapon chart, 5d6 x 20 silver, you wear a shroud that counts as light armor)"
+        "tableItem": "**Totally NOT a Skeleton**. Pale, thin, boney, and draped in a shroud they seem in good spirits despite the atmosphere at the bar, funnily enough they are content with only buying drinks and food for other patrons and not themselves (PC get free drinks and food on him, +d4 health on top of your resting). If the players pass a Presence DR check of 16, they realize the patron is a skeleton, if confronted about it with any form of hostility the skeleton immediately uses a Death Scroll. If the players are cordial about their abnormal state the Skeleton will give the players rings from a pouch. If the ring is put on a corpse their skeleton rips itself out of the corpse violently and will be reanimated with all their memories (and items) BUT now they only have 1 hp and all abilities are 0 (if this is an improvement enjoy your new found skelly body) (if a PC, starts with 1 doom scroll, a bag of \"Raise skeleton\" rings, that do the previously mentioned, and also has 1 hp and 0 as all abilities. d10 on weapon chart, 5d6 x 20 silver, you wear a shroud that counts as light armor)"
       },
       {
         "rowNum": "14",
-        "tableItem": "Gorthax the Thick. Skulks in the corner, emitting a noticeable odor. Old meat? Soured milk? Hard to tell. Every so often he picks up his axe, lovingly strokes it, and mutters something under his breath."
+        "tableItem": "**Gorthax the Thick**. Skulks in the corner, emitting a noticeable odor. Old meat? Soured milk? Hard to tell. Every so often he picks up his axe, lovingly strokes it, and mutters something under his breath."
       },
       {
         "rowNum": "15",
-        "tableItem": "Distant Royalty one of the descendants of SHE, or so he claims. Certainly explains the fangs and scaley skin. This lizardman is bragging at the bar, trying to get a free drink. It isn't working out so hot. (classless w/ iron stomach feat)"
+        "tableItem": "**Distant Royalty**. One of the descendants of SHE, or so he claims. Certainly explains the fangs and scaley skin. This lizardman is bragging at the bar, trying to get a free drink. It isn't working out so hot. (classless w/ iron stomach feat)"
       },
       {
         "rowNum": "16",
-        "tableItem": "Annoying Braggart Can't stop boasting about that time he slayed that monster with just a toothpick, or that other time when he raided the Lair of the Whispering Wyvern all on his own. Nobody believes him, of course, and sometimes he accidentally mixes stories and even tells you about a legendary feat he accomplished that is actually yours. Won't leave you alone until you buy him a drink."
+        "tableItem": "**Annoying Braggart**. Can't stop boasting about that time he slayed that monster with just a toothpick, or that other time when he raided the Lair of the Whispering Wyvern all on his own. Nobody believes him, of course, and sometimes he accidentally mixes stories and even tells you about a legendary feat he accomplished that is actually yours. Won't leave you alone until you buy him a drink."
       },
       {
         "rowNum": "17",
-        "tableItem": "The Town Drunk A drunk.  Saw something weird nearby while piss drunk the other day that scared them (mostly) sober. The rumor around town is the drunk is acting strange and telling a story at the local tavern. Regulars inside the tavern are actively complaining about this drunk telling them the same stupid story nonstop for the last 1d4 days. Upon inspecting their body (or corpse) test presence to find some insidious mark of the threat in question. After rolling the d4 reference the below table to determine the threats motives in town: 1) The threats target is in town (or is the town itself) and will hatch their plan soon 2-3)  The threats target is nearby and they are using the town as a base of operations 4) The threat is just passing through but heading in the same direction as the players and will reemerge later. The next time the players move to a new location reroll on this table to determine the targets motive in that location."
+        "tableItem": "**The Town Drunk**. A drunk.  Saw something weird nearby while piss drunk the other day that scared them (mostly) sober. The rumor around town is the drunk is acting strange and telling a story at the local tavern. Regulars inside the tavern are actively complaining about this drunk telling them the same stupid story nonstop for the last 1d4 days. Upon inspecting their body (or corpse) test presence to find some insidious mark of the threat in question. After rolling the d4 reference the below table to determine the threats motives in town: 1) The threats target is in town (or is the town itself) and will hatch their plan soon 2-3)  The threats target is nearby and they are using the town as a base of operations 4) The threat is just passing through but heading in the same direction as the players and will reemerge later. The next time the players move to a new location reroll on this table to determine the targets motive in that location."
       },
       {
         "rowNum": "18",
-        "tableItem": "Suspicious Samuel a runty goblin, poorly disguised as a fisherman, thoughtfully munches on lentil lice in the corner. No one in the bar will acknowledge that Sam is a goblin. Sam will provide fresh fish in exchange for trinkets or interesting gossip. If accused of being a goblin, he will break down in tears and go on a nigh incomprehensible rant about the punishments for tax evasion. Will apologize for his outburst afterwards."
+        "tableItem": "**Suspicious Samuel**. A runty goblin, poorly disguised as a fisherman, thoughtfully munches on lentil lice in the corner. No one in the bar will acknowledge that Sam is a goblin. Sam will provide fresh fish in exchange for trinkets or interesting gossip. If accused of being a goblin, he will break down in tears and go on a nigh incomprehensible rant about the punishments for tax evasion. Will apologize for his outburst afterwards."
       },
       {
         "rowNum": "19",
-        "tableItem": "Sir Galliant A knight in shining armor in a piteous land. There is no limit to the amount of evil this man can pursue, no limit to the people he can help. Very easily persuaded to join the party. In truth, he is utterly delusional, trapped in a suit that has fused to his skin. He isn't actively harmful, but he is unpredictable. At the moment he is getting into a fight with a brutish local. (Classless with living armor feat)"
+        "tableItem": "**Sir Galliant**. A knight in shining armor in a piteous land. There is no limit to the amount of evil this man can pursue, no limit to the people he can help. Very easily persuaded to join the party. In truth, he is utterly delusional, trapped in a suit that has fused to his skin. He isn't actively harmful, but he is unpredictable. At the moment he is getting into a fight with a brutish local. (Classless with living armor feat)"
       },
       {
         "rowNum": "20",
-        "tableItem": "Jim from another realm A normal looking young lad, milquetoast, and dressed in strange attire. He insists he is from another world, where he died while \"riding his bike home one day from an anime cafe\" whatever the fuck that means. He will follow you out of the tavern even without being invited. He is however very naive to the world and incredibly gullible and expendable. All of Jim's abilities are -1, he has 1 health, 1 omen, a large stick (d4 damage). If somehow he survives and is able to get better, instead of rolling for each ability, randomly select one to increase by 1, his health and omens also increase by 1. Alternatively instead of increasing his stats, you may give him an Unheroic Feat. (He functions the same as a PC)"
+        "tableItem": "**Jim from another realm**. A normal looking young lad, milquetoast, and dressed in strange attire. He insists he is from another world, where he died while \"riding his bike home one day from an anime cafe\" whatever the fuck that means. He will follow you out of the tavern even without being invited. He is however very naive to the world and incredibly gullible and expendable. All of Jim's abilities are -1, he has 1 health, 1 omen, a large stick (d4 damage). If somehow he survives and is able to get better, instead of rolling for each ability, randomly select one to increase by 1, his health and omens also increase by 1. Alternatively instead of increasing his stats, you may give him an Unheroic Feat. (He functions the same as a PC)"
       }
     ]
   },
@@ -3024,83 +3024,83 @@
     "entries": [
       {
         "rowNum": "1",
-        "tableItem": "Bleating Devil-Ram: You can Ram for d8. On a 1-2 form a d6 the creature is toppled over and cant attack for a turn. Thick Black Fleece -d4 Hell's Bells, You have a Cursed bell around your neck and it rings with dread. Once a round you can make a creature test for Morale."
+        "tableItem": "**Bleating Devil-Ram**: You can Ram for d8. On a 1-2 form a d6 the creature is toppled over and cant attack for a turn. Thick Black Fleece -d4 Hell's Bells, You have a Cursed bell around your neck and it rings with dread. Once a round you can make a creature test for Morale."
       },
       {
         "rowNum": "2",
-        "tableItem": "Ruin Basilisk. In the shape of this single-headed sacred beast you can fool the simple into devotion and worship (+5 to reaction checks) but scholars and priests will likely see through the façade (-5 to reaction checks)."
+        "tableItem": "**Ruin Basilisk**. In the shape of this single-headed sacred beast you can fool the simple into devotion and worship (+5 to reaction checks) but scholars and priests will likely see through the façade (-5 to reaction checks)."
       },
       {
         "rowNum": "3",
-        "tableItem": "Abyssal Chicken aka Cockatrice. Beak: d4 damage and Stone Peck Stone Peck: 1. On the first successful attack, DR to defend decreases by 2 2. On the second successful attack, DR to attack decreases by 2 3. On third successful hit, target turns to stone for d4 days"
+        "tableItem": "**Abyssal Chicken** aka Cockatrice. Beak: d4 damage and Stone Peck Stone Peck: 1. On the first successful attack, DR to defend decreases by 2 2. On the second successful attack, DR to attack decreases by 2 3. On third successful hit, target turns to stone for d4 days"
       },
       {
         "rowNum": "4",
-        "tableItem": "Forsaken Hog - Make two attacks per round with your Bite (d4). - Thick Hide: -d4 incoming damage Slop: Incoming melee attacks are -2. Failed Morale checks cause Infection."
+        "tableItem": "**Forsaken Hog** - Make two attacks per round with your Bite (d4). - Thick Hide: -d4 incoming damage Slop: Incoming melee attacks are -2. Failed Morale checks cause Infection."
       },
       {
         "rowNum": "5",
-        "tableItem": "Sacred Man-Faced Stag: Enormous Horns d8 , Golden Fleece -d6 Holy Light: You emit a blinding light. Creatures cannot come near you unless they pass a Morale if they pass you become their sole target. They want that Fleece. Healing Light: Allies near you gain d2 hp on your turn."
+        "tableItem": "**Sacred Man-Faced Stag**: Enormous Horns d8 , Golden Fleece -d6 Holy Light: You emit a blinding light. Creatures cannot come near you unless they pass a Morale if they pass you become their sole target. They want that Fleece. Healing Light: Allies near you gain d2 hp on your turn."
       },
       {
         "rowNum": "6",
-        "tableItem": "Goblin-Sniffing Dog: Bite d4, mottled fur -d2 Keen Nose: You can Sniff out Goblins in an adjacent room to you. Alarming Bark: You bark loudly alerting all creatures near by. They make a Morale roll, if they succeed they become hostile and search for you if not they Flee."
+        "tableItem": "**Goblin-Sniffing Dog**: Bite d4, mottled fur -d2 Keen Nose: You can Sniff out Goblins in an adjacent room to you. Alarming Bark: You bark loudly alerting all creatures near by. They make a Morale roll, if they succeed they become hostile and search for you if not they Flee."
       },
       {
         "rowNum": "7",
-        "tableItem": "Regular mole: You can dig a 6 feet deep hole per turn, but you are blind in daylight."
+        "tableItem": "**Regular mole**: You can dig a 6 feet deep hole per turn, but you are blind in daylight."
       },
       {
         "rowNum": "8",
-        "tableItem": "Hermit Crab: Has extremely sharp pinchers (d6 damage). Suffocates if not in water for longer than 2 hours at a time."
+        "tableItem": "**Hermit Crab**: Has extremely sharp pinchers (d6 damage). Suffocates if not in water for longer than 2 hours at a time."
       },
       {
         "rowNum": "9",
-        "tableItem": "Unfortunate Soulmate Roll another character."
+        "tableItem": "**Unfortunate Soulmate**. Roll another character."
       },
       {
         "rowNum": "10",
-        "tableItem": "Bloody Loris: your eyes distract any human near giving you a +2 on attack/defence for 3 turns."
+        "tableItem": "**Bloody Loris**: your eyes distract any human near giving you a +2 on attack/defence for 3 turns."
       },
       {
         "rowNum": "11",
-        "tableItem": "Laughing Hyaenidae: bite d6. Your raging sounds force a morale roll."
+        "tableItem": "**Laughing Hyaenidae**: bite d6. Your raging sounds force a morale roll."
       },
       {
         "rowNum": "12",
-        "tableItem": "Troll Child: fists d8. Thick hide -2. Coward: changes back in d8 turns."
+        "tableItem": "**Troll Child**: fists d8. Thick hide -2. Coward: changes back in d8 turns."
       },
       {
         "rowNum": "13",
-        "tableItem": "Skinwalking Skinwalker: you change into yourself on a weird loop, your enemies get confused and your allies gain +2 on attack/defence for 4 turns."
+        "tableItem": "**Skinwalking Skinwalker**: you change into yourself on a weird loop, your enemies get confused and your allies gain +2 on attack/defence for 4 turns."
       },
       {
         "rowNum": "14",
-        "tableItem": "Crying Foetus: piercing cry (d4), forced morale roll each turn, deep rooted existential thoughts."
+        "tableItem": "**Crying Foetus**: piercing cry (d4), forced morale roll each turn, deep rooted existential thoughts."
       },
       {
         "rowNum": "15",
-        "tableItem": "Slippery Slug: Not affected by piercing attacks or razor weapons. +2 on attack/defence for 2 turns. Can't hold anything."
+        "tableItem": "**Slippery Slug**: Not affected by piercing attacks or razor weapons. +2 on attack/defence for 2 turns. Can't hold anything."
       },
       {
         "rowNum": "16",
-        "tableItem": "Spiky Hedgehog: d6 throwing spikes. 1 on 6 chances of piercing yourself with these."
+        "tableItem": "**Spiky Hedgehog**: d6 throwing spikes. 1 on 6 chances of piercing yourself with these."
       },
       {
         "rowNum": "17",
-        "tableItem": "Shock Shark. Can instantly teleport to a spot within 30 feet in a flash of sparking electricity. d8 (nasty bite). If your victim is wearing armor, they take an additional d4 damage from sparks that fly from your teeth (ignoring armor). Can't survive out of water for long."
+        "tableItem": "**Shock Shark**. Can instantly teleport to a spot within 30 feet in a flash of sparking electricity. d8 (nasty bite). If your victim is wearing armor, they take an additional d4 damage from sparks that fly from your teeth (ignoring armor). Can't survive out of water for long."
       },
       {
         "rowNum": "18",
-        "tableItem": "Godshield Chelonian. This turtle can hide in its iron-like shell to become impervious to all damage. Doing so takes 5 minutes (during which the turtle can do nothing else). Emerging again takes 15 minutes. It is immobile and cannot act while hiding."
+        "tableItem": "**Godshield Chelonian**. This turtle can hide in its iron-like shell to become impervious to all damage. Doing so takes 5 minutes (during which the turtle can do nothing else). Emerging again takes 15 minutes. It is immobile and cannot act while hiding."
       },
       {
         "rowNum": "19",
-        "tableItem": "Hell Hound. A shuddering beast covered in hanging icicles. d6 (frost bite). Can unleash a cone of freezing breath: all targets must test DR12 AGI or take d4 damage and -3 on all AGI rolls until they warm themselves up."
+        "tableItem": "**Hell Hound**. A shuddering beast covered in hanging icicles. d6 (frost bite). Can unleash a cone of freezing breath: all targets must test DR12 AGI or take d4 damage and -3 on all AGI rolls until they warm themselves up."
       },
       {
         "rowNum": "20",
-        "tableItem": "Fearwig. A wound made by this pincer-assed insect will fill it's victim with primal fear. Bite/forceps d4 + Test Presence DR10 or flee/cower in fear for d10 rounds."
+        "tableItem": "**Fearwig**. A wound made by this pincer-assed insect will fill it's victim with primal fear. Bite/forceps d4 + Test Presence DR10 or flee/cower in fear for d10 rounds."
       }
     ]
   },
@@ -3111,83 +3111,83 @@
     "entries": [
       {
         "rowNum": "1",
-        "tableItem": "Miracle Hair Elixir Pour this foul smelling yellow liquid on your head for a more full head of hair. By the gods it works. Oh, it wont stop growing. OH GODS MAKE IT STOP!!"
+        "tableItem": "**Miracle Hair Elixir**. Pour this foul smelling yellow liquid on your head for a more full head of hair. By the gods it works. Oh, it wont stop growing. OH GODS MAKE IT STOP!!"
       },
       {
         "rowNum": "2",
-        "tableItem": "Mellified Man Feed a dying man honey and only honey until his excrement is nothing more than the bee's gold. He will perish, after which you need to submerge his body in a vat of honey and let it ripe for 3 months. This liquid gold will cure any bone-ache."
+        "tableItem": "**Mellified Man**. Feed a dying man honey and only honey until his excrement is nothing more than the bee's gold. He will perish, after which you need to submerge his body in a vat of honey and let it ripe for 3 months. This liquid gold will cure any bone-ache."
       },
       {
         "rowNum": "3",
-        "tableItem": "Vapor Rubs A thick minty salve cure all. Put it on you sores, zits, cuts, head aches, you name it. You will be cured of anything that ails you in no time at all. (It doesn't cure anything but it make you feel like it does.)"
+        "tableItem": "**Vapor Rubs**. A thick minty salve cure all. Put it on you sores, zits, cuts, head aches, you name it. You will be cured of anything that ails you in no time at all. (It doesn't cure anything but it make you feel like it does.)"
       },
       {
         "rowNum": "4",
-        "tableItem": "Facial plaster a grey clay, smells like meat. One applied over a face it can be molded for 5 minutes and it will last for d4 days. Extreme variations are possible too, like changing the place of the face features."
+        "tableItem": "**Facial plaster**. A grey clay, smells like meat. One applied over a face it can be molded for 5 minutes and it will last for d4 days. Extreme variations are possible too, like changing the place of the face features."
       },
       {
         "rowNum": "5",
-        "tableItem": "Doktor Pfeiffer's Miracle elixir sold as a cure-all for anything from gout to siphilis, this sugary potion is really little more flavoured sugar water laced with the highly addictive narcotic leaves of the Mudvine plant."
+        "tableItem": "**Doktor Pfeiffer's Miracle elixir**. Sold as a cure-all for anything from gout to siphilis, this sugary potion is really little more flavoured sugar water laced with the highly addictive narcotic leaves of the Mudvine plant."
       },
       {
         "rowNum": "6",
-        "tableItem": "Mom's Milk Essence It makes people feel helpless and weak, forcing morale rolls or turning a single target into a teary snoty mess, its user first."
+        "tableItem": "**Mom's Milk Essence**. It makes people feel helpless and weak, forcing morale rolls or turning a single target into a teary snoty mess, its user first."
       },
       {
         "rowNum": "7",
-        "tableItem": "Diluted invisibility potion Turns everything invisible upon consumption except for your clothes, equipment, and eyes for an hour."
+        "tableItem": "**Diluted invisibility potion**. Turns everything invisible upon consumption except for your clothes, equipment, and eyes for an hour."
       },
       {
         "rowNum": "8",
-        "tableItem": "Life potion concentrate Consumer heals 1d6 but their open wounds also form a growth that becomes a sentient face with a mind of it's own. It will steal all healing from you from now on and you must take responsibility for the conjoined abomination that you have created."
+        "tableItem": "**Life potion concentrate**. Consumer heals 1d6 but their open wounds also form a growth that becomes a sentient face with a mind of it's own. It will steal all healing from you from now on and you must take responsibility for the conjoined abomination that you have created."
       },
       {
         "rowNum": "9",
-        "tableItem": "Corpse Paint It is sold as regular makeup. Turns the face on which it is applied in a perfect copy of the last corpse face its user have seen. Each time a new corpse is seen, their face changes accordingly."
+        "tableItem": "**Corpse Paint**. It is sold as regular makeup. Turns the face on which it is applied in a perfect copy of the last corpse face its user have seen. Each time a new corpse is seen, their face changes accordingly."
       },
       {
         "rowNum": "10",
-        "tableItem": "Bodacious Badonkadonk Brew Consumer's will experience booty growth instantly. Side effects may include: too much growth, considerable weight hindrance, ass sentience, willful posterior separation, battles with your own butt, and possibly death. Giant Sentient Ass HP 8, EXTRA THICC -1d6, Big Ass Damage 1d10, Special: whenever it is damaged, attacker must test toughness DR14 or take 1d4 poison damage from giant fart/shit."
+        "tableItem": "**Bodacious Badonkadonk Brew**. Consumers will experience booty growth instantly. Side effects may include: too much growth, considerable weight hindrance, ass sentience, willful posterior separation, battles with your own butt, and possibly death. Giant Sentient Ass HP 8, EXTRA THICC -1d6, Big Ass Damage 1d10, Special: whenever it is damaged, attacker must test toughness DR14 or take 1d4 poison damage from giant fart/shit."
       },
       {
         "rowNum": "11",
-        "tableItem": "Consecrated Laundanum A darling little tincture for those easing off the communion wine! Blessed by the batch to achieve a smooth and comforting buzz."
+        "tableItem": "**Consecrated Laundanum**. A darling little tincture for those easing off the communion wine! Blessed by the batch to achieve a smooth and comforting buzz."
       },
       {
         "rowNum": "12",
-        "tableItem": "A Breath of Air from the Glimmering Fields \"15 silver, don't waste my time\""
+        "tableItem": "**A Breath of Air from the Glimmering Fields**. \"15 silver, don't waste my time\""
       },
       {
         "rowNum": "13",
-        "tableItem": "Dissonant Earwax It fills your ears with motivational speechs from beyond."
+        "tableItem": "**Dissonant Earwax**. It fills your ears with motivational speechs from beyond."
       },
       {
         "rowNum": "14",
-        "tableItem": "Make You Smarter-pill: Small pills selling for 8 silver per. Promises to give additional +1 Presence for one hour. Placebo, if the player questions the authenticity of the pill (in or out of character) it stops working."
+        "tableItem": "**Make You Smarter-pill**: Small pills selling for 8 silver per. Promises to give additional +1 Presence for one hour. Placebo, if the player questions the authenticity of the pill (in or out of character) it stops working."
       },
       {
         "rowNum": "15",
-        "tableItem": "Stinky Feet Ointment It completely removes the bad smell from your trotters, now your face smells of feet."
+        "tableItem": "**Stinky Feet Ointment**. It completely removes the bad smell from your trotters, now your face smells of feet."
       },
       {
         "rowNum": "16",
-        "tableItem": "Belladonna anti-solution “Light and mild unhomeopathic decoction for muscular and stomach pains” reads the label. In reality: three drops of water in pure concentrated extract. Test Toughness DR8. Succeed: lose d4 health. Otherwise, die."
+        "tableItem": "**Belladonna anti-solution**. “Light and mild unhomeopathic decoction for muscular and stomach pains” reads the label. In reality: three drops of water in pure concentrated extract. Test Toughness DR8. Succeed: lose d4 health. Otherwise, die."
       },
       {
         "rowNum": "17",
-        "tableItem": "Swol Potion Makes your muscles bigger! (No stat bonuses, they deflate after 24 hours or when punctured)"
+        "tableItem": "**Swol Potion**. Makes your muscles bigger! (No stat bonuses, they deflate after 24 hours or when punctured)"
       },
       {
         "rowNum": "18",
-        "tableItem": "Strong Potion: This potion is too strong for adventurous rascals. Any seller will absolutely refuse to sell it under any circumstances."
+        "tableItem": "**Strong Potion**: This potion is too strong for adventurous rascals. Any seller will absolutely refuse to sell it under any circumstances."
       },
       {
         "rowNum": "19",
-        "tableItem": "Basilisk Blubber 5% chance of curing absolutely any curse, disease, or malady"
+        "tableItem": "**Basilisk Blubber**. 5% chance of curing absolutely any curse, disease, or malady"
       },
       {
         "rowNum": "20",
-        "tableItem": "Slickthroat. A cloudy, dark pink fluid advertised as a cure for sore throat or coughs. Causes a long, sluglike organism with grasping infantile hands to force its way out of your mouth every time you open it for d6 hours. The GUTSLUG is slow but dangerous (2 HP / MOR - / 0 ARMOR / Grasp d4 (the corrosive stomach acid ignores armor). / Slow, -2 DR to defend). Does actually eliminate sore throats and coughs (if only through the fluid the slugs secrete)."
+        "tableItem": "**Slickthroat**. A cloudy, dark pink fluid advertised as a cure for sore throat or coughs. Causes a long, sluglike organism with grasping infantile hands to force its way out of your mouth every time you open it for d6 hours. The GUTSLUG is slow but dangerous (2 HP / MOR - / 0 ARMOR / Grasp d4 (the corrosive stomach acid ignores armor). / Slow, -2 DR to defend). Does actually eliminate sore throats and coughs (if only through the fluid the slugs secrete)."
       }
     ]
   },
