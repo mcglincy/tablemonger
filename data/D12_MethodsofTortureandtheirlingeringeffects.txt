@@ -1,13 +1,25 @@
 D12 Methods of Torture and Their Lingering Effects
-1. The Rack: Leaves you slightly taller (AGI +1) but much flimsier (STR -2)
-2. Vision of a hundred hells: Seen such terrible sights (Learn one unclean power) but can't unsee them (PRES -2)
-3. Flappgellation: take 1d4 damage but gain 1d2 strength for 10 minutes then drop 1d2 strength below your base strength until your next rest.
-4. Paranoid Brainwashing: start to believe those around you are replaced by impostors (capgras), but paranoia aids perception (presence +2)
-5. Slow Decapitation. Death.
-6. Suffering Engine of Nechrubel. Pain wracks your body and you will never recover. Permanently reduce your Toughness to -3. Your mind is opened to the horrible truths of Verhu. Raise your Perception to +3.  You are lucky to have survived. Any creatures directly connected to Nechrubel will not attack you if you impart some of your horrid wisdom upon them (Perception DR10). Those who oppose Nechrubel must resist the urge to attack you on sight (Perception DR10).
+
+1. **The Rack**: Leaves you slightly taller (AGI +1) but much flimsier (STR -2)
+
+2. **Vision of a hundred hells**: Seen such terrible sights (Learn one unclean power) but can't unsee them (PRES -2)
+
+3. **Flappgellation**: take 1d4 damage but gain 1d2 strength for 10 minutes then drop 1d2 strength below your base strength until your next rest.
+
+4. **Paranoid Brainwashing**: start to believe those around you are replaced by impostors (capgras), but paranoia aids perception (presence +2)
+
+5. **Slow Decapitation**. Death.
+
+6. **Suffering Engine of Nechrubel**. Pain wracks your body and you will never recover. Permanently reduce your Toughness to -3. Your mind is opened to the horrible truths of Verhu. Raise your Perception to +3.  You are lucky to have survived. Any creatures directly connected to Nechrubel will not attack you if you impart some of your horrid wisdom upon them (Perception DR10). Those who oppose Nechrubel must resist the urge to attack you on sight (Perception DR10).
+
 7. You hear from the far distance, echoing and reverberating off of every wall and surface, you cannot get away from the pressure as it builds and builds. Now in this moment, you thought you had escaped it after all, it’s back to terrorise you. The omnipotent voice calls to you now *”Bartholomew”*. Take 1 damage each time you hear this cursed name, it cannot be reduced.
-8. A spike flail to the face. The lack of teeth does little for talking (-2 Presence), and even less for stalking: sneaking is DR+4 (because of the inhalation 🎶).
-9. Kergüsian Mind-Vise. The psyche-gravel sets Presence to -2, but you cannot be affected my mind-altering Powers. Also the floaters are semi-real for you and might attack your Cosmic Essence once per day (test Defence DR8 or lose an omen).
+
+8. **A spike flail to the face**. The lack of teeth does little for talking (-2 Presence), and even less for stalking: sneaking is DR+4 (because of the inhalation 🎶).
+
+9. **Kergüsian Mind-Vise**. The psyche-gravel sets Presence to -2, but you cannot be affected my mind-altering Powers. Also the floaters are semi-real for you and might attack your Cosmic Essence once per day (test Defence DR8 or lose an omen).
+
 10. Just this tbh: https://cdn.discordapp.com/attachments/683439768624955451/809182299240923156/image0.jpg
-11. projecting battle pit. you get thrown into a pit with beasts and other people so you unavoidably fight for survival, however, all the pain that your target suffers you will also feel, at the point of feeling the pain of death multiple times. After it's over, every time you hurt any living creature, you feel the pain they suffer at your hand, *and every time you land a crit, the excruciating pain makes you unable to concentrate and lose your next turn (making it also torture for the player himself <:blood:687681403038597145>)*
-12. Inquisitor's Statement of Scars: To avoid execution, you must confess your sins while they are inscribed in your flesh with razors. Only when your body is covered in scars and the Inquisitor's record is complete will you be released (if you don't die of infection). If you don't have enough to confess, you'd better come up with something. Your reflection is forever a reminder of the blasphemous heresies you had to craft to win your freedom. It makes you sick to look at yourself.
+
+11. **Projecting Battle Pit**. you get thrown into a pit with beasts and other people so you unavoidably fight for survival, however, all the pain that your target suffers you will also feel, at the point of feeling the pain of death multiple times. After it's over, every time you hurt any living creature, you feel the pain they suffer at your hand, *and every time you land a crit, the excruciating pain makes you unable to concentrate and lose your next turn (making it also torture for the player himself <:blood:687681403038597145>)*
+
+12. **Inquisitor's Statement of Scars**: To avoid execution, you must confess your sins while they are inscribed in your flesh with razors. Only when your body is covered in scars and the Inquisitor's record is complete will you be released (if you don't die of infection). If you don't have enough to confess, you'd better come up with something. Your reflection is forever a reminder of the blasphemous heresies you had to craft to win your freedom. It makes you sick to look at yourself.
