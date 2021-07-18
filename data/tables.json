@@ -1974,6 +1974,93 @@
     ]
   },
   {
+    "name": "D20 Golems",
+    "category": "d20",
+    "roll": "d20",
+    "entries": [
+      {
+        "rowNum": "1",
+        "tableItem": "**Sorcerer Golem**: The result of four sorcerers believing quantity will assure quality and 4 brains are better than 1. Experiment one can't call a failure. 4 Arms, 4 Legs. Intelligent. Can read two scrolls per round while the other two heads scream and insult. Fueled by the Powers of others (as well as their brain matter)."
+      },
+      {
+        "rowNum": "2",
+        "tableItem": "**Jelly filled Golem**. A baker's batch cursed by a passing witch when she was told the good shortbread was out of stock. Will spew jelly out its mouth when hit in its stomach and is remarkably good in taste."
+      },
+      {
+        "rowNum": "3",
+        "tableItem": "**Anthelia's Eternal Triplets**. Three identical iron sculptures moving in exact unison, sharing one soulless mind. Will bump into things. Indestructible by physical means. Fueled by the warmth of nearby living beings, which they slowly drain from them."
+      },
+      {
+        "rowNum": "4",
+        "tableItem": "**Living Crematory Oven**. Like a walking salamander stove, with telescopic arms, voiced by a steam whistle, filled with smokey pipes and chimneys. Fueled by the combustion of dead bodies."
+      },
+      {
+        "rowNum": "5",
+        "tableItem": "**Goblet of the Shadow King**. Giant plodding soldiers of Graventosk headstone rock with a hollow troll-skull at it’s helm. Will guard old battlegrounds and gravesites and kill whatever comes digging for treasure. Strikes with solid fists and shoots red hot blood from its eyes. Will leave mournful folk well enough alone. Fuelled by the red hot blood, pours from the shadowy sky into it’s open cranium. Where does it come from? In places without open air above, the Goblet will gather blood off freshly dead bodies, sniffing them out like a dog."
+      },
+      {
+        "rowNum": "6",
+        "tableItem": "**Ghastly Effigy**. A construct made from the flesh and bones of someone's abducted lover, and many rusted knives. Typically created and used as a cruel way to settle scores between nobles. The face is left intact. It is fueled by the blood of its owner."
+      },
+      {
+        "rowNum": "7",
+        "tableItem": "**Receptacle of Sin**. Filled with materialized sins from priests of the Church of the Two Basilisks, drained from their bodies during secret purification rites. You feel wrong around it. If destroyed, a Misery occurs."
+      },
+      {
+        "rowNum": "8",
+        "tableItem": "**Waxen Grifter**. Porcelain skeleton enclosed in wax. This mysterious construct can, with some effort, take the form of any living person it has seen. The impersonation is perfect, but it cannot speak. Must add ten candles worth of wax to its form every day to remain intact."
+      },
+      {
+        "rowNum": "9",
+        "tableItem": "**Fool's golem**. This earthy-looking creature resembles a mud golem, but is in reality a human being deformed by the highly contagious bog rot disease. Pain has driven the poor thing mad, and its ravaged and deformed throat and mouth can only emit a pitiful low moan."
+      },
+      {
+        "rowNum": "10",
+        "tableItem": "**Faeces Faced**. An evermelting golem shaped from the shit expelled from the guts of the comdemned. It makes everyone puke with only its presence, turns people sick with its touch and asphyxiates its craziest rivals in its creamy embodiment. Fueled by the nauseating power of poo."
+      },
+      {
+        "rowNum": "11",
+        "tableItem": "**Shiny Eviscerator**. A steel construct of toothed gear wheels crowned by a voluminous silver funnel. Fueled by an endless cycle of organ grinding. Leaves a chunky rust trail of flesh spun. Optional music box mechanism."
+      },
+      {
+        "rowNum": "12",
+        "tableItem": "Flip a coin:\\n"
+      },
+      {
+        "rowNum": "13",
+        "tableItem": "**The Legiments**: The accumulation of limbs gathered by a Grift serial killer. Writhes and runs and absorbs any body parts in its path of rampage."
+      },
+      {
+        "rowNum": "14",
+        "tableItem": "**Crystal Man from Tagak**: A 3 meters tall construct made of glass cylinders, spheres, rope and wood. It walks endlessly from town to town. Its crystal vibrates silently, in a living frequency originated on another dimension. If attacked, its vibration takes special measures: 1) Its sphere head breaks throwing its glass shards (d8). 2) It gains telekinesis. 3) Its sound breaks bones. 4) It leaves anyone asleep. 5) It cries making you bleed. 6) It disappears with a gong like sound."
+      },
+      {
+        "rowNum": "15",
+        "tableItem": "**House of Nihi**: When comdemned to die, burning inside their mansion, Nihi family distilled their souls into the building, now a hate fueled travelling haunted house trying to seek and destroy their judges. The mansion can change its exterior size and shape (even taking the shape of a wooden man) but it is still an enormous burning mausoleum on its inside."
+      },
+      {
+        "rowNum": "16",
+        "tableItem": "**Horned skull**. If placed in a room for 10 minutes, alone, it assembles a body with all useable materials at hand. It continues assembling stuff endlessly. Fueled by pure killing instinct."
+      },
+      {
+        "rowNum": "17",
+        "tableItem": "A **clay golem guided by an invisible hand**. The golem is large and so too must be the hand. Sows death in a dispassionate manner, but at an exorbitant cost."
+      },
+      {
+        "rowNum": "18",
+        "tableItem": "**Plaster Casted**. A construct made with spare anatomical models. Mute. Tries to prevent a horrible disaster."
+      },
+      {
+        "rowNum": "19",
+        "tableItem": "**Smokey the Earthen Bear Golem**. It's said the deep in the woods of Sarkash live a Golem That looks like a Bear made of stone, trees, and moss. It walk silently and endlessly throughout the forest snuffing out fires violently. Beware of leaving a campfire on too long. You may be in for a rude awakening."
+      },
+      {
+        "rowNum": "20",
+        "tableItem": "**Golem Golem**: At the end of the world, every Golem will gather into one, forming a collosus the size of Galgenbeck. It will eat the dying world until it is swallowed by the darkness"
+      }
+    ]
+  },
+  {
     "name": "D20 Holy Shit That's One Huge Crazy-Looking Troll!",
     "category": "d20",
     "roll": "d20",
@@ -3188,97 +3275,6 @@
       {
         "rowNum": "20",
         "tableItem": "**Slickthroat**. A cloudy, dark pink fluid advertised as a cure for sore throat or coughs. Causes a long, sluglike organism with grasping infantile hands to force its way out of your mouth every time you open it for d6 hours. The GUTSLUG is slow but dangerous (2 HP / MOR - / 0 ARMOR / Grasp d4 (the corrosive stomach acid ignores armor). / Slow, -2 DR to defend). Does actually eliminate sore throats and coughs (if only through the fluid the slugs secrete)."
-      }
-    ]
-  },
-  {
-    "name": "D21 Golems",
-    "category": "d21",
-    "roll": "d21",
-    "entries": [
-      {
-        "rowNum": "1",
-        "tableItem": "**Sorcerer Golem**: The result of four sorcerers believing quantity will assure quality and 4 brains are better than 1. Experiment one can't call a failure. 4 Arms, 4 Legs. Intelligent. Can read two scrolls per round while the other two heads scream and insult. Fueled by the Powers of others (as well as their brain matter)."
-      },
-      {
-        "rowNum": "2",
-        "tableItem": "**Jelly filled Golem**. A baker's batch cursed by a passing witch when she was told the good shortbread was out of stock. Will spew jelly out its mouth when hit in its stomach and is remarkably good in taste."
-      },
-      {
-        "rowNum": "3",
-        "tableItem": "**Anthelia's Eternal Triplets**. Three identical iron sculptures moving in exact unison, sharing one soulless mind. Will bump into things. Indestructible by physical means. Fueled by the warmth of nearby living beings, which they slowly drain from them."
-      },
-      {
-        "rowNum": "4",
-        "tableItem": "**Living Crematory Oven**. Like a walking salamander stove, with telescopic arms, voiced by a steam whistle, filled with smokey pipes and chimneys. Fueled by the combustion of dead bodies."
-      },
-      {
-        "rowNum": "5",
-        "tableItem": "**Goblet of the Shadow King**. Giant plodding soldiers of Graventosk headstone rock with a hollow troll-skull at it’s helm. Will guard old battlegrounds and gravesites and kill whatever comes digging for treasure. Strikes with solid fists and shoots red hot blood from its eyes. Will leave mournful folk well enough alone. Fuelled by the red hot blood, pours from the shadowy sky into it’s open cranium. Where does it come from? In places without open air above, the Goblet will gather blood off freshly dead bodies, sniffing them out like a dog."
-      },
-      {
-        "rowNum": "6",
-        "tableItem": "**Ghastly Effigy**. A construct made from the flesh and bones of someone's abducted lover, and many rusted knives. Typically created and used as a cruel way to settle scores between nobles. The face is left intact. It is fueled by the blood of its owner."
-      },
-      {
-        "rowNum": "7",
-        "tableItem": "**Receptacle of Sin**. Filled with materialized sins from priests of the Church of the Two Basilisks, drained from their bodies during secret purification rites. You feel wrong around it. If destroyed, a Misery occurs."
-      },
-      {
-        "rowNum": "8",
-        "tableItem": "**Waxen Grifter**. Porcelain skeleton enclosed in wax. This mysterious construct can, with some effort, take the form of any living person it has seen. The impersonation is perfect, but it cannot speak. Must add ten candles worth of wax to its form every day to remain intact."
-      },
-      {
-        "rowNum": "9",
-        "tableItem": "**Fool's golem**. This earthy-looking creature resembles a mud golem, but is in reality a human being deformed by the highly contagious bog rot disease. Pain has driven the poor thing mad, and its ravaged and deformed throat and mouth can only emit a pitiful low moan."
-      },
-      {
-        "rowNum": "10",
-        "tableItem": "**Faeces Faced**. An evermelting golem shaped from the shit expelled from the guts of the comdemned. It makes everyone puke with only its presence, turns people sick with its touch and asphyxiates its craziest rivals in its creamy embodiment. Fueled by the nauseating power of poo."
-      },
-      {
-        "rowNum": "11",
-        "tableItem": "**Shiny Eviscerator**. A steel construct of toothed gear wheels crowned by a voluminous silver funnel. Fueled by an endless cycle of organ grinding. Leaves a chunky rust trail of flesh spun. Optional music box mechanism."
-      },
-      {
-        "rowNum": "12",
-        "tableItem": "**The Veitrost Regalia**. The estranged artificer Veitrost made his most horrible creations in the depths of Galgenbeck’s sewerslums, his Regalia. Six-legged and Six-armed the beasts of tin, brass and wood strut the damp tunnels looking for layabout and hobos to flog into bloody pulp. They are each controlled by a hive mind of enchanted rats running on wheels and pulling on strings through out its crawling husk. Every so often they get caught up in each other’s tails, causing the Regalia to shudder and pause."
-      },
-      {
-        "rowNum": "13",
-        "tableItem": "**Herbmaster's Censer**: A common homunculus golem originally used to cover bad smells but recycled into an intoxicating (or even sickness inducing) creature. Its fumes multiply the normal effect of perfumes, herbs and essences. Fueled by weird wax candles."
-      },
-      {
-        "rowNum": "14",
-        "tableItem": "**The Legiments**: The accumulation of limbs gathered by a Grift serial killer. Writhes and runs and absorbs any body parts in its path of rampage."
-      },
-      {
-        "rowNum": "15",
-        "tableItem": "**Crystal Man from Tagak**: A 3 meters tall construct made of glass cylinders, spheres, rope and wood. It walks endlessly from town to town. Its crystal vibrates silently, in a living frequency originated on another dimension. If attacked, its vibration takes special measures: 1) Its sphere head breaks throwing its glass shards (d8). 2) It gains telekinesis. 3) Its sound breaks bones. 4) It leaves anyone asleep. 5) It cries making you bleed. 6) It disappears with a gong like sound."
-      },
-      {
-        "rowNum": "16",
-        "tableItem": "**House of Nihi**: When comdemned to die, burning inside their mansion, Nihi family distilled their souls into the building, now a hate fueled travelling haunted house trying to seek and destroy their judges. The mansion can change its exterior size and shape (even taking the shape of a wooden man) but it is still an enormous burning mausoleum on its inside."
-      },
-      {
-        "rowNum": "17",
-        "tableItem": "**Horned skull**. If placed in a room for 10 minutes, alone, it assembles a body with all useable materials at hand. It continues assembling stuff endlessly. Fueled by pure killing instinct."
-      },
-      {
-        "rowNum": "18",
-        "tableItem": "A **clay golem guided by an invisible hand**. The golem is large and so too must be the hand. Sows death in a dispassionate manner, but at an exorbitant cost."
-      },
-      {
-        "rowNum": "19",
-        "tableItem": "**Plaster Casted**. A construct made with spare anatomical models. Mute. Tries to prevent a horrible disaster."
-      },
-      {
-        "rowNum": "20",
-        "tableItem": "**Smokey the Earthen Bear Golem**. It's said the deep in the woods of Sarkash live a Golem That looks like a Bear made of stone, trees, and moss. It walk silently and endlessly throughout the forest snuffing out fires violently. Beware of leaving a campfire on too long. You may be in for a rude awakening."
-      },
-      {
-        "rowNum": "21",
-        "tableItem": "**Golem Golem**: At the end of the world, every Golem will gather into one, forming a collosus the size of Galgenbeck. It will eat the dying world until it is swallowed by the darkness"
       }
     ]
   },
