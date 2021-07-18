@@ -1648,7 +1648,7 @@
       },
       {
         "rowNum": "5",
-        "tableItem": "The Vile Alchemist: as the sickness takes over and you feel yourself draw your last breath, a strange old man appears with a potion. \"This will cure what ails you... for the time being\" as you take a sip, you feel your body start to twist and break and bleed. Roll on the Broken Bodies chart and set your health back to max. Anytime you would die from the infection, he returns just in time. If you re-roll the Broken Bodies trait you started with you are cured, if you re-roll a trait gained from the alchemist you go into cardiac arrest and die."
+        "tableItem": "**The Vile Alchemist**: as the sickness takes over and you feel yourself draw your last breath, a strange old man appears with a potion. \"This will cure what ails you... for the time being\" as you take a sip, you feel your body start to twist and break and bleed. Roll on the Broken Bodies chart and set your health back to max. Anytime you would die from the infection, he returns just in time. If you re-roll the Broken Bodies trait you started with you are cured, if you re-roll a trait gained from the alchemist you go into cardiac arrest and die."
       },
       {
         "rowNum": "6",
@@ -2763,15 +2763,15 @@
     "entries": [
       {
         "rowNum": "1",
-        "tableItem": "Selling treasure considered holy"
+        "tableItem": "Selling treasure considered holy."
       },
       {
         "rowNum": "2",
-        "tableItem": "Defaming a member of the council"
+        "tableItem": "Defaming a member of the council."
       },
       {
         "rowNum": "3",
-        "tableItem": "Wearing purple near a church on Blutday"
+        "tableItem": "Wearing purple near a church on Blutday."
       },
       {
         "rowNum": "4",
@@ -2779,7 +2779,7 @@
       },
       {
         "rowNum": "5",
-        "tableItem": "Promulgating heresies of SHE"
+        "tableItem": "Promulgating heresies of SHE."
       },
       {
         "rowNum": "6",
@@ -2795,11 +2795,11 @@
       },
       {
         "rowNum": "9",
-        "tableItem": "dealing in raw troll meat"
+        "tableItem": "Dealing in raw troll meat."
       },
       {
         "rowNum": "10",
-        "tableItem": "attempting conversation with a porcelain lady"
+        "tableItem": "Attempting conversation with a porcelain lady."
       },
       {
         "rowNum": "11",
@@ -2815,15 +2815,15 @@
       },
       {
         "rowNum": "14",
-        "tableItem": "Refusing to recover from plague despite being treated by a blessed apothecary"
+        "tableItem": "Refusing to recover from plague despite being treated by a blessed apothecary."
       },
       {
         "rowNum": "15",
-        "tableItem": "Stepping on the pet cockroach of a Schleswig noble"
+        "tableItem": "Stepping on the pet cockroach of a Schleswig noble."
       },
       {
         "rowNum": "16",
-        "tableItem": "Bleeding on a well-connected bar-brawler"
+        "tableItem": "Bleeding on a well-connected bar-brawler."
       },
       {
         "rowNum": "17",
@@ -2835,7 +2835,7 @@
       },
       {
         "rowNum": "19",
-        "tableItem": "Calling Verhu a liar in public"
+        "tableItem": "Calling Verhu a liar in public."
       },
       {
         "rowNum": "20",
