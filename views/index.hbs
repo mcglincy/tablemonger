@@ -41,7 +41,13 @@
             <div id="toc">
               {{#each categories as |category|}}
                 <div class="toc-item toc-category">
-                  {{@key}}
+                  <div class="toc-category-name">
+                    {{@key}}
+                  </div>
+                  <div class="category-toggle">
+                    <i class="fas fa-chevron-down show-icon"></i>
+                    <i class="fas fa-chevron-right hide-icon"></i>
+                  </div>
                 </div>
                 {{#each category as |table|}}
                   <div class="toc-item click-item {{#if isNew}}is-new{{/if}}"

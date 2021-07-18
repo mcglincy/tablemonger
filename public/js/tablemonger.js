@@ -7,6 +7,12 @@ const tablemongerReady = () => {
 
   revealTables();
 
+  $(".toc-category").click(function () {
+    // show-hide the category items
+    $(this).toggleClass("open");
+    $(this).nextUntil(".toc-category").slideToggle();
+  });
+
   var windowWidth = $(window).width();
   $(window).resize(function() {
     if ($(window).width() != windowWidth) {

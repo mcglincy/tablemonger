@@ -149,9 +149,22 @@ strong {
 /* line separating toc click items, but not the one immediately following the category */
 .toc-item.click-item {
   border-top: 1px solid #555555;
+  display: none;
 }
 .toc-item.toc-category + .toc-item.click-item {
   border-top: none;
+}
+.toc-item.toc-category i.hide-icon {
+  display: block;
+}
+.toc-item.toc-category i.show-icon {
+  display: none;
+}
+.toc-item.toc-category.open i.hide-icon {
+  display: none;
+}
+.toc-item.toc-category.open i.show-icon {
+  display: block;
 }
 .toc-item.current {
   background-color: #FFE900;
