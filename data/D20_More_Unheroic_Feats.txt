@@ -1,4 +1,6 @@
 D20 More Unheroic Feats
+subtitle:
+category: Lost Souls All
 1. **Improvisational Slaughter**. You can take anything and surely kill with it. Deal d6 damage with femurs and improvised weapons. Additionally you may break a femur or improvised weapon when you hit something with it, dealing maximum damage with that strike.
 2. **Saved by Fate**. Perhaps you are intended for a greater purpose, or a greater tragedy. Whenever you would spend an omen to reduce damage by d6, you instead take no damage.
 3. **Frightful Visions**. A true prophet is one who contacts beings from beyond to know things they should not. You hear whispers from an alternate self, in some other place and some other time. By consuming an omen and taking a moment in meditation you may ask your Player a question which they may respond to truthfully or otherwise, as they see fit.

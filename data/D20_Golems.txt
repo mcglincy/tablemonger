@@ -1,4 +1,6 @@
 D20 Golems
+subtitle: 
+category: Creatures & Miscreants
 1. **Sorcerer Golem**: The result of four sorcerers believing quantity will assure quality and 4 brains are better than 1. Experiment one can't call a failure. 4 Arms, 4 Legs. Intelligent. Can read two scrolls per round while the other two heads scream and insult. Fueled by the Powers of others (as well as their brain matter).
 2. **Jelly filled Golem**. A baker's batch cursed by a passing witch when she was told the good shortbread was out of stock. Will spew jelly out its mouth when hit in its stomach and is remarkably good in taste.
 3. **Anthelia's Eternal Triplets**. Three identical iron sculptures moving in exact unison, sharing one soulless mind. Will bump into things. Indestructible by physical means. Fueled by the warmth of nearby living beings, which they slowly drain from them.

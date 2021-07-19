@@ -1,4 +1,6 @@
 D20 Items for Sale at Schlewig's Illegal Midnight Markets
+subtitle:
+category: Treasures & Trinkets
 1. **Owl Teeth** (20 silver for a bag of d6) Increases Presence to +3 for d8 hours, but only if your Presence score is negative to begin with
 2. **Live goblin**. (150-200s) Muzzled, blindfolded, limbs sawed off
 3. **Skinscribe’s Scarification**: (250s) The Skinscribe copies the runes of a provided scroll into your flesh, giving you the Power Word feat of that scroll.

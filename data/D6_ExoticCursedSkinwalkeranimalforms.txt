@@ -1,4 +1,6 @@
 D6 Exotic Cursed Skinwalker Animal Forms
+subtitle:
+category: Lost Souls All
 1. **Puking Panda**. You are cute (+2 to reaction roll), fluffy (-d4), but most of all queasy. DR10 Presence to project pungent panda puke. d4 damage + special: -2DR to track and to hit. Or just use your claws (d6).
 2. **Colossal Crustacean** Big enough to fill a small room, this crab has a hard shell (-d6), giant pincers (d8 + Grapple), and can molt to heal 2d4hp over 10min, but then takes double damage for 10 minutes while a new shell grows from their squishy body.
 3. **Fluffy Werelion**. On a full moon this powerful creature will rampage, looking for blood. His silverish long hair will reflect the moonlight. Fangs 1d10 dmg, DR10 to hit, because it's BIG. Enough HP to make him scary. Once a skinwalker in this form tastes human blood, there's an incremental chance of 5% a round that he liked so much, he wouldn't return his orginal form. Wait for the next moon phase. If the villagers will let you live till then.

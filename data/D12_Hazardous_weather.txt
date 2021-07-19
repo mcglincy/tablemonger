@@ -1,4 +1,6 @@
 D12 Hazardous Weather
+subtitle:
+category: The Dying World
 1. **Blood Snow**: Crimson red fluffy precipitation the result of hundreds evaporated and exsanguinated corpses lain about Kergüs. The snow itself isn't harmful, but getting it on you will attract every starving vampire for miles away.
 2. **Hail of Daggers**: just like it sounds. Heads up!
 3. **Flystorm**: like a dust cloud but it’s flies. Deafeningly loud buzzing and pelted by the now-dead pummeled corpses of flies

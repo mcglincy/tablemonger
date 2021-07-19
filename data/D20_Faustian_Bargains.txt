@@ -1,5 +1,6 @@
 D20 Faustian Bargains
-DM can let a player roll on this table to avoid dying of infection, or any other slow and painful demise.
+subtitle: DM can let a player roll on this table to avoid dying of infection, or any other slow and painful demise.
+category: Plots, Portents, and Lies
 
 1. **Breaks for Braknor**. A small, shriveled being with taught pink skin gingerly chews on bones as they offer you a lease on life. So long as every day you break one more bone in a living creature than you did the night before, you may survive your ailment. If you are unable to repay your debt before sunset, you lose control of your body and break enough fingers to pay this debt back (d2 damage per finger). If you must break 5, instead you smash your entire hand (d6+5 damage) and you cannot use it for anything until it is reset. The creature must be living, undead do not count.
 

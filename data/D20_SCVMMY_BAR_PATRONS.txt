@@ -1,5 +1,6 @@
 D20 Scvmmy Bar Patrons
-DM and/or players can roll on the chart. If DM rolls, run them as described. If player rolls, they can be used as a replacement PC after previous one's death(run as described or not). They can be introduced in a bar, coming from a bar, living under a bar, etcetera.
+subtitle: DM and/or players can roll on the chart. If DM rolls, run them as described. If player rolls, they can be used as a replacement PC after previous one's death(run as described or not). They can be introduced in a bar, coming from a bar, living under a bar, etcetera.
+category: Creatures & Miscreants
 
 1. **Drunken Swineman**. Belligerent and loud, speech is punctuated by snorts and squeals(the more metal a squeal, the better). If any PC even looks at him, he waddles over drunkenly, beer slobber dripping from his mouth, and sloshing beer along the way. Stinks of the alcohol and mud he's wearing all over his overalls. Carries a mining pick, hammer, and other tools on his belt. Claims to be a master craftsman that can build sturdy houses out of straw, sticks, and bricks. (Fanged Deserter, or Brazen Blacksmith from Līber Lūdōrum if PC.)
 

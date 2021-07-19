@@ -1,4 +1,6 @@
 D20 Poorly Enchanted Trinkets
+subtitle: 
+category: Treasures & Trinkets
 1. A **flying broomstick** that hovers two feet off the ground and veers to the right.
 2. A **magical drinking horn** that turns any liquid it is filled with to wine. The wine is always corked and on the edge of becoming vinegar.
 3. A **lantern** that remains lit only while you're clapping your hands.

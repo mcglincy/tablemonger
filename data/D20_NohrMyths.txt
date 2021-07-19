@@ -1,4 +1,6 @@
-D20 Nohr Myths 
+D20 Nohr Myths
+subtitle:
+category: The Dying World
 1. Eats an entire Elk in one sitting.
 2. There were once two Nohr, but one ate the other, and grew stronger for it.
 3. Nohr has 48 teeth instead of the normal 32.

@@ -1,4 +1,6 @@
 D6 Suspicious Scents
+subtitle:
+category: Plots, Portents, and Lies
 1. The sensually sour smell of a drug extracted from wyvern bile called serpent's kiss.
 2. Basilisk sweat. You can never tell if it's fresh or stale...
 3. Lavender. (watch out for Spiderdollies)

@@ -1,4 +1,6 @@
 D20 Festivities
+subtitle:
+category: The Dying World
 1. **Rotfest**: Celebrated right inbetween the longest and the darkest day, the centre piece of Rotfest are the Rottreats hanging around the place. These criminals, hung from trees, are fed with small presents right before their execution. This way, when they hang for quite some time and children beat them enough with sticks, their guts will explode and the presents will pop out.
 2. **The Small Leap**: Annual senicidal ättestupa event where the old and frail of Grift are taken to Terion to be cast down into the sea, followed by a feast and a long day and night of drinking. This tradition is said to be a kind of sacrifice to the cliff, hoping it will ensure a swift and theomantically powerful death to the many once the preparations are done and the time has come for The Big Leap.
 3. **Lovers' Trail**: Spring festivity for which random travellers are abducted. Chained in pairs, they are forced to walk through an obstacle course while whipped by the elder couples of the village. It continues until one of the 'lovers' dies. The surviving one is knocked out and will wake up in an unknown road the next morning with the chain they used as a necklace.

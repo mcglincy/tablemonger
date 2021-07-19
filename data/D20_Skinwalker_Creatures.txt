@@ -1,4 +1,6 @@
 D20 Skinwalker Creatures
+subtitle:
+category: Lost Souls All
 1. **Bleating Devil-Ram**: You can Ram for d8. On a 1-2 form a d6 the creature is toppled over and cant attack for a turn. Thick Black Fleece -d4 Hell's Bells, You have a Cursed bell around your neck and it rings with dread. Once a round you can make a creature test for Morale.
 2. **Ruin Basilisk**. In the shape of this single-headed sacred beast you can fool the simple into devotion and worship (+5 to reaction checks) but scholars and priests will likely see through the façade (-5 to reaction checks).
 3. **Abyssal Chicken** aka Cockatrice. Beak: d4 damage and Stone Peck Stone Peck: 1. On the first successful attack, DR to defend decreases by 2 2. On the second successful attack, DR to attack decreases by 2 3. On third successful hit, target turns to stone for d4 days

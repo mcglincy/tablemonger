@@ -1,4 +1,6 @@
 D66 Blessings
+subtitle:
+category: Powers & Weirdness
 11. All rotten food tastes amazing, like the best food you've ever eaten (but you can still get sick from it).
 12. All players roll a d12. On a 12, they become immediately pregnant with the gift of life. One week later, they give a painful birth to a twisted amalgamation of themselves and Verhu.
 13. fresh meat rains from the sky in a glorious fleshstorm. Lasts 2d8 months.

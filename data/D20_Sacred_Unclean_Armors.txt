@@ -1,4 +1,6 @@
 D20 Sacred/Unclean Armors
+subtitle:
+category: Treasures & Trinkets
 1. **Drowned Scaled Shirt**. -d2, when damage is seduced to 0 or less the creature that struck you feels as if they where drowning -DR2 to attack that creature next turn.
 2. **Light Armor of Revelation**. Chainmail in the shape of a maiden’s underwear. Men will assure it’s more comfortable and natural to fight that way. Any woman will refuse to wear it. +d2 damage when hit. -4DR when deceiving someone.
 3. **Oath plate**. An ornate full suit of plate mail with a full helm (-d6), richly carved with likenesses of martyrs and holy men. This armor resists all attempts to remove it once donned, unless the wearer first states an oath, and then fulfills it. You cannot change your oath until your previous one has been fulfilled. -2DR while taking actions to fullfil your Oath.

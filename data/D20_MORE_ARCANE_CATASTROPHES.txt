@@ -1,4 +1,6 @@
 D20 More Arcane Catastrophes
+subtitle:
+category: Powers & Weirdness
 1. **Handyman**. Your feet become hands, and your head is replaced by a hand with a sock and button eyes. You can still see, but you are too goofy to take seriously +6 DR to all social interactions.
 2. **Spelldust Addiction**, You get addicted to the smell of spelldust hanging in the air after a Power gets used. Because of that you feel a compulsory need to use Powers, any Power really, at the beginning of each combat and d10 hours after your last use. You can try to resist that urge by passing a DR14 Toughness test but it will never fully go away.
 3. **The Fee of Flesh**. Your skin cracks, splinters, and is consumed in a violent a conflagration. Your armor melts into a heap of slag at your feet. Your skin never recovers and you have a permanent smell of cooked sausages about you.

@@ -25,16 +25,21 @@ def parse_file(infile):
   with open(infile, encoding='utf-8') as f:
     entries = []
     first_line = None
+    category = "???"
     for line in f:
       line = line.strip()
       if not first_line:
         first_line = line
       if line:
+        if line.startswith("category: "):
+          category = line.split(": ")[1]
         if regex_match := re.search(REGEX, line):
           entries.append({"rowNum": regex_match[1], "tableItem": regex_match[2]})
     table = {
       "name": first_line,
       "category": rollForNum(len(entries)),
+      #"category": rollForNum(len(entries)),
+      "category": category,
       "roll": rollForNum(len(entries)),
       "entries": entries
     }
@@ -44,7 +49,7 @@ for infile in glob.glob("*.txt"):
   parse_file(infile)
 
 # sort the tables
-tables.sort(key=lambda x: (len(x["entries"]), x["name"]))
+tables.sort(key=lambda x: (x["category"], len(x["entries"]), x["name"]))
 
 with open("tables.json", 'w', encoding='utf-8') as out:
   json.dump(tables, out, indent=2, ensure_ascii=False)

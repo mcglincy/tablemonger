@@ -1,4 +1,6 @@
 D10 Ominous Things a Pale One Can Say When Using Omens
+subtitle:
+category: Lost Souls All
 1. "All will be revealed in the End, my Child."
 2. "Eat HER from me."
 3. "A good turn for you is a bad turn for another."

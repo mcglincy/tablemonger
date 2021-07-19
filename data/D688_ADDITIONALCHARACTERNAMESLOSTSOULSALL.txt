@@ -1,4 +1,6 @@
-d6d8 Additional Character Names (Lost Souls All)
+D6D8 Additional Character Names
+subtitle:
+category: Lost Souls All
 11. Hruggub
 12. Klar
 13. Grolsch
