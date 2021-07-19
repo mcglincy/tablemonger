@@ -171,10 +171,17 @@ const one_table_row = `
 
 const selectTable = () => {
   selectedTable = tableFromUrl();
-  var clickItem = $('.click-item').find('*').filter(function() {
+  const clickItem = $('.click-item').find('*').filter(function() {
     return $(this).text() === selectedTable;
   });
   if (clickItem.length) {
+    // clickItem is the span (?), so we need to get a previous sibling of its parent div
+    const category = clickItem.parent().prevAll(".toc-category").first();
+    // click() on category does a slide toggle, so just do a no-animation version here
+    category.toggleClass("open");
+    category.nextUntil(".toc-category").toggle();
+
+    // click and load the table
     clickItem.click();
   };
 };
