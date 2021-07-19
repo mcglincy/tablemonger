@@ -49,7 +49,7 @@ for infile in glob.glob("*.txt"):
   parse_file(infile)
 
 # sort the tables
-tables.sort(key=lambda x: (len(x["entries"]), x["name"]))
+tables.sort(key=lambda x: (x["category"], len(x["entries"]), x["name"]))
 
 with open("tables.json", 'w', encoding='utf-8') as out:
   json.dump(tables, out, indent=2, ensure_ascii=False)
