@@ -1,4 +1,6 @@
 D12 False Blessings that Turn into Curses
+subtitle: 
+category: Powers & Weirdness
 1. The power to burst a flame into any weapon or projectile (dealing 1d4 extra fire damage), after used enough times (on GMs discretion) it will start burning random areas of the accursed being's body. With continuous use, the curse will start activating at random, in the worst possible times, until the being is entirely consumed by the flames. The curse can be removed by sacrificing any extremity to frostbite.
 2. Potion promises to reverse hair loss. Works for 3 days. On the forth day, all remaining hair lost during their lifetime is restored at once, tangled.
 3. You grow wings, alas they are frail. You can fly but it is difficult (DR14 at minimum) any failed attempts at flight deal d6 damage as you crash into the environment. GM can increase the die value appropriately (IE high fall, brambles, cacti, traps, enemies, etc)

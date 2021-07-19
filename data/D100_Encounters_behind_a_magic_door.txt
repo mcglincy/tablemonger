@@ -1,4 +1,6 @@
 D100 Encounters Behind a Magic Door
+subtitle: 
+category: Plots, Portents, and Lies
 1. A small hairy and naked man that can't stop dancing
 2. A room that is only made of flesh
 3. A bucket of water falls on the head of a player

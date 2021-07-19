@@ -1,7 +1,7 @@
 [
   {
     "name": "D2 Incredible Things People have Shouted in Praise of a Horse Named Bartholomew",
-    "category": "d2",
+    "category": "Creatures & Miscreants",
     "roll": "d2",
     "entries": [
       {
@@ -16,7 +16,7 @@
   },
   {
     "name": "D4 Creatures That Might Kill You in the Night in the Woods of Sarkash",
-    "category": "d4",
+    "category": "Creatures & Miscreants",
     "roll": "d4",
     "entries": [
       {
@@ -39,7 +39,7 @@
   },
   {
     "name": "D4 Uncanny Half-Dead Godlings",
-    "category": "d4",
+    "category": "Creatures & Miscreants",
     "roll": "d4",
     "entries": [
       {
@@ -62,7 +62,7 @@
   },
   {
     "name": "D6 Boss Monsters",
-    "category": "d6",
+    "category": "Creatures & Miscreants",
     "roll": "d6",
     "entries": [
       {
@@ -93,7 +93,7 @@
   },
   {
     "name": "D6 Deeds to a Duchy",
-    "category": "d6",
+    "category": "The Dying World",
     "roll": "d6",
     "entries": [
       {
@@ -124,7 +124,7 @@
   },
   {
     "name": "D6 Dreams and What to Learn from Them",
-    "category": "d6",
+    "category": "Plots, Portents, and Lies",
     "roll": "d6",
     "entries": [
       {
@@ -154,39 +154,8 @@
     ]
   },
   {
-    "name": "D6 Eerily Heretical Rituals",
-    "category": "d6",
-    "roll": "d6",
-    "entries": [
-      {
-        "rowNum": "1",
-        "tableItem": "Make an upside down cross effigy with your fallen ally’s corpse. Roll presence to see if it pleases the gods. If they’re pleased, causes your next ally to be slightly less likely to die (+1 to a random stat for the next PC who joins the party)"
-      },
-      {
-        "rowNum": "2",
-        "tableItem": "Behead your two worst enemies, and sport their skulls atop your hands like puppets. Ritualistic comedy ensues as--before the gods--you make the heads admit and argue their greatest failures. \"I'm the devil!\" \"No, I'm the devil!\" etc."
-      },
-      {
-        "rowNum": "3",
-        "tableItem": "On a moonless night gouge out one of your eyes. You must not make any noise while doing this (DR 18, adjusted by GM for any preparations made in advance like drinking black grog or going into a trance). If successful, you can see lies as streaked stains on reality."
-      },
-      {
-        "rowNum": "4",
-        "tableItem": "Speak a word; yes, any word. It is not the word that matters, but the intent. Next, take a life; yes, any life. It is not the life that matters, but the intent. Finally, make a wish; yes, any wish. It will be granted, but not in a way you expect."
-      },
-      {
-        "rowNum": "5",
-        "tableItem": "Take the 3 innocent pure lives and 3 filthy and impure lives, and pile the corpses. This is an invitation for Varash, the ungod of brutality and slaughter, to come and be at your command for 12 hours. At the end of that time, Varash takes your life too."
-      },
-      {
-        "rowNum": "6",
-        "tableItem": "Remove the tongues of your living mother and father, and end their lives with iron. When the moon rises you can speak all dead languages, and the dead heed your words. When the next moon rises your words betray you in a tongue you do not understand."
-      }
-    ]
-  },
-  {
     "name": "D6 Exotic Cursed Skinwalker Animal Forms",
-    "category": "d6",
+    "category": "Lost Souls All",
     "roll": "d6",
     "entries": [
       {
@@ -217,7 +186,7 @@
   },
   {
     "name": "D6 Suspicious Scents",
-    "category": "d6",
+    "category": "Plots, Portents, and Lies",
     "roll": "d6",
     "entries": [
       {
@@ -248,7 +217,7 @@
   },
   {
     "name": "D6 Ways to Mispronounce \"Nechrubel\"",
-    "category": "d6",
+    "category": "The Dying World",
     "roll": "d6",
     "entries": [
       {
@@ -278,8 +247,39 @@
     ]
   },
   {
+    "name": "title: D6 Eerily Heretical Rituals",
+    "category": "Powers & Weirdness",
+    "roll": "d6",
+    "entries": [
+      {
+        "rowNum": "1",
+        "tableItem": "Make an upside down cross effigy with your fallen ally’s corpse. Roll presence to see if it pleases the gods. If they’re pleased, causes your next ally to be slightly less likely to die (+1 to a random stat for the next PC who joins the party)"
+      },
+      {
+        "rowNum": "2",
+        "tableItem": "Behead your two worst enemies, and sport their skulls atop your hands like puppets. Ritualistic comedy ensues as--before the gods--you make the heads admit and argue their greatest failures. \"I'm the devil!\" \"No, I'm the devil!\" etc."
+      },
+      {
+        "rowNum": "3",
+        "tableItem": "On a moonless night gouge out one of your eyes. You must not make any noise while doing this (DR 18, adjusted by GM for any preparations made in advance like drinking black grog or going into a trance). If successful, you can see lies as streaked stains on reality."
+      },
+      {
+        "rowNum": "4",
+        "tableItem": "Speak a word; yes, any word. It is not the word that matters, but the intent. Next, take a life; yes, any life. It is not the life that matters, but the intent. Finally, make a wish; yes, any wish. It will be granted, but not in a way you expect."
+      },
+      {
+        "rowNum": "5",
+        "tableItem": "Take the 3 innocent pure lives and 3 filthy and impure lives, and pile the corpses. This is an invitation for Varash, the ungod of brutality and slaughter, to come and be at your command for 12 hours. At the end of that time, Varash takes your life too."
+      },
+      {
+        "rowNum": "6",
+        "tableItem": "Remove the tongues of your living mother and father, and end their lives with iron. When the moon rises you can speak all dead languages, and the dead heed your words. When the next moon rises your words betray you in a tongue you do not understand."
+      }
+    ]
+  },
+  {
     "name": "2D4 Wild Plants of the Plains",
-    "category": "d7",
+    "category": "The Dying World",
     "roll": "d7",
     "entries": [
       {
@@ -314,7 +314,7 @@
   },
   {
     "name": "D7 Unusual Dice Found in Hidden Lock-Boxes",
-    "category": "d7",
+    "category": "Treasures & Trinkets",
     "roll": "d7",
     "entries": [
       {
@@ -349,7 +349,7 @@
   },
   {
     "name": "D8 Insidious Infections",
-    "category": "d8",
+    "category": "Powers & Weirdness",
     "roll": "d8",
     "entries": [
       {
@@ -388,7 +388,7 @@
   },
   {
     "name": "D8 Magical Horses (and Their Titles)",
-    "category": "d8",
+    "category": "Creatures & Miscreants",
     "roll": "d8",
     "entries": [
       {
@@ -427,7 +427,7 @@
   },
   {
     "name": "D8 Pets, Well-tolerated Pests, and Assorted Hangers On",
-    "category": "d8",
+    "category": "Creatures & Miscreants",
     "roll": "d8",
     "entries": [
       {
@@ -466,7 +466,7 @@
   },
   {
     "name": "D8 Reasons Why That Couple of Cutthroats is Following You",
-    "category": "d8",
+    "category": "Plots, Portents, and Lies",
     "roll": "d8",
     "entries": [
       {
@@ -505,7 +505,7 @@
   },
   {
     "name": "D8 Things You Shouldn't Eat But Probably Will",
-    "category": "d8",
+    "category": "The Dying World",
     "roll": "d8",
     "entries": [
       {
@@ -544,7 +544,7 @@
   },
   {
     "name": "D8 Wandering Lions",
-    "category": "d8",
+    "category": "Creatures & Miscreants",
     "roll": "d8",
     "entries": [
       {
@@ -583,7 +583,7 @@
   },
   {
     "name": "D10 (Un)fortunate Survivors of Arcane Mishaps and Magical Malevolence",
-    "category": "d10",
+    "category": "Creatures & Miscreants",
     "roll": "d10",
     "entries": [
       {
@@ -630,7 +630,7 @@
   },
   {
     "name": "D10 Alternate Starting Weapon Rolling Chart",
-    "category": "d10",
+    "category": "Lost Souls All",
     "roll": "d10",
     "entries": [
       {
@@ -677,7 +677,7 @@
   },
   {
     "name": "D10 Instant Death",
-    "category": "d10",
+    "category": "Powers & Weirdness",
     "roll": "d10",
     "entries": [
       {
@@ -724,7 +724,7 @@
   },
   {
     "name": "D10 Miserable Adventure Hooks",
-    "category": "d10",
+    "category": "Plots, Portents, and Lies",
     "roll": "d10",
     "entries": [
       {
@@ -771,7 +771,7 @@
   },
   {
     "name": "D10 Ominous Things a Pale One Can Say When Using Omens",
-    "category": "d10",
+    "category": "Lost Souls All",
     "roll": "d10",
     "entries": [
       {
@@ -818,7 +818,7 @@
   },
   {
     "name": "D10 Reasons Why You Shouldn't Go into the Local Tavern",
-    "category": "d10",
+    "category": "Plots, Portents, and Lies",
     "roll": "d10",
     "entries": [
       {
@@ -865,7 +865,7 @@
   },
   {
     "name": "D10 Shiny Things Floating in the Open Sewage",
-    "category": "d10",
+    "category": "Treasures & Trinkets",
     "roll": "d10",
     "entries": [
       {
@@ -912,7 +912,7 @@
   },
   {
     "name": "D10 Side Quests that the Shopkeeper Sends You On, in Exchange for a Special Item",
-    "category": "d10",
+    "category": "Plots, Portents, and Lies",
     "roll": "d10",
     "entries": [
       {
@@ -959,7 +959,7 @@
   },
   {
     "name": "D10 Trophies a Vampire Keeps from Their Victims",
-    "category": "d10",
+    "category": "Treasures & Trinkets",
     "roll": "d10",
     "entries": [
       {
@@ -1006,7 +1006,7 @@
   },
   {
     "name": "D10 Wretched Beasts",
-    "category": "d10",
+    "category": "Creatures & Miscreants",
     "roll": "d10",
     "entries": [
       {
@@ -1053,7 +1053,7 @@
   },
   {
     "name": "D10 You have successfully summoned a demon, but which one?",
-    "category": "d10",
+    "category": "Creatures & Miscreants",
     "roll": "d10",
     "entries": [
       {
@@ -1100,7 +1100,7 @@
   },
   {
     "name": "D12 Appalling First Encounters with a Village",
-    "category": "d12",
+    "category": "Plots, Portents, and Lies",
     "roll": "d12",
     "entries": [
       {
@@ -1155,7 +1155,7 @@
   },
   {
     "name": "D12 False Blessings that Turn into Curses",
-    "category": "d12",
+    "category": "Powers & Weirdness",
     "roll": "d12",
     "entries": [
       {
@@ -1210,7 +1210,7 @@
   },
   {
     "name": "D12 Hazardous Weather",
-    "category": "d12",
+    "category": "The Dying World",
     "roll": "d12",
     "entries": [
       {
@@ -1265,7 +1265,7 @@
   },
   {
     "name": "D12 Lesser Miseries: The Clock of Nechrubel",
-    "category": "d12",
+    "category": "Powers & Weirdness",
     "roll": "d12",
     "entries": [
       {
@@ -1320,7 +1320,7 @@
   },
   {
     "name": "D12 Methods of Torture and Their Lingering Effects",
-    "category": "d12",
+    "category": "Powers & Weirdness",
     "roll": "d12",
     "entries": [
       {
@@ -1375,7 +1375,7 @@
   },
   {
     "name": "D12 Reasons You Were Exiled",
-    "category": "d12",
+    "category": "Plots, Portents, and Lies",
     "roll": "d12",
     "entries": [
       {
@@ -1430,7 +1430,7 @@
   },
   {
     "name": "D12 Skeleton Fighters",
-    "category": "d12",
+    "category": "Creatures & Miscreants",
     "roll": "d12",
     "entries": [
       {
@@ -1485,7 +1485,7 @@
   },
   {
     "name": "D12 Symbols of Heretical Cults",
-    "category": "d12",
+    "category": "The Dying World",
     "roll": "d12",
     "entries": [
       {
@@ -1540,7 +1540,7 @@
   },
   {
     "name": "D20 Curses that Turn Humans into Monsters",
-    "category": "d20",
+    "category": "Powers & Weirdness",
     "roll": "d20",
     "entries": [
       {
@@ -1627,7 +1627,7 @@
   },
   {
     "name": "D20 Faustian Bargains",
-    "category": "d20",
+    "category": "Plots, Portents, and Lies",
     "roll": "d20",
     "entries": [
       {
@@ -1714,7 +1714,7 @@
   },
   {
     "name": "D20 Festivities",
-    "category": "d20",
+    "category": "The Dying World",
     "roll": "d20",
     "entries": [
       {
@@ -1801,7 +1801,7 @@
   },
   {
     "name": "D20 Fucked-Up Things You Can Find in a Treasure Chest Instead of Actual Treasure",
-    "category": "d20",
+    "category": "Treasures & Trinkets",
     "roll": "d20",
     "entries": [
       {
@@ -1888,7 +1888,7 @@
   },
   {
     "name": "D20 Gifts for a Ghost",
-    "category": "d20",
+    "category": "Treasures & Trinkets",
     "roll": "d20",
     "entries": [
       {
@@ -1975,7 +1975,7 @@
   },
   {
     "name": "D20 Golems",
-    "category": "d20",
+    "category": "Creatures & Miscreants",
     "roll": "d20",
     "entries": [
       {
@@ -2062,7 +2062,7 @@
   },
   {
     "name": "D20 Holy Shit That's One Huge Crazy-Looking Troll!",
-    "category": "d20",
+    "category": "Creatures & Miscreants",
     "roll": "d20",
     "entries": [
       {
@@ -2149,7 +2149,7 @@
   },
   {
     "name": "D20 Items for Sale at Schlewig's Illegal Midnight Markets",
-    "category": "d20",
+    "category": "Treasures & Trinkets",
     "roll": "d20",
     "entries": [
       {
@@ -2236,7 +2236,7 @@
   },
   {
     "name": "D20 Local Tragedies",
-    "category": "d20",
+    "category": "Plots, Portents, and Lies",
     "roll": "d20",
     "entries": [
       {
@@ -2323,7 +2323,7 @@
   },
   {
     "name": "D20 Magical Focuses",
-    "category": "d20",
+    "category": "Treasures & Trinkets",
     "roll": "d20",
     "entries": [
       {
@@ -2410,7 +2410,7 @@
   },
   {
     "name": "D20 Misfortunes",
-    "category": "d20",
+    "category": "Plots, Portents, and Lies",
     "roll": "d20",
     "entries": [
       {
@@ -2419,11 +2419,11 @@
       },
       {
         "rowNum": "2",
-        "tableItem": "an old wound opens again, roll DR12 toughness or fall unconscious until treated (no hp loss)."
+        "tableItem": "An old wound opens again, roll DR12 toughness or fall unconscious until treated (no hp loss)."
       },
       {
         "rowNum": "3",
-        "tableItem": "three friendly, but muddy, monkeys greet you and briefly attempt to converse. later you find 3d6 silver missing and a muddy handprint where it was."
+        "tableItem": "Three friendly, but muddy, monkeys greet you and briefly attempt to converse. later you find 3d6 silver missing and a muddy handprint where it was."
       },
       {
         "rowNum": "4",
@@ -2479,7 +2479,7 @@
       },
       {
         "rowNum": "17",
-        "tableItem": "You have been stung by a wasp"
+        "tableItem": "You have been stung by a wasp."
       },
       {
         "rowNum": "18",
@@ -2497,7 +2497,7 @@
   },
   {
     "name": "D20 More Arcane Catastrophes",
-    "category": "d20",
+    "category": "Powers & Weirdness",
     "roll": "d20",
     "entries": [
       {
@@ -2584,7 +2584,7 @@
   },
   {
     "name": "D20 More Unheroic Feats",
-    "category": "d20",
+    "category": "Lost Souls All",
     "roll": "d20",
     "entries": [
       {
@@ -2671,7 +2671,7 @@
   },
   {
     "name": "D20 Nohr Myths",
-    "category": "d20",
+    "category": "The Dying World",
     "roll": "d20",
     "entries": [
       {
@@ -2758,7 +2758,7 @@
   },
   {
     "name": "D20 Poorly Enchanted Trinkets",
-    "category": "d20",
+    "category": "Treasures & Trinkets",
     "roll": "d20",
     "entries": [
       {
@@ -2845,7 +2845,7 @@
   },
   {
     "name": "D20 Reasons the PCs are Sentenced to Death",
-    "category": "d20",
+    "category": "Plots, Portents, and Lies",
     "roll": "d20",
     "entries": [
       {
@@ -2932,7 +2932,7 @@
   },
   {
     "name": "D20 Sacred/Unclean Armors",
-    "category": "d20",
+    "category": "Treasures & Trinkets",
     "roll": "d20",
     "entries": [
       {
@@ -3019,7 +3019,7 @@
   },
   {
     "name": "D20 Scvmmy Bar Patrons",
-    "category": "d20",
+    "category": "Creatures & Miscreants",
     "roll": "d20",
     "entries": [
       {
@@ -3106,7 +3106,7 @@
   },
   {
     "name": "D20 Skinwalker Creatures",
-    "category": "d20",
+    "category": "Lost Souls All",
     "roll": "d20",
     "entries": [
       {
@@ -3193,7 +3193,7 @@
   },
   {
     "name": "D20 Snake Oils and Other Scam Potions",
-    "category": "d20",
+    "category": "Treasures & Trinkets",
     "roll": "d20",
     "entries": [
       {
@@ -3280,7 +3280,7 @@
   },
   {
     "name": "D66 Blessings",
-    "category": "d66",
+    "category": "Powers & Weirdness",
     "roll": "d66",
     "entries": [
       {
@@ -3431,7 +3431,7 @@
   },
   {
     "name": "D66 Horrible Things an Enemy Would Say in the Middle of a Fight",
-    "category": "d66",
+    "category": "Creatures & Miscreants",
     "roll": "d66",
     "entries": [
       {
@@ -3582,7 +3582,7 @@
   },
   {
     "name": "D66 Rumors of the Dying World",
-    "category": "d66",
+    "category": "The Dying World",
     "roll": "d66",
     "entries": [
       {
@@ -3733,7 +3733,7 @@
   },
   {
     "name": "D40 Occult Herbmaster Decoctions",
-    "category": "d40",
+    "category": "Lost Souls All",
     "roll": "d40",
     "entries": [
       {
@@ -3899,8 +3899,8 @@
     ]
   },
   {
-    "name": "d6d8 Additional Character Names (Lost Souls All)",
-    "category": "d6d8",
+    "name": "D6D8 Additional Character Names",
+    "category": "Lost Souls All",
     "roll": "d6d8",
     "entries": [
       {
@@ -4099,7 +4099,7 @@
   },
   {
     "name": "D100 Encounters Behind a Magic Door",
-    "category": "d100",
+    "category": "Plots, Portents, and Lies",
     "roll": "d100",
     "entries": [
       {
@@ -4506,7 +4506,7 @@
   },
   {
     "name": "D666 Wildland Encounters on the Road",
-    "category": "d666",
+    "category": "Plots, Portents, and Lies",
     "roll": "d666",
     "entries": [
       {

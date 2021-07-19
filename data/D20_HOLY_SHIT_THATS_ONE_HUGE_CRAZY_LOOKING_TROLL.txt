@@ -1,4 +1,6 @@
 D20 Holy Shit That's One Huge Crazy-Looking Troll!
+subtitle:
+category: Creatures & Miscreants
 
 1. It looks as if it had both arms cut off and grew back 2 in each place. Along with it's normal attack it will use it's other arms to d6: 1 flail aimlessly at the players Agility DR 10 or 2d6 damage, 2-4 it grabs something nearby (including other players) and throws them Agility DR 12 or take d8 damage if a person is thrown d10 damage for both, 5-6 grabs something big and uses it as a weapon Agility DR 12 or take d12 damage and be flung through the air and yes the fall can kill you.
 

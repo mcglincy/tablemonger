@@ -1,4 +1,6 @@
 D12 Lesser Miseries: The Clock of Nechrubel
+subtitle: 
+category: Powers & Weirdness
 1. The Clock Strikes **One**. Night has just begun, but it portends an end. The eyes grow restless in their skulls and shalt reclaim their domain.
 2. The Clock Strikes **Two**. Lo, the Clock has tolled again and midnight inches closer. The Shroud of Dread shall fall upon you, darkening visions and crushing dreams.
 3. The Clock Strikes **Three**. The flesh grows weary at its work, and itches to end its labors, sloughing unto rest eternal.

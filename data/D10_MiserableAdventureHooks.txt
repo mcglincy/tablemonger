@@ -1,4 +1,6 @@
 D10 Miserable Adventure Hooks
+subtitle:
+category: Plots, Portents, and Lies
 1. You wake up and are missing a random limb. You want it back.
 2. Someone has murdered your canine companion. You seek revenge.
 3. Timmy fell down the well. **How deep does the well go down?**

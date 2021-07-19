@@ -1,4 +1,6 @@
 D8 Insidious Infections
+subtitle:
+category: Powers & Weirdness
 1. **Stonerot**. The wounded limb stars calcifying and steadily spreads throughout the body if not healed/amputated.
 2. **Jellyskin**. Your flesh starts sloughing off in large translucent sheets. Can lead to more infections as vulnerable tissues are exposed by the peeling rot.
 3. **Musclebloat**. Gain +1 Strength each day. Once it exceeds twice the maximum your muscles explode from your flesh and you bleed out in minutes.

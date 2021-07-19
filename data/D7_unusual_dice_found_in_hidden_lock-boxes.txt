@@ -1,5 +1,6 @@
 D7 Unusual Dice Found in Hidden Lock-Boxes 
-
+subtitle:
+category: Treasures & Trinkets
 1. A set of dice, carved from the bones of a notorious cheat. If you play a game of dice by yourself, an unseen specter will join in. If you win, there is a sudden scream, and a few silver pieces clatter to the floor. If you lose, you collapse over in agony, as a die made from one of your own bones is forces through your skin. 
 2. 2,34 On a 2 roll on this table, you find a perfectly normal couple of dice. Every time a character rolls them, DM secretly roll 1d100. With a result <=34 dice faces changes slightly just to make the character lose an important bet. Otherwise it grants a +1 presence to the pc, to spot a cheater. Did you notice the faces aren't perfectly symmetric? 
 3. You find NdX. N is the number of people in the party and X is the number of food supplies in the inventory of the PC that found them. 

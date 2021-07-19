@@ -1,4 +1,6 @@
 D10 Alternate Starting Weapon Rolling Chart
+subtitle:
+category: Lost Souls All
 1. **Spine With Skull** d4
 2. **Sweet Wolverine Claws** but only d4!?
 3. **Rusty Shovel** d6

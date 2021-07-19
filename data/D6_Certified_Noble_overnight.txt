@@ -1,5 +1,6 @@
 D6 Deeds to a Duchy
-Deeds to a Duchy (2000s). Become a certified noble overnight. Roll d6 after buying:
+subtitle: Deeds to a Duchy (2000s). Become a certified noble overnight. Roll d6 after buying:
+category: The Dying World
 1. Haunted estate in rural Wästland.
 2. Sunken estate in Sudglans.
 3. Burned out estate in Kergus.

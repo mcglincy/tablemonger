@@ -1,4 +1,6 @@
 D20 Local Tragedies
+subtitle:
+category: Plots, Portents, and Lies
 1. The flour was grinding out red like clay; they found a littany of corpses at the bottom of their grain silo.
 2. A pack of wolves slaughtered the livestock months ago, but the children still hear frightened bleats and cries in their sleep.
 3. The tavern burned down in a roaring fire, attracting wickheads who sing shrill hymns in the ashes.

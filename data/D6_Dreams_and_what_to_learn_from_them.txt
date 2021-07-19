@@ -1,4 +1,6 @@
 D6 Dreams and What to Learn from Them
+subtitle: 
+category: Plots, Portents, and Lies
 1. You dream of having lost your face, your sense of self. You meet your closest ones who regard you as a stranger. Only you remember yourself and you find that thought dreadful. 
 What you can learn: Go three ingame days without referring to yourself in the first person (in our out-of-game). If you succeed your Omen-dice increases by one size and you erase your name on the character-sheet. If you fail, take 1d2 damage. 
 2. In a dream you killed a random person you've met only recently in a horribly specific way (choking their neck in the mid-afternoon sun, piercing a spear through a certain bodypart, drowning them in the Boiling Seas, etc.). 

@@ -1,4 +1,6 @@
 D66 Rumors of the Dying World
+subtitle:
+category: The Dying World
 11. Salvation can be found beyond the mountains of Bergen Chrypt.
 12. Consuming the flesh of a Mulch-Squirrel cures infection.
 13. The son of the Shadow King has gone missing, but no one will admit it.

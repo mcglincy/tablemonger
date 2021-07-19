@@ -1,4 +1,6 @@
 D20 Magical Focuses
+subtitle:
+category: Treasures & Trinkets
 1. **Dryadbone Staff**: A sturdy, if thorny, six-foot staff of petrified wood ending in a joint-like knob in resemblance to the end of a femur. Wielder can cast Hermetic Step and Bestial Speech with this Staff at DR10, even if they do not have the scrolls for such spells. Additionally, the Staff gives a +2 bonus to any check to cultivate plantlife.
 2. **Wand of Phantasmal Steel**: The weight of the bluish metal shifts between feather and boulder at a moments notice. Wielder can cast Te-le-kin-esis and Lucy-Fires Levitation with this Wand at DR8, but only while the Wand is lightweight. While the Wand is heavy, it can be used as a d8 improvised weapon rather than a d4 one.
 3. **Mushroom-clogged Violin**: Stinks of happier days and choked goodbyes, can no longer be played but the melancholy can be drawn upon. Wielder can cast Daemon of Capillaries and Grace for a Sinner scrolllessly at DR12, targets of these Powers have a 50% chance of suffering infection.

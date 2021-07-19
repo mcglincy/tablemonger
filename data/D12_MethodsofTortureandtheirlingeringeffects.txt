@@ -1,4 +1,6 @@
 D12 Methods of Torture and Their Lingering Effects
+subtitle:
+category: Powers & Weirdness
 
 1. **The Rack**: Leaves you slightly taller (AGI +1) but much flimsier (STR -2)
 

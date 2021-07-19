@@ -1,4 +1,6 @@
 D40 Occult Herbmaster Decoctions
+subtitle:
+category: Lost Souls All
 1. **Friar's Slumber**: Taste and odourless poison, Toughness DR10 or die. Awaken again in d6 hours. You will remember everything you have seen or heard during the false death
 2. **Red trollcap**: Devour this mushroom and grow to double size for an hour. Equipment is unaffected. Plate armor is ill-advised. The effect is cumulative.
 3. **Lizard's spit**: Smells like weird patchouli. 2 hours after taking it, the skin of its user starts to fall in wet greenish flocks, losing social capabilities for another 2 hours. After changing all their skin, they recover all their HP.

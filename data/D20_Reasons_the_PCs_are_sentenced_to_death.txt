@@ -1,4 +1,6 @@
 D20 Reasons the PCs are Sentenced to Death
+subtitle:
+category: Plots, Portents, and Lies
 1. Selling treasure considered holy. 
 2. Defaming a member of the council.
 3. Wearing purple near a church on Blutday.

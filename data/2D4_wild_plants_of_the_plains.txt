@@ -1,5 +1,6 @@
 2D4 Wild Plants of the Plains
-(Rarer items appear either end of the table)
+subtitle: (Rarer items appear either end of the table)
+category: The Dying World
 2. **Bloodroot**: Grows and feeds on the blood from rotting corpses. When growing in a fresh corpse, it can function as host, zombifying the fresh deceased.
 3. **Boneleaf**: this invasive plant extends over large patches. It appears overnight and seems to be immutable. It grows under other small vegetation and stepping on it deals 1d4 dmg due to its bone like composition. Rumors are that grows over forgotten tombs and cemeteries.
 4. **Ironkiss bramble**: a common, thorny, weaving plant which grows in muddy ditches and roadsides. Animal bones are sometimes found at the roots, dying after having been caught in the snare-like hooks. Creatures take 1d4 damage each round they are within it, unless wearing appropriate, skin-covering armour.

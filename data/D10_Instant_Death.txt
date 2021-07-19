@@ -1,4 +1,6 @@
 D10 Instant Death
+subtitle:
+category: Powers & Weirdness
 1. A hole opens up beneath your feet, swallowing you immediately.
 2. A dark suffocating vapor surrounds you. You die gasping in the presence you accidentally awakened.
 3. A hole opens up above your head. A dead body flies out and breaks your spine upon impact.
