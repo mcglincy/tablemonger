@@ -1,6 +1,6 @@
 D8 Pets, Well-tolerated Pests, and Assorted Hangers On
 subtitle: 
-category: Creatures & Miscreants
+category: Monsters & Miscreants
 1. **Abigail**. This friendly white and black dog charms everyone she meets. Add 2 to the reaction roll on meeting NPCs unless they are truly heartless. Useless in a fight.
 2. **Blood-fat ticks**. A cluster of ticks have taken up residence on you. They drain d2 hp worth of blood every day. On any given day, d4 ticks are ripe for the plucking. Thrown at an enemy, they splatter their contents—the enemy must roll Toughness DR16 or be incapacitated for 1d6 rounds with nausea. The power of blood magic means this works on both the dead and the living. You can also drain a ripe tick to get back 1HP.
 3. **Snake The Conspirator**. The talking snake that hangs around your neck. It says smart things and versed in religion. Every day it needs to be fed with apples. If you outwit a snake (roleplay or Presence DR 16), it will turn into hot edgy demon (for d4 hours) that can't be visible to everyone except you and true believers, but can interact with material world.

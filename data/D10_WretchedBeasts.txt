@@ -1,6 +1,6 @@
 D10 Wretched Beasts
 subtitle:
-category: Creatures & Miscreants
+category: Monsters & Miscreants
 1. **Tooth Golem** a vaguely humanoid mass of teeth, plaque, and ruddy gums. Stinks to high heaven.
 2. **GIGA CATERPILLAR** - Long and Coiling, a Mass of Poisonous Black Furry Black Hair, it wriggles through the ghettos looking for small animals and homeless people to consume at Night.
 3. **Giant Rust Roach** - HP:12, Armor:-d4, Metal-eating-mandibles:d8 + Special: attacks made by and against the rust roach involving metal weapons and armor rapidly degrade along with other proximate metals. Weapons take a -1 penalty to hit and damage, armor degrades a tier, and other worn metals break down after a minute.

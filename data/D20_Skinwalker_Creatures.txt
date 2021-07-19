@@ -1,4 +1,4 @@
-D20 Skinwalker Creatures
+D20 Skinwalker Creature Shapes
 subtitle:
 category: Lost Souls All
 1. **Bleating Devil-Ram**: You can Ram for d8. On a 1-2 form a d6 the creature is toppled over and cant attack for a turn. Thick Black Fleece -d4 Hell's Bells, You have a Cursed bell around your neck and it rings with dread. Once a round you can make a creature test for Morale.
