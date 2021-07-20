@@ -1,5 +1,13 @@
-@import url("https://fonts.googleapis.com/css2?family=Merriweather&family=Special+Elite&display=swap");
-@import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Rakkas&family=Uchen&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Rakkas&family=Uchen&family=Special+Elite&display=swap');
+@font-face {
+    font-family: 'Burvetica-NC';
+    src:url('/fonts/Burvetica-NC.ttf.woff') format('woff'),
+        url('/fonts/Burvetica-NC.ttf.svg#Burvetica-NC') format('svg'),
+        url('/fonts/Burvetica-NC.ttf.eot'),
+        url('/fonts/Burvetica-NC.ttf.eot?#iefix') format('embedded-opentype'); 
+    font-weight: normal;
+    font-style: normal;
+}
 html {
   background-color: black;
   -webkit-background-size: auto, cover;
@@ -72,11 +80,9 @@ strong {
 }
 .title {
   cursor: pointer;
-  font-family: Rakkas;
-  /*font-size: max(28px, 7vw);*/
+  font-family: 'Rakkas';
   font-size: max(28px, 6vw);
   height:  7.5vw;
-  /*line-height: 9vw;*/
   text-align: center;
   padding:  5px;
 }
@@ -144,7 +150,14 @@ strong {
 }
 .toc-item.toc-category {
   background-color: rgb(43, 43, 43);
+  /*font-family: 'Burvetica-NC';*/
+  /*font-family: 'Rakkas';*/
+  font-family: 'Special Elite';
+  /*font-family: 'UnifrakturCook';*/
+  font-size:  20px;
   margin-left: 0px;
+  padding-bottom: 10px;
+  padding-top: 10px;
 }
 .toc-item.toc-category:hover {
   background-color: rgb(53, 53, 53);
@@ -185,7 +198,9 @@ strong {
   flex-direction: column;
 }
 #table-title {
-  font-family: "Uchen", cursive;
+  /*font-family: "Uchen", cursive;*/
+  font-family: "Burvetica-NC";
+  /*font-family: "Rakkas";*/
   font-size: 36px;
   background-color: #FFE900;
   color: black;
