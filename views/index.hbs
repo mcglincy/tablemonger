@@ -51,13 +51,9 @@
                 </div>
                 {{#each category as |table|}}
                   <div class="toc-item click-item {{#if isNew}}is-new{{/if}}"
-                       title="{{desc}}"
                        data-table-name="{{name}}"
-                       data-roll="{{roll}}"
-                       data-subtables="{{subtables}}"
-                       data-subarticles="{{subarticles}}"
-                       data-subplaceholders="{{subplaceholders}}"
-                       data-subcount="{{subcount}}">
+                       data-subtitle="{{subtitle}}"
+                       data-roll="{{roll}}">
                     <span class='toc-name'>{{name}}</span>
                   </div>
                 {{/each}}

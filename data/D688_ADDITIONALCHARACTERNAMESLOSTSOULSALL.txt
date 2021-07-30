@@ -1,5 +1,5 @@
 D6D8 Additional Character Names
-subtitle:
+subtitle: Lost Souls All
 category: Lost Souls All
 11. Hruggub
 12. Klar

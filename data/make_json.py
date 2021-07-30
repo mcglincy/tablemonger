@@ -26,6 +26,7 @@ def parse_file(infile):
     entries = []
     first_line = None
     category = "???"
+    subtitle = None
     for line in f:
       line = line.strip()
       if not first_line:
@@ -33,13 +34,15 @@ def parse_file(infile):
       if line:
         if line.startswith("category: "):
           category = line.split(": ")[1]
-        if regex_match := re.search(REGEX, line):
+        elif line.startswith("subtitle: "):
+          subtitle = line.split(": ")[1]
+        elif regex_match := re.search(REGEX, line):
           entries.append({"rowNum": regex_match[1], "tableItem": regex_match[2]})
     table = {
       "name": first_line,
-      "category": rollForNum(len(entries)),
       #"category": rollForNum(len(entries)),
       "category": category,
+      "subtitle": subtitle,
       "roll": rollForNum(len(entries)),
       "entries": entries
     }

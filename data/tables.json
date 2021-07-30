@@ -2,6 +2,7 @@
   {
     "name": "D6 Exotic Cursed Skinwalker Animal Forms",
     "category": "Lost Souls All",
+    "subtitle": null,
     "roll": "d6",
     "entries": [
       {
@@ -33,6 +34,7 @@
   {
     "name": "D10 Alternate Starting Weapon Rolling Chart",
     "category": "Lost Souls All",
+    "subtitle": null,
     "roll": "d10",
     "entries": [
       {
@@ -80,6 +82,7 @@
   {
     "name": "D10 Ominous Things a Pale One Can Say When Using Omens",
     "category": "Lost Souls All",
+    "subtitle": null,
     "roll": "d10",
     "entries": [
       {
@@ -127,6 +130,7 @@
   {
     "name": "D20 More Unheroic Feats",
     "category": "Lost Souls All",
+    "subtitle": null,
     "roll": "d20",
     "entries": [
       {
@@ -214,6 +218,7 @@
   {
     "name": "D20 Skinwalker Creature Shapes",
     "category": "Lost Souls All",
+    "subtitle": null,
     "roll": "d20",
     "entries": [
       {
@@ -301,6 +306,7 @@
   {
     "name": "D40 Occult Herbmaster Decoctions",
     "category": "Lost Souls All",
+    "subtitle": null,
     "roll": "d40",
     "entries": [
       {
@@ -468,6 +474,7 @@
   {
     "name": "D6D8 Additional Character Names",
     "category": "Lost Souls All",
+    "subtitle": "Lost Souls All",
     "roll": "d6d8",
     "entries": [
       {
@@ -667,6 +674,7 @@
   {
     "name": "D2 Incredible Things People have Shouted in Praise of a Horse Named Bartholomew",
     "category": "Monsters & Miscreants",
+    "subtitle": null,
     "roll": "d2",
     "entries": [
       {
@@ -682,6 +690,7 @@
   {
     "name": "D4 Creatures That Might Kill You in the Night in the Woods of Sarkash",
     "category": "Monsters & Miscreants",
+    "subtitle": null,
     "roll": "d4",
     "entries": [
       {
@@ -705,6 +714,7 @@
   {
     "name": "D4 Uncanny Half-Dead Godlings",
     "category": "Monsters & Miscreants",
+    "subtitle": null,
     "roll": "d4",
     "entries": [
       {
@@ -728,6 +738,7 @@
   {
     "name": "D6 Boss Monsters",
     "category": "Monsters & Miscreants",
+    "subtitle": null,
     "roll": "d6",
     "entries": [
       {
@@ -759,6 +770,7 @@
   {
     "name": "D8 Magical Horses (and Their Titles)",
     "category": "Monsters & Miscreants",
+    "subtitle": null,
     "roll": "d8",
     "entries": [
       {
@@ -798,6 +810,7 @@
   {
     "name": "D8 Pets, Well-tolerated Pests, and Assorted Hangers On",
     "category": "Monsters & Miscreants",
+    "subtitle": null,
     "roll": "d8",
     "entries": [
       {
@@ -837,6 +850,7 @@
   {
     "name": "D8 Wandering Lions",
     "category": "Monsters & Miscreants",
+    "subtitle": null,
     "roll": "d8",
     "entries": [
       {
@@ -876,6 +890,7 @@
   {
     "name": "D10 (Un)fortunate Survivors of Arcane Mishaps and Magical Malevolence",
     "category": "Monsters & Miscreants",
+    "subtitle": null,
     "roll": "d10",
     "entries": [
       {
@@ -923,6 +938,7 @@
   {
     "name": "D10 Wretched Beasts",
     "category": "Monsters & Miscreants",
+    "subtitle": null,
     "roll": "d10",
     "entries": [
       {
@@ -970,6 +986,7 @@
   {
     "name": "D10 You have successfully summoned a demon, but which one?",
     "category": "Monsters & Miscreants",
+    "subtitle": null,
     "roll": "d10",
     "entries": [
       {
@@ -1017,6 +1034,7 @@
   {
     "name": "D12 Skeleton Fighters",
     "category": "Monsters & Miscreants",
+    "subtitle": null,
     "roll": "d12",
     "entries": [
       {
@@ -1072,6 +1090,7 @@
   {
     "name": "D20 Golems",
     "category": "Monsters & Miscreants",
+    "subtitle": null,
     "roll": "d20",
     "entries": [
       {
@@ -1159,6 +1178,7 @@
   {
     "name": "D20 Holy Shit That's One Huge Crazy-Looking Troll!",
     "category": "Monsters & Miscreants",
+    "subtitle": null,
     "roll": "d20",
     "entries": [
       {
@@ -1246,6 +1266,7 @@
   {
     "name": "D20 Scvmmy Bar Patrons",
     "category": "Monsters & Miscreants",
+    "subtitle": "DM and/or players can roll on the chart. If DM rolls, run them as described. If player rolls, they can be used as a replacement PC after previous one's death(run as described or not). They can be introduced in a bar, coming from a bar, living under a bar, etcetera.",
     "roll": "d20",
     "entries": [
       {
@@ -1333,6 +1354,7 @@
   {
     "name": "D66 Horrible Things an Enemy Would Say in the Middle of a Fight",
     "category": "Monsters & Miscreants",
+    "subtitle": null,
     "roll": "d66",
     "entries": [
       {
@@ -1484,6 +1506,7 @@
   {
     "name": "D6 Dreams and What to Learn from Them",
     "category": "Plots, Portents, and Lies",
+    "subtitle": null,
     "roll": "d6",
     "entries": [
       {
@@ -1515,6 +1538,7 @@
   {
     "name": "D6 Suspicious Scents",
     "category": "Plots, Portents, and Lies",
+    "subtitle": null,
     "roll": "d6",
     "entries": [
       {
@@ -1546,6 +1570,7 @@
   {
     "name": "D8 Reasons Why That Couple of Cutthroats is Following You",
     "category": "Plots, Portents, and Lies",
+    "subtitle": null,
     "roll": "d8",
     "entries": [
       {
@@ -1585,6 +1610,7 @@
   {
     "name": "D8 Supply Wagons the Shadow King is Paying to Have Escorted",
     "category": "Plots, Portents, and Lies",
+    "subtitle": "I wonder what's inside...",
     "roll": "d8",
     "entries": [
       {
@@ -1624,6 +1650,7 @@
   {
     "name": "D10 Miserable Adventure Hooks",
     "category": "Plots, Portents, and Lies",
+    "subtitle": null,
     "roll": "d10",
     "entries": [
       {
@@ -1671,6 +1698,7 @@
   {
     "name": "D10 Reasons Why You Shouldn't Go into the Local Tavern",
     "category": "Plots, Portents, and Lies",
+    "subtitle": null,
     "roll": "d10",
     "entries": [
       {
@@ -1718,6 +1746,7 @@
   {
     "name": "D10 Side Quests that the Shopkeeper Sends You On, in Exchange for a Special Item",
     "category": "Plots, Portents, and Lies",
+    "subtitle": null,
     "roll": "d10",
     "entries": [
       {
@@ -1765,6 +1794,7 @@
   {
     "name": "D12 Appalling First Encounters with a Village",
     "category": "Plots, Portents, and Lies",
+    "subtitle": null,
     "roll": "d12",
     "entries": [
       {
@@ -1820,6 +1850,7 @@
   {
     "name": "D12 Reasons You Were Exiled",
     "category": "Plots, Portents, and Lies",
+    "subtitle": null,
     "roll": "d12",
     "entries": [
       {
@@ -1875,6 +1906,7 @@
   {
     "name": "D20 Faustian Bargains",
     "category": "Plots, Portents, and Lies",
+    "subtitle": "DM can let a player roll on this table to avoid dying of infection, or any other slow and painful demise.",
     "roll": "d20",
     "entries": [
       {
@@ -1962,6 +1994,7 @@
   {
     "name": "D20 Local Tragedies",
     "category": "Plots, Portents, and Lies",
+    "subtitle": null,
     "roll": "d20",
     "entries": [
       {
@@ -2049,6 +2082,7 @@
   {
     "name": "D20 Misfortunes",
     "category": "Plots, Portents, and Lies",
+    "subtitle": null,
     "roll": "d20",
     "entries": [
       {
@@ -2136,6 +2170,7 @@
   {
     "name": "D20 Reasons the PCs are Sentenced to Death",
     "category": "Plots, Portents, and Lies",
+    "subtitle": null,
     "roll": "d20",
     "entries": [
       {
@@ -2223,6 +2258,7 @@
   {
     "name": "D100 Encounters Behind a Magic Door",
     "category": "Plots, Portents, and Lies",
+    "subtitle": null,
     "roll": "d100",
     "entries": [
       {
@@ -2630,6 +2666,7 @@
   {
     "name": "D666 Wildland Encounters on the Road",
     "category": "Plots, Portents, and Lies",
+    "subtitle": null,
     "roll": "d666",
     "entries": [
       {
@@ -3501,6 +3538,7 @@
   {
     "name": "D6 Eerily Heretical Rituals",
     "category": "Powers & Weirdness",
+    "subtitle": null,
     "roll": "d6",
     "entries": [
       {
@@ -3532,6 +3570,7 @@
   {
     "name": "D8 Insidious Infections",
     "category": "Powers & Weirdness",
+    "subtitle": null,
     "roll": "d8",
     "entries": [
       {
@@ -3571,6 +3610,7 @@
   {
     "name": "D10 Instant Death",
     "category": "Powers & Weirdness",
+    "subtitle": null,
     "roll": "d10",
     "entries": [
       {
@@ -3618,6 +3658,7 @@
   {
     "name": "D12 False Blessings that Turn into Curses",
     "category": "Powers & Weirdness",
+    "subtitle": null,
     "roll": "d12",
     "entries": [
       {
@@ -3673,6 +3714,7 @@
   {
     "name": "D12 Lesser Miseries: The Clock of Nechrubel",
     "category": "Powers & Weirdness",
+    "subtitle": null,
     "roll": "d12",
     "entries": [
       {
@@ -3728,6 +3770,7 @@
   {
     "name": "D12 Methods of Torture and Their Lingering Effects",
     "category": "Powers & Weirdness",
+    "subtitle": null,
     "roll": "d12",
     "entries": [
       {
@@ -3783,6 +3826,7 @@
   {
     "name": "D20 Curses that Turn Humans into Monsters",
     "category": "Powers & Weirdness",
+    "subtitle": null,
     "roll": "d20",
     "entries": [
       {
@@ -3870,6 +3914,7 @@
   {
     "name": "D20 More Arcane Catastrophes",
     "category": "Powers & Weirdness",
+    "subtitle": null,
     "roll": "d20",
     "entries": [
       {
@@ -3957,6 +4002,7 @@
   {
     "name": "D66 Blessings",
     "category": "Powers & Weirdness",
+    "subtitle": null,
     "roll": "d66",
     "entries": [
       {
@@ -4108,6 +4154,7 @@
   {
     "name": "D3 Legends and Tall Tales About Pol-Blort",
     "category": "The Dying World",
+    "subtitle": null,
     "roll": "d3",
     "entries": [
       {
@@ -4127,6 +4174,7 @@
   {
     "name": "D6 Deeds to a Duchy",
     "category": "The Dying World",
+    "subtitle": "Deeds to a Duchy (2000s). Become a certified noble overnight. Roll d6 after buying:",
     "roll": "d6",
     "entries": [
       {
@@ -4158,6 +4206,7 @@
   {
     "name": "D6 Ways to Mispronounce \"Nechrubel\"",
     "category": "The Dying World",
+    "subtitle": null,
     "roll": "d6",
     "entries": [
       {
@@ -4189,6 +4238,7 @@
   {
     "name": "2D4 Wild Plants of the Plains",
     "category": "The Dying World",
+    "subtitle": "(Rarer items appear either end of the table)",
     "roll": "d7",
     "entries": [
       {
@@ -4224,6 +4274,7 @@
   {
     "name": "D8 Things You Shouldn't Eat But Probably Will",
     "category": "The Dying World",
+    "subtitle": null,
     "roll": "d8",
     "entries": [
       {
@@ -4263,6 +4314,7 @@
   {
     "name": "D10 Ghrok's Cook Book",
     "category": "The Dying World",
+    "subtitle": "A Collection of Breakfast, Lunch and Dinner Delicacies",
     "roll": "d10",
     "entries": [
       {
@@ -4310,6 +4362,7 @@
   {
     "name": "D12 Hazardous Weather",
     "category": "The Dying World",
+    "subtitle": null,
     "roll": "d12",
     "entries": [
       {
@@ -4365,6 +4418,7 @@
   {
     "name": "D12 Symbols of Heretical Cults",
     "category": "The Dying World",
+    "subtitle": null,
     "roll": "d12",
     "entries": [
       {
@@ -4420,6 +4474,7 @@
   {
     "name": "D20 Festivities",
     "category": "The Dying World",
+    "subtitle": null,
     "roll": "d20",
     "entries": [
       {
@@ -4507,6 +4562,7 @@
   {
     "name": "D20 Holiday Destinations in the Dying World",
     "category": "The Dying World",
+    "subtitle": null,
     "roll": "d20",
     "entries": [
       {
@@ -4594,6 +4650,7 @@
   {
     "name": "D20 Nohr Myths",
     "category": "The Dying World",
+    "subtitle": null,
     "roll": "d20",
     "entries": [
       {
@@ -4681,6 +4738,7 @@
   {
     "name": "D66 Rumors of the Dying World",
     "category": "The Dying World",
+    "subtitle": null,
     "roll": "d66",
     "entries": [
       {
@@ -4832,6 +4890,7 @@
   {
     "name": "D7 Unusual Dice Found in Hidden Lock-Boxes",
     "category": "Treasures & Trinkets",
+    "subtitle": null,
     "roll": "d7",
     "entries": [
       {
@@ -4867,6 +4926,7 @@
   {
     "name": "D10 Shiny Things Floating in the Open Sewage",
     "category": "Treasures & Trinkets",
+    "subtitle": null,
     "roll": "d10",
     "entries": [
       {
@@ -4914,6 +4974,7 @@
   {
     "name": "D10 Trophies a Vampire Keeps from Their Victims",
     "category": "Treasures & Trinkets",
+    "subtitle": null,
     "roll": "d10",
     "entries": [
       {
@@ -4961,6 +5022,7 @@
   {
     "name": "D20 Fucked-Up Things You Can Find in a Treasure Chest Instead of Actual Treasure",
     "category": "Treasures & Trinkets",
+    "subtitle": null,
     "roll": "d20",
     "entries": [
       {
@@ -5048,6 +5110,7 @@
   {
     "name": "D20 Gifts for a Ghost",
     "category": "Treasures & Trinkets",
+    "subtitle": null,
     "roll": "d20",
     "entries": [
       {
@@ -5135,6 +5198,7 @@
   {
     "name": "D20 Items for Sale at Schlewig's Illegal Midnight Markets",
     "category": "Treasures & Trinkets",
+    "subtitle": null,
     "roll": "d20",
     "entries": [
       {
@@ -5222,6 +5286,7 @@
   {
     "name": "D20 Magical Focuses",
     "category": "Treasures & Trinkets",
+    "subtitle": null,
     "roll": "d20",
     "entries": [
       {
@@ -5309,6 +5374,7 @@
   {
     "name": "D20 Poorly Enchanted Trinkets",
     "category": "Treasures & Trinkets",
+    "subtitle": null,
     "roll": "d20",
     "entries": [
       {
@@ -5396,6 +5462,7 @@
   {
     "name": "D20 Sacred/Unclean Armors",
     "category": "Treasures & Trinkets",
+    "subtitle": null,
     "roll": "d20",
     "entries": [
       {
@@ -5483,6 +5550,7 @@
   {
     "name": "D20 Snake Oils and Other Scam Potions",
     "category": "Treasures & Trinkets",
+    "subtitle": null,
     "roll": "d20",
     "entries": [
       {

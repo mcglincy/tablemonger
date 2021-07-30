@@ -100,14 +100,14 @@ const setUpForNewSingleTable = (e) => {
   const tableName = e.currentTarget.dataset.tableName;
   setTableParam(tableName);
   const roll = e.currentTarget.dataset.roll;
-  const desc = $(e.currentTarget).attr('title');
+  const subtitle = e.currentTarget.dataset.subtitle;
   const tableDiv = $("#table-content");
   tableDiv.empty();
   // currently the roll is in the table name
   // const titleDiv = $(`<div id='table-title'>${tableName} <span class='title-roll'>(${roll})</span></div>`);
   const titleDiv = $(`<div id='table-title'>${tableName}</div>`);
   tableDiv.append(titleDiv);
-  const descDiv = $(`<div id='table-desc'>${desc}</div>`);
+  const descDiv = $(`<div id='table-desc'>${subtitle}</div>`);
   tableDiv.append(descDiv);
   tableDiv.append(dummySingleTable);
   pointToChosen();
