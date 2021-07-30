@@ -4106,6 +4106,25 @@
     ]
   },
   {
+    "name": "D3 Legends and Tall Tales About Pol-Blort",
+    "category": "The Dying World",
+    "roll": "d3",
+    "entries": [
+      {
+        "rowNum": "1",
+        "tableItem": "Pol-Blort once defended an open air market from an attacking gang of goblins.  Not only were all goblin attacks intercepted, at the end of the day nearly all the goblins were dead."
+      },
+      {
+        "rowNum": "2",
+        "tableItem": "sing, o muses! the tale of pol-blort, \\nflung by fate to foreign lands\\nthe man meandered, through many a land,\\nuntil, solemnly, to galgenbeck went he\\nseeking succour; a kingly gift!\\nin the cathedral sought he the serpent's favour\\ndoomsayer and deathspeller, the devil HE.\\n\\nto the poison-wyrm he proposed a princely promise\\na solemn servitude; an oath of death\\nto harm all heretics, that HE be hallowed\\nhe so propped up the mantle; a man's purpose\\na promise of pain, punishment dealt\\nto the joy-seeker, the jubilant soul."
+      },
+      {
+        "rowNum": "3",
+        "tableItem": "When thieving scum burglarized the reliquary-armories of Galgenbeck, they absconded with the fearsome hammer of an ancient thunder lord. The Inquisition tasked Pol-Blort with its recovery. He journeyed deep into Graven-Tosk to pry the great weapon from the clutches of a wretched Shadow Prince. The swiftness and effectiveness of his actions led the Grand Inquisitor herself to gift the weapon to Pol-Blort for him to protect for the remainder of his days. That is why he is known as Pol-Blort, Guardian of the Maul."
+      }
+    ]
+  },
+  {
     "name": "D6 Deeds to a Duchy",
     "category": "The Dying World",
     "roll": "d6",
@@ -4238,6 +4257,53 @@
       {
         "rowNum": "8",
         "tableItem": "Adipocere (corpse cheese)."
+      }
+    ]
+  },
+  {
+    "name": "D10 Ghrok's Cook Book",
+    "category": "The Dying World",
+    "roll": "d10",
+    "entries": [
+      {
+        "rowNum": "1",
+        "tableItem": "**Bisketr and meatballs**: Take a Goblin or a creature of similar size and a sledgehammer. You need a big stone with a flat surface, like an altar for example. Put the live Goblin on it and mash it to pulp with the sledgehammer. Pound real hard and keep going until even the bones are pestled to a fine paste. Don't wash your hands and make bite sized balls out of the mush. Then let them sit for a day and check every now and then. It's ready to serve as soon as there is a large amount of worms and maggots. Add earthworms to taste."
+      },
+      {
+        "rowNum": "2",
+        "tableItem": "**Bonelion Seepings**. Tightly bind a well-softened Bonelion thorax in a cloth sack, and hang for 14 days, tightening regularly. Collect the seepings in a wooden pail. Once clotted, serve on chunks of black bread."
+      },
+      {
+        "rowNum": "3",
+        "tableItem": "**Tomato soup with eyeball-balls**"
+      },
+      {
+        "rowNum": "4",
+        "tableItem": "**Farmhand's delight**. Gruel from moldering grains left overnight in a half-filled chamberpot. Mix in fingernails and twice-digested corn for texture and top it off with a handful of potato peels. Heat before serving."
+      },
+      {
+        "rowNum": "5",
+        "tableItem": "**Turnip 28's**: turnips marinated on fermented horse piss for 28 days. The turnip should be sliced like carpatio, as the taste is very peculiar and sour. The roots that grow during the process must be cut and made into a paste, to go with a side bread. Take care when eating, you might start worshiping turnips."
+      },
+      {
+        "rowNum": "6",
+        "tableItem": "**Eggs 'n' Placenta**. A Breakfast Delight found in the (welcoming) hearths of Kergüs. Break three (fertilized) eggs over a skillet of uncooked placenta. Heat lightly and eat rare. Best served with a side of bonepaste, and sauerkraut (optional; sauerkraut is an acquired taste after all)."
+      },
+      {
+        "rowNum": "7",
+        "tableItem": "**Foie Gras Nourri Humain**. A cult that prays to a vile duck god from the days of yore performs a dark ritual of gorging a man to death on fowl whose flesh has begun to house maggots. This meat is then used to force feed the offspring of their master that are deemed in worth. The succulent meat is usually reserved for the leaders of the cult, however during different festivals throughout the dying world when they are in need of silver."
+      },
+      {
+        "rowNum": "8",
+        "tableItem": "**Potato soup with beef and flower topping**. That's what the menu said. But it smells awefully like the goblin brain you made a stew out of a few days ago... and those are not flowers, that's just mold. And the beef is kind of... wait is that a human finger?"
+      },
+      {
+        "rowNum": "9",
+        "tableItem": "**Stringed slug**. The rare Töne slug might not be digestible, but its distinct flavor and mildly psychedelic properties makes it a sought after delicacy among Schleswig nobility. The proper way to serve it is attached to a long string of twined hair, so that after being swallowed, it can be easily retrieved by pulling it right back up. The same slug can be consumed hundreds of times, and can easily be shared with friends and family."
+      },
+      {
+        "rowNum": "10",
+        "tableItem": "**Brussel Sprout Caramel Candy**. Serves 1. Take a handful of the Galgenbeck variant of Brussel sprouts (Brassica oleracea vomitus) and cook them in lye water (which takes of the natural sweetness). Boil ape hair with Glutaraldehyde until a thick paste forms. Skewer boiled brussel sprouts on rusty fork and coat them with caramel paste. Let dry for at least 24 hours."
       }
     ]
   },
@@ -4435,6 +4501,93 @@
       {
         "rowNum": "20",
         "tableItem": "**Scrollharvest**: Wizards are often kept chained and alone for months on end in preparation for a Scrollharvest. Once stripped and shaved of pointy hat and beard, they are skinned and turned into leather. Selected members of the town get to write love letters, deeds, damnations, and hymns upon the leather in hopes of creating new scrolls. A Wizard is a perfectly normal scroll material, in such an uncanny world as this."
+      }
+    ]
+  },
+  {
+    "name": "D20 Holiday Destinations in the Dying World",
+    "category": "The Dying World",
+    "roll": "d20",
+    "entries": [
+      {
+        "rowNum": "1",
+        "tableItem": "A cabin on the shore of a frozen lake. Rotten masts break the surface of the ice, and dark shapes move among the silhouettes of the sunken wreckages beneath your feet"
+      },
+      {
+        "rowNum": "2",
+        "tableItem": "24 hours in Schleswig. Arrive by fast carriage and the night is yours. This place has everything: drinks and finks, lazies and crazies, free-mens and demons. And don't get me started about the bloodsports! Make your next hell-hole this hole, baby, and see how the better half live."
+      },
+      {
+        "rowNum": "3",
+        "tableItem": "A quaint but entirely deserted mountain village, the doors of chalets swinging open, food left half-eaten on tables, charming murals spoiled by patches dissolved out of the paint and the walls behind it."
+      },
+      {
+        "rowNum": "4",
+        "tableItem": "Schleswig Spa with its boiling tar pits, have a go in these and really feel refreshed!"
+      },
+      {
+        "rowNum": "5",
+        "tableItem": "Huh? Wait, where did I get all these beads? Am I in Grift? Was the daylight always this bright? Why is my head killing me? Who tore this bed apart? Who stuffed a live goblin in this chamber pot? And who shit in my pants?"
+      },
+      {
+        "rowNum": "6",
+        "tableItem": "Visit us for a city break in Galgenbeck’s bustling Oily Boy Inn. A lively location with local specialty dishes and games of chance available on site. We operate a goblin-free premises, and are a stone’s throw away from Nagal Krat’s famous Medickal Shoppe, for all your curative needs."
+      },
+      {
+        "rowNum": "7",
+        "tableItem": "See beautiful, shore-side Behilbereth. Guaranteed to W̴͌̔e̴͒̀ ̵̽̈m̷̀̃u̶͌͝s̸̃͠t̶̜̉ ̴̅͗h̷̛̊ê̶͑a̷̎̉l̴̋̐ ̷̀͆t̴̂͠h̷͐͑e̴͗̊m̷̧̆ ̸̏̚f̵͒͠ơ̵͌r̸͗̔ ̸̊́t̴̋͝h̷͌̓e̷̛͑ ̴̋̌q̸̔̉ű̷̈́a̸̾̈́l̷̖̃ȉ̷̊f̶̍̀i̴̐̈e̵͌̿d̶̽͝ ̸͋́t̷͍͊e̷̹͝c̴͛̆h̴́͆n̷̈́̋ǐ̶͆c̵̛̓i̷̘̽a̶̯̋n̸̿̉s̴̃̂,̶̷͆̍̕͝W̴̽orse,"
+      },
+      {
+        "rowNum": "8",
+        "tableItem": "In Allians, they celebrate Anthelia’s birthday with as much gusto as they can. However, it always ends up being lackluster. Even the celebratory executions are droll."
+      },
+      {
+        "rowNum": "9",
+        "tableItem": "In the Grift there is a demon touched sorcerer that will resurrect you after diving off the rocky cliffs. It's said that \"no one comes back the same\" the gift shop has novelty shirt and steins."
+      },
+      {
+        "rowNum": "10",
+        "tableItem": "England. England?"
+      },
+      {
+        "rowNum": "11",
+        "tableItem": "80 days around the endless sea.  A cruise of macabre proportions, and even meatier content! Experience roiling black waves larger than you will ever sea again. Or enjoy an unmatched first-row view of the kraken's beak. may extend somewhat beyond 80 days, or not!"
+      },
+      {
+        "rowNum": "12",
+        "tableItem": "Metal Days, a festival where a bunch of blacksmiths hammer together to form impressive weapons of phenomenal proportions. Make sure to visit the souvenir shop!"
+      },
+      {
+        "rowNum": "13",
+        "tableItem": "FistPummel XIII. A brutal hand to hand free for all, with the winner being crowned Earl of Knuckles. The spiteful ghosts of FistPummel XII distribute cursed and loaded gloves, looking to increase their number."
+      },
+      {
+        "rowNum": "14",
+        "tableItem": "Come to the annual wine tasting on Castella! They say you can taste the blood of the old gods in the wine. Locals don't appreciate nosy strangers asking questions. Whatever you do, don't go into the vineyards. Just drink the bloody wine."
+      },
+      {
+        "rowNum": "15",
+        "tableItem": "Schleswig Schussmeisters present: Skiing on the Snowy Peaks of Bergen Chrypt. Bring your poles, bring your swords. Icy and treacherous, exciting and eviscerating, this will surely be the alpine adventure of your life. Or death."
+      },
+      {
+        "rowNum": "16",
+        "tableItem": "Festival of the Demise of THEY--a rustic celebration of the death of a local basilisk long ago. Entrails from livestock as streamers from its massive ribcage in the town square, parades with the basilisk's skulls (covered with painted leather & fabric), etc. What no one is ready for is the inevitable accidental spilling of innocent human blood on the carcass, which manages to reanimate the \"basi-lich\" who promptly wreaks havoc on everyone."
+      },
+      {
+        "rowNum": "17",
+        "tableItem": "A pretty cool looking rock. You can jump off it and die if you want. Found on the cliffs of Múr."
+      },
+      {
+        "rowNum": "18",
+        "tableItem": "Go with our very trustworthy guide Gron \"Meatslab the Backstab\" Kruv and pick some very edible mushrooms in Sarkash Forest! Take all your silver with you because everybody knows: Fortune will smile upon you when you find a silver blister cap with all your money on you!"
+      },
+      {
+        "rowNum": "19",
+        "tableItem": "Hang gliding on gliders constructed from the bones and tanned skin of giant birds. You better hope the live ones don't take offense."
+      },
+      {
+        "rowNum": "20",
+        "tableItem": "The last bit of pure sunlight, last seen drifting lazily southward over a forlorn rock at the edge of Sarkash."
       }
     ]
   },
