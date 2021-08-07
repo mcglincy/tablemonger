@@ -128,6 +128,94 @@
     ]
   },
   {
+    "name": "D20 Descriptions of a New PC Instantly Arriving In-Game",
+    "category": "Lost Souls All",
+    "subtitle": null,
+    "roll": "d20",
+    "entries": [
+      {
+        "rowNum": "1",
+        "tableItem": "“A large pustulating mass throbs as it slowly defends from the ceiling, it seems to be suspended by a slimy orange sinew and is covered in a pungent ichor. The pulsating grows quicker as the mass nears the floor before splitting at its bottom. [name] comes tumbling out as the same repulsive ichor pools on the floor.”"
+      },
+      {
+        "rowNum": "2",
+        "tableItem": "\"Fingers sprout from the ground like worms, and [name] claws their way from the dirt\""
+      },
+      {
+        "rowNum": "3",
+        "tableItem": "\"A sculptor cursed to wander the Urilian crypts, adding to the monuments of the dead, rebels and finds themselves beside you, madly hammering out a body out of a block of marble/meat/driftwood. The form the new PC comes into being and, before the sculptor's curse pulls them cryptward, they kiss the sculpture alive and say 'Welcome to the world! You are not dead; at least, not immedietly.'\""
+      },
+      {
+        "rowNum": "4",
+        "tableItem": "\"Lightning cracks and darkness spreads like ink spilled on a page. When it recedes [name] stands with you as if they always had.\""
+      },
+      {
+        "rowNum": "5",
+        "tableItem": "\"The dead body of your companion drops to the floor and lies there, still, slowly bleeding. Suddenly it twists, the ribs fling outwards, the stomach is torn open, a tornado of guts slowly forms and red lightning cracks in this mess of blood and flesh. Suddenly you see a [whatver it is] thrown out of this necromantic vortext, landing on the ground a few feet away like a wet sack. You hear a pitched, fiendish voice out of the corpse vortex: 'Don't forget!' and the gut spiral collapses and the innards of your former companion fly everywhere. The person that just appeared slowly rises...\""
+      },
+      {
+        "rowNum": "6",
+        "tableItem": "\"The earth rumbles and breaks open, a giant maggot appears. Its throbbing body makes squelching sounds, something moves inside of it... the maggot opens its mouth for a scream that suffocates in it throwing up a bunch of dead meat and a whole person, but also its innards. It dies. But the person moves...\""
+      },
+      {
+        "rowNum": "7",
+        "tableItem": "\"Your dead body begins to grow a thick and puss-riden boil. Suddenly, the boil erupts and shoots black sludge in all directions and [name] appears where your body once was, dripping with the putrid slime."
+      },
+      {
+        "rowNum": "8",
+        "tableItem": "\"A shroud of night covers the room and the sound of black-winged birds. Scraping on stone and an ethereal hiss sound as [name] emerges from a vortex in the floor, shaken but unbowed.\""
+      },
+      {
+        "rowNum": "9",
+        "tableItem": "Rocks fall, [old name] dies! One of the larger rocks split open revealing [new name]."
+      },
+      {
+        "rowNum": "10",
+        "tableItem": "Reality blinks. There was never an [old name], the party have known [new name] from the start."
+      },
+      {
+        "rowNum": "11",
+        "tableItem": " You can hear the faint sound of scratching coming from the wall beside you. Tiny cracks appear sending out long splinters. A fist busts through the wall, and you can see that the flesh is barely hanging on to the bone. [name] claw's their way out of the wall and falls to the floor coughing out black dust."
+      },
+      {
+        "rowNum": "12",
+        "tableItem": "A door you didn't notice before opens. [Name] steps out, looking confused. The door slams shut behind them and will no longer open. They're stuck here now."
+      },
+      {
+        "rowNum": "13",
+        "tableItem": "Despite what you think, [previous name] was never there, and it was [name] all along. They stand nearby, unharmed and frazzled."
+      },
+      {
+        "rowNum": "14",
+        "tableItem": "A giant purple portal openes and a scaly, huge hand with only 4 fingers and giant fingernails reaches out, grabs [old name] and pulls them through the portal. A second of silence. Then another hand appears with someone else in its grasp, they put them where [old name] stood. The hand dissapears, the portal closes."
+      },
+      {
+        "rowNum": "15",
+        "tableItem": "The body you left behind upon death begins itching, twitching, buzzing. The spiders that formed this coalition of a life together, living as kids under a trenchcoat, have finally began thinking, philosophizing, and have realized this current form does not suit them anymore. They begin rearranging themselves, until The New You has formed."
+      },
+      {
+        "rowNum": "16",
+        "tableItem": "What's that? If you really focus your ears, you can hear... a scream? It's getting louder and louder now, and in the sky above you, you see a tiny dot. Closer and closer, until you can make out the humanoid shape. It keeps screaming, and suddenly stops when it hits your old dead body with a meaty \"thud\"."
+      },
+      {
+        "rowNum": "17",
+        "tableItem": "A small scar, one you don't remember ever having, begins to itch. Someone is trying to claw their way out. The scar tears from the inside, and not unlike a newborn covered in blood, a new PC flops out, their umbilical chord dangling from the now open wound."
+      },
+      {
+        "rowNum": "18",
+        "tableItem": "From the last corpse you made, you hear a voice screaming to release them. You do the only sensible thing you could, and take off the epidermis of the corpse's skin. A messy job, the sight of the bean-like layer of the epidermis below is enough to make any strong man vomit. The beanman thanks you for your brave rescue, and joins your party."
+      },
+      {
+        "rowNum": "19",
+        "tableItem": "You hear an earthshaking rumble as a dyspeptic, gut-sick troll lurches into view. Paying you no mind, it stops nearby to noisily regurgitate, ejecting a massive torrent of bile, filth, and body parts. When the stream of spew has finished, the troll stumbles away... but from the remaining filth-pile rises a figure, vom-covered and alive: [name]."
+      },
+      {
+        "rowNum": "20",
+        "tableItem": "You lay eyes upon your fallen companion, their skull crushed, oozing with liquefied brain matter and blood. You notice behind the thin wall of flesh that was their eye, a golden orb inscribed with some kind of ancient writing. The orb starts to shudder, and then a flash of white light fills the room and (name) is now standing before you while the body of your fallen companion has vanished."
+      }
+    ]
+  },
+  {
     "name": "D20 More Unheroic Feats",
     "category": "Lost Souls All",
     "subtitle": null,
