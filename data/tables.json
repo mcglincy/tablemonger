@@ -4956,6 +4956,54 @@
     ]
   },
   {
+    "name": "D10 Books You Should Eat Before You Die",
+    "category": "Treasures & Trinkets",
+    "subtitle": null,
+    "roll": "d10",
+    "entries": [
+      {
+        "rowNum": "1",
+        "tableItem": "**Reader's digest Vol. 2**"
+      },
+      {
+        "rowNum": "2",
+        "tableItem": "**Ghrok's Cook Book**: A Collection of Breakfast, Lunch and Dinner delicacies. This might come as a surprise for anyone able to read, but apart from cooking the recipes contained within this book, the book itself is an acquired but phenomenal taste that can be served roasted, stir-fryed, baked, poached, steamed or eaten raw. Tastes like mouldy hieroglyphs and is best served with blood red wine or troll piss mead."
+      },
+      {
+        "rowNum": "3",
+        "tableItem": "**Ellix's Tome of Fermentation**. This book is a handy thing to have. It teaches you how to ferment anything (ANYTHING!). Some of the pages can be ground and sprinkled into sauerkraut for that rich umami taste. The binding can be lactofermented with apples and licorice root for some funky and nourishing rations. The special edition of this book comes with its own custom crock pot."
+      },
+      {
+        "rowNum": "4",
+        "tableItem": "On the same note as Ellix's Tome of Fermentation; **Prust's Philosophical Guide to Pickling** is an excellent guide to preserving (for consumption) just about anything in the Dying World. Be it dried cucumber, goblin brains, slugs, shoes, hair or—why yes!—even the book itself."
+      },
+      {
+        "rowNum": "5",
+        "tableItem": "**Tractatus Gastronomico Philosophicus**. The world is everything that is the case. The world is the totality of foods, not of things (to eat). The world is determined by the foods, and by these being all the foods. Obscure book by some kind of vampiric philosopher. Can be seen as an argument that to solve all philosophical problems (including the problem of other minds) one simply has to eat everything (including this book)."
+      },
+      {
+        "rowNum": "6",
+        "tableItem": "**Liber Toxin Delificus**: The Book Of Delicious Poison. Every page of the book was delicately soaked in hallucinogenic poison that retains its properties eternally. The poison causes nightmarish visions and can kill in long, agonizing hours unless the neutralizing antidote is consumed whole. The thick book cover is made of a semi-edible solid form of the antidote. The actual contents of the book are a long, winding explanation of exactly how the process works, long enough to distract the reader until it is absolutely necessary to consume the antidote."
+      },
+      {
+        "rowNum": "7",
+        "tableItem": "**Fruit Paper Pamphlets of Absolom**. Those pamphlets come in different colours and taste like common fruits (Galgenbeckian Vomit Kiwi, Sarkashian Strawberries, Durian etc.). They contain pictures of isometric and numbered maps and little snippets of texts. you can buy them separately or bound into yearly issues of fruit paper pamphlets (abbrv. FPP followed by Roman numerals). Experts say, that the flavours of the yearly issues bleed into one another though and recommend buying the pamphlets separately."
+      },
+      {
+        "rowNum": "8",
+        "tableItem": "**Guide Drakenhall**. THE Food Guide for the gourmet scvm and the scholarly interested gorgers of the world. Complete with maps and travel locations, local spices and detailed instructions on how to prepare and eat which of the guide's pages with which creatures (desserts not included)."
+      },
+      {
+        "rowNum": "9",
+        "tableItem": "**Blasphemous secrets**, written in the rich man's tome; this tome is heavy, adorned with golden inlays and golden corners, the paper is made of the iron plant and the leather is from Tar-Peltet Goats. This book doesn't burn, it's practically indestructable. You read secrets of the old gods in it and whispers tell you to destroy the book. On the last page you read, that the only thing, that destroys this paper, is the reader's bile. Quick! Eat it befor someone knows that you've read it! The blasphemous secrets lie heavy in your stomach, sometimes you burp, causing random unclean scroll effects to happen."
+      },
+      {
+        "rowNum": "10",
+        "tableItem": "**The Book of The Keeper of The World**"
+      }
+    ]
+  },
+  {
     "name": "D10 Shiny Things Floating in the Open Sewage",
     "category": "Treasures & Trinkets",
     "subtitle": null,
@@ -5048,54 +5096,6 @@
       {
         "rowNum": "10",
         "tableItem": "A vial of marrow, sucked from their bones."
-      }
-    ]
-  },
-  {
-    "name": "D10 books You Should Eat Before You Die",
-    "category": "Treasures & Trinkets",
-    "subtitle": null,
-    "roll": "d10",
-    "entries": [
-      {
-        "rowNum": "1",
-        "tableItem": "\"Reader's digest Vol. 2\""
-      },
-      {
-        "rowNum": "2",
-        "tableItem": "Ghrok's Cook Book: A Collection of Breakfast, Lunch and Dinner delicacies. This might come as a surprise for anyone able to read, but apart from cooking the recipes contained within this book, the book itself is an acquired but phenomenal taste that can be served roasted, stir-fryed, baked, poached, steamed or eaten raw. Tastes like mouldy hieroglyphs and is best served with blood red wine or troll piss mead."
-      },
-      {
-        "rowNum": "3",
-        "tableItem": "Ellix's Tome of Fermentation. This book is a handy thing to have. It teaches you how to ferment anything (ANYTHING!). Some of the pages can be ground and sprinkled into sauerkraut for that rich umami taste. The binding can be lactofermented with apples and licorice root for some funky and nourishing rations. The special edition of this book comes with its own custom crock pot."
-      },
-      {
-        "rowNum": "4",
-        "tableItem": "On the same note as Ellix's Tome of Fermentation; Prust's Philosophical Guide to Pickling, is an excellent guide to preserving (for consumption) just about anything in the Dying World. Be it dried cucumber, goblin brains, slugs, shoes, hair or—why yes!—even the book itself."
-      },
-      {
-        "rowNum": "5",
-        "tableItem": "Tractatus Gastronomico Philosophicus. The world is everything that is the case. The world is the totality of foods, not of things (to eat). The world is determined by the foods, and by these being all the foods. Obscure book by some kind of vampiric philosopher. Can be seen as an argument that to solve all philosophical problems (including the problem of other minds) one simply has to eat everything (including this book)."
-      },
-      {
-        "rowNum": "6",
-        "tableItem": "Liber Toxin Delificus: The Book Of Delicious Poison. Every page of the book was delicately soaked in hallucinogenic poison that retains its properties eternally. The poison causes nightmarish visions and can kill in long, agonizing hours unless the neutralizing antidote is consumed whole. The thick book cover is made of a semi-edible solid form of the antidote. The actual contents of the book are a long, winding explanation of exactly how the process works, long enough to distract the reader until it is absolutely necessary to consume the antidote."
-      },
-      {
-        "rowNum": "7",
-        "tableItem": "Fruit Paper Pamphlets of Absolom. Those pamphlets come in different colours and taste like common fruits (Galgenbeckian Vomit Kiwi, Sarkashian Strawberries, Durian etc.). They contain pictures of isometric and numbered maps and little snippets of texts. you can buy them separately or bound into yearly issues of fruit paper pamphlets (abbrv. FPP followed by Roman numerals). Experts say, that the flavours of the yearly issues bleed into one another though and recommend buying the pamphlets separately."
-      },
-      {
-        "rowNum": "8",
-        "tableItem": "Guide Drakenhall. THE Food Guide for the gourmet scvm and the scholarly interested gorgers of the world. Complete with maps and travel locations, local spices and detailed instructions on how to prepare and eat which of the guide's pages with which creatures (desserts not included)."
-      },
-      {
-        "rowNum": "9",
-        "tableItem": "Blasphemous secrets, written in the rich man's tome; thise tome is heavy, adorned with golden inlays and golden corners, the paper is made of the iron plant and the leather is from Tar-Peltet Goats. This book doesn't burn, it's practically indestructable. You read secrets of the old gods in it and whispers tell you to destroy the book. On the last page you read, that the only thing, that destroys this paper, is the reader's bile. Quick! Eat it befor someone knows that you've read it! The blasphemous secrets lie heavy in your stomach, sometimes you burp, causing random unclean scroll effects to happen."
-      },
-      {
-        "rowNum": "10",
-        "tableItem": "The Book of The Keeper of The World"
       }
     ]
   },
