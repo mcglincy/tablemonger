@@ -7,7 +7,7 @@ category: Monsters & Miscreants
 4. A ragged, balding black parrot. It shrieks at the worst possible moments, and mimics the voices of dead loved ones.
 5. An insomniac tapir, as big as a bull, feasts on everybodys rations when they are not looking. Will charge if accused for d8 damage. Better be friendly to it... at least you never get nightmares when it's around.
 6. A two-headed crow. An especially good omen (Presence +2 while in your party). Pecks at your eyes.
-7. A **brain worm**, slip it into a zombie to get a zombie companion. Although, in that form, it might just talk shit about you in your presence constantly. Even made up stuff.
+7. A brain worm, slip it into a zombie to get a zombie companion. Although, in that form, it might just talk shit about you in your presence constantly. Even made up stuff.
 8. **Maggie the Maggot**. Counts as 1 Ration when eaten.
 9. 8 foot long tape worm living inside you. It can be extracted from your anus and can be used as a whip (d8) or a rope.
 10. **Inverted beaver**. Has the bones on the outside, then the flesh and organs, then the fur. When it openes its mouth, can be worn as a glove to punch stuff for d6 with its protruding bones. Is very sensitive though...
@@ -21,7 +21,7 @@ category: Monsters & Miscreants
 18. A particularly bothersome fly.
 19. Hungry wolves. You don't see them, except their glowing eyes in the distance when it's night.
 20. A nice, healthy looking rabbit, with a secret.
-21. A star-nosed mole that rides on you shoulder and  is constantly sticking it's tentacles in your ear.
+21. A star-nosed mole that rides on you shoulder and  is constantly sticking its tentacles in your ear.
 22. **Perkins the singing parrot**, theoretically sings songs but never gets past the warm-up.
 23. **Gubby**, your beloved cat! (Long dead, but nobody told you yet) If squeezed hard enough its guts and broken bones will shoot out and may deal d4 damage to something. The empty skin can be used to carry two normal sized items! Practical!
 24. The off-blue yabby, a strinking vibrant crayfish with pincing claws and droops of seaweed and slime hanging off. You can never remember what color it is after looking away from it. Certainly not blue, but what...
@@ -42,7 +42,7 @@ category: Monsters & Miscreants
 39. A chimera; half human and half dog. It only seems to be able to talk by saying its name, Edward.
 40. A regular salmon. How did it get behind you without water? Either way, it's suffocating now, better put it in a bowl quick...
 41. A cat-sized dung beetle, following you around... for reasons.
-42. You're not sure how that fleshy pink sack of organs and goo the started following you around keeps from piercing itself on every sharp branch and thorn, but it looks like it would burst with even the merest pin-prick.\nIf the thing suffers any piercing or cutting damage, everything and everyone near it is covered in a noxious smelling, thick, green-yellow goo.  The goo washes off, the stench never will.
+42. You're not sure how that fleshy pink sack of organs and goo that started following you around keeps from piercing itself on every sharp branch and thorn, but it looks like it would burst with even the merest pin-prick.\nIf the thing suffers any piercing or cutting damage, everything and everyone near it is covered in a noxious smelling, thick, green-yellow goo.  The goo washes off, the stench never will.
 43. One could be forgiven for overlooking your companions, but it’s not a mistake they will easily forget. They too will soon become familiar with the tell-tale scratches adorning your scalp, victims to your incessant infestation of fleas.
 44. A faithful **Frogdog**. Slimy body of a dog, head of a frog. \nIt snatches birds from the sky with its long sticky tongue. It pukes up the bones as dense pellets and seems very embarrassed every time this happens. Loves fetch, but getting anything unstuck from its tongue is a whole thing.
 45. A lump of granite, very well behaved.
@@ -50,7 +50,7 @@ category: Monsters & Miscreants
 47. An inconsolably weeping lump of granite. Its life seems very hard.
 48. Your shadow having gained conscience.
 49. Your teeth.
-50. Zombie panda, desperately wants hugs and willing to kill to get them.
+50. **Zombie panda**, desperately wants hugs and willing to kill to get them.
 51. An old nag, unwelcome by even death. You swear you can hear it whispering through its jutting, yellowed teeth, questioning every decision you make…
 52. The cutest kitten you'll ever see. Too bad you cannot pet it, the previous owner did just that.
 53. A goose. Your nights have been undisturbed excepting the occasional honk that has everyone jumping out of their skin at night (quite literally). Yet still, things have been disappearing from your equipment. Funny that.
@@ -70,34 +70,34 @@ category: Monsters & Miscreants
 67. A tree pangolin that carries a large dagger in it's prehensile tail.
 68. A unicorn-pony, well, uniarm. A pony with a human arm attached to its forehead. Fragile little thing, hates birds.
 69. A tiger-duck. It's a duck, but it has black and yellow stripes, no wings but four duck-legs. Does nothing except following you wherever you go.
-70. a toad that floats upside down alongside the party. will NOT go into dungeons, prefers to wait outside.
+70. A toad that floats upside down alongside the party. will NOT go into dungeons, prefers to wait outside.
 71. An ass. No, not that stubborn thing with ears and teeth. A human derrière rather. Flatulent and smelly. Its bounces making embarrassing  noises.
 72. You have a sentimental attachment to a small cricket with an unyielding death-wish. It attempts to die at every opportunity- hiding itself in your food, chirping during stealth attempts; it is a constant struggle to keep him alive.
 73. A lamb with seven eyes and seven horns, constantly bleeding from a wound that never closes. On its fur there are seven wax seals, one broken for each Misery that has occurred. It stinks of fish and wine. Should one eat it, they will get heavily drunk. The meat tastes like stale bread.
 74. A black owl that never leaves your shoulder and is constantly being judgmental at everything you do.
 75. A mouse, in full plate armor along with a Zweihänder (of its size).
 76. A penguin with human teeth. It wasn't born with human teeth, you installed them. And it hates you for it.
-77. a crayfish suspended in a vial of water. if it escapes the vial, the world ends.
+77. A crayfish suspended in a vial of water. if it escapes the vial, the world ends.
 78. **Esoteric Hound**.  Lean as hunger. Drools cosmic acid that faintly sputters on the ground. Has magical energy, but you can’t figure it out.
 79. A baby. Won't stop crying, what a burden.
 80. A porpoise with a purpose... but what?
 81. **Gorgoggin, the dancing maggot**. Its moves are limited, hard to follow, mostly vile... but really, what did you expect?
-82. a cow. pack it with your packs and equipment. for each bag stowed on it, roll a d20. on a 1, the cow has had enough and will trample you in your sleep.
+82. A cow. pack it with your packs and equipment. for each bag stowed on it, roll a d20. on a 1, the cow has had enough and will trample you in your sleep.
 83. **Stick**. Not even an animal, just a stick you picked up somewhere. Still, you've had worse friends.
 84. A four-headed snake. Two snakes at each end. You sort it out.
 85. A six-foot tall flightless bird that some have called "actually a man with tar and feathers fused to his flesh". You don't see a resemblance.
-86. Clack-Jaw: a rotting horse head.  Screams at inopportune times.
-87. A small Insect that keeps you company. prefers to sleep in your ear.
+86. **Clack-Jaw**: a rotting horse head.  Screams at inopportune times.
+87. A small insect that keeps you company. Prefers to sleep in your ear.
 88. A very furry tapir with 4 heads, three of them dead, dangling, rotting. The last head behaves like a happy dog that loves you. The dead heads awake everytime it goes to sleep, craving your flesh.
 89. A foule RATTE. The fiend makes an uproare moft unusual with bawdy jollities.
 90. **Anti-matter-hummingbird**. It feeds on blood, snot and all sorts of secretions. The droning sound of its wings and its black aura make it very unpleasant. Unless you love drone and darkness.
 91. A rat with a tiny backpack. It bites you if you try to see what's inside.
 92. Nothing, as far as you are aware. After d4 days, you notice a leech nestled snugly in your armpit. Roll a d20. On a 1 you are infected.
-93. A dogsized, hungry, furry, caterpillar. Eats a lot, purrs, and sheds hair that goes everywhere. I wonder what it will turn into.
+93. A dog-sized, hungry, furry caterpillar. Eats a lot, purrs, and sheds hair that goes everywhere. I wonder what it will turn into.
 94. An insane amount of spiders, living on your head, under your skin. They don't really hurt you. They will take over your body as soon as you are asleep, knocked out or dead... but won't kill you.
 95. A roiling mass of seal pups leaving a blubbery snail trail in its wake.
-96. A snail! if you let it out of your sight, horrible things begin to occur.
+96. A snail! If you let it out of your sight, horrible things begin to occur.
 97. **Unseen Ghost Cat**. Does everything a cat does, but invisibly.
 98. Fleas. All your clothes are itchy.
-99. A turtle, upon its shell is a small potion shop. problem is...you aren't quite sure what they do.  after drinking, roll on the occult herbmaster table to see the effects, good or bad.
+99. A turtle, upon its shell is a small potion shop. Problem is...you aren't quite sure what they do. After drinking, roll on the occult herbmaster table to see the effects, good or bad.
 100. **The Lord of Elysium**. An amalgum of dogs with six heads each of a different breed. It guards the gates to animal purgatory, the place where animal souls come to rest. When in your party, it can resurrect any dead animal.
