@@ -760,22 +760,6 @@
     ]
   },
   {
-    "name": "D2 Incredible Things People have Shouted in Praise of a Horse Named Bartholomew",
-    "category": "Monsters & Miscreants",
-    "subtitle": null,
-    "roll": "d2",
-    "entries": [
-      {
-        "rowNum": "1",
-        "tableItem": "[nothing]"
-      },
-      {
-        "rowNum": "2",
-        "tableItem": "[still nothing]"
-      }
-    ]
-  },
-  {
     "name": "D4 Creatures That Might Kill You in the Night in the Woods of Sarkash",
     "category": "Monsters & Miscreants",
     "subtitle": null,
@@ -1588,6 +1572,414 @@
       {
         "rowNum": "66",
         "tableItem": "\"No hope. No hope. NO HOPE. NO!  HOPE!\" They fall into a weeping, shrieking fit of rage. It is all they can say."
+      }
+    ]
+  },
+  {
+    "name": "D100 (Un)friendly Animal Companions",
+    "category": "Monsters & Miscreants",
+    "subtitle": null,
+    "roll": "d100",
+    "entries": [
+      {
+        "rowNum": "1",
+        "tableItem": "A freshly reanimated badger, bloated and seeping"
+      },
+      {
+        "rowNum": "2",
+        "tableItem": "**Furgkin Peasovshid** the frog, has super sticky feet and will cling on to a random PC. Will not move then. Looks like a turd that got thrown at you and didn't fall off. Gives extremely dumb advice. Calls you names.. and worse.. when you don't follow said advice. Remove with a knife against a Presence test or accidentally stab the person it is stuck to..."
+      },
+      {
+        "rowNum": "3",
+        "tableItem": "Marabou Stork with one eye dangling."
+      },
+      {
+        "rowNum": "4",
+        "tableItem": "A ragged, balding black parrot. It shrieks at the worst possible moments, and mimics the voices of dead loved ones."
+      },
+      {
+        "rowNum": "5",
+        "tableItem": "An insomniac Tapir, as big as a bull, feasts on everybodys rations when they are not looking. Will charge if accused for d8 damage. Better be friendly to it... at least you never get nightmares when it's around."
+      },
+      {
+        "rowNum": "6",
+        "tableItem": "A two-headed crow. An especially good omen (Presence +2 while in your party). Pecks at your eyes."
+      },
+      {
+        "rowNum": "7",
+        "tableItem": "A brain worm, slip it into a zombie to get a zombie companion. Although, in that form, it might just talk shit about you in your presence constantly. Even made up stuff."
+      },
+      {
+        "rowNum": "8",
+        "tableItem": "Maggie the Maggot. Counts as 1 Ration when eaten."
+      },
+      {
+        "rowNum": "9",
+        "tableItem": "8 foot long tape worm living inside you. It can be extracted from your anus and can be used as a whip (d8) or a rope."
+      },
+      {
+        "rowNum": "10",
+        "tableItem": "Inverted beaver. Has the bones on the outside, then the flesh and organs, then the fur. When it openes its mouth, can be worn as a glove to punch stuff for d6 with its protruding bones. Is very sensitive though..."
+      },
+      {
+        "rowNum": "11",
+        "tableItem": "Past members of the party, sewn together in centipede form, adds new pair of legs for each member who falls"
+      },
+      {
+        "rowNum": "12",
+        "tableItem": "A tarantula that constantly brings you dead birds as presents. (Out of order to add spoiler of image.)"
+      },
+      {
+        "rowNum": "13",
+        "tableItem": "Rat of nine tails, a rat king fused together of 9 white, blind, rats. Can be used as a d10 flail, but only once..."
+      },
+      {
+        "rowNum": "14",
+        "tableItem": "A dog with one blind scarred eye and three legs. It seems to have an affinity for you."
+      },
+      {
+        "rowNum": "15",
+        "tableItem": "A fat, brown toad with a pockmarked back. Looking into the holes, you can see squirming pale tadpoles with infantile human faces. During the night, they wail plaintively."
+      },
+      {
+        "rowNum": "16",
+        "tableItem": "An undead hand crawling along. It instinctively tries to choke you, but doesn't have the force to do so."
+      },
+      {
+        "rowNum": "17",
+        "tableItem": "Scratchy, Your childhood sackcloth cat with buttons for eyes, now rather worn. Still gives you comfort when you are sad, and, a rash."
+      },
+      {
+        "rowNum": "18",
+        "tableItem": "A particularly bothersome fly."
+      },
+      {
+        "rowNum": "19",
+        "tableItem": "Hungry wolves. You don't see them, except their glowing eyes in the distance when it's night."
+      },
+      {
+        "rowNum": "20",
+        "tableItem": "A nice, healthy looking rabbit, with a secret"
+      },
+      {
+        "rowNum": "21",
+        "tableItem": "A Star-Nosed Mole that rides on you shoulder and  is constantly sticking it's tentacles in your ear."
+      },
+      {
+        "rowNum": "22",
+        "tableItem": "**Perkins the singing parrot**, theoretically sings songs but never gets past the warm-up."
+      },
+      {
+        "rowNum": "23",
+        "tableItem": "**Gubby**, your beloved cat! (Long dead, but nobody told you yet) If squeezed hard enough its guts and broken bones will shoot out and may deal d4 damage to something. The empty skin can be used to carry two normal sized items! Practical!"
+      },
+      {
+        "rowNum": "24",
+        "tableItem": "The off-blue yabby, a strinking vibrant crayfish with pincing claws and droops of seaweed and slime hanging off. You can never remember what color it is after looking away from it. Certainly not blue, but what . . ."
+      },
+      {
+        "rowNum": "25",
+        "tableItem": "Tiny dog, on a leash, not trained at all, barks at everything. And if close enough... bites everything (1 damage). That leash has the same reach as a flail.. hmm..."
+      },
+      {
+        "rowNum": "26",
+        "tableItem": "Death-Metal-Armadillo, studded with sharp and long spikes all over, completely black. Jumps in ball form as soon as there is loud noise. Can only be fed with rotten meat. Sometimes growls like a much much much bigger beast."
+      },
+      {
+        "rowNum": "27",
+        "tableItem": "An urn full of wriggling worms, they make such a soothing sound when you put your ear up to it."
+      },
+      {
+        "rowNum": "28",
+        "tableItem": "A large speckled egg, who lives inside?"
+      },
+      {
+        "rowNum": "29",
+        "tableItem": "Babirusa whose teeth went all the way over the head and started pressing into the skull, into the brain. Has immense psychic energy. If stressed too much that energy will release in a psychic blast, d4+1 damage on a failed DR14 presence test. Everyone near it will have to roll, friend or foe. Otherwise a chill animal, will only live for 2d10 days though until exploding in a necro-psychic blast, Presence DR16, 2d6 damage."
+      },
+      {
+        "rowNum": "30",
+        "tableItem": "A black squirrel with a bald tail who likes to steal food out of your pack."
+      },
+      {
+        "rowNum": "31",
+        "tableItem": "A large crow with an octagonal lantern in its chest, light shining bright."
+      },
+      {
+        "rowNum": "32",
+        "tableItem": "An red-eyed albino squirrel with a very small package of music conservatory papers. Can play a tiny violin but each note brings a single tear out of listener's eyes in a jerking, violent motion"
+      },
+      {
+        "rowNum": "33",
+        "tableItem": "A jet black miniature horse. whenever anyone attempts to ride it, they mysteriously disappear in d4 days"
+      },
+      {
+        "rowNum": "34",
+        "tableItem": "Void. A disquieting reminder of what used to be. When you call for it, sometimes it answers. Each morning it leaves behind a gift."
+      },
+      {
+        "rowNum": "35",
+        "tableItem": "A sheep. You used to have two sheep with two horns each. Now you've got one and it somehow has four horns. It eats meat."
+      },
+      {
+        "rowNum": "36",
+        "tableItem": "An ant colony. It seems to smell the rations in your bag and wants it for food. Will not leave until rations are gone."
+      },
+      {
+        "rowNum": "37",
+        "tableItem": "**Missing badger**. You had one and it was a great companion, but now when you look for it it's gone and you have no idea why. To your left! There it is... but no, it is only a dead goblin."
+      },
+      {
+        "rowNum": "38",
+        "tableItem": "A giant rat followed by a parade of smaller rats. Squeeze it gently and it will allow you to make up a new rule omce every month."
+      },
+      {
+        "rowNum": "39",
+        "tableItem": "A chimera; half human and half dog. It only seems to be able to talk by saying it's name, Edward."
+      },
+      {
+        "rowNum": "40",
+        "tableItem": "A regular salmon. How did it get behind you without water? Either way, it's suffocating now, better put it in a bowl quick..."
+      },
+      {
+        "rowNum": "41",
+        "tableItem": "A cat-sized dung beetle, following you around... for reasons."
+      },
+      {
+        "rowNum": "42",
+        "tableItem": "You're not sure how that fleshy pink sack of organs and goo the started following you around keeps from piercing itself on every sharp branch and thorn, but it looks like it would burst with even the merest pin-prick."
+      },
+      {
+        "rowNum": "43",
+        "tableItem": "One could be forgiven for overlooking your companions, but it’s not a mistake they will easily forget. They too will soon become familiar with the tell-tale scratches adorning your scalp, victims to your incessant infestation of fleas."
+      },
+      {
+        "rowNum": "44",
+        "tableItem": "A faithful Frogdog. Slimy body of a dog, head of a frog."
+      },
+      {
+        "rowNum": "45",
+        "tableItem": "A lump of granite, very well behaved."
+      },
+      {
+        "rowNum": "46",
+        "tableItem": "A very unruly and not well behaving lump of granite."
+      },
+      {
+        "rowNum": "47",
+        "tableItem": "An inconsolably weeping lump of granite. Its life seems very hard."
+      },
+      {
+        "rowNum": "48",
+        "tableItem": "Your shadow having gained conscience."
+      },
+      {
+        "rowNum": "49",
+        "tableItem": "Your teeth."
+      },
+      {
+        "rowNum": "50",
+        "tableItem": "Zombie panda, desperately wants hugs and willing to kill to get them."
+      },
+      {
+        "rowNum": "51",
+        "tableItem": "An old nag, unwelcome by even death. You swear you can hear it whispering through its jutting, yellowed teeth, questioning every decision you make…"
+      },
+      {
+        "rowNum": "52",
+        "tableItem": "The cutest kitten you'll ever see. Too bad you cannot pet it, the previous owner did just that."
+      },
+      {
+        "rowNum": "53",
+        "tableItem": "A goose. Your nights have been undisturbed excepting the occasional honk that has everyone jumping out of their skin at night (quite literally). Yet still, things have been disappearing from your equipment. Funny that."
+      },
+      {
+        "rowNum": "54",
+        "tableItem": "A black cat with one eye. She loves rubbing up against your legs."
+      },
+      {
+        "rowNum": "55",
+        "tableItem": "A perfectly trained, normal pet. Does everything for you, loves you, just the perfect pet. Some ask silly stuff like \"what the fuck is that a naked human on a chain?!\" but that is only testing your love it seems."
+      },
+      {
+        "rowNum": "56",
+        "tableItem": "A swarm of flies having taken the shape of a human."
+      },
+      {
+        "rowNum": "57",
+        "tableItem": "A black and white tapir (malayan) with crazy muscles, always oily and radiates heat. It doesn't like to be touched and can bite through bone with one bite. Very good at smelling protein rich foods. I'm speaking maggots, mostly maggots."
+      },
+      {
+        "rowNum": "58",
+        "tableItem": "A common peasant…pheasant? Doesn’t matter, one of those things that tastes delicious when roasted over a roaring campfire."
+      },
+      {
+        "rowNum": "59",
+        "tableItem": "Some undead demon bat thing. You'd actually be much happier if it would leave you alone."
+      },
+      {
+        "rowNum": "60",
+        "tableItem": "a small fawn with antlers for eyes. sleeps standing up."
+      },
+      {
+        "rowNum": "61",
+        "tableItem": "**Fenris**: supposedly a wolf, but really just a mange-covered mutt to which someone has tied fake ears and an old feather-duster tail. The howl is a dead giveaway."
+      },
+      {
+        "rowNum": "62",
+        "tableItem": "A large, grey, and flaking cocoon. You have no idea what could possibly emerge..."
+      },
+      {
+        "rowNum": "63",
+        "tableItem": "The god-goat. Completely black, but has some white markings in the face. Screams like a tortured human from time to time, sometimes scaring off foes, sometimes luring them. Releases an unclean scroll's power once a day against whatever it is attacked by."
+      },
+      {
+        "rowNum": "64",
+        "tableItem": "A very lazy bear-bird-chimera, the brown bear is only active when angered. On its back sprouts the body of a blood red bird with large wings, can let the chimera fly short distances. This part of the chimera is ferocious, pecking at everything that comes close. This chimera does its own thing mostly, but as long as you can give it a bit of honey-embalmed meat, it stays close and friendly."
+      },
+      {
+        "rowNum": "65",
+        "tableItem": "A large but kindly dog."
+      },
+      {
+        "rowNum": "66",
+        "tableItem": "Most of the front half of a crocodile. Too stubborn to die. Bite does D8 damage, if anything is stupid enough to get between the jaws."
+      },
+      {
+        "rowNum": "67",
+        "tableItem": "A tree pangolin that carries a large dagger in it's prehensile tail"
+      },
+      {
+        "rowNum": "68",
+        "tableItem": "A unicorn-pony, well, uniarm. A pony with a human arm attached to its forehead. Fragile little thing, hates birds."
+      },
+      {
+        "rowNum": "69",
+        "tableItem": "A tiger-duck. It's a duck, but it has black and yellow stripes, no wings but four duck-legs. Does nothing except following you wherever you go."
+      },
+      {
+        "rowNum": "70",
+        "tableItem": "a toad that floats upside down alongside the party. will NOT go into dungeons, prefers to wait outside."
+      },
+      {
+        "rowNum": "71",
+        "tableItem": "An ass. No, not that stubborn thing with ears and teeth. A human derrière rather. Flatulent and smelly. Its bounces making embarrassing  noises."
+      },
+      {
+        "rowNum": "72",
+        "tableItem": "You have a sentimental attachment to a small cricket with an unyielding death-wish. It attempts to die at every opportunity- hiding itself in your food, chirping during stealth attempts; it is a constant struggle to keep him alive."
+      },
+      {
+        "rowNum": "73",
+        "tableItem": "A lamb with seven eyes and seven horns, constantly bleeding from a wound that never closes. On its fur there are seven wax seals, one broken for each Misery that has occurred. It stinks of fish and wine. Should one eat it, they will get heavily drunk. The meat tastes like stale bread."
+      },
+      {
+        "rowNum": "74",
+        "tableItem": "A black owl that never leaves your shoulder and is constantly being judgmental at everything you do."
+      },
+      {
+        "rowNum": "75",
+        "tableItem": "A mouse, in full plate armor along with a Zweihänder (of its size)"
+      },
+      {
+        "rowNum": "76",
+        "tableItem": "A penguin with human teeth. It wasn't born with human teeth, you installed them. And it hates you for it."
+      },
+      {
+        "rowNum": "77",
+        "tableItem": "a crayfish suspended in a vial of water. if it escapes the vial, the world ends."
+      },
+      {
+        "rowNum": "78",
+        "tableItem": "Esoteric Hound.  Lean as hunger. Drools cosmic acid that faintly sputters on the ground. Has magical energy, but you can’t figure it out."
+      },
+      {
+        "rowNum": "79",
+        "tableItem": "a baby. wont stop crying, what a burden."
+      },
+      {
+        "rowNum": "80",
+        "tableItem": "A porpoise with a purpose... but what?"
+      },
+      {
+        "rowNum": "81",
+        "tableItem": "**Gorgoggin, the dancing maggot**. Its moves are limited, hard to follow, mostly vile... but really, what did you expect?"
+      },
+      {
+        "rowNum": "82",
+        "tableItem": "a cow. pack it with your packs and equipment. for each bag stowed on it, roll a d20. on a 1, the cow has had enough and will trample you in your sleep."
+      },
+      {
+        "rowNum": "83",
+        "tableItem": "**Stick**. Not even an animal, just a stick you picked up somewhere. Still, you've had worse friends."
+      },
+      {
+        "rowNum": "84",
+        "tableItem": "A four headed snake. Two snakes at each end. You sort it out."
+      },
+      {
+        "rowNum": "85",
+        "tableItem": "A six-foot tall flightless bird that some have called \"actually a man with tar and feathers fused to his flesh\". You don't see a resemblance."
+      },
+      {
+        "rowNum": "86",
+        "tableItem": "Clack-Jaw: a rotting horse head.  Screams at inopportune times."
+      },
+      {
+        "rowNum": "87",
+        "tableItem": "A small Insect that keeps you company. prefers to sleep in your ear."
+      },
+      {
+        "rowNum": "88",
+        "tableItem": "a very furry tapir with 4 heads, three of them dead, dangling, rotting. The last head behaves like a happy dog that loves you. The dead heads awake everytime it goes to sleep, craving your flesh."
+      },
+      {
+        "rowNum": "89",
+        "tableItem": "A foule RATTE. The fiend makes an uproare moft unusual with bawdy jollities."
+      },
+      {
+        "rowNum": "90",
+        "tableItem": "Anti-matter-hummingbird. It feeds on blood, snot and all sorts of secretions. The droning sound of its wings and its black aura make it very unpleasant. Unless you love drone and darkness."
+      },
+      {
+        "rowNum": "91",
+        "tableItem": "A rat with a tiny backpack. It bites you if you try to see what's inside."
+      },
+      {
+        "rowNum": "92",
+        "tableItem": "Nothing, as far as you are aware. After d4 days, you notice a leech nestled snugly in your armpit. Roll a d20. On a 1 you are infected."
+      },
+      {
+        "rowNum": "93",
+        "tableItem": "A dogsized, hungry, furry, caterpillar. Eats a lot, purrs, and sheds hair that goes everywhere. I wonder what it will turn into."
+      },
+      {
+        "rowNum": "94",
+        "tableItem": "An insane amount of spiders, living on your head, under your skin. They don't really hurt you. They will take over your body as soon as you are asleep, knocked out or dead... but wont kill you"
+      },
+      {
+        "rowNum": "95",
+        "tableItem": "A roiling mass of seal pups leaving a blubbery snail trail in its wake."
+      },
+      {
+        "rowNum": "96",
+        "tableItem": "a snail! if you let it out of your sight, horrible things begin to occur."
+      },
+      {
+        "rowNum": "97",
+        "tableItem": "Unseen Ghost Cat. Does everything a cat does, but invisibly."
+      },
+      {
+        "rowNum": "98",
+        "tableItem": "Fleas. All your clothes are itchy."
+      },
+      {
+        "rowNum": "99",
+        "tableItem": "a turtle, upon its shell is a small potion shop. problem is...you aren't quite sure what they do.  after drinking, roll on the occult herbmaster table to see the effects, good or bad."
+      },
+      {
+        "rowNum": "100",
+        "tableItem": "**The Lord of Elysium**. An amalgum of dogs with six heads each of a different breed. It guards the gates to animal purgatory, the place where animal souls come to rest. When in your party, it can resurrect any dead animal."
       }
     ]
   },
@@ -3624,6 +4016,22 @@
     ]
   },
   {
+    "name": "D2 Incredible Things People have Shouted in Praise of a Horse Named Bartholomew",
+    "category": "Powers & Weirdness",
+    "subtitle": null,
+    "roll": "d2",
+    "entries": [
+      {
+        "rowNum": "1",
+        "tableItem": "[nothing]"
+      },
+      {
+        "rowNum": "2",
+        "tableItem": "[still nothing]"
+      }
+    ]
+  },
+  {
     "name": "D6 Eerily Heretical Rituals",
     "category": "Powers & Weirdness",
     "subtitle": null,
@@ -3652,6 +4060,38 @@
       {
         "rowNum": "6",
         "tableItem": "Remove the tongues of your living mother and father, and end their lives with iron. When the moon rises you can speak all dead languages, and the dead heed your words. When the next moon rises your words betray you in a tongue you do not understand."
+      }
+    ]
+  },
+  {
+    "name": "D6 Things Crawling Under Your Skin",
+    "category": "Powers & Weirdness",
+    "subtitle": null,
+    "roll": "d6",
+    "entries": [
+      {
+        "rowNum": "1",
+        "tableItem": "1,000 spiders with razor sharp needles for legs"
+      },
+      {
+        "rowNum": "2",
+        "tableItem": "A face that very much resembles your own, pressing against the skin."
+      },
+      {
+        "rowNum": "3",
+        "tableItem": "Larvae of the ear fly. Once entered your body through your ear, they now feed upon the layer beneath your skin, until ready to burst out as full grown ear flies again."
+      },
+      {
+        "rowNum": "4",
+        "tableItem": "Another layer of skin. And under that, another layer. And under that, another..."
+      },
+      {
+        "rowNum": "5",
+        "tableItem": "Something screaming."
+      },
+      {
+        "rowNum": "6",
+        "tableItem": "A cluster of tadpoles, growing"
       }
     ]
   },
