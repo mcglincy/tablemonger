@@ -1,9 +1,10 @@
 const converter = new showdown.Converter();
 
+
 const tablemongerReady = () => {
   // Hamburger Dance!
-  var $hamburger = $(".hamburger-helper");
-  $hamburger.on("click", hamburgerClick);
+  const hamburger = document.querySelector(".hamburger-helper");
+  hamburger.addEventListener("click", hamburgerClick);
 
   revealTables();
 
@@ -12,86 +13,75 @@ const tablemongerReady = () => {
     $(this).toggleClass("open");
     $(this).nextUntil(".toc-category").slideToggle();
   });
+  /*  
+  document.querySelector(".toc-category").addEventListener("click", (e) => {
+    // show-hide the category items
+    e.target.classList.toggle("open");
+    const catElems = nextUntil(e.target, ".toc-category");
+    catElems.forEach(elem => $(elem).slideToggle());
+  });
+  */
 
-  var windowWidth = $(window).width();
-  $(window).resize(function() {
-    if ($(window).width() != windowWidth) {
-      windowWidth = $(window).width();
+  let windowWidth = window.innerWidth;
+  window.addEventListener("resize", function() {
+    if (window.innerWidth != windowWidth) {
+      windowWidth = window.innerWidth;
       revealTables();
      };
    });
 
-  $(window).on('DOMContentLoaded load resize scroll', pointToChosen);
+  window.addEventListener('DOMContentLoaded load resize scroll', pointToChosen);
 
   // Table click handler
-  $(".click-item").on("click", tableClick);
+  document.querySelectorAll(".click-item").forEach(item => item.addEventListener("click", tableClick));
 
   // Randomizer click handler
-  $('.re-roll').on("click", clickRandomTable);
+  document.querySelector(".re-roll").addEventListener("click", clickRandomTable);
 
-  $('#tool-footer').on("click", rollTheDice);
+  document.querySelector('#tool-footer').addEventListener("click", rollTheDice);
 
-  $('.title').on('click', loadLandingContent);
-
-  // Waiting for full dice icons!
-  // generateDice();
+  document.querySelectorAll(".title").forEach(title => title.addEventListener("click", loadLandingContent));
 
   // Get table from params!
   selectTable();
 };
 
-const generateDice = () => {
-  $('.click-item').each(function(index) {
-    tableCount = $(this).data('roll');
-    var diceIcon;
-    if (tableCount == "d20") {
-      diceIcon = '<i class="fas fa-dice-d20 dice-icon"></i>'
-    } else if (tableCount == "2d6") {
-      diceIcon = `
-        <i class="fas fa-dice-d6 dice-icon"></i>
-        <i class="fas fa-dice-d6 dice-icon"></i>
-      `
-    };
-    $(this).prepend(diceIcon);
-  });
-};
-
 const hamburgerClick = (e) => {
   if ($("#toc").is(":visible")) {
     // Hide TOC
-    $('.hamburger-helper').removeClass('is-active')
-    $('#toc').hide();
-    $('#right-content').show();
-    $('#tool-footer').show();
-    $('#toc-show-icon').css("display","inline-block");
-    $('#toc-hide-icon').hide();
+    document.querySelector(".hamburger-helper").classList.remove("is-active");
+    document.querySelector("#toc").style.display = "none";
+    document.querySelector("#right-content").style.display = "";
+    document.querySelector("#tool-footer").style.display = "";
+    $("#toc-show-icon").css("display","inline-block");
+    document.querySelector("#toc-hide-icon").style.display = "none";
   } else {
     // Show TOC
-    $('.hamburger-helper').addClass('is-active')
-    $('#toc').show();
-    $('#tool-footer').hide();
-    $('#right-content').hide();
-    $('#toc-show-icon').hide();
+    document.querySelector(".hamburger-helper").classList.add("is-active");
+    document.querySelector("#toc").style.display = "";
+    document.querySelector("#tool-footer").style.display = "none";
+    document.querySelector("#right-content").style.display = "none";
+    document.querySelector("#toc-show-icon").style.display = "none";
     $('#toc-hide-icon').css("display","inline-block");
   };
 };
 
 const revealTables = () => {
   if (window.matchMedia('(min-width: 900px)').matches) {
-    $('#toc').show();
-    $('#table-content').show();
+    document.querySelector("#toc").style.display = "";
+    document.querySelector("#table-content").style.display = "";
   } else {
-    $('#toc').hide();
-    $('#table-content').show();
+    document.querySelector("#toc").style.display = "none";
+    document.querySelector("#table-content").style.display = "";
   }
 };
 
 const tableClick = (e) => {
-  $('#table-content').show();
-  $('#landing-copy').hide();
-  $('.toc-item').removeClass('current');
-  $(e.currentTarget).addClass('current');
-  $('#tool-footer').show();
+  document.querySelector("#table-content").style.display = "";
+  document.querySelector("#landing-copy").style.display = "none";
+  document.querySelectorAll(".toc-item").forEach(item => item.classList.remove("current"));
+  e.currentTarget.classList.add("current");
+  document.querySelector("#tool-footer").style.display = "";
   setUpForNewSingleTable(e);
   requestNewTableData(e);
 };
@@ -131,9 +121,9 @@ const tableItemsURL = (e) => {
 };
 
 const showSingleTable = (result) => {
-  const $tableBody = $('#table-body');
-  $tableBody.html('<div class=table></div>');
-  $table = $('.table');
+  const tableBody = $('#table-body');
+  tableBody.html('<div class=table></div>');
+  table = $('.table');
   // add rows for every table item
   $.each(result, (index, item) => {
     const rowDiv = $(`<div class='table-row'></div>`);
@@ -142,7 +132,7 @@ const showSingleTable = (result) => {
     const itemDiv = $("<div class='row-item'></div>");
     // Our table/json text is coming with "\n" characters, and ShowdownJS / simpleLineBreaks doesn't seem to handle it
     itemDiv.html(converter.makeHtml(item.tableItem).replaceAll("\\n", "<br/>"));
-    $table.append(rowDiv);
+    table.append(rowDiv);
     rowDiv.append(numDiv);
     rowDiv.append(itemDiv);
   });
@@ -155,9 +145,9 @@ const setTableParam = (tableName) => {
 };
 
 const dummySingleTable = () => {
-  const $tableBody = $("<div id='table-body'></div>")
-  $tableBody.html(one_table_row.repeat(20))
-  return $tableBody
+  const tableBody = $("<div id='table-body'></div>")
+  tableBody.html(one_table_row.repeat(20))
+  return tableBody
 };
 
 const one_table_row = `
@@ -187,8 +177,8 @@ const selectTable = () => {
 };
 
 const tableFromUrl = () => {
-  var queryString = window.location.search;
-  var urlParams = new URLSearchParams(queryString);
+  const queryString = window.location.search;
+  const urlParams = new URLSearchParams(queryString);
   return urlParams.get('tableName');
 };
 
@@ -209,7 +199,7 @@ const rollTheDice = () => {
     const chosenRow = randomRowIndex(numRows, priorIndex);
 
     $(this).find(".table-row").each(function(index){
-      var highlightDelay = highlightDelayPerItem({totalTime: totalTime, numRows: numRows, index: index});
+      const highlightDelay = highlightDelayPerItem({totalTime: totalTime, numRows: numRows, index: index});
       if (index == chosenRow) {
         setTimeout(function(that) {
           $(that).addClass('chosen');
@@ -228,18 +218,18 @@ const rollTheDice = () => {
 };
 
 const randomRowIndex = (numRows, priorIndex) => {
-  var newRandomIndex = Math.floor(Math.random() * numRows);
+  let newRandomIndex = Math.floor(Math.random() * numRows);
   while (newRandomIndex == priorIndex) {
     newRandomIndex = Math.floor(Math.random() * numRows);
   }
   return newRandomIndex;
 }
 
-const shakeyShakey = ($el) => {
-  $el.addClass('shaking')
-  setTimeout(function($el) {
-    $($el).removeClass('shaking')
-  }, 300, $el);
+const shakeyShakey = (el) => {
+  el.addClass('shaking')
+  setTimeout(function(el) {
+    $(el).removeClass('shaking')
+  }, 300, el);
 };
 
 const easeOut = (num) => {
@@ -253,11 +243,12 @@ const highlightDelayPerItem = ({totalTime = 200, numRows, index}) => {
 };
 
 const pointToChosen = () => {
-  $('.tool-pointer').hide();
-  var $chosen = $('.chosen');
+  // TODO: querySelector or querySelectorAll?
+  document.querySelector(".tool-pointer").style.display = "none";
+  const chosen = $('.chosen');
 
-  if ($chosen.length) {
-    var location = elementRelativeToViewport($chosen);
+  if (chosen.length) {
+    const location = elementRelativeToViewport(chosen);
 
     if (location == "below") {
       $("#arrow-down").css("display","inline-block");
@@ -272,7 +263,7 @@ const elementRelativeToViewport = (el) => {
     el = el[0];
   }
 
-  var rect = el.getBoundingClientRect();
+  const rect = el.getBoundingClientRect();
 
   if (rect.bottom >= (window.innerHeight || document.documentElement.clientHeight)) {
     return "below"
@@ -282,8 +273,9 @@ const elementRelativeToViewport = (el) => {
 };
 
 const clickRandomTable = () => {
-  const items = $('.click-item');
-  $(items[Math.floor(Math.random() * items.length)]).click()
+  const items = document.querySelectorAll(".click-item");
+  const randIndex = Math.floor(Math.random() * items.length);
+  items[randIndex].click()
 };
 
 const loadLandingContent = () => {
@@ -292,14 +284,14 @@ const loadLandingContent = () => {
   };
 
   document.title = "TABLEMÖNGER"
-  $('.hamburger-helper').removeClass('is-active');
-  $('#table-content').hide();
-  $("#tool-footer").hide();
-  $('#right-content').show();
-  $('#landing-copy').show();
+  document.querySelector(".hamburger-helper").classList.remove("is-active");
+  document.querySelector("#table-content").style.display = "none";
+  document.querySelector("#tool-footer").style.display = "none";
+  document.querySelector("#right-content").style.display = "";
+  document.querySelector("#landing-copy").style.display = "";
   if ($('.hamburger-helper').is(':visible')) {
-    $('#toc').hide();
+    document.querySelector("#toc").style.display = "none";
     $('#toc-show-icon').css("display","inline-block");
-    $('#toc-hide-icon').hide();
+    document.querySelector("#toc-hide-icon").style.display = "none";
   };
 };
