@@ -203,7 +203,6 @@ const tableClick = (e) => {
 };
 
 const setUpForNewSingleTable = (e) => {
-  // TODO: rip out jquery
   const tableName = e.currentTarget.dataset.tableName;
   setTableParam(tableName);
   const roll = e.currentTarget.dataset.roll;
