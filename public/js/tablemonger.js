@@ -50,15 +50,6 @@ const toggle = (elem) => {
   }
 };
 
-// TODO: reimplement jquery slideUp/Down xxxx
-const xSlideUp = (elem) => {
-  elem.style.display = "none";
-};
-
-const xSlideDown = (elem) => {
-  elem.style.display = "block";
-};
-
 // vanilla JS equivalent of jquery slideUp()
 // see https://w3bits.com/javascript-slidetoggle/
 const slideUp = (elem, duration=250) => {
