@@ -1,9 +1,71 @@
 const converter = new showdown.Converter();
 
-// vanilla JS equivalent of jquery $(foo).is(":visible")
+// vanilla JS equivalent of jquery is(":visible")
 const isVisible = (elem) => {
   return !!( elem.offsetWidth || elem.offsetHeight || elem.getClientRects().length );
   //&& window.getComputedStyle(elem).visibility !== "hidden"
+};
+
+// vanilla JS equivalent of jquery empty()
+const empty = (elem) => {
+  while(elem.firstChild) {
+    elem.removeChild(elem.firstChild);
+  }
+}
+
+// vanilla JS equivalent of jquery index()
+const getIndex = (elem) => {
+  if (!elem) return -1;
+  var i = 0;
+  do {
+    i++;
+  } while (elem = elem.previousElementSibling);
+  return i;
+}
+
+// vanilla JS equivalent of jquery nextUntil()
+const nextUntil = (elem, selector, filter) => {
+  const siblings = [];
+  elem = elem.nextElementSibling;
+  while (elem) {
+    if (elem.matches(selector)) {
+      break;
+    } 
+    if (filter && !elem.matches(filter)) {
+      elem = elem.nextElementSibling;
+      continue;
+    }
+    siblings.push(elem);
+    elem = elem.nextElementSibling;
+  }
+  return siblings;
+};
+
+// vanilla JS equivalent of jquery toggle()
+const toggle = (elem) => {
+  if (window.getComputedStyle(elem).display === 'block') {
+    elem.style.display = "none";
+  } else {
+    elem.style.display = "block";
+  }
+};
+
+// TODO: reimplement jquery slideUp/Down xxxx
+const slideUp = (elem) => {
+  elem.style.display = "none";
+};
+
+const slideDown = (elem) => {
+  elem.style.display = "block";
+};
+
+// vanilla JS equivalent of jquery slideToggle()
+const slideToggle = (elem) => {
+  if (window.getComputedStyle(elem).display === 'block') {
+    slideUp(elem);
+  } else {
+    slideDown(elem);
+  }
 };
 
 const tablemongerReady = () => {
@@ -17,9 +79,7 @@ const tablemongerReady = () => {
     elem.addEventListener("click", e => {
       // show-hide the category items
       elem.classList.toggle("open");
-      // TODO: rip out jquery
-      // maybe make cat items children of the cat-title div?
-      $(elem).nextUntil(".toc-category").slideToggle();
+      nextUntil(elem, ".toc-category").forEach(elem => slideToggle(elem));
     });
   });
 
@@ -133,23 +193,6 @@ const tableItemsURL = (e) => {
   return `/api/tableitems?name=${encodedTableName}`;
 };
 
-// vanilla JS equivalent of jquery empty()
-const empty = (elem) => {
-  while(elem.firstChild) {
-    elem.removeChild(elem.firstChild);
-  }
-}
-
-// vanilla JS equivalent of jquery index()
-const getIndex = (elem) => {
-  if (!elem) return -1;
-  var i = 0;
-  do {
-    i++;
-  } while (elem = elem.previousElementSibling);
-  return i;
-}
-
 const showSingleTable = (result) => {
   const tableBody = document.querySelector("#table-body");
   empty(tableBody);
@@ -198,18 +241,28 @@ const one_table_row = `
   </div>
 `;
 
+const previousCategoryItem = (elem) => {
+  while (elem = elem.previousElementSibling) {
+    if (!elem) {
+      return;
+    }
+    if (elem.classList.contains("toc-category")) {
+      return elem;
+    }
+  }
+};
+
 const selectTable = () => {
-  selectedTable = tableFromUrl();
-  // TODO: rip out jquery
-  const clickItem = $('.click-item').find('*').filter(function() {
-    return $(this).text() === selectedTable;
-  });
-  if (clickItem.length) {
-    // clickItem is the span (?), so we need to get a previous sibling of its parent div
-    const category = clickItem.parent().prevAll(".toc-category").first();
+  const selectedTableName = tableFromUrl();
+  const clickItem = document.querySelector(`.click-item[data-table-name="${selectedTableName}"]`)
+  if (clickItem) {
+    // open the category
+    const category = previousCategoryItem(clickItem);
+    if (category) {
+      category.classList.toggle("open");      
+    }
     // click() on category does a slide toggle, so just do a no-animation version here
-    category.toggleClass("open");
-    category.nextUntil(".toc-category").toggle();
+    nextUntil(category, ".toc-category").forEach(elem => toggle(elem));
 
     // click and load the table
     clickItem.click();
@@ -251,10 +304,11 @@ const rollTheDice = () => {
           that.classList.add("chosen");
           pointToChosen();
         }, highlightDelay, elem);
-        // if (!document.querySelectorAll(".subtable-wrapper").length) {
-        //   const position = {left: elem.offsetLeft, top: elem.offsetTop};
-        //   document.querySelector("body").scrollTo(position['top'] - 100, 200, 'swing');
-        // };
+        elem.scrollIntoView({ 
+          behavior: "smooth",
+          block: "center",
+          inline: "center" 
+        });
         return false;
       } else {
         setTimeout(function(that) {that.classList.add("chosen")}, highlightDelay, elem);
