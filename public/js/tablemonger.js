@@ -43,7 +43,7 @@ const nextUntil = (elem, selector, filter) => {
 
 // vanilla JS equivalent of jquery toggle()
 const toggle = (elem) => {
-  if (window.getComputedStyle(elem).display === 'block') {
+  if (window.getComputedStyle(elem).display === "block") {
     elem.style.display = "none";
   } else {
     elem.style.display = "block";
@@ -51,20 +51,81 @@ const toggle = (elem) => {
 };
 
 // TODO: reimplement jquery slideUp/Down xxxx
-const slideUp = (elem) => {
+const xSlideUp = (elem) => {
   elem.style.display = "none";
 };
 
-const slideDown = (elem) => {
+const xSlideDown = (elem) => {
   elem.style.display = "block";
 };
 
+// vanilla JS equivalent of jquery slideUp()
+// see https://w3bits.com/javascript-slidetoggle/
+const slideUp = (elem, duration=250) => {
+  elem.style.transitionProperty = "height, margin, padding";
+  elem.style.transitionDuration = duration + "ms";
+  elem.style.boxSizing = "border-box";
+  elem.style.height = elem.offsetHeight + "px";
+  elem.offsetHeight;
+  elem.style.overflow = "hidden";
+  elem.style.height = 0;
+  elem.style.paddingTop = 0;
+  elem.style.paddingBottom = 0;
+  elem.style.marginTop = 0;
+  elem.style.marginBottom = 0;
+  window.setTimeout(() => {
+    elem.style.display = "none";
+    elem.style.removeProperty("height");
+    elem.style.removeProperty("padding-top");
+    elem.style.removeProperty("padding-bottom");
+    elem.style.removeProperty("margin-top");
+    elem.style.removeProperty("margin-bottom");
+    elem.style.removeProperty("overflow");
+    elem.style.removeProperty("transition-duration");
+    elem.style.removeProperty("transition-property");
+  }, duration);
+};
+
+// vanilla JS equivalent of jquery slideDown()
+// see https://w3bits.com/javascript-slidetoggle/
+const slideDown = (elem, duration=250) => {
+  elem.style.removeProperty("display");
+  let display = window.getComputedStyle(elem).display;
+  if (display === "none") {
+    display = "block";
+  }
+  elem.style.display = display;
+  const height = elem.offsetHeight;
+  elem.style.overflow = "hidden";
+  elem.style.height = 0;
+  elem.style.paddingTop = 0;
+  elem.style.paddingBottom = 0;
+  elem.style.marginTop = 0;
+  elem.style.marginBottom = 0;
+  elem.offsetHeight;
+  elem.style.boxSizing = "border-box";
+  elem.style.transitionProperty = "height, margin, padding";
+  elem.style.transitionDuration = duration + "ms";
+  elem.style.height = height + "px";
+  elem.style.removeProperty("padding-top");
+  elem.style.removeProperty("padding-bottom");
+  elem.style.removeProperty("margin-top");
+  elem.style.removeProperty("margin-bottom");
+  window.setTimeout(() => {
+    elem.style.removeProperty("height");
+    elem.style.removeProperty("overflow");
+    elem.style.removeProperty("transition-duration");
+    elem.style.removeProperty("transition-property");
+  }, duration);
+};
+
 // vanilla JS equivalent of jquery slideToggle()
-const slideToggle = (elem) => {
-  if (window.getComputedStyle(elem).display === 'block') {
-    slideUp(elem);
+// see https://w3bits.com/javascript-slidetoggle/
+const slideToggle = (elem, duration=250) => {
+  if (window.getComputedStyle(elem).display === "block") {
+    slideUp(elem, duration);
   } else {
-    slideDown(elem);
+    slideDown(elem, duration);
   }
 };
 
@@ -91,10 +152,10 @@ const tablemongerReady = () => {
     };
   });
 
-  window.addEventListener('DOMContentLoaded', pointToChosen);
-  window.addEventListener('load', pointToChosen);
-  window.addEventListener('resize', pointToChosen);
-  window.addEventListener('scroll', pointToChosen);
+  window.addEventListener("DOMContentLoaded", pointToChosen);
+  window.addEventListener("load", pointToChosen);
+  window.addEventListener("resize", pointToChosen);
+  window.addEventListener("scroll", pointToChosen);
 
   // Table click handler
   document.querySelectorAll(".click-item").forEach(item => item.addEventListener("click", tableClick));
@@ -102,7 +163,7 @@ const tablemongerReady = () => {
   // Randomizer click handler
   document.querySelector(".re-roll").addEventListener("click", clickRandomTable);
 
-  document.querySelector('#tool-footer').addEventListener("click", rollTheDice);
+  document.querySelector("#tool-footer").addEventListener("click", rollTheDice);
 
   document.querySelectorAll(".title").forEach(title => title.addEventListener("click", loadLandingContent));
 
@@ -131,7 +192,7 @@ const hamburgerClick = (e) => {
 };
 
 const revealTables = () => {
-  if (window.matchMedia('(min-width: 900px)').matches) {
+  if (window.matchMedia("(min-width: 900px)").matches) {
     document.querySelector("#toc").style.display = "block";
     document.querySelector("#table-content").style.display = "block";
   } else {
@@ -272,7 +333,7 @@ const selectTable = () => {
 const tableFromUrl = () => {
   const queryString = window.location.search;
   const urlParams = new URLSearchParams(queryString);
-  return urlParams.get('tableName');
+  return urlParams.get("tableName");
 };
 
 const rollTheDice = () => {
