@@ -5600,6 +5600,38 @@
     ]
   },
   {
+    "name": "D6 Masks",
+    "category": "Treasures & Trinkets",
+    "subtitle": "How They Look and What They Do to You",
+    "roll": "d6",
+    "entries": [
+      {
+        "rowNum": "1",
+        "tableItem": "Leather mask that you pull over your head, shaped like an actual heart. Makes your teeth very soft and rubbery, your tounge super sticky. Health potions give +1 extra health, poisons deal +1 extra damage"
+      },
+      {
+        "rowNum": "2",
+        "tableItem": "**Boogieman** A terrifying mask that scares off children and makes the enemy do a moral check as soon as they see it.\\nWhen in the dark and not on someone the mask takes on a life of its own. Creating a humanoid monstrous body out of the darkness, grows larger and more dangerous the more people who are scared of it. When light is shone on it it returns to being a regular mask."
+      },
+      {
+        "rowNum": "3",
+        "tableItem": "**Woodland sprite** The mask is made of wood, the front still has bark and two holes for the eyes and one hollowed branch stump where the mouth would be. Otherwise very featureless. When this mask gets near your face it will latch on and your body will change, causing you immense pain. Your whole body will then be made of wood. To get this mask off and change back you will need to get a saw and someone to help cutting your new face off."
+      },
+      {
+        "rowNum": "4",
+        "tableItem": "**El Santo** Silver cloth mask with tear-shaped holes for the eyes and oblong shaped holes for nose and mouth. Gives +1 to Strength and Toughness and +2 to Presence. If demasked, lose all your money and decrease your abilities permanently by d4."
+      },
+      {
+        "rowNum": "5",
+        "tableItem": "**Mask of Magnaminity** It burns, it burns! Your breath will taste like spearmint. The moisture will be sucked out of your skin. +1 to Presence. If you leave it on for longer than 15 minutes, you suffer -1 to Strength."
+      },
+      {
+        "rowNum": "6",
+        "tableItem": "**The Mask of Heroics** A mask built by a kind hearted man in a land of torment and villainy. The mask is made of oak with silver plating covering the wood. The appearance is that of a stoic emotionless sentinel. The mask increases two attributes of your choosing by +1 and makes you incapable of being terrified, scared or sad. If the mask is removed your face is horrifically burned and the effects are removed. If you have worn the mask before and removed it you may never wear it again."
+      }
+    ]
+  },
+  {
     "name": "D7 Unusual Dice Found in Hidden Lock-Boxes",
     "category": "Treasures & Trinkets",
     "subtitle": null,
