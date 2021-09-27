@@ -38,15 +38,15 @@ def parse_file(infile):
           subtitle = line.split(": ")[1]
         elif regex_match := re.search(REGEX, line):
           entries.append({"rowNum": regex_match[1], "tableItem": regex_match[2]})
-    table = {
-      "name": first_line,
-      #"category": rollForNum(len(entries)),
-      "category": category,
-      "subtitle": subtitle,
-      "roll": rollForNum(len(entries)),
-      "entries": entries
-    }
-    tables.append(table)
+    if entries:
+      table = {
+        "name": first_line,
+        "category": category,
+        "subtitle": subtitle,
+        "roll": rollForNum(len(entries)),
+        "entries": entries
+      }
+      tables.append(table)
 
 for infile in glob.glob("*.txt"):
   parse_file(infile)

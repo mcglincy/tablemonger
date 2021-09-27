@@ -4852,6 +4852,54 @@
     ]
   },
   {
+    "name": "D4 Strange Alcoholic Beverages",
+    "category": "The Dying World",
+    "subtitle": null,
+    "roll": "d4",
+    "entries": [
+      {
+        "rowNum": "1",
+        "tableItem": "**Piss Wine**: A bright yellow wine which tastes of soured socks and piss. But after drinking two of these beverages the average human is blackout drunk."
+      },
+      {
+        "rowNum": "2",
+        "tableItem": "**Ambrosia** Tastes like the sweetest most exotic fruits."
+      },
+      {
+        "rowNum": "3",
+        "tableItem": "**Goblin Goblet**. It's a party thing, you take a freshly cut goblin head, let it bleed out a little, place it upside down, plug nostrils. Then pour beverage or left overs of choice in the neck opening until full. Let it sit for a week. Stab out an eye and poke the opening until the mix pours out. Enjoy!"
+      },
+      {
+        "rowNum": "4",
+        "tableItem": "**Anthelia's Ice** A liquor that freezeburns your throat."
+      }
+    ]
+  },
+  {
+    "name": "D4 Ways to Tell You're from Grift Without Saying You're from Grift",
+    "category": "The Dying World",
+    "subtitle": null,
+    "roll": "d4",
+    "entries": [
+      {
+        "rowNum": "1",
+        "tableItem": "You are wary of cliffs and have a severe case of vertigo."
+      },
+      {
+        "rowNum": "2",
+        "tableItem": "Your roof has caved in, rain dripping in constantly."
+      },
+      {
+        "rowNum": "3",
+        "tableItem": "You cough up gull feathers with worrying frequency."
+      },
+      {
+        "rowNum": "4",
+        "tableItem": "You love smelling on very salty things and places (unless you are near the sea). It reminds you of \"home\"."
+      }
+    ]
+  },
+  {
     "name": "D6 Deeds to a Duchy",
     "category": "The Dying World",
     "subtitle": "Deeds to a Duchy (2000s). Become a certified noble overnight. Roll d6 after buying:",
@@ -6424,6 +6472,158 @@
       {
         "rowNum": "20",
         "tableItem": "**Slickthroat**. A cloudy, dark pink fluid advertised as a cure for sore throat or coughs. Causes a long, sluglike organism with grasping infantile hands to force its way out of your mouth every time you open it for d6 hours. The GUTSLUG is slow but dangerous (2 HP / MOR - / 0 ARMOR / Grasp d4 (the corrosive stomach acid ignores armor). / Slow, -2 DR to defend). Does actually eliminate sore throats and coughs (if only through the fluid the slugs secrete)."
+      }
+    ]
+  },
+  {
+    "name": "D66 Instruments and How to Weaponize Them!",
+    "category": "Treasures & Trinkets",
+    "subtitle": null,
+    "roll": "d66",
+    "entries": [
+      {
+        "rowNum": "11",
+        "tableItem": "**Bagpipes** - characters without proper training can play these to cause d4 psychic damage"
+      },
+      {
+        "rowNum": "12",
+        "tableItem": "**Stabflute**; a flute to stab people with. Stick it in a foe an they will bleed out of the flute 13. A bitter-tasting horn. Only capable of producing the brown tone. Test Presence DR14 or shit your heart out."
+      },
+      {
+        "rowNum": "13",
+        "tableItem": "A bitter-tasting horn. Only capable of producing the brown tone. Test Presence DR14 or shit your heart out."
+      },
+      {
+        "rowNum": "14",
+        "tableItem": "A banjo. Literally just a banjo."
+      },
+      {
+        "rowNum": "15",
+        "tableItem": "**Knucklebone Rainstick**; when used roll 1d4.\\n1-2 - it rains, indoors and out. \\n3 - hailstones pelt all nearby creatures. \\n4 - a micro drought occurs in the surrounding area, all moisture is evaporated and your rations dry to a rock solid state."
+      },
+      {
+        "rowNum": "16",
+        "tableItem": "A lyre with metal strings, can be used as a grater. Or just hit someone for d4 damage, and if you miss by only 1 or 2 you will peel some skin off and still do 1 damage. But fumble on 1-3 to cut one finger off of one of your hands"
+      },
+      {
+        "rowNum": "21",
+        "tableItem": "A recorder. Music played on this instrument bears no resemblance to the original song, and leaves listeners confused.  Those affected have difficulty telling friend from foe, and even understanding basic conversation."
+      },
+      {
+        "rowNum": "22",
+        "tableItem": "**Ocarina**. When you play this tiny clay flute, it sounds like an owl, rodents and small birds will flee by the sounds, also d8:\\n1-2. You accidentally summon an Owlatrice, its big and hangry\\n3-6. Nothing.\\n7. A big owl appears, dropping a hint on what the group could do next or a hint on a puzzle, while sounding like a wise-ass, then leaves\\n8. The Uhuzz sweeps down to help you. Its an owl as big as a dog, with talons for d6 damage and 7 HP"
+      },
+      {
+        "rowNum": "23",
+        "tableItem": "There's nothing more emotionally damaging than a well-timed slide whistle. Before any attack, you may use the slide whistle to double the chance of a fumble and crit (fumble on 1 or 2, crit on 19 or 20). If neither occurs, you must succeed on a DR12 Presence test or be embarrassed yourself, suffering -2 on Presence tests for 1d4 rounds."
+      },
+      {
+        "rowNum": "24",
+        "tableItem": "A magical mouth harp. Roll a d4 when you play it\\n1. your head starts vibrating, you feel dizzy for 2d6 rounds and Presence tests get -2 for the next hour\\n2-3. everything metal starts vibrating, attacking with a metal weapon gets more difficult, test -2. Metal armor is also effected, defending Agility gets -2. Lasts 2d6 rounds\\n4. the mouth harp vibrates and a pulse of high pressure throws everybody to the ground (except the mouth harp player) against a DR 14 Strength test"
+      },
+      {
+        "rowNum": "25",
+        "tableItem": "**Coffin-shaped cajon**. Not that small. It tries to kill everything that gets inside it. If you manage to catch a small enemy in this thing it will suffer d8 damage per round it is trapped"
+      },
+      {
+        "rowNum": "26",
+        "tableItem": "**Tantrum trumpet**. Everybody hearing the trumpet (including the character playing it) must make a DC 14 presence test or fall into a blind rage, attacking everything around them for 1d20 rounds or until everybody is slain. Employing ear stoppers grants a +6 bonus to the presence test, but deafens you. Ear stoppers are hard to remove in combat. Sounds like a vuvuzela."
+      },
+      {
+        "rowNum": "31",
+        "tableItem": "**Dark Axe of the Crazed Lord Fanken** A bladed and elongated lute crafted from the horns, nails, teeth, and bones willingly give to him by 666 demon lord's, Fanken painted it with his own blood while bleeding out from his planned self inflicted disembowelment. His retched soul haunts the instrument. D10 damage when swung like an axe, -2 DR when using scrolls, may spend 2 powers to cast a random arcane catastrophe on an enemy. It not drenched in the blood of someone willing(d2 damage), it will stealthily drain it's owner of blood in their sleep, causing d6+1 damage."
+      },
+      {
+        "rowNum": "32",
+        "tableItem": "**The Nechru-bell** A single ring from one of these accursed bells heralds doom. All creatures that hear its haunting tone must make a DR14 Presence test or be filled with terror. Terrified creatures make all tests not related to fleeing or hiding with a -2 penalty. The effect lasts 1d4 hours."
+      },
+      {
+        "rowNum": "33",
+        "tableItem": "A demon-goat skull on a stick, it is filled with finger bones of children. It's a rattle, maraca if you want, just big. Big enough to do d6 damage."
+      },
+      {
+        "rowNum": "34",
+        "tableItem": "Your thick brass helmet comes with a wooden mallet thing. You can take that helmet off and use it as a singing bowl. The drone sound will drive creatures with good hearing or big heads especially mad. Test Presence DR8 to no go mad if you have average hearing or a human sized head. Others test DR14. On a fumble the head will explode. On a crit the one rolling the crit will be so annoyed that they immediately try to strike the one playing the bowl."
+      },
+      {
+        "rowNum": "35",
+        "tableItem": "A flute you can shoot blow-darts with, sounds horrible."
+      },
+      {
+        "rowNum": "36",
+        "tableItem": "**Cymbals**. Strapped to the hand with insanely sharp edges. Can be used as katar-like weapons. Smash them together to get all the attention! Choose to attack with them or use them as shields, you coward! Can rarely reflect a spell. But attracts lightning spells and electricity..."
+      },
+      {
+        "rowNum": "41",
+        "tableItem": "**Trombone of the Bloodless Necromancer** - Play it to pump the blood out of the ones that hear it. They must be in front of you, the ones beside you or behind you are just annoyed by the wailing sound of the trumpeting dead. When you play this ungodly thing, victims test Toughness DR 14 or their blood (if they have some) will leave them through the pores in the skin and get sucked in the Trombone. D10 damage. If you suck in 4 or more HP worth of blood in one go (if you can't handle drinking blood), you will stop everything and fall to the ground vomiting. Unable to do anything for d3 rounds."
+      },
+      {
+        "rowNum": "42",
+        "tableItem": "**Tuba of Temptations**: This oversized and gleaming Tuba wails it’s drone of other worldly compulsions forcing all that hear its dreadful tune to indulge in the sweetest temptation of cannibalism."
+      },
+      {
+        "rowNum": "43",
+        "tableItem": "**Snare Snare**: When the Snare Snare is played listeners feel as their muscles and ligaments tense up until they are frozen in place. Continuing to play the Snare Snare will eventually result in the entire body freezing up eventually freezing the heart in 6 turns."
+      },
+      {
+        "rowNum": "44",
+        "tableItem": "**HARMonica**: Playing the HARMonica will steal one year of life from the player through their breath but the listeners will go immediately and permanently deaf."
+      },
+      {
+        "rowNum": "45",
+        "tableItem": "**The metal Bullroarer**: The hiltless blade of a short sword attached to a sturdy string, spin it real fast to make a sound that will frighten everyone (roll Morale). But careful, you might call wretched beasts from their slumber... or just hit people with it for d6 damage."
+      },
+      {
+        "rowNum": "46",
+        "tableItem": "**Didgeridoom**: It is an unassuming didgeridoo that, when played, causes the Misery die to be rolled (no more frequently than once an hour)."
+      },
+      {
+        "rowNum": "51",
+        "tableItem": "**Donga Donga**: A large oak stump with a hollowed out staff propped up beside it when struck it makes a “Donga” sound if the stump is hit 3 times a blind angry badger crawls out and attacks everyone around the stump."
+      },
+      {
+        "rowNum": "52",
+        "tableItem": "**Bladder Blorm**: A Bladder Blorm is a large leather sack filled with acid with a long copper tube connected to the Bladder Blorm. When the sack is squeezed it shoots acid forward out of the copper tube and makes a splurgt noise. The acid does 1d4 damage. Must be refilled every 10 squeezes."
+      },
+      {
+        "rowNum": "53",
+        "tableItem": "**The Screaming Lord’s Flesh Drum**: A large drum with human flesh wrapped tightly around it. With each hit upon the flesh drum a scream can be heard in the distance with every additional hit causing the screaming to get closer. After 1d20 hits a screaming skeleton will begin to attack everyone around the drummer while yelling at them to continue. They must continue drumming for 1d20 hours or they will be flayed and stitched to the drum."
+      },
+      {
+        "rowNum": "54",
+        "tableItem": "**Bassoon of Boom** - Bassoon reinforced with iron and bone, can be loaded with gunpowder&shot to function as a d10 arquebus. (See BLACKPOWDER WEAPONS FOR THE RICH AND FOOLHARDY)"
+      },
+      {
+        "rowNum": "55",
+        "tableItem": "**Harmonimask** A metal mask, once strapped to your face will cost you pain and blood to remove it. In the mouth part is a harmonica. Hiding and sneaking is impossible, and once you are under stress they will all hear your shrill wheezing, but it gives you valor. Like a mantra it sharpens your focus, during stress situations tests become +2 easier. You can also head butt with this spiked metal mask for d4 damage!"
+      },
+      {
+        "rowNum": "56",
+        "tableItem": "**Bellow Cello**: loose strings, capable of launching arrows or javelins. Crit is especially moving: an ineffable mournful tone, the very air set a'trembling, 50% change of disemboweling target."
+      },
+      {
+        "rowNum": "61",
+        "tableItem": "**Plague Pipe**: When playing the pipe a foul smoke slowly drifts from the player. Everyone including the player who breathes in this foul smoke is immediately infected with one of the (1d4) plagues below.\\n•Bubonic Plague\\n•Bird Flu\\n•Mad Cow Disease\\n•Measles"
+      },
+      {
+        "rowNum": "62",
+        "tableItem": "**Death whistle** Small skull shaped whistle that’s attached to a thin frayed black string. When blown it produces a sound reminiscent of multiple screams. Everyone nearby has to make a DC 14 presence check or face a -1d4 modifier on all attack rolls."
+      },
+      {
+        "rowNum": "63",
+        "tableItem": "**Harpsichord** Play the strings to make enemy weep in its beauty."
+      },
+      {
+        "rowNum": "64",
+        "tableItem": "**Dark Depth Drum**: Every time the player beats the drum the people in a 5 ft radius around them sink 2 feet into the soil until they are completely consumed."
+      },
+      {
+        "rowNum": "65",
+        "tableItem": "**Horn of Heavenly Retribution**: When the horn is played a spear from the heavens flies down and has a 1d20 chance to impale the target."
+      },
+      {
+        "rowNum": "66",
+        "tableItem": "**The Trombone of Tremors**: When playing this trombone earthquakes rattle anyone in a 50ft radius of the player."
       }
     ]
   }
