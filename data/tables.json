@@ -128,6 +128,62 @@
     ]
   },
   {
+    "name": "D12 Stinging Philosophical Questions Your Forlorn Philosopher is Struggling With",
+    "category": "Lost Souls All",
+    "subtitle": null,
+    "roll": "d12",
+    "entries": [
+      {
+        "rowNum": "1",
+        "tableItem": "Is there inherent order in nature or is it all chaos and chance? Is our life planned out for us, or is every action like a freshly thrown die? Can we escape from all this? Should I kill myself?"
+      },
+      {
+        "rowNum": "2",
+        "tableItem": "Why am I scared? Isn’t this truly nature and isn’t my part to be consumed by nature like I consume it? Why should I be afraid?"
+      },
+      {
+        "rowNum": "3",
+        "tableItem": "If the phenomenology of the world is so absurd, why even confront life? But killing ourselves is yet more confronting the absurd..."
+      },
+      {
+        "rowNum": "4",
+        "tableItem": "Why do the people hate me so much? I'm always right so they should like me"
+      },
+      {
+        "rowNum": "5",
+        "tableItem": "If the Basilisks had never discovered Schleger's tomb, would the prophecies have still come to pass?"
+      },
+      {
+        "rowNum": "6",
+        "tableItem": "As the great (but fortunately long dead) Schleswigian philosopher K'Aaaaaantt posited, the questions that answer \"all the interest of my reason\" are: What can we know? What must I do? What can I hope? This is of course completely wrong. The question proper of our times is naturally: What the fuck?"
+      },
+      {
+        "rowNum": "7",
+        "tableItem": " If a piece of wax, freshly taken from the hive, still retaining some of the sweetness of the honey which it contains and odour of the flowers from which it stems, its colour, figure and size apparent (hard, cold, easily handled, emitting sounds when struck) can be considered a body by all the things in it requisite to recognise it as such, and if I hold this piece of wax to the fire, seeing its sweetness and odour subside, its colour fade and its form melting, will I still hold the same piece of wax in my hand?"
+      },
+      {
+        "rowNum": "8",
+        "tableItem": "If my language is the limit to my world, what would happen if someone cut off my tongue?"
+      },
+      {
+        "rowNum": "9",
+        "tableItem": "If the way of the world is balance, is there a shadow world of non-Scum on the other side?"
+      },
+      {
+        "rowNum": "10",
+        "tableItem": "Galgenbeckian philosopher H'Zarl claims that to identify the basic components of phenomena we need to engage in eidetic reduction, that is to change the characteristics of a thing to differentiate accidental from essential qualities. If I take off my arm and remain the same does that mean that my limbs only have accidental qualities?"
+      },
+      {
+        "rowNum": "11",
+        "tableItem": "If we take the entire gamut as an enigma and see the cyborg as a combination of technicity and natureculture, we therefore must be part of the constituency or assemblage of life"
+      },
+      {
+        "rowNum": "12",
+        "tableItem": "What do my dreams mean?"
+      }
+    ]
+  },
+  {
     "name": "D20 Descriptions of a New PC Instantly Arriving In-Game",
     "category": "Lost Souls All",
     "subtitle": null,
@@ -988,6 +1044,70 @@
       {
         "rowNum": "6",
         "tableItem": "**Mock Basilisk**.\\n Some say it's no more than an insane and mutated noble, others say it's a prophet of the twin-headed basilisk. The Mock Basilisk is in reality a bit of both.\\n\\n Horribly disfigured, a two-headed human noble carried around in a palanquin held up by 4 zealous cultists. Wherever he goes, he spews pure madness from his mouth.\\n\\n **HP** 7, **Morale** -, Light Armour.\\n\\n **Faithful Servants**: The wretched seer is protected by 4 zealous cultists. If the Mock Basilisk ever takes a hit and there are cultists still alive, they may intervene and take the damage instead. They have HP 5 and attack with swords (D6 damage).\\n\\n **Unintelligible Preaching**: There is a constant flow of noise from one of the two heads. All that can hear the Mock Basilisk make tests to use powers at DR 16.\\n\\n **Lazy**: When in the palanquin without guards, the Mock Basilisk is little more than a wretch. One may even take pity on the poor creature. DR 10 to attack the prophet when the 4 cultists are killed."
+      }
+    ]
+  },
+  {
+    "name": "D6 Corrupted Pets",
+    "category": "Monsters & Miscreants",
+    "subtitle": null,
+    "roll": "d6",
+    "entries": [
+      {
+        "rowNum": "1",
+        "tableItem": "An undead rat, sewn in half by a rather cruel child. The two sides are best friends."
+      },
+      {
+        "rowNum": "2",
+        "tableItem": "Constantly barfing rabbit. It doesn't eat, it doesn't drink, but it follows you and barfs in a constant stream."
+      },
+      {
+        "rowNum": "3",
+        "tableItem": "A bird. It's feathers are ragged and torn but still takes flight on its seven wings. It brings back each day glittering coins, metallic disks  and shiny plates but sometimes, it returns to you mementos from your nightmares and terrible past."
+      },
+      {
+        "rowNum": "4",
+        "tableItem": "A giant invisible rat. It's here somewhere. It seems to make all of the rules."
+      },
+      {
+        "rowNum": "5",
+        "tableItem": "Monkey butler. A small monkey wearing the ragged and stained uniform of a butler. Eats only meat. Can be used each day for 1d4 menial tasks. Will go into a frenzy if left unfed."
+      },
+      {
+        "rowNum": "6",
+        "tableItem": "A frog that sings hymns praising unholy gods."
+      }
+    ]
+  },
+  {
+    "name": "D6 Predatory Insects",
+    "category": "Monsters & Miscreants",
+    "subtitle": null,
+    "roll": "d6",
+    "entries": [
+      {
+        "rowNum": "1",
+        "tableItem": "**Ceiling Dropion**. Hiding in a crack in the ceiling, leaving black foliage like dangly things hang out of it's hidey hole. As soon as someone is under it or touches its dangly bits, it will drop down with its huge mandibles first."
+      },
+      {
+        "rowNum": "2",
+        "tableItem": "**Facial Mites**. Those little bugs in your follicles aren't so little anymore, and that's not just a skin rash developed from dungeon diving. Presence DR16 to detect before it's too late. They crawl out of your face skin before trying to eat the scraps. D4 damage and permanent scars to the face. Strength DR4 to get them off before they start work on the few features still intact. They'll take out an eyeball on a failed strength check."
+      },
+      {
+        "rowNum": "3",
+        "tableItem": "**Eardevil**. A small and strange bug that coasts upon the winds. Make 1 DR 14 presence check or it crawls into your ear. After 1d4 days it has cocooned and now has influence over your mind.  You are now plagued with thoughts of shoving rotten fruits into your ear-maw, and killing every bird you see."
+      },
+      {
+        "rowNum": "4",
+        "tableItem": "**Carpetpillar**. Yes, that rug has been moved recently. You may not notice how recently until you wake up having been rolled up in it, with its stinging cilia threads and knotty pincers working their way into your skin (1d4 poison damage each round). Strength check to work your way free before it's too late and your innards become part of the carpetpillar's \"exotic\" pattern splatted across its soft imitation-pile carapace."
+      },
+      {
+        "rowNum": "5",
+        "tableItem": "**Scissor King**. A dog sized beetle that doesn’t hunt for prey so much as it runs it down. Flightless but deceptively fast; will catch man sized creatures between its two serrated jaws and snap them in half with enough force to crush rocks — or bones — to powder."
+      },
+      {
+        "rowNum": "6",
+        "tableItem": "**Exoteric Hermit Crab**. A crab looking insect living inside fresh corpses. Don't think your buddy came back to life. In their stomach lives this crab, moving the body like a zombie, casting deadly scrolls and telling you about what's best in life."
       }
     ]
   },
