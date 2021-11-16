@@ -4408,6 +4408,54 @@
     ]
   },
   {
+    "name": "D10 Cursed Narcotics",
+    "category": "Powers & Weirdness",
+    "subtitle": null,
+    "roll": "d10",
+    "entries": [
+      {
+        "rowNum": "1",
+        "tableItem": "**Scuttle** Each snorted dose of this brown powder lasts for D2 hours. During that time climbing and squeezing into gaps is significantly easier. Test Toughness DR8 to avoid painfully moulting your entire skin, and emerging as something slightly less human."
+      },
+      {
+        "rowNum": "2",
+        "tableItem": "**Fairy Wings** If you're lucky enough to find a fairy, pluck her wings out! Their eyes are also great, just put them on your tongue and let them dissolve. The trip has a 25% chance of being a bad one (roll arcane catastrophe that doesn't mention scrolls or adjust them) A good trip will let your soul melt, your flesh mutate and your mind expand. Gain +3 to all Presence tests for the day, you can't be manipulated but your body fuses with everything you touch for the day."
+      },
+      {
+        "rowNum": "3",
+        "tableItem": "**Prisoner’s Honey** Distilled from the minds of those tortured by the Cannibal Warlocks of the Seven Masters, a dose of Prisoner’s Honey sends the imbiber on a trip down the lanes of someone else’s memories. A difficult presence test is required to see if you can find your way back to your own mind, but perhaps one can find solace from the Dying World in the dreams of others."
+      },
+      {
+        "rowNum": "4",
+        "tableItem": "**Wine of Psalms** A glass of this rare tincture, infused with mold grown on the rotting pages of ancient and unholy tomes, will send your soul back to a more pleasant time. For 1d6 hours you may pick one Misery that has already befallen the world to ignore - you do not notice or remember it, and it does not affect you. After that time, roll another Misery - only you can see it, and it only affects you, for twice that length afterwards. Drinking when no Miseries have occurred just makes you feel calm until the pleasant part wears off, and drinking when six have occurred produces an immediate and spectacular occult death after the initial time is up."
+      },
+      {
+        "rowNum": "5",
+        "tableItem": "**Burning Salt** Black salt that tastes of soot and fire, can be taken by snorting or by putting it on food. After taking it you lose your sense of smell and taste, you do not feel heat, take no damage or effects from burning, after an hour the damage comes back unless it was already healed. Each time you take it there is a 1 in 6 chance that you transform into a statue made of burning salt."
+      },
+      {
+        "rowNum": "6",
+        "tableItem": "**Tears of the Dead** A fine powder, place it into your eyes to be able to converse with anything you’ve killed. Consume orally to bring about a crushing sense of regret and guilt. Produced from the caked up, dried layers of blood on a weapon. In addition to conversing with the dead, it can be used to temporarily revive a dead person for D20 times 10 seconds. Tastes like copper and remorse. After extended use, you will slowly lose touch with your physical body."
+      },
+      {
+        "rowNum": "7",
+        "tableItem": "**Malted Marrow** Leftover bones of the rotted and hanged, whose bone-goo has obtained a lustrous, waxen flavor. Consume for a one-time boost of d6 hit points, although in the aftermath of consumption your skin grows gray and flakey, eventually sloughing off in a particularly unpleasant manner."
+      },
+      {
+        "rowNum": "8",
+        "tableItem": "**Fool's Virtue** This sickly sweet substance resembles a mixture of coagulated blood and bitter wine, and upon consuming it, the drinker becomes unbearably narcissistic and arrogant. For 2d6 hours, whenever the user takes damage, they can test Presence DR 12. On a success, the narcotic's duration ends early. On a failure, the user takes no damage, their vapid, self-absorption so potent that it warps their body from receiving harm. If the narcotic's duration ends normally, the user fades from their hubristic stupor having a blurry recollection of the past few hours. However, if the narcotic ends due to a successful Presence test, the user suddenly realises their immense physical trauma, and immediately loses HP equal to the amount of total damage they negated during the narcotic's duration."
+      },
+      {
+        "rowNum": "9",
+        "tableItem": "**Popeium** An intricate, bone white pipe stolen from a clique of prestigious Galgenbeck priests. For as long as the pipe is smoked, a dim holy aura surrounds the user that acts as heavy armor (-d6 damage, DR+4 on Agility tests, defense is DR+2) but allows scroll usage. Popeium can be smoked for d4+1 hours and typically forces the user to shout whenever speaking. Highly heretical to keep for yourself."
+      },
+      {
+        "rowNum": "10",
+        "tableItem": "**Candied Goblin Guts** A strange food coming from a small shop in Grift. As the name implies. It is the disemboweled organs of a goblin, left to stew and ferment in a barrel of sugar. Can cure the goblin curse if ingested a few minutes after being attacked. After ingesting any amount over 10 candied organs the consumer will turn the next creature they attack into an identical clone of the attacker."
+      }
+    ]
+  },
+  {
     "name": "D10 Instant Death",
     "category": "Powers & Weirdness",
     "subtitle": null,
@@ -5152,6 +5200,46 @@
     ]
   },
   {
+    "name": "D8 Galgenbeck Souvenirs That You Shouldn't Have Bought",
+    "category": "The Dying World",
+    "subtitle": null,
+    "roll": "d8",
+    "entries": [
+      {
+        "rowNum": "1",
+        "tableItem": "**The Galgen-noose** Sturdy piece of rope, makes you want to strangle someone in their sleep."
+      },
+      {
+        "rowNum": "2",
+        "tableItem": "**Goblin Dolls** A handcrafted doll, made with care, from the finest authentic goblin skins available. May still have the goblin curse. Who can say for sure."
+      },
+      {
+        "rowNum": "3",
+        "tableItem": "**Royal's Crown** Galgenbeck has no kings or queens but it is rumored that they may have at some point. Whether these rumors are true or not the crown holds the soul of a ancient royal who is desperate to talk to anyone, very paranoid, fearful of you leaving it, and rambles nonsense."
+      },
+      {
+        "rowNum": "4",
+        "tableItem": "**Self-flagellating Whip** Perfect for the ascetic on the go, its barbs are sharp and cause weeping injuries. But you feel greater shame and pain whenever you put it down ... so you've done so less and less frequently ever since you purchased it."
+      },
+      {
+        "rowNum": "5",
+        "tableItem": "**Heretic's Charcoal** With the Inquisition burning heretics in their 100s there's no shortage of this fleshy coal-like substance on the souvenir stalls that line the pyre squares. Can be used to write or burn, but more often another thought crosses the minds of the starving scum."
+      },
+      {
+        "rowNum": "6",
+        "tableItem": "**Handbell of Shame** A small bell that when rung makes any listeners be internally confronted with their greatest shame."
+      },
+      {
+        "rowNum": "7",
+        "tableItem": "**Cast iron demon horn replica** Used by the rich to drink from. At least you think so. Drinking from the horn gives you 30 minutes of DR-4 on Strength and Toughness rolls. However, when the 30 minutes have passed, you lose 1d4 hit points as your life is drained by Bergharuth, the demon prince."
+      },
+      {
+        "rowNum": "8",
+        "tableItem": "**Stone Gargoyle’s Ear** It’s ugly, but feels lucky. Your companions shall suffer a little bit more than you."
+      }
+    ]
+  },
+  {
     "name": "D8 Things You Shouldn't Eat But Probably Will",
     "category": "The Dying World",
     "subtitle": null,
@@ -5236,6 +5324,54 @@
       {
         "rowNum": "10",
         "tableItem": "**Brussel Sprout Caramel Candy**. Serves 1. Take a handful of the Galgenbeck variant of Brussel sprouts (Brassica oleracea vomitus) and cook them in lye water (which takes of the natural sweetness). Boil ape hair with Glutaraldehyde until a thick paste forms. Skewer boiled brussel sprouts on rusty fork and coat them with caramel paste. Let dry for at least 24 hours."
+      }
+    ]
+  },
+  {
+    "name": "D10 Odd Shops Hidden Down a Crooked Alleyway in Schleswig",
+    "category": "The Dying World",
+    "subtitle": null,
+    "roll": "d10",
+    "entries": [
+      {
+        "rowNum": "1",
+        "tableItem": "**Doctor Krippan's Beautification Services** Pampered and polished your exterior, but still can't do anything about what's under the skin? For a fee, Dr Krippan will happily conduct surgery in his spotless laboratory to remove mostly-unnecessary internal organs and give you the figure you crave, no matter how radical the desired result (lose 1d6HP permanently, more for the extremities of fashion). Appointments required, consent forms must be signed by somebody, unfortunate medical incidents discretely disposed of. Also serves delicious meat pies to waiting customers - these are not of course derived from removed organs, what an absurd suggestion, the organs go to Those Who Wait Beneath, who get very hungry."
+      },
+      {
+        "rowNum": "2",
+        "tableItem": "**An unmarked door** Home of the Finkam family, who'll buy any body part--monster or otherwise--for twice its regular value. They'll leave town in d20 days though, leaving the building empty save for a locked chest containing a venomous snake and an upset goblin."
+      },
+      {
+        "rowNum": "3",
+        "tableItem": "**The Potion Shop** Sells the strongest potions you could imagine. However, the shopkeep refuses to sell them to you; you're not strong enough to handle his potions."
+      },
+      {
+        "rowNum": "4",
+        "tableItem": "The Bloodsmith Bring her blood, depending on how much and from what creature, she will forge armor with blood, fire and magic. That armor will heal you when blood is spilled and heal the enemy when the armor is hit."
+      },
+      {
+        "rowNum": "5",
+        "tableItem": "**The Bellman** Sells bells of different sizes that, when worn on clothing, supposedly ward against evil, undead, illness and whatnot.  Do they work? Maybe. But the ringing of the bells makes sneaking impossible."
+      },
+      {
+        "rowNum": "6",
+        "tableItem": "**Magic shop** It is said to give you the magic item you were looking for, one that redirects your life to a shining future! It's a metal door with a little opening. \"Place coin there\" is written in tar above the opening. Depending on the amount of silver spent one will receive a random magic item. Something nobody warned you about: They are never useful."
+      },
+      {
+        "rowNum": "7",
+        "tableItem": "**Why am I here?** A fun little shop behind a colorful door. Join stepping through all entities forget why they entered. The shop sells trinkets and charms that upon being held implant different thoughts into the holder's mind. Leaving is extraordinarily difficult due to the disorienting layout, and repeatingly ugly colorful geometric patterns on the walls. Every salesman is human but indistinguishable. Upon looking away from them you completely forget any features about them."
+      },
+      {
+        "rowNum": "8",
+        "tableItem": "**A simple barbershop** A popular barbershop situated above a pie shop, opens at midday and closes late in the evening. The barber inside claims it's so people can visit after work. The pie shop opens regular hours, but the head baker seems to be in before dawn to prep the pies. (Anyone who doesn't get the reference, go read a penny dreadful)"
+      },
+      {
+        "rowNum": "9",
+        "tableItem": "**Odd Bodkin's Curios and Oddities** Every nook and cranny of this quaint little shop is filled with dusty books or crumbling boxes with mysterious labels written in foreign tongues. It is said that you can find almost anything at Odd's — except Odd himself. (No ones ever seen the shopkeep.) Be wary, for you may find your heart's desire, but it will come at a price. And the price will be paid."
+      },
+      {
+        "rowNum": "10",
+        "tableItem": "**Järnspik and Sons** The world has never seen this amount of rusty nails in the same place before. The chaos that first meets the eye starts to make sense as soon as the shopkeeper and their sons start guiding their customers through it. The assortment ranges from plain rusty nails used to close off old doors with, to larger ones that soften on your command and small ones to pulverise and use as performance enhancements. This shop keeps a nail for every purpose. Every purpose."
       }
     ]
   },
