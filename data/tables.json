@@ -5296,6 +5296,62 @@
     ]
   },
   {
+    "name": "D12 Ships That Will Raze Your Port",
+    "category": "The Dying World",
+    "subtitle": null,
+    "roll": "d12",
+    "entries": [
+      {
+        "rowNum": "1",
+        "tableItem": "**The Rotted Salmon** A twisted fishing boat housing a dozen blighted fisherman. Now they serve the dead fish gods and seek to feed them with the flesh of men."
+      },
+      {
+        "rowNum": "2",
+        "tableItem": "**Leviathan's Scout** They might be ghosts, or simply swift, but they sure do have good aim and navigation. This ship seems to come out of nowhere and disappear just the same, leaving an ethereal mist in place of everything that isn't nailed down."
+      },
+      {
+        "rowNum": "3",
+        "tableItem": "**The Hump Whale** A ship with lots of metal things mountet to the front of it, it comes sailing directly at the port, full speed. All sailors on board are dead, there is just a troll with torn shackles and blood all over it."
+      },
+      {
+        "rowNum": "4",
+        "tableItem": "**ASTRARONTE** A nimble sloop, looks to be made of gold, effortlessly glides across the water, glinting in the sun. However, be sure not to follow them into a storm or be torn asunder by a bolt from the skies."
+      },
+      {
+        "rowNum": "5",
+        "tableItem": "**JERRY AND HIS ROWBOAT** Trying to hide within some tattered rags and a small sack of rations, just a sailor looking to trade so he claims. Some say he started from a floating plank of wood, others from a single coconut. But beware not to make any deals with this abhorrently accomplished merchant or it may be your ship next, remember he is just a man, or are they? I'm sure he's only just a little weird."
+      },
+      {
+        "rowNum": "6",
+        "tableItem": "**The Whore of Galgenbeck** A rather large and regal ship that shows far too many holes and scars to be able to float. Aboard are any number of drunk nobles and their ilk. The ship is boisterous, cruel, and thinks of everyone else as being below it. After arriving at a port the nobles will go around destroying and stealing whatever they please before leaving off to find their next targets."
+      },
+      {
+        "rowNum": "7",
+        "tableItem": "**The Sudden Storm** Casting a striking silhouette, the Sudden Storm is a massive angular metallic vessel that appears to slice its way through the mist.  Lacking a mast, the source of propulsion for this ship is unknown. The bow comes to a point where a steel serpent has been crafted. Lightning erupts intermittently from the serpents tongue.  No crew are visible, however what seems to be the wheelhouse emits a red glow, and the stench of burnt hair surrounds the ship."
+      },
+      {
+        "rowNum": "8",
+        "tableItem": "**The Squeaker** A very elegant looking ship. Filled to the brim with rats."
+      },
+      {
+        "rowNum": "9",
+        "tableItem": "**The Oiled Elverily** A ship made from of eels knotted together into a slippery, semi-mortal coil. Some eels are dead and dried but others wriggle with their brethen, making the elverily vessel look like it pulses in a cold-blooded heartbeat (this might be the way the boat propels itself, as there are no wind sails). Young gutter scum, their eyes damaged by storm lightning or crusted over with evaporated salt and cataracts, work as the crew, catching fresh eels with their bare hands and add them to the braiding wherever structually needed, by touch alone. The elverily is covered in a gloss of dark oil that bounces fire off it: when they come to burn you, they will wait in the heated waters and watch the sky fill with coal and pier ash."
+      },
+      {
+        "rowNum": "10",
+        "tableItem": "**The UpsideDown** An inverted large steamship, its two wheels have been modified to contain a strong water beast each, to move the ship. A large hole in the hull grants access to the underwater cargo hold. Do not underestimate its speed and power. Legends say that his crew is made up of half fish men."
+      },
+      {
+        "rowNum": "11",
+        "tableItem": "**The Fleishberg Ship** Entirely made of flesh, bones and the sails of hair, through alchemy of flesh. It has lots of arms growing out of it everywhere so it doesn't need a crew, walking on it is dangerous, because all those hands growing out of it could grab you and rip you apart. It is said to have a magical item on board, a pearl that emits magic through wich this vessel can hold its form together. Can you get to the core of the ship to grab the flesh pearl? What awaits on the inside? It's goal? To walk on land with its many feet and seek out prey to further enhance its form!"
+      },
+      {
+        "rowNum": "12",
+        "tableItem": "**JERRY AND HIS GALLEON** A harrowing and twisted abomination, an entity that lives within the bowels of the ship like a heart beating in a cage. This huge galleon can submerge itself beneath the waves only to plough hard into its adversaries and attach itself via barbed veins and tendons, trapping them till they are absorbed into the hull, becoming one. Be careful not to be fooled by calls for trade, as the only thing you’ll have left to bargain is your soul."
+      }
+    ]
+  },
+  {
     "name": "D12 Symbols of Heretical Cults",
     "category": "The Dying World",
     "subtitle": null,
