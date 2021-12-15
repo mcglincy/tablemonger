@@ -4448,6 +4448,38 @@
     ]
   },
   {
+    "name": "D6 Unexpected Places to Find an Eyeball",
+    "category": "Powers & Weirdness",
+    "subtitle": null,
+    "roll": "d6",
+    "entries": [
+      {
+        "rowNum": "1",
+        "tableItem": "That's funny, I don't remember eating one of those..."
+      },
+      {
+        "rowNum": "2",
+        "tableItem": "In the place of every seed in a pumpkin patch."
+      },
+      {
+        "rowNum": "3",
+        "tableItem": "In the shadows. It blinks at you. A mouth forms and it grins, white teeth glistening in the dark. It opens its maw and swallows you whole."
+      },
+      {
+        "rowNum": "4",
+        "tableItem": "Peering at you between the clouds from the place the moon should be."
+      },
+      {
+        "rowNum": "5",
+        "tableItem": "The back of your neck."
+      },
+      {
+        "rowNum": "6",
+        "tableItem": "The palms of your hands."
+      }
+    ]
+  },
+  {
     "name": "D8 Insidious Infections",
     "category": "Powers & Weirdness",
     "subtitle": null,
@@ -5512,6 +5544,62 @@
     ]
   },
   {
+    "name": "D12 New Zodiac/Star Signs in the Dying World",
+    "category": "The Dying World",
+    "subtitle": null,
+    "roll": "d12",
+    "entries": [
+      {
+        "rowNum": "1",
+        "tableItem": "**The Cackling Saint**. When St. Elphred was excommunicated, witnesses said that she threw her head back a laughed maniacally while her body exploded into the heavens forming a new constellation. Those born under the sign of St. Elphred are especially good humored, pious, and prone to madness. Compatible with Water signs."
+      },
+      {
+        "rowNum": "2",
+        "tableItem": "**The Void**. \"That space up there, with no stars in it. It sort of looks like... something. I swear there used to be a constellation there, but it's just a clear shape of nothing now.\""
+      },
+      {
+        "rowNum": "3",
+        "tableItem": "**The Scribe**. A quill shaped constellation etched in the sky as clearly as your own ability of recollection. Those born under The Scribe are blessed with superb memory, so good they often have memories that are not their own."
+      },
+      {
+        "rowNum": "4",
+        "tableItem": "**The Whip**. It seems to you like any random string of stars can be called the Whip, but whatever. Stands for good love life or financial disaster. Or both."
+      },
+      {
+        "rowNum": "5",
+        "tableItem": "**The Basilisk**. A writhing basilisk shaped constellation. It's said any who are born under that sign are split from birth. Two minds In one body vying for dominance just as their name sake. Never trust a Basilisk...."
+      },
+      {
+        "rowNum": "6",
+        "tableItem": "**The Eye**. Two curved strings of stars with a shifting, luminous vortex in the centre. Those born under this sign are said to posses insight and introspection beyond that which human minds should be capable of. Their dreams are ever-haunted by glimpses of far off realms."
+      },
+      {
+        "rowNum": "7",
+        "tableItem": "**The Goblin**. You spotted this complicated pattern amongst the stars? Good for you! You now suffer the Goblin Curse! Which Goblin to kill to set you free you ask? Who knows! (it's a goblin on the moon)"
+      },
+      {
+        "rowNum": "8",
+        "tableItem": "**The Teeth**. A collection of stars that are arranged into a large mouth. They seem to get closer every passing day. Good thing they're just stars...right?"
+      },
+      {
+        "rowNum": "9",
+        "tableItem": "**The Femur**. Long chain of stars mildly reminding of the femur bone. Those born under this sign seem to have strong bones and body composition. And also really weird taste for marrow."
+      },
+      {
+        "rowNum": "10",
+        "tableItem": "**The Troll**. A baby troll patter of starts. Every times someone looks at it, seems to be bigger. Legend says \"When fully grow it will devour you!\"."
+      },
+      {
+        "rowNum": "11",
+        "tableItem": "**The Great White**. A small patch of light that bears directly overhead most nights, those who spend too much time staring into the abyss will find that the abyss stares back. Those born under the great white are incapable of compassion, clearly a sign of the end."
+      },
+      {
+        "rowNum": "12",
+        "tableItem": "**Yetsabu-Nech**. The ever present celestial body causing an infinite black space in the clearest of starry nights. As it aligns with The Femur, it shall be seen as a bad omen. Often hunted down as heretics, people born under Yetsabu-Nech are said to be able to speak in tongues and have prophetic dreams."
+      }
+    ]
+  },
+  {
     "name": "D12 Ships That Will Raze Your Port",
     "category": "The Dying World",
     "subtitle": null,
@@ -6248,6 +6336,54 @@
       {
         "rowNum": "10",
         "tableItem": "**Gross Moses** You pull back the stained linen to reveal a fat baby with one eye bigger than the other, and a full set of sharpened teeth (d4 damage). The only sounds it makes are raspy growls."
+      }
+    ]
+  },
+  {
+    "name": "D10 Pieces of Tosh (treasure) One Might Find Washed into a Sewer",
+    "category": "Treasures & Trinkets",
+    "subtitle": null,
+    "roll": "d10",
+    "entries": [
+      {
+        "rowNum": "1",
+        "tableItem": "A full pig stuffed with silvers. Its skin is dense and hard to cut through. Squeeze or push on its bloated stomach to cough up 2d20 coins."
+      },
+      {
+        "rowNum": "2",
+        "tableItem": "A skeletal hand with a grimy jewel permanently attached to it. Whoever lays eyes on it is compelled to keep it for themselves else the whispers get louder and louder."
+      },
+      {
+        "rowNum": "3",
+        "tableItem": "An excrement-covered jeweled dagger of excellent make but no matter how hard it is rinsed and scrubbed, the smell can never be removed"
+      },
+      {
+        "rowNum": "4",
+        "tableItem": "Josilfa Migol's turds. Worth millions to the faithful."
+      },
+      {
+        "rowNum": "5",
+        "tableItem": "The sparkling silver excrement of some mystical sewer-dwelling ne'er-do-well. It smells vaguely of rosemary (sells for 25 coins)."
+      },
+      {
+        "rowNum": "6",
+        "tableItem": "A poisonous truffle that only the unclean can distinguish from a glorified turd. It can be used to manufacture arrows that make the victim lose their shit. Literally."
+      },
+      {
+        "rowNum": "7",
+        "tableItem": "A beautifully-stitched, miniature bejewelled waistcoat. Worth at least 50 silver, if you can catch the greasy sewer rat that has somehow donned it."
+      },
+      {
+        "rowNum": "8",
+        "tableItem": "A compendium of excrement shape/color combinations and what they mean in reference to their producer, an astrology of sorts."
+      },
+      {
+        "rowNum": "9",
+        "tableItem": "A corpse, has 2d10*10 silver on it and a note relating in some way to a party member"
+      },
+      {
+        "rowNum": "10",
+        "tableItem": "An inexplicably clean cutlery set."
       }
     ]
   },
