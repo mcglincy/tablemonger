@@ -2320,6 +2320,86 @@
     ]
   },
   {
+    "name": "D8 Curses a One-eyed Cretin Would Spew at You",
+    "category": "Plots, Portents, and Lies",
+    "subtitle": null,
+    "roll": "d8",
+    "entries": [
+      {
+        "rowNum": "1",
+        "tableItem": "YOUR MOTHER WAS A HAMSTER AND YOUR FATHER SMELT OF ELDERBERRIES!!!\\nBoth of these statements instantly become true as said cretin flaps his hands at you mockingly. Bloody French."
+      },
+      {
+        "rowNum": "2",
+        "tableItem": "YEW...\\n1d4\\n1. BASTARD REARIN'\\n2. CHAINMAIL WEARIN'\\n3. PLAGUE SPREADIN'\\n4. SHIT SMELLIN'\\n1d4\\n1. MILK DRINKIN'\\n2. WHOREMONGERIN'\\n3. WICKHEAD DEALIN'\\n4. BASILISK DENYIN'\\n1d4\\n1. SKAMELAR\\n2. HEDGE-BORN\\n3. GLOS PAUTONNIER\\n4. COX COMB\\n1d4\\n1. SNIVELIN'\\n2. WORM-EYED\\n3. GOMERIL\\n4. GUTTERBORN\\n...DANDY FUCK!"
+      },
+      {
+        "rowNum": "3",
+        "tableItem": " MAY YOUR EYES SHRIVEL, YOUR TOUNGE TWIST, YOUR BELLY TIGHTEN AND YOUR ANUS WIDEN!"
+      },
+      {
+        "rowNum": "4",
+        "tableItem": "\"You should KILL YOURSELF NOW!\""
+      },
+      {
+        "rowNum": "5",
+        "tableItem": "\"Even Fathmu wouldn't take your gold\" followed by spitting on the ground"
+      },
+      {
+        "rowNum": "6",
+        "tableItem": "You stink more than a Galgenbeck alley!"
+      },
+      {
+        "rowNum": "7",
+        "tableItem": "Does your mother know you sweat when you shit?!"
+      },
+      {
+        "rowNum": "8",
+        "tableItem": "GIVE ME BACK MY EYE YOU BASTARD! BASILISKS CURSE YOU WITH SEEING MORE THAN MORTALS EVER SHOULD! WHILE YOU EAT! WHILE YOU SLEEP! WHILE IN THE PRIVY! (PCs have never seen them before and probably don't have the eye, though who knows, random eyeballs wouldn't be entirely unexpected loot)"
+      }
+    ]
+  },
+  {
+    "name": "D8 Debts to Pay",
+    "category": "Plots, Portents, and Lies",
+    "subtitle": null,
+    "roll": "d8",
+    "entries": [
+      {
+        "rowNum": "1",
+        "tableItem": "**A lost bet to one of Anthelia’s generals** Why would you be so stupid to make that bet? You know that not keeping your word to Anthelia and her closest will not end well. And here you are… No Kergüsian clams, and no sparks of life and colour. And they’ll be here any second now."
+      },
+      {
+        "rowNum": "2",
+        "tableItem": "**Faustian Pact** When you made that deal with the lone nomad at the crossroads you did not know the lengths to which you would have to suffer. All for mastering Insert skill (+d4 to certain ability check but also lower toughness by two steps)"
+      },
+      {
+        "rowNum": "3",
+        "tableItem": "**The child friend who lend you an apple** Well they recognized you. And they want their apple back. What do you mean the world is ending and there is hardly fresh fruit? The \"old friend\" being part of the inquisition doesn't help either."
+      },
+      {
+        "rowNum": "4",
+        "tableItem": "**A Royal's Treasury** A long time ago one of your ancient ancestors was a master thief and they stole all the gold of a kingdom, you need to pay it back but due to interest it has grown to a absurd amount, specifically 1d100 * 1d100 * 1d100 * 1d100 silver"
+      },
+      {
+        "rowNum": "5",
+        "tableItem": "**The Debt Of Life** \"Yes, I suppose that withered, animated corpse shambling towards us does resemble my late mother. Yes, it is wearing the same clothes I buried her in. No, I absolutely do not wish to find out why she is screaming 'A LIFE FOR A LIFE' while growing ever-closer. Let's run. Let's run now.\""
+      },
+      {
+        "rowNum": "6",
+        "tableItem": "**Occult Healers Demand Payment** A while back you when you had almost died, you woke up in a temple that belonged to Occult Healers. They healed you, and then took all of your possessions but the value came no where close to what the required. They set you free to earn your repayment. They're back. They demand 666 silver."
+      },
+      {
+        "rowNum": "7",
+        "tableItem": "**That guy was a lich?** Turns out that hooded frail man who gave you an Unclean scroll a while back was a lich. He is now back and demanding a Sacred scroll as payment."
+      },
+      {
+        "rowNum": "8",
+        "tableItem": "**Weirdo in the walls.** You hear \"Pssh oi! Yeah you there.\" turning around you see a weird bloodshot eye peering at you from a hole in the wall , it offers you a way out of what ever hellish dungeon you've got lost in. Months later the eye returns, this  time though its in your walls and it wants you to offer it a way in...."
+      }
+    ]
+  },
+  {
     "name": "D8 Reasons Why That Couple of Cutthroats is Following You",
     "category": "Plots, Portents, and Lies",
     "subtitle": null,
@@ -6072,6 +6152,102 @@
       {
         "rowNum": "10",
         "tableItem": "**The Book of The Keeper of The World**: This book is yellow, almost as bright as the sun itself. A bloody skeleton is on the cover with a text in an unreadable arcane language, presumably the title. Eating pages of this makes something in the world just disappear out of everyone's mind, a nothingness filling the place it used to be."
+      }
+    ]
+  },
+  {
+    "name": "D10 Items You Would Find in the Back Room of a Taxidermy Shop",
+    "category": "Treasures & Trinkets",
+    "subtitle": null,
+    "roll": "d10",
+    "entries": [
+      {
+        "rowNum": "1",
+        "tableItem": "An undead sewn in half dog. It's glistening and barks when touched."
+      },
+      {
+        "rowNum": "2",
+        "tableItem": "A taxidermied human figure, still dressed in what it was able to scrounge up in the way of armor before it wound up here. It definitely didn’t just blink at you, right?"
+      },
+      {
+        "rowNum": "3",
+        "tableItem": "**Stuffed rats in a jar** Just ready to attach to any application that might need.... a stuffed rat...?"
+      },
+      {
+        "rowNum": "4",
+        "tableItem": "**A spherical cat** It seems this cat was purposefully stuffed in order to make it as round as physically possible, its hide completely distended. If you shake it, something can be heard rattling inside."
+      },
+      {
+        "rowNum": "5",
+        "tableItem": "**A completely true and genuine Sphinx** A dead woman’s preserved head sewn onto the body of some strange and foreign animal, with the wings of a vulture grafted on. It sits upon a great podium and on the bottom it reads, “Donated by Dr. Spencer Black”"
+      },
+      {
+        "rowNum": "6",
+        "tableItem": "**Wolpertinger** A rare animal, to you it looks like a rabbit with duck wings, fangs, a fox's tail and deer antlers, but it looks very damaged. Someone might tell you; to catch one, you have to throw salt at it. They tell you also where to get one. They will pay a crazy amount to get a good specimen! What they don't tell you is that is is highly intelligent and it barfs arcane catastrophies."
+      },
+      {
+        "rowNum": "7",
+        "tableItem": "**Your childhood pet goat, Tony** It's covered in dust and cobwebs, and Papa told you he ran off?! Tony still has the bell you put on him."
+      },
+      {
+        "rowNum": "8",
+        "tableItem": "D10+2 infected needles. Used for stitching. They're infected with something and already threaded, but who knows what they got the infection from, or exactly how it rots the puncture area to become inanimate."
+      },
+      {
+        "rowNum": "9",
+        "tableItem": "Nothing, the room is spotless, not a fleck of dust on the barren floor, before you enterd into this room you swear you could hear a voice coming from it along with the glow of a lamp"
+      },
+      {
+        "rowNum": "10",
+        "tableItem": "**Arm in a sack** A burlap sack containing an embalmed human arm with a smudged tattoo on the forearm."
+      }
+    ]
+  },
+  {
+    "name": "D10 Items You'd Find in a River of Tar",
+    "category": "Treasures & Trinkets",
+    "subtitle": null,
+    "roll": "d10",
+    "entries": [
+      {
+        "rowNum": "1",
+        "tableItem": "An undead body, screaming due to its flesh instantly rotting when it touches the air. It craves death, but each of its cells lives individually, and it is unkillable unless it is reduced to atoms"
+      },
+      {
+        "rowNum": "2",
+        "tableItem": "**Ancient burial coin** A silver coin, one side shows an image of the skeletal boatman Charon. The reverse shows an eye which would be placed in a corpses eyes to supposedly pay for the passage to the afterlife."
+      },
+      {
+        "rowNum": "3",
+        "tableItem": "**Horse** The preserved remains of a horse, once white and beautiful, now sticky and black. The name “Artax” floats in the back of your mind."
+      },
+      {
+        "rowNum": "4",
+        "tableItem": "**The Warhammer \"Kleb\"** 1d8 damage, but as sticky as it is test strength after every successful hit to see if you can unstick it from your enemy. Stick it to 'em!"
+      },
+      {
+        "rowNum": "5",
+        "tableItem": "A message in a bottle written in an unknown language with a hastily scrawled map with some familiar landmarks."
+      },
+      {
+        "rowNum": "6",
+        "tableItem": "The desiccated remainder of something between a childs foot and a goats hoof"
+      },
+      {
+        "rowNum": "7",
+        "tableItem": "A muck-covered glass jar filled with small, white, writhing worms that possess haggard human faces. If the jar is opened, thrown at something or otherwise destroyed roll 1d6 for the potential effects:\\n1. The worms sing upon escaping their prison, a harrowing and distorted melody echoes all around before they burrow in to the ground.\\n2. The worms are enraged. They burrow in to the skin of the nearest organic organism for 1d4 damage.\\n3. They burst in to flames and screech at the top of their lungs upon being exposed to the atmosphere, withering away in to fine ash.\\n4. They explode into yellowish-green discharge, tiny thrashing larvae can be seen frolicking amongst the substance.\\n5. The worms rapidly cannibalise one another until only one remains. The last remaining worm will become large and bloated upon feasting on its brethren. It will attempt, in a shrill voice, to convince one of the players to eat it.\\n6. The worms shed their skin and take the form of tiny white flies, chuckling jovially as they flutter off into the air. They laugh as though they know something you do not."
+      },
+      {
+        "rowNum": "8",
+        "tableItem": "**A flail** d8 damage, but once grabbed it's permanently stuck to the player, and they must roll disadvantage at doing anything that would ordinarily require hands."
+      },
+      {
+        "rowNum": "9",
+        "tableItem": "**A rusted Zweihander** A hungry sword that requires a CR14 strengjr roll to remove from the current of tar. Does D12 damage. Constantly whispers to you about wanting to be buried into the heart of a troll,  If you indulge the wants of the sword it will immediately seep into the heart of the creature and resurrect it. Flip a coin to decide if it still wants to kill you."
+      },
+      {
+        "rowNum": "10",
+        "tableItem": "**Gross Moses** You pull back the stained linen to reveal a fat baby with one eye bigger than the other, and a full set of sharpened teeth (d4 damage). The only sounds it makes are raspy growls."
       }
     ]
   },
