@@ -128,6 +128,54 @@
     ]
   },
   {
+    "name": "D10 Problems with Your Replacement Arm/Leg",
+    "category": "Lost Souls All",
+    "subtitle": null,
+    "roll": "d10",
+    "entries": [
+      {
+        "rowNum": "1",
+        "tableItem": "Gain sentience and trys to kill you in ur sleep"
+      },
+      {
+        "rowNum": "2",
+        "tableItem": "Your new arm is somehow smarter than you, and it won't shut up about it."
+      },
+      {
+        "rowNum": "3",
+        "tableItem": "Every time u sleep it grows another finger/toe"
+      },
+      {
+        "rowNum": "4",
+        "tableItem": "It always goes a little to the left/right of where you want it to go"
+      },
+      {
+        "rowNum": "5",
+        "tableItem": "At least once a day it shuts off and ignores your commands for a full second."
+      },
+      {
+        "rowNum": "6",
+        "tableItem": "The color is off. Or is it the length? No, it must be the girth. Wait, wasn't it wooden yesterday?"
+      },
+      {
+        "rowNum": "7",
+        "tableItem": "It's from the wrong side. i.e. left on the right or vice versa"
+      },
+      {
+        "rowNum": "8",
+        "tableItem": "It's wireless! Which means it sometimes copies nearby people's movements."
+      },
+      {
+        "rowNum": "9",
+        "tableItem": "The material it's made from attracts beasts"
+      },
+      {
+        "rowNum": "10",
+        "tableItem": "You are a bit different every day after the replacement. One could almost say it's changing you, replacing your entire body. That can't be true... but then, comes The Voice..."
+      }
+    ]
+  },
+  {
     "name": "D12 Stinging Philosophical Questions Your Forlorn Philosopher is Struggling With",
     "category": "Lost Souls All",
     "subtitle": null,
@@ -268,6 +316,94 @@
       {
         "rowNum": "20",
         "tableItem": "You lay eyes upon your fallen companion, their skull crushed, oozing with liquefied brain matter and blood. You notice behind the thin wall of flesh that was their eye, a golden orb inscribed with some kind of ancient writing. The orb starts to shudder, and then a flash of white light fills the room and (name) is now standing before you while the body of your fallen companion has vanished."
+      }
+    ]
+  },
+  {
+    "name": "D20 Mediocre Ends for Uncooperative Players",
+    "category": "Lost Souls All",
+    "subtitle": null,
+    "roll": "d20",
+    "entries": [
+      {
+        "rowNum": "1",
+        "tableItem": "You retire to a shack in the woods, where a faulty chimney causes you to die in your sleep, 2d20 days later."
+      },
+      {
+        "rowNum": "2",
+        "tableItem": "A hand suddenly comes down from the sky and crushes you all. You're all dead now."
+      },
+      {
+        "rowNum": "3",
+        "tableItem": "Traveling on a pilgrimage to the City of Galgenbeck, a venomous snake bites you in your leg. You’re suffering lasts for 2d4 days before you expire next to the road."
+      },
+      {
+        "rowNum": "4",
+        "tableItem": "You don't wake up the next morning."
+      },
+      {
+        "rowNum": "5",
+        "tableItem": "You live a long boring life until the End comes for us all."
+      },
+      {
+        "rowNum": "6",
+        "tableItem": "You complete your previously-planned journey to Galgenbeck, start a small dry goods shop, and live the rest of your short miserable life in mediocrity."
+      },
+      {
+        "rowNum": "7",
+        "tableItem": "You choke on your food, nothing (nobody?) helps."
+      },
+      {
+        "rowNum": "8",
+        "tableItem": "You get a splinter in your toe which becomes infected. Unfortunately, you noticed it too late for a medicine box to help."
+      },
+      {
+        "rowNum": "9",
+        "tableItem": "You stare at the sun too long. Blinded, you spend your remaining years begging for scraps."
+      },
+      {
+        "rowNum": "10",
+        "tableItem": "The voices; they get to you. They force you to take a vow of silence and live for the rest of your life under a rock."
+      },
+      {
+        "rowNum": "11",
+        "tableItem": "You move on to a simple life of farming in the countryside, living off the land until raiders noticed you were a bit too profitable."
+      },
+      {
+        "rowNum": "12",
+        "tableItem": "You get an aneurysm."
+      },
+      {
+        "rowNum": "13",
+        "tableItem": "You wake up; it was all a bad dream."
+      },
+      {
+        "rowNum": "14",
+        "tableItem": "You have died of dysentery."
+      },
+      {
+        "rowNum": "15",
+        "tableItem": "Whilst out chopping wood, you sink your axe into a sleeping Barkgeist. D2 days later you finally die from your disembowelment."
+      },
+      {
+        "rowNum": "16",
+        "tableItem": "You meet someone, settle down, get married, have kids. One night as you happily drift off to bed, they kill you in your sleep and take everything you have."
+      },
+      {
+        "rowNum": "17",
+        "tableItem": "Whilst walking down the street, a chamber pot thrown from a window strikes you in the head and kills you"
+      },
+      {
+        "rowNum": "18",
+        "tableItem": "You slip into the endless sea while fishing too far from the shore. You were never the same after that as your mind is taken from you soon after."
+      },
+      {
+        "rowNum": "19",
+        "tableItem": "While hunting small game for dinner, you haven't eaten in days, the hunter becomes the hunted; you are torn in half from behind by claws and teeth."
+      },
+      {
+        "rowNum": "20",
+        "tableItem": "Your eyes spontaneously explode, you die 2d6 exploding minutes later."
       }
     ]
   },
@@ -1076,6 +1212,38 @@
       {
         "rowNum": "6",
         "tableItem": "A frog that sings hymns praising unholy gods."
+      }
+    ]
+  },
+  {
+    "name": "D6 Famous Bards That You Hope Will Be On Stage as You Walk Into the Tavern",
+    "category": "Monsters & Miscreants",
+    "subtitle": null,
+    "roll": "d6",
+    "entries": [
+      {
+        "rowNum": "1",
+        "tableItem": "Muskel Guld, Waker of the Dead"
+      },
+      {
+        "rowNum": "2",
+        "tableItem": "Grüm and her four “children”"
+      },
+      {
+        "rowNum": "3",
+        "tableItem": "Urth and Arth, the Siamese duet"
+      },
+      {
+        "rowNum": "4",
+        "tableItem": "Külgrad \"Snaps\" Klienbach, the famed finger-snapper"
+      },
+      {
+        "rowNum": "5",
+        "tableItem": "Screaming Jenkinson and his hawk"
+      },
+      {
+        "rowNum": "6",
+        "tableItem": "The Banshee Boys"
       }
     ]
   },
@@ -4616,6 +4784,62 @@
     ]
   },
   {
+    "name": "D12 Curses to Shout When You Stub Your Toe on a Zweihänder",
+    "category": "Powers & Weirdness",
+    "subtitle": "(like \"FUCK!\", \"SHIT!\", or \"DAMN IT!\")",
+    "roll": "d12",
+    "entries": [
+      {
+        "rowNum": "1",
+        "tableItem": "NECH'EM!"
+      },
+      {
+        "rowNum": "2",
+        "tableItem": "Nech to hell!"
+      },
+      {
+        "rowNum": "3",
+        "tableItem": "Heresy!"
+      },
+      {
+        "rowNum": "4",
+        "tableItem": "Yetsabu-Nech and their mother!"
+      },
+      {
+        "rowNum": "5",
+        "tableItem": "Basilisk's balls!"
+      },
+      {
+        "rowNum": "6",
+        "tableItem": "Oh misery!"
+      },
+      {
+        "rowNum": "7",
+        "tableItem": "Oh for HER sake!"
+      },
+      {
+        "rowNum": "8",
+        "tableItem": "Anuk's bones!"
+      },
+      {
+        "rowNum": "9",
+        "tableItem": "Clamdash!"
+      },
+      {
+        "rowNum": "10",
+        "tableItem": "Doom and gloom!"
+      },
+      {
+        "rowNum": "11",
+        "tableItem": "Bare an omen!"
+      },
+      {
+        "rowNum": "12",
+        "tableItem": "Son of a Basilisk!"
+      }
+    ]
+  },
+  {
     "name": "D12 False Blessings that Turn into Curses",
     "category": "Powers & Weirdness",
     "subtitle": null,
@@ -5244,6 +5468,38 @@
     ]
   },
   {
+    "name": "D6 Rooms of the Shadow King's Palace",
+    "category": "The Dying World",
+    "subtitle": null,
+    "roll": "d6",
+    "entries": [
+      {
+        "rowNum": "1",
+        "tableItem": "**The Hall of Weirding Windows.** The hall is layed out like a traditional portrait gallery but instead of portraits in each place is hung a window of various style, size etc. No window shares the same view and all views are equally horrible, ranging from the a black desert made of beetles to a mid air view of Bergen Chrypt. Best not smash one who knows what will happen."
+      },
+      {
+        "rowNum": "2",
+        "tableItem": "**Servants Quarters.** Behind a hidden door you find the quarters of the personal servants of the court. It looks abandoned for decades and yet soothing candlelight shines from a sole candelabra. A small kitchen and four bunk beds surround the rooms central table. The heavy tick-tocking of a grandfather clock ever present."
+      },
+      {
+        "rowNum": "3",
+        "tableItem": "**Hall of Paintings** You pass by a great hall, with doors and stairs connecting to multiple places in the castles. The walls are covered in dillapidated paintings of people and landscapes in embellished frames. The ones closer to the ground had their paintings ripped off, leaving only an empty frame. Some paintings have holes where the eyes would be and you swear you can see someone watching through them on your peripheral vision."
+      },
+      {
+        "rowNum": "4",
+        "tableItem": "**Shadow Princes' Cruciation Chambers.** You find yourself in one of the many dens of cruelty belonging to the Shadow King's sons. Adorned in equipment and utensils to assist them in their avaricious and callous ways, they rarely offer anything in comfort. Each is as varied as whichever son plies his favored torture on some unfortunate of the day.\\n\\nRoll 1d6:\\n1. Pompous Pain(tings): 1d4 Paintings of past cruelties. Some demented souls would pay well; 200s each. Refer to 6 if attempting to steal any(no Prince, just 1d4+1 Guards).\\n2. Observe the Gore: A larger one with an observation gallery above for a few dozen guests. Nothing is happening, thankfully.\\n3. Guests of Honor: You and your party have been invited by a Shadow Prince to witness a torture. DR 10 Presence check to steel oneself during the show or retch up your last meal. Failure or interfering, refer to result 6.\\n4. Surgeon's Ward: The Prince here is an anomaly. Offers the best available medicines and services, as he is practiced in healing. All party members regain lost health and are given d4 Bandages; 50s. May only be rolled once, this result reverts to same as 3.\\n5. Empty Chamber: There seems to be no Prince, victim, or guards present. Let alone anything valuable.\\n6. Active Torture: The guards bar you from getting close, the Prince asks you to leave. Interfering causes combat. Loss will guarantee your place as the next victim(s).\\n(d4+1 Guards - HP: 8  Morale: 8  Guard Armor: -d4  Fine Sword: d6+1 Shield: -1 dmg;\\nShadow Prince - HP: 10 Morale: 9  Black Plate: -d6  Tormenter's Razorglove & Blade: d6 each, DR14 Toughness on hit or fall prone in excruciating pain for 1d6 minutes.)"
+      },
+      {
+        "rowNum": "5",
+        "tableItem": "**The Chamber of the Forsaken Heir** Even attempting to recall how you found this place to begin with causes your head to ache and your mind to spin... All you manage to muster are vague recollections of grandiose winding passages, narrow corridors and cramped halls. The only thing your dazed mind finds itself sure of is this: you should not be here. The scattered remnants of a shoddy attempt to brick this passage off make that much clear to you. A half-built stone wall, overturned carts, ancient tools rusting away in the dust... It's almost as if whoever had been attempting to seal it off could bare being here no longer and fled. It is clear to see why.\\n\\nAn immense, immovable iron door caked with rust and furrowed with millions of scratch marks stands in the centre of a hand-carved cavern somewhere deep in the labyrinthine depths of the palace. Its exterior possesses every kind of lock known to man and a few intricate, complex mechanical ones you have never seen before for good measure. An inscription is engraved into the surface of the ancient metal:\\n\\n\"The coming of the end shall be a blessing, for only this shall forever preserve us from THEM.\"\\n\\nThe inscription has been disturbingly vandalised however, as the words:\\n\\n\"Will the end be enough?\" have been crudely etched over it.\\n\\nBeyond the door lies a cell, within which there resides a secret that even the Shadow King himself desires to bury. A horrific mistake connected to things far greater than the pitiful dying realm. It would be wise to leave this discovery to rot in the dark and perish in the furious wrath of the Seventh Misery. Turn back."
+      },
+      {
+        "rowNum": "6",
+        "tableItem": "**The lost room.** A room with no door leading there. How did you get here? Where is this room anyways? No doors, no windows. One wall is just bookshelves, one is just torture devices, one is just kitchen stuff and the 4th wall is empty, seemingly the wall you came through. There might be a long forgotten powerful item in here, also a switch to open a secret door that leads anywhere where the GM pleases. But beware of using magic in here, it fumbles on 1-4 as the walls laugh at you."
+      }
+    ]
+  },
+  {
     "name": "D6 Ways to Mispronounce \"Nechrubel\"",
     "category": "The Dying World",
     "subtitle": null,
@@ -5348,6 +5604,86 @@
       {
         "rowNum": "8",
         "tableItem": "**Stone Gargoyle’s Ear** It’s ugly, but feels lucky. Your companions shall suffer a little bit more than you."
+      }
+    ]
+  },
+  {
+    "name": "D8 Helpful NPCs from the Sarkash Forest That Will Totally Not Backstab Anybody",
+    "category": "The Dying World",
+    "subtitle": null,
+    "roll": "d8",
+    "entries": [
+      {
+        "rowNum": "1",
+        "tableItem": "**Stinklord Üblkräkas the talking Shroom** A morbidly reeking mushroom the size of a large dog. (looks like Clathrus archeri, or Devil's Fingers) Might answer questions, offers insight into the mind of the enemy if the PCs would be so kind and come a bit closer please If close to them, spores will errupt, test Toughness DR16 or pass out and become infected by them, hearing their voice constantly and ultimately growing into a Üblkräkas twin."
+      },
+      {
+        "rowNum": "2",
+        "tableItem": "**Restless hangman** Dead, talking body hanging from one of the trees. Will seem friendly and can answer questions about what happened while he was hanging out there. He Is however cursed, and in the moment PCs turn back on him, he will try to hang the nearest PC to end his curse."
+      },
+      {
+        "rowNum": "3",
+        "tableItem": "**Old Vespus** Wandering the forest in tattered robes. Bare muddy feet, darting eyes. Seems friendly enough, although... unfocused? In breaks in the conversation Vespus whispers under his breath, chuckles, nods to himself knowingly. Within his robes Vespus conceals a blood-caked rusty dagger... and if the voices tell him to, he'll use it."
+      },
+      {
+        "rowNum": "4",
+        "tableItem": "**Man** He is a man. Just a normal guy. Just an average down to earth fella. Do not pay attention to his unusually large eyes or the bulge at the back of his head and definitely do not look at his second row of teeth. He has 50s he would like to give you!"
+      },
+      {
+        "rowNum": "5",
+        "tableItem": "**The Wailing Whisp** A withered mass of blackened, dried driftwood that vaguely resembles a child in the fetal position. It blends in seemlessly with its surroundings and has fused with the undergrowth. Roots stem from its body and reach far beneath the ground, connected to... Something. It knows too much and thus constantly laments it's existence-- though amidst it's mad ramblings scraps of useful information can occasionally be deciphered. Roll 1d2 upon encountering this creature, if the result is a 1 then their cries are indecipherable. If a 2 is rolled then some small piece of useful information on the party's quest shall be revealed. Regardless of the result, the creature will always rise from the underbrush to attack any who disturb its cries. Or perhaps it can be reasoned with? \\n\\n(Stats for the NPC, if you need them:)\\n\\nHP: 10\\nMorale: -- (Will never flee or surrender)\\nKeratinous bark skin -1d2\\nThorn teeth -1d8, Jagged branches -1d6, Clubfists -1d4"
+      },
+      {
+        "rowNum": "6",
+        "tableItem": "**Chuck** Chuck has an established camp with a nice lean-to on the side of a clearing. He's talkative and knows a lot about all the things wrong with the forest. He sports a demure smile and will happily trade trinkets for sine fresh food he's cooked from forest animals he's hunted.\\n\\nChuck is a werewolf and will remember with intricate detail where PCs are going, and what they plan to do there."
+      },
+      {
+        "rowNum": "7",
+        "tableItem": "**Silas, the Sketchy Sage** You can find him in the middle of the forest, collecting herbs for some concoction. He is very friendly, will give you directions to the Tomb of the Dreadful Anteaters, but you look very tired, would you like a small sip of his homebrew potion of recovery? He also has a shroom ointment for that wound in your arm. Don’t worry, you don’t have to pay him or anything, he is very aware of how unwelcoming Sarkash can be. You might feel a bit dizzy after trying any of his stuff, and you might wake up in the middle of the forest several hours later with more scars in your torso than you remembered having, but hey, who can you blame: sages need a lot of weird ingredients for their elixirs, and your mom always told you not to trust a stranger."
+      },
+      {
+        "rowNum": "8",
+        "tableItem": "**Kalfa, the Wandering Chef** A portly woman, with rosy cheeks, and a welcoming smile.  She's wearing an apron and hat of strange design.  You find her small encampment along the side of the road in the direction of your destination.  A tent, cart, horse, some casks, and a campfire kitchen set up.  She beckons you over with a ladle, \"My, you look famished! Don't worry, I have some hearty stew for you!\"  It has been some time since you ate, so you oblige.  She asks questions about your adventures as you eat.  The meat in the stew is strange, but filling.  She also has information from a rumor for you regarding your current goal, if you would just stay for the evening.\\n\\nDR12 Presence to realize the stew is human flesh.\\nDR14 Presence to find the casks in the cart are full of mismatched gear.\\nDR14 Presence to figure out there are others hiding. In the tent, woods, and a cask or two. 1d2 Scum, 1d2 Berserkers are in hiding (adjust to party or replace with whatever scummy humanoids you wish).\\n\\nKalfa \\nHP: 14   Morale: 9 (hiding enemies use hers)\\nThick Human Leather: -1d2\\nButcher's Cleaver: 1d6 (DR12 Toughness or become Infected)\\nSpecial: Kalfa's Stew - DR12 Toughness for any that partook.  Any fails are stricken sick and fall to the ground in pain as the poison takes hold."
+      }
+    ]
+  },
+  {
+    "name": "D8 Lullaby Titles in the Dying World",
+    "category": "The Dying World",
+    "subtitle": null,
+    "roll": "d8",
+    "entries": [
+      {
+        "rowNum": "1",
+        "tableItem": "Humors of Whiskey and Black Bile (contains the lyrics \"What's sweeter than honey and stronger than steam, What's richer than mustard, more curdled than cream\")"
+      },
+      {
+        "rowNum": "2",
+        "tableItem": "Hush Little Baby, Begone From This World"
+      },
+      {
+        "rowNum": "3",
+        "tableItem": "Abattoir Blues (or the Lyre of Orpheus)"
+      },
+      {
+        "rowNum": "4",
+        "tableItem": "Welcome Death’s Cousin, come in"
+      },
+      {
+        "rowNum": "5",
+        "tableItem": "Escape for a moment"
+      },
+      {
+        "rowNum": "6",
+        "tableItem": "The Goblins Only Take Children Who Are Awake"
+      },
+      {
+        "rowNum": "7",
+        "tableItem": "Bitter darkness embrace this child"
+      },
+      {
+        "rowNum": "8",
+        "tableItem": "Cold Anthelia"
       }
     ]
   },
