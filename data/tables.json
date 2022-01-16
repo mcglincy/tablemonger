@@ -7084,6 +7084,94 @@
     ]
   },
   {
+    "name": "D20 Items in a Goblin Den",
+    "category": "Treasures & Trinkets",
+    "subtitle": null,
+    "roll": "d20",
+    "entries": [
+      {
+        "rowNum": "1",
+        "tableItem": "A bucket of rusty nails and broken glass."
+      },
+      {
+        "rowNum": "2",
+        "tableItem": "Badly made knife with a handle on both ends. Bits of hair and blood on the blade."
+      },
+      {
+        "rowNum": "3",
+        "tableItem": "A simple stick with a strong running from one end to the other to act as a make shift bow. Despite the wood looking rotten, it appears to function normally (on attack, rolling on or under 7 breaks it)."
+      },
+      {
+        "rowNum": "4",
+        "tableItem": "A torn up teddy bear thrown abandoned in the corner."
+      },
+      {
+        "rowNum": "5",
+        "tableItem": "A bloated badger"
+      },
+      {
+        "rowNum": "6",
+        "tableItem": "Collection of unidentifiable teeth"
+      },
+      {
+        "rowNum": "7",
+        "tableItem": "Mummified goblin: “Granny”"
+      },
+      {
+        "rowNum": "8",
+        "tableItem": "A twitching, still-living Wickhead with all their limbs sawn-off. Functions as a lit torch for as long as it is kept alive."
+      },
+      {
+        "rowNum": "9",
+        "tableItem": "The sign of the local inn; a bronze plate of a horse drinking beer."
+      },
+      {
+        "rowNum": "10",
+        "tableItem": "Half a pocket watch, with bite marks around the edges"
+      },
+      {
+        "rowNum": "11",
+        "tableItem": "A finger-painted portrait of a goblin, and a small pot filled with the now drained and dessiccated fingers used to paint it."
+      },
+      {
+        "rowNum": "12",
+        "tableItem": "Charred hands, probably used to stoke fire pits."
+      },
+      {
+        "rowNum": "13",
+        "tableItem": "More goblins. Duh."
+      },
+      {
+        "rowNum": "14",
+        "tableItem": "A gagged troll baby that just bit through it's gag."
+      },
+      {
+        "rowNum": "15",
+        "tableItem": "Small candlelit shrine filled with mementos of their former non-goblin life"
+      },
+      {
+        "rowNum": "16",
+        "tableItem": "A bucket filled to the brim with piss, feces and blood."
+      },
+      {
+        "rowNum": "17",
+        "tableItem": "A Zweihänder! Made out of toenails, holds together through the magic of goblin saliva."
+      },
+      {
+        "rowNum": "18",
+        "tableItem": "Three yellowish eggs. One has a small amount of old blood speckled on it."
+      },
+      {
+        "rowNum": "19",
+        "tableItem": "A bunch of shiny rocks. They're pretty. A sign that says \"Du Not Steal!!!!\" next to it."
+      },
+      {
+        "rowNum": "20",
+        "tableItem": "A stash of mud cakes and a recipe that is better left unread."
+      }
+    ]
+  },
+  {
     "name": "D20 Magical Focuses",
     "category": "Treasures & Trinkets",
     "subtitle": null,
