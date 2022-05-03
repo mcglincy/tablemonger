@@ -59,7 +59,9 @@ const getNumberedSubtableItems = async (tables, tableName) => {
 };
 
 // App endpoints
-app.get("/", async (req, res) => {
+app.get('/', (req, res) => res.send('Home Page Route'));
+
+app.get("/foo", async (req, res) => {
   // group tables by category: note that order of the tables in the JSON matters!
   const categories = tables.reduce((cats, table) => {
     const cat = (cats[table.category] || []);
