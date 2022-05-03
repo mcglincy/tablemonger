@@ -8,16 +8,8 @@
   ],
   "routes": [
     {
-      "src": "/",
+      "src": "/(.*)",
       "dest": "/"
-    },
-    {
-      "src": "/api/tableitems",
-      "dest": "/api/tableitems"
-    },
-    {
-      "src": "/healthz",
-      "dest": "/healthz"
-    },
+    }
   ]
 }
