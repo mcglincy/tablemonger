@@ -1,97 +1,203 @@
 const converter = new showdown.Converter();
 
+// vanilla JS equivalent of jquery is(":visible")
+const isVisible = (elem) => {
+  return !!( elem.offsetWidth || elem.offsetHeight || elem.getClientRects().length );
+  //&& window.getComputedStyle(elem).visibility !== "hidden"
+};
+
+// vanilla JS equivalent of jquery empty()
+const empty = (elem) => {
+  while(elem.firstChild) {
+    elem.removeChild(elem.firstChild);
+  }
+}
+
+// vanilla JS equivalent of jquery index()
+const getIndex = (elem) => {
+  if (!elem) return -1;
+  var i = 0;
+  do {
+    i++;
+  } while (elem = elem.previousElementSibling);
+  return i;
+}
+
+// vanilla JS equivalent of jquery nextUntil()
+const nextUntil = (elem, selector, filter) => {
+  const siblings = [];
+  elem = elem.nextElementSibling;
+  while (elem) {
+    if (elem.matches(selector)) {
+      break;
+    } 
+    if (filter && !elem.matches(filter)) {
+      elem = elem.nextElementSibling;
+      continue;
+    }
+    siblings.push(elem);
+    elem = elem.nextElementSibling;
+  }
+  return siblings;
+};
+
+// vanilla JS equivalent of jquery toggle()
+const toggle = (elem) => {
+  if (window.getComputedStyle(elem).display === "block") {
+    elem.style.display = "none";
+  } else {
+    elem.style.display = "block";
+  }
+};
+
+// vanilla JS equivalent of jquery slideUp()
+// see https://w3bits.com/javascript-slidetoggle/
+const slideUp = (elem, duration=250) => {
+  elem.style.transitionProperty = "height, margin, padding";
+  elem.style.transitionDuration = duration + "ms";
+  elem.style.boxSizing = "border-box";
+  elem.style.height = elem.offsetHeight + "px";
+  elem.offsetHeight;
+  elem.style.overflow = "hidden";
+  elem.style.height = 0;
+  elem.style.paddingTop = 0;
+  elem.style.paddingBottom = 0;
+  elem.style.marginTop = 0;
+  elem.style.marginBottom = 0;
+  window.setTimeout(() => {
+    elem.style.display = "none";
+    elem.style.removeProperty("height");
+    elem.style.removeProperty("padding-top");
+    elem.style.removeProperty("padding-bottom");
+    elem.style.removeProperty("margin-top");
+    elem.style.removeProperty("margin-bottom");
+    elem.style.removeProperty("overflow");
+    elem.style.removeProperty("transition-duration");
+    elem.style.removeProperty("transition-property");
+  }, duration);
+};
+
+// vanilla JS equivalent of jquery slideDown()
+// see https://w3bits.com/javascript-slidetoggle/
+const slideDown = (elem, duration=250) => {
+  elem.style.removeProperty("display");
+  let display = window.getComputedStyle(elem).display;
+  if (display === "none") {
+    display = "block";
+  }
+  elem.style.display = display;
+  const height = elem.offsetHeight;
+  elem.style.overflow = "hidden";
+  elem.style.height = 0;
+  elem.style.paddingTop = 0;
+  elem.style.paddingBottom = 0;
+  elem.style.marginTop = 0;
+  elem.style.marginBottom = 0;
+  elem.offsetHeight;
+  elem.style.boxSizing = "border-box";
+  elem.style.transitionProperty = "height, margin, padding";
+  elem.style.transitionDuration = duration + "ms";
+  elem.style.height = height + "px";
+  elem.style.removeProperty("padding-top");
+  elem.style.removeProperty("padding-bottom");
+  elem.style.removeProperty("margin-top");
+  elem.style.removeProperty("margin-bottom");
+  window.setTimeout(() => {
+    elem.style.removeProperty("height");
+    elem.style.removeProperty("overflow");
+    elem.style.removeProperty("transition-duration");
+    elem.style.removeProperty("transition-property");
+  }, duration);
+};
+
+// vanilla JS equivalent of jquery slideToggle()
+// see https://w3bits.com/javascript-slidetoggle/
+const slideToggle = (elem, duration=250) => {
+  if (window.getComputedStyle(elem).display === "block") {
+    slideUp(elem, duration);
+  } else {
+    slideDown(elem, duration);
+  }
+};
+
 const tablemongerReady = () => {
   // Hamburger Dance!
-  var $hamburger = $(".hamburger-helper");
-  $hamburger.on("click", hamburgerClick);
+  const hamburger = document.querySelector(".hamburger-helper");
+  hamburger.addEventListener("click", hamburgerClick);
 
   revealTables();
 
-  $(".toc-category").click(function () {
-    // show-hide the category items
-    $(this).toggleClass("open");
-    $(this).nextUntil(".toc-category").slideToggle();
+  document.querySelectorAll(".toc-category").forEach(elem => {
+    elem.addEventListener("click", e => {
+      // show-hide the category items
+      elem.classList.toggle("open");
+      nextUntil(elem, ".toc-category").forEach(elem => slideToggle(elem));
+    });
   });
 
-  var windowWidth = $(window).width();
-  $(window).resize(function() {
-    if ($(window).width() != windowWidth) {
-      windowWidth = $(window).width();
+  let windowWidth = window.innerWidth;
+  window.addEventListener("resize", function() {
+    if (window.innerWidth != windowWidth) {
+      windowWidth = window.innerWidth;
       revealTables();
-     };
-   });
+    };
+  });
 
-  $(window).on('DOMContentLoaded load resize scroll', pointToChosen);
+  window.addEventListener("DOMContentLoaded", pointToChosen);
+  window.addEventListener("load", pointToChosen);
+  window.addEventListener("resize", pointToChosen);
+  window.addEventListener("scroll", pointToChosen);
 
   // Table click handler
-  $(".click-item").on("click", tableClick);
+  document.querySelectorAll(".click-item").forEach(item => item.addEventListener("click", tableClick));
 
   // Randomizer click handler
-  $('.re-roll').on("click", clickRandomTable);
+  document.querySelector(".re-roll").addEventListener("click", clickRandomTable);
 
-  $('#tool-footer').on("click", rollTheDice);
+  document.querySelector("#tool-footer").addEventListener("click", rollTheDice);
 
-  $('.title').on('click', loadLandingContent);
-
-  // Waiting for full dice icons!
-  // generateDice();
+  document.querySelectorAll(".title").forEach(title => title.addEventListener("click", loadLandingContent));
 
   // Get table from params!
   selectTable();
 };
 
-const generateDice = () => {
-  $('.click-item').each(function(index) {
-    tableCount = $(this).data('roll');
-    var diceIcon;
-    if (tableCount == "d20") {
-      diceIcon = '<i class="fas fa-dice-d20 dice-icon"></i>'
-    } else if (tableCount == "2d6") {
-      diceIcon = `
-        <i class="fas fa-dice-d6 dice-icon"></i>
-        <i class="fas fa-dice-d6 dice-icon"></i>
-      `
-    };
-    $(this).prepend(diceIcon);
-  });
-};
-
 const hamburgerClick = (e) => {
-  if ($("#toc").is(":visible")) {
+  if (isVisible(document.querySelector("#toc"))) {
     // Hide TOC
-    $('.hamburger-helper').removeClass('is-active')
-    $('#toc').hide();
-    $('#right-content').show();
-    $('#tool-footer').show();
-    $('#toc-show-icon').css("display","inline-block");
-    $('#toc-hide-icon').hide();
+    document.querySelector(".hamburger-helper").classList.remove("is-active");
+    document.querySelector("#toc").style.display = "none";
+    document.querySelector("#right-content").style.display = "block";
+    document.querySelector("#tool-footer").style.display = "block";
+    document.querySelector("#toc-show-icon").style.display = "inline-block";
+    document.querySelector("#toc-hide-icon").style.display = "none";
   } else {
     // Show TOC
-    $('.hamburger-helper').addClass('is-active')
-    $('#toc').show();
-    $('#tool-footer').hide();
-    $('#right-content').hide();
-    $('#toc-show-icon').hide();
-    $('#toc-hide-icon').css("display","inline-block");
+    document.querySelector(".hamburger-helper").classList.add("is-active");
+    document.querySelector("#toc").style.display = "block";
+    document.querySelector("#tool-footer").style.display = "none";
+    document.querySelector("#right-content").style.display = "none";
+    document.querySelector("#toc-show-icon").style.display = "none";
+    document.querySelector("#toc-hide-icon").style.display = "inline-block";
   };
 };
 
 const revealTables = () => {
-  if (window.matchMedia('(min-width: 900px)').matches) {
-    $('#toc').show();
-    $('#table-content').show();
+  if (window.matchMedia("(min-width: 900px)").matches) {
+    document.querySelector("#toc").style.display = "block";
+    document.querySelector("#table-content").style.display = "block";
   } else {
-    $('#toc').hide();
-    $('#table-content').show();
+    document.querySelector("#toc").style.display = "none";
+    document.querySelector("#table-content").style.display = "block";
   }
 };
 
 const tableClick = (e) => {
-  $('#table-content').show();
-  $('#landing-copy').hide();
-  $('.toc-item').removeClass('current');
-  $(e.currentTarget).addClass('current');
-  $('#tool-footer').show();
+  document.querySelector("#table-content").style.display = "block";
+  document.querySelector("#landing-copy").style.display = "none";
+  document.querySelectorAll(".toc-item").forEach(item => item.classList.remove("current"));
+  e.currentTarget.classList.add("current");
+  document.querySelector("#tool-footer").style.display = "block";
   setUpForNewSingleTable(e);
   requestNewTableData(e);
 };
@@ -101,17 +207,20 @@ const setUpForNewSingleTable = (e) => {
   setTableParam(tableName);
   const roll = e.currentTarget.dataset.roll;
   const subtitle = e.currentTarget.dataset.subtitle;
-  const tableDiv = $("#table-content");
-  tableDiv.empty();
-  // currently the roll is in the table name
-  // const titleDiv = $(`<div id='table-title'>${tableName} <span class='title-roll'>(${roll})</span></div>`);
-  const titleDiv = $(`<div id='table-title'>${tableName}</div>`);
-  tableDiv.append(titleDiv);
-  const descDiv = $(`<div id='table-desc'>${subtitle}</div>`);
-  tableDiv.append(descDiv);
-  tableDiv.append(dummySingleTable);
+  const tableDiv = document.querySelector("#table-content");
+  empty(tableDiv);
+  const titleDiv = document.createElement("div");
+  titleDiv.id = "table-title";
+  titleDiv.textContent = tableName;
+  tableDiv.appendChild(titleDiv);
+  const descDiv = document.createElement("div");
+  descDiv.id = "table-desc";
+  descDiv.textContent = subtitle;
+  tableDiv.appendChild(descDiv);
+  tableDiv.appendChild(dummySingleTable());
   pointToChosen();
-  if ($('.hamburger-helper').is(':visible') && $('.hamburger-helper').hasClass('is-active')) {
+  if (isVisible(document.querySelector(".hamburger-helper")) &&
+      document.querySelector(".hamburger-helper").classList.contains("is-active")) {
     hamburgerClick();
   };
 };
@@ -119,9 +228,14 @@ const setUpForNewSingleTable = (e) => {
 const requestNewTableData = (e) => {
   const tableName = e.currentTarget.dataset.tableName;
   const url = tableItemsURL(e);
-  $.ajax({url: url, success: (result) => {
-    showSingleTable(result[0]);
-  }});
+  fetch(url)
+    .then(function(response) {
+      return response.json();
+    })
+    .then(function(jsonResponse) {
+      // single table is first and only element in the response array
+      showSingleTable(jsonResponse[0]);
+    });
 };
 
 const tableItemsURL = (e) => {
@@ -131,20 +245,28 @@ const tableItemsURL = (e) => {
 };
 
 const showSingleTable = (result) => {
-  const $tableBody = $('#table-body');
-  $tableBody.html('<div class=table></div>');
-  $table = $('.table');
+  const tableBody = document.querySelector("#table-body");
+  empty(tableBody);
+
+  const table = document.createElement("div");
+  table.classList.add("table");
+  tableBody.appendChild(table);
+
   // add rows for every table item
-  $.each(result, (index, item) => {
-    const rowDiv = $(`<div class='table-row'></div>`);
-    const numDiv = $("<div class='row-num'></div>");
-    numDiv.text(item.rowNum);
-    const itemDiv = $("<div class='row-item'></div>");
+  result.forEach((item, index) => {
+    const rowDiv = document.createElement("div")
+    rowDiv.classList.add("table-row");
+    const numDiv = document.createElement("div")
+    numDiv.classList.add("row-num");
+    numDiv.textContent = item.rowNum;
+    const itemDiv = document.createElement("div");
+    itemDiv.classList.add("row-item");
     // Our table/json text is coming with "\n" characters, and ShowdownJS / simpleLineBreaks doesn't seem to handle it
-    itemDiv.html(converter.makeHtml(item.tableItem).replaceAll("\\n", "<br/>"));
-    $table.append(rowDiv);
-    rowDiv.append(numDiv);
-    rowDiv.append(itemDiv);
+    itemDiv.innerHTML = converter.makeHtml(item.tableItem).replaceAll("\\n", "<br/>");
+
+    table.appendChild(rowDiv);
+    rowDiv.appendChild(numDiv);
+    rowDiv.appendChild(itemDiv);
   });
 };
 
@@ -155,9 +277,10 @@ const setTableParam = (tableName) => {
 };
 
 const dummySingleTable = () => {
-  const $tableBody = $("<div id='table-body'></div>")
-  $tableBody.html(one_table_row.repeat(20))
-  return $tableBody
+  const tableBody = document.createElement("div");
+  tableBody.id = "table-body";
+  tableBody.innerHTML = one_table_row.repeat(20);
+  return tableBody
 };
 
 const one_table_row = `
@@ -169,17 +292,28 @@ const one_table_row = `
   </div>
 `;
 
+const previousCategoryItem = (elem) => {
+  while (elem = elem.previousElementSibling) {
+    if (!elem) {
+      return;
+    }
+    if (elem.classList.contains("toc-category")) {
+      return elem;
+    }
+  }
+};
+
 const selectTable = () => {
-  selectedTable = tableFromUrl();
-  const clickItem = $('.click-item').find('*').filter(function() {
-    return $(this).text() === selectedTable;
-  });
-  if (clickItem.length) {
-    // clickItem is the span (?), so we need to get a previous sibling of its parent div
-    const category = clickItem.parent().prevAll(".toc-category").first();
+  const selectedTableName = tableFromUrl();
+  const clickItem = document.querySelector(`.click-item[data-table-name="${selectedTableName}"]`)
+  if (clickItem) {
+    // open the category
+    const category = previousCategoryItem(clickItem);
+    if (category) {
+      category.classList.toggle("open");      
+    }
     // click() on category does a slide toggle, so just do a no-animation version here
-    category.toggleClass("open");
-    category.nextUntil(".toc-category").toggle();
+    nextUntil(category, ".toc-category").forEach(elem => toggle(elem));
 
     // click and load the table
     clickItem.click();
@@ -187,59 +321,68 @@ const selectTable = () => {
 };
 
 const tableFromUrl = () => {
-  var queryString = window.location.search;
-  var urlParams = new URLSearchParams(queryString);
-  return urlParams.get('tableName');
+  const queryString = window.location.search;
+  const urlParams = new URLSearchParams(queryString);
+  return urlParams.get("tableName");
 };
 
 const rollTheDice = () => {
-  shakeyShakey($("#tool-dice"));
+  shakeyShakey(document.querySelector("#tool-dice"));
 
   const fadeDelay = 50; // How long each row takes to fade from chosen state.
   const totalTime = 1000; // The time it takes to reach any row.
 
-  $(".table").each(function(index){
+  document.querySelectorAll(".table").forEach((elem, index) => {
     let priorIndex = 0;
-    if ($(this).find(".chosen").length) {
-      priorIndex = $(this).find(".chosen").index();
+    if (elem.querySelectorAll(".chosen").length) {
+      priorIndex = getIndex(elem.querySelector(".chosen"));
     }
-    $(this).find('.chosen').removeClass('chosen');
+    elem.querySelectorAll(".chosen").forEach(elem => elem.classList.remove("chosen"));
 
-    const numRows = $(this).find(".row-item").not(".dummy").length;
+    const rowItems = Array.from(elem.querySelectorAll(".row-item"));
+    rowItems.filter((item) => {
+      !item.classList.contains("dummy");
+    });
+    const numRows = rowItems.length;
     const chosenRow = randomRowIndex(numRows, priorIndex);
 
-    $(this).find(".table-row").each(function(index){
-      var highlightDelay = highlightDelayPerItem({totalTime: totalTime, numRows: numRows, index: index});
+    // use every() instead of forEach(), so we can terminate early
+    const tableRows = Array.from(elem.querySelectorAll(".table-row"));
+    tableRows.every((elem, index) => {
+      const highlightDelay = highlightDelayPerItem({totalTime: totalTime, numRows: numRows, index: index});
       if (index == chosenRow) {
         setTimeout(function(that) {
-          $(that).addClass('chosen');
+          that.classList.add("chosen");
           pointToChosen();
-        }, highlightDelay, this);
-        if (!$('.subtable-wrapper').length) {
-          $('body').scrollTo($(this).position()['top'] - 100, 200, 'swing');
-        };
+        }, highlightDelay, elem);
+        elem.scrollIntoView({ 
+          behavior: "smooth",
+          block: "center",
+          inline: "center" 
+        });
         return false;
       } else {
-        setTimeout(function(that) {$(that).addClass('chosen')}, highlightDelay, this)
-        setTimeout(function(that) {$(that).removeClass('chosen')}, highlightDelay+fadeDelay, this)
+        setTimeout(function(that) {that.classList.add("chosen")}, highlightDelay, elem);
+        setTimeout(function(that) {that.classList.remove("chosen")}, highlightDelay+fadeDelay, elem);
+        return true;
       };
     });
   });
 };
 
 const randomRowIndex = (numRows, priorIndex) => {
-  var newRandomIndex = Math.floor(Math.random() * numRows);
+  let newRandomIndex = Math.floor(Math.random() * numRows);
   while (newRandomIndex == priorIndex) {
     newRandomIndex = Math.floor(Math.random() * numRows);
   }
   return newRandomIndex;
 }
 
-const shakeyShakey = ($el) => {
-  $el.addClass('shaking')
-  setTimeout(function($el) {
-    $($el).removeClass('shaking')
-  }, 300, $el);
+const shakeyShakey = (el) => {
+  el.classList.add("shaking")
+  setTimeout(function(el) {
+    el.classList.remove("shaking");
+  }, 300, el);
 };
 
 const easeOut = (num) => {
@@ -253,27 +396,20 @@ const highlightDelayPerItem = ({totalTime = 200, numRows, index}) => {
 };
 
 const pointToChosen = () => {
-  $('.tool-pointer').hide();
-  var $chosen = $('.chosen');
-
-  if ($chosen.length) {
-    var location = elementRelativeToViewport($chosen);
-
+  document.querySelectorAll(".tool-pointer").forEach(elem => elem.style.display = "none");
+  const chosen = document.querySelectorAll(".chosen");
+  if (chosen.length) {
+    const location = elementRelativeToViewport(chosen[0]);
     if (location == "below") {
-      $("#arrow-down").css("display","inline-block");
+      document.querySelector("#arrow-down").style.display = "inline-block";
     } else if (location == "above") {
-      $("#arrow-up").css("display","inline-block");
+      document.querySelector("#arrow-up").style.display = "inline-block";
     }
   }
 };
 
-const elementRelativeToViewport = (el) => {
-  if (typeof jQuery === "function" && el instanceof jQuery) {
-    el = el[0];
-  }
-
-  var rect = el.getBoundingClientRect();
-
+const elementRelativeToViewport = (elem) => {
+  const rect = elem.getBoundingClientRect();
   if (rect.bottom >= (window.innerHeight || document.documentElement.clientHeight)) {
     return "below"
   } else if (rect.top <= (window.innerHeight || document.documentElement.clientHeight)) {
@@ -282,24 +418,25 @@ const elementRelativeToViewport = (el) => {
 };
 
 const clickRandomTable = () => {
-  const items = $('.click-item');
-  $(items[Math.floor(Math.random() * items.length)]).click()
+  const items = document.querySelectorAll(".click-item");
+  const randIndex = Math.floor(Math.random() * items.length);
+  items[randIndex].click()
 };
 
 const loadLandingContent = () => {
-  if ($('#landing-copy').is(':visible')) {
+  if (isVisible(document.querySelector("#landing-copy"))) {
     return false;
   };
 
   document.title = "TABLEMÖNGER"
-  $('.hamburger-helper').removeClass('is-active');
-  $('#table-content').hide();
-  $("#tool-footer").hide();
-  $('#right-content').show();
-  $('#landing-copy').show();
-  if ($('.hamburger-helper').is(':visible')) {
-    $('#toc').hide();
-    $('#toc-show-icon').css("display","inline-block");
-    $('#toc-hide-icon').hide();
+  document.querySelector(".hamburger-helper").classList.remove("is-active");
+  document.querySelector("#table-content").style.display = "none";
+  document.querySelector("#tool-footer").style.display = "none";
+  document.querySelector("#right-content").style.display = "block";
+  document.querySelector("#landing-copy").style.display = "block";
+  if (isVisible(document.querySelector(".hamburger-helper"))) {
+    document.querySelector("#toc").style.display = "none";
+    document.querySelector("#toc-show-icon").style.display = "inline-block";
+    document.querySelector("#toc-hide-icon").style.display = "none";
   };
 };
